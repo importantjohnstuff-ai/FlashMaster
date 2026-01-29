@@ -1,0 +1,37 @@
+To ensure I always provide the output in that exact JSON format, you should instruct me with the following specific requirements.
+
+You can copy and paste this prompt below:
+
+---
+
+**Prompt:**
+
+"Convert the following questions into a JSON array. Each object in the array must strictly adhere to this schema:
+
+1. **id**: Use a sequential integer starting from 1.
+2. **question**: The full text of the question string.
+3. **options**: An object containing keys "a", "b", "c", and "d" mapped to their respective option text.
+4. **answer**: The single lowercase letter corresponding to the correct option (e.g., "a").
+5. **correct_answer_text**: The full text content of the correct option.
+
+**Example format:**
+
+```json
+[
+  {
+    "id": 1,
+    "question": "Question text here",
+    "options": {
+      "a": "Option A text",
+      "b": "Option B text",
+      "c": "Option C text",
+      "d": "Option D text"
+    },
+    "answer": "a",
+    "correct_answer_text": "Option A text"
+  }
+]
+
+```
+
+Please process the following content: [Insert your content here]"

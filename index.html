@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlashMaster</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Navigation -->
+        <nav class="navbar">
+            <div class="logo">
+                <span class="logo-icon">⚡</span> FlashMaster
+            </div>
+            <div class="nav-links">
+                <button id="nav-dashboard" class="nav-item active">Dashboard</button>
+                <button id="nav-study" class="nav-item">Study</button>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main id="main-content">
+            <!-- Dashboard View -->
+            <section id="view-dashboard" class="view active">
+                <div class="dashboard-header">
+                    <h1>Welcome Back!</h1>
+                    <p>Ready to master your knowledge?</p>
+                </div>
+
+                <div class="dashboard-controls">
+                    <div class="control-group">
+                        <label for="file-select" class="control-label">Select Set:</label>
+                        <select id="file-select" class="file-select">
+                            <option value="" disabled selected>Loading sets...</option>
+                        </select>
+                    </div>
+
+                    <div class="control-group toggle-group">
+                        <label class="switch">
+                            <input type="checkbox" id="mobile-mode-toggle">
+                            <span class="slider round"></span>
+                        </label>
+                        <span class="control-label">Mobile Mode</span>
+                    </div>
+
+                    <div class="control-group toggle-group">
+                        <label class="switch">
+                            <input type="checkbox" id="test-mode-toggle">
+                            <span class="slider round"></span>
+                        </label>
+                        <span class="control-label">Test Mode</span>
+                    </div>
+                </div>
+
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Total Cards</h3>
+                        <p id="total-cards-count">Loading...</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Mastered</h3>
+                        <p>0%</p> <!-- Placeholder for future features -->
+                    </div>
+                </div>
+
+                <div class="action-area">
+                    <button id="btn-start-study" class="btn btn-primary btn-large">Start Studying</button>
+                </div>
+            </section>
+
+            <!-- Study View -->
+            <section id="view-study" class="view hidden">
+                <div class="study-header">
+                    <button id="btn-back" class="btn btn-text">← Back</button>
+
+                    <div class="study-controls">
+                        <div class="control-group toggle-group mini-toggle">
+                            <label class="switch small">
+                                <input type="checkbox" id="shuffle-cards-toggle">
+                                <span class="slider round"></span>
+                            </label>
+                            <span class="control-label">Cards</span>
+                        </div>
+                        <div class="control-group toggle-group mini-toggle">
+                            <label class="switch small">
+                                <input type="checkbox" id="shuffle-choices-toggle">
+                                <span class="slider round"></span>
+                            </label>
+                            <span class="control-label">Choices</span>
+                        </div>
+                    </div>
+
+                    <div class="progress-indicator">
+                        <span id="current-index">1</span> / <span id="total-index">--</span>
+                    </div>
+
+                    <div id="score-container" class="score-container hidden">
+                        Score: <span id="current-score">0</span>
+                    </div>
+                </div>
+
+                <div class="flashcard-container">
+                    <div class="flashcard" id="flashcard">
+                        <div class="flashcard-inner">
+                            <div class="flashcard-front">
+                                <div class="card-content">
+                                    <span class="card-label">Question</span>
+                                    <h2 id="card-question">Loading question...</h2>
+                                    <div id="card-options" class="options-list">
+                                        <!-- Options will be injected here -->
+                                    </div>
+                                </div>
+                                <div class="card-footer">
+                                    <p class="hint">Click to flip for answer</p>
+                                </div>
+                            </div>
+                            <div class="flashcard-back">
+                                <div class="card-content">
+                                    <span class="card-label">Answer</span>
+                                    <div class="answer-display">
+                                        <h2 id="card-answer-text">Answer Text</h2>
+                                        <p class="answer-key">Correct Option: <span id="card-answer-key">A</span></p>
+                                    </div>
+                                </div>
+                                <div class="card-footer">
+                                    <p class="hint">Click to flip back</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="controls">
+                    <button id="btn-prev" class="btn btn-secondary">Previous</button>
+                    <button id="btn-flip" class="btn btn-primary">Flip Card</button>
+                    <button id="btn-next" class="btn btn-secondary">Next</button>
+                </div>
+
+                <div class="edit-controls">
+                    <!-- Edit button removed for static version -->
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Edit Answer Modal removed -->
+    </div>
+    </div>
+
+    <!-- Recycle Question Modal -->
+    <div id="recycle-modal" class="modal hidden">
+        <div class="modal-content">
+            <h3>Incorrect Answer</h3>
+            <p>Do you want to recycle this question to try again later?</p>
+            <div class="modal-actions center-actions">
+                <button id="btn-no-recycle" class="btn btn-secondary">No, Mark Done</button>
+                <button id="btn-yes-recycle" class="btn btn-primary">Yes, Recycle</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Test Mode Options Modal -->
+    <div id="test-mode-options-modal" class="modal hidden">
+        <div class="modal-content">
+            <h3>Select Test Mode Type</h3>
+            <p>Choose how you want to handle incorrect answers:</p>
+            <div class="modal-actions column-actions">
+                <button id="btn-mode-continuous" class="btn btn-primary">Continuous (No Feedback Modal)</button>
+                <button id="btn-mode-recycle" class="btn btn-primary">Recyclable (Recycle Incorrect)</button>
+                <button id="btn-cancel-test-mode" class="btn btn-text">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

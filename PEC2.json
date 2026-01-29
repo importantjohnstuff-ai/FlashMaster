@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "question": "If an individual 30 amp branch circuit feeds a single non-motorized equipment receptacle, then the receptacle amperage must be which of the following:",
+        "options": {
+            "a": "20",
+            "b": "30",
+            "c": "40",
+            "d": "None of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "30"
+    },
+    {
+        "id": 2,
+        "question": "Conductors run in parallel raceways must have equipment grounding conductors which are which of the following:",
+        "options": {
+            "a": "Run in individual raceways",
+            "b": "Supported every 6 inches",
+            "c": "Run in parallel in each raceway",
+            "d": "Protected from excessive temperature"
+        },
+        "answer": "c",
+        "correct_answer_text": "Run in parallel in each raceway"
+    },
+    {
+        "id": 3,
+        "question": "A surge arrester of less than 1000 volts nominal shall have a ground connecting conductor which is no smaller than which of the following sizes:",
+        "options": {
+            "a": "8.0 sq mm",
+            "b": "5.5 sq mm",
+            "c": "3.5 sq mm",
+            "d": "2.0 sq mm"
+        },
+        "answer": "d",
+        "correct_answer_text": "2.0 sq mm"
+    },
+    {
+        "id": 4,
+        "question": "When there is more than one nominal voltage system in the building, ungrounded feeder conductors must be which of the following:",
+        "options": {
+            "a": "Connected through a transfer switch",
+            "b": "Separately identified",
+            "c": "Run in individual conduits",
+            "d": "Identified using the same color"
+        },
+        "answer": "b",
+        "correct_answer_text": "Separately identified"
+    },
+    {
+        "id": 5,
+        "question": "Single-point grounding is allowed at the source of a separately derived system when which of the following conditions exists:",
+        "options": {
+            "a": "A separate equipment grounding conductor is provided at each building and enclosure",
+            "b": "The neutral is insulated and isolated from earth, except at one location",
+            "c": "An equipment grounding conductor is run with the phase conductors",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 6,
+        "question": "The permitted identification of a size 14.0 sq mm or smaller insulated grounded conductor is which of the following:",
+        "options": {
+            "a": "A continuous white outer finish",
+            "b": "Three yellow stripes down the length of a green insulated conductor",
+            "c": "One blue stripe on a gray insulated conductor",
+            "d": "All of the above"
+        },
+        "answer": "a",
+        "correct_answer_text": "A continuous white outer finish"
+    },
+    {
+        "id": 7,
+        "question": "Branch circuits shall not be derived from autotransformers unless which of the following exist:",
+        "options": {
+            "a": "The grounded conductor is protected from access by unauthorized personnel.",
+            "b": "The autotransformer operates at less than 600 volts nominal.",
+            "c": "The circuit supplied has a grounded conductor that is electrically connected to a grounded conductor from the system that supplies the autotransformer.",
+            "d": "All of the above"
+        },
+        "answer": "c",
+        "correct_answer_text": "The circuit supplied has a grounded conductor that is electrically connected to a grounded conductor from the system that supplies the autotransformer."
+    },
+    {
+        "id": 8,
+        "question": "A two-wire AC circuit with two ungrounded conductors is permitted to be tapped from ungrounded conductors of circuits that have which of the following:",
+        "options": {
+            "a": "Two switching devices",
+            "b": "An automatic multi-pole switch",
+            "c": "A grounded neutral conductor",
+            "d": "None of the above"
+        },
+        "answer": "a",
+        "correct_answer_text": "Two switching devices"
+    },
+    {
+        "id": 9,
+        "question": "The minimum size of an equipment grounding conductor used to ground equipment with an automatic over current device rated at 20 amps in the circuit ahead of the piece of equipment is which of the following:",
+        "options": {
+            "a": "2.0 sq mm copper",
+            "b": "3.5 sq mm copper",
+            "c": "5.5 sq mm copper",
+            "d": "8.0 sq mm copper"
+        },
+        "answer": "b",
+        "correct_answer_text": "3.5 sq mm copper"
+    },
+    {
+        "id": 10,
+        "question": "Electrical systems that are grounded must meet which of the following requirements:",
+        "options": {
+            "a": "Be connected to the earth in a way that limits the voltage caused by line surges",
+            "b": "Be connected to the earth in a manner that will stabilize the voltage to the earth during normal operation",
+            "c": "Both of the above",
+            "d": "Either of the above"
+        },
+        "answer": "c",
+        "correct_answer_text": "Both of the above"
+    },
+    {
+        "id": 11,
+        "question": "An electric 9 kW range shall have a minimum branch circuit size of which of the following:",
+        "options": {
+            "a": "15 amps",
+            "b": "20 amps",
+            "c": "30 amps",
+            "d": "40 amps"
+        },
+        "answer": "d",
+        "correct_answer_text": "40 amps"
+    },
+    {
+        "id": 12,
+        "question": "In a separately derived system, the TVSS shall be connected in which of the following manners:",
+        "options": {
+            "a": "To each ungrounded connector",
+            "b": "Outdoors, in an easily accessible location",
+            "c": "To the corner grounded delta",
+            "d": "To the load side of the first overcurrent device"
+        },
+        "answer": "d",
+        "correct_answer_text": "To the load side of the first overcurrent device"
+    },
+    {
+        "id": 13,
+        "question": "A TVSS device shall not be installed under which of the following conditions:",
+        "options": {
+            "a": "On an impedance grounded system",
+            "b": "If the TVSS is less than the maximum continuous phase-to-phase power frequency that exists at the point of application",
+            "c": "On circuits in excess of 600 volts",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 14,
+        "question": "A 125 volt single-phase kitchen counter receptacle must meet which of the following requirements:",
+        "options": {
+            "a": "Have ground-fault interruption protection",
+            "b": "Be a maximum of 20 amps",
+            "c": "Be a minimum of 15 amps",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 15,
+        "question": "A surge arrestor may be installed under which of the following conditions:",
+        "options": {
+            "a": "On an impedance grounded system",
+            "b": "On a service less than 1000 volts with a grounding electrode for the service",
+            "c": "Either of the above",
+            "d": "None of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "On a service less than 1000 volts with a grounding electrode for the service"
+    },
+    {
+        "id": 16,
+        "question": "An impedance grounded neutral system is permitted to be installed if which of the following conditions is met:",
+        "options": {
+            "a": "If installed to serve a line-to-neutral",
+            "b": "If installed outside in an easily accessible location",
+            "c": "Ground detectors are installed on the system",
+            "d": "None of the above"
+        },
+        "answer": "c",
+        "correct_answer_text": "Ground detectors are installed on the system"
+    },
+    {
+        "id": 17,
+        "question": "Multi-wire branch circuits are permitted to supply which of the following:",
+        "options": {
+            "a": "Only line-to-line neutral loads",
+            "b": "Only one piece of utilization equipment",
+            "c": "Both of the above",
+            "d": "None of the above"
+        },
+        "answer": "c",
+        "correct_answer_text": "Both of the above"
+    },
+    {
+        "id": 18,
+        "question": "The minimum size of an equipment grounding conductor used to ground equipment with an automatic overcurrent device rated at 40 amps in the circuit ahead of the piece of equipment is which of the following:",
+        "options": {
+            "a": "8.0 sq mm copper",
+            "b": "8.0 sq mm aluminum",
+            "c": "5.5 sq mm aluminum",
+            "d": "5.5 sq mm copper"
+        },
+        "answer": "d",
+        "correct_answer_text": "5.5 sq mm copper"
+    },
+    {
+        "id": 19,
+        "question": "The size of the sole connection of a grounding electrode conductor connected to a concrete-encased electrode shall not be required to be which of the following:",
+        "options": {
+            "a": "Larger than 2.0 sq mm copper",
+            "b": "Connected to an electrode encased by at least 50 mm of concrete",
+            "c": "Both of the above",
+            "d": "None of the above"
+        },
+        "answer": "a",
+        "correct_answer_text": "Larger than 2.0 sq mm copper"
+    },
+    {
+        "id": 20,
+        "question": "For a 30 amp receptacle connected to a 30 amp branch circuit supplying two or more outlets, the total cord-and-plug load may not exceed which of the following sizes:",
+        "options": {
+            "a": "24 amps",
+            "b": "16 amps",
+            "c": "15 amps",
+            "d": "12 amps"
+        },
+        "answer": "a",
+        "correct_answer_text": "24 amps"
+    },
+    {
+        "id": 21,
+        "question": "An equipment grounding conductor that is run with circuit conductors is permitted to be which of the following:",
+        "options": {
+            "a": "A solid copper busbar",
+            "b": "Any flexible metal conduit",
+            "c": "Any liquid tight conduit",
+            "d": "All of the above"
+        },
+        "answer": "a",
+        "correct_answer_text": "A solid copper busbar"
+    },
+    {
+        "id": 22,
+        "question": "Circuits over 120 volts but not exceeding 277 volts between conductors shall be permitted to supply power to which of the following:",
+        "options": {
+            "a": "The auxiliary equipment of electric-discharge lamps mounted in permanently installed fixtures",
+            "b": "Luminaries equipped with mogul-base screw shell lamp holders",
+            "c": "Screw shell type lamp holders",
+            "d": "None of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "Luminaries equipped with mogul-base screw shell lamp holders"
+    },
+    {
+        "id": 23,
+        "question": "The minimum size copper circuit wire for a 20 amp branch circuit conductor is which of the following:",
+        "options": {
+            "a": "8.0 sq mm copper",
+            "b": "5.5 sq mm copper",
+            "c": "3.5 sq mm copper",
+            "d": "2.0 sq mm copper"
+        },
+        "answer": "d",
+        "correct_answer_text": "2.0 sq mm copper"
+    },
+    {
+        "id": 24,
+        "question": "Restricted-access, adjustable-trip circuit breakers must meet which of the following requirements:",
+        "options": {
+            "a": "Have a removable and sealable cover over the adjusting means",
+            "b": "Be located behind bolted equipment covers",
+            "c": "Be accessible only to a qualified person by means of a locked door",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 25,
+        "question": "The laundry area in a single-family dwelling unit must have which of the following:",
+        "options": {
+            "a": "A minimum of one 20 amp and one 220 amp receptacle",
+            "b": "At least one receptacle",
+            "c": "At least one receptacle installed within 3 feet of the washing machine location",
+            "d": "A minimum of two GFCI receptacles"
+        },
+        "answer": "b",
+        "correct_answer_text": "At least one receptacle"
+    },
+    {
+        "id": 26,
+        "question": "If a feeder conductor carries the total load supplied by the service conductors with an ampacity of 50 amps, then which of the following standards must be met:",
+        "options": {
+            "a": "The feeder ampacity must be greater than the service conductor ampacity",
+            "b": "The feeder ampacity must be less than the service conductor ampacity",
+            "c": "The feeder ampacity must be 30 amps",
+            "d": "None of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "None of the above"
+    },
+    {
+        "id": 27,
+        "question": "Where more than one building exists on the same property under single management, additional feeders or branch circuits are permitted to supply which of the following:",
+        "options": {
+            "a": "Optional standby systems",
+            "b": "Fire pumps",
+            "c": "Parallel power production systems",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 28,
+        "question": "The use of 5-wire feeders is which of the following:",
+        "options": {
+            "a": "Prohibited",
+            "b": "Restricted to installations over 600 volts nominal",
+            "c": "Requires that the overcurrent device protection be 100% of the continuous load",
+            "d": "Permitted to use a common neutral"
+        },
+        "answer": "d",
+        "correct_answer_text": "Permitted to use a common neutral"
+    },
+    {
+        "id": 29,
+        "question": "DC power systems located on the premises must include which of the following:",
+        "options": {
+            "a": "A grounding connection at the power source",
+            "b": "A grounding electrode conductor which is at least #10 AWG",
+            "c": "A grounding ring",
+            "d": "All of the above"
+        },
+        "answer": "a",
+        "correct_answer_text": "A grounding connection at the power source"
+    },
+    {
+        "id": 30,
+        "question": "The non current-carrying metal parts of equipment shall be considered effectively grounded by use of which of the following methods:",
+        "options": {
+            "a": "If it is secured to the structural metal frame of a building",
+            "b": "By use of a separate grounded circuit conductor, running in a separate raceway",
+            "c": "Either of the above",
+            "d": "None of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "None of the above"
+    },
+    {
+        "id": 31,
+        "question": "An electrode that is permitted as a grounding means is which of the following:",
+        "options": {
+            "a": "A metal underground water pipe",
+            "b": "A plate electrode",
+            "c": "A grounding ring",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 32,
+        "question": "The grounded conductor for a single-phase 3-wire AC premises wiring system shall be which of the following:",
+        "options": {
+            "a": "A grounding electrode",
+            "b": "The neutral conductor",
+            "c": "The common conductor",
+            "d": "Either A or B"
+        },
+        "answer": "b",
+        "correct_answer_text": "The neutral conductor"
+    },
+    {
+        "id": 33,
+        "question": "The circuit breakers used for overcurrent protection of 3-phase circuits must have a minimum of three overcurrent relay elements that meet which of the following requirements:",
+        "options": {
+            "a": "Are operated from three current transformers",
+            "b": "Have a neutral which is regrounded on the load side of the circuit",
+            "c": "Have a series rating of 125% of the total circuit load",
+            "d": "None of the above"
+        },
+        "answer": "a",
+        "correct_answer_text": "Are operated from three current transformers"
+    },
+    {
+        "id": 34,
+        "question": "A fuse must be connected in a manner that meets which of the following requirements:",
+        "options": {
+            "a": "On an overcurrent relay element",
+            "b": "In series with each ungrounded conductor",
+            "c": "On the secondary side of a transformer",
+            "d": "Either B or C"
+        },
+        "answer": "a",
+        "correct_answer_text": "On an overcurrent relay element"
+    },
+    {
+        "id": 35,
+        "question": "Each set of conductors that feeds separate loads of a transformer secondary shall be connected in which of the following methods:",
+        "options": {
+            "a": "With an overcurrent device on the multioutlet line of the branch circuit",
+            "b": "In series",
+            "c": "Without overcurrent protection at the secondary",
+            "d": "None of the above"
+        },
+        "answer": "c",
+        "correct_answer_text": "Without overcurrent protection at the secondary"
+    },
+    {
+        "id": 36,
+        "question": "A single-point grounded neutral system may include which of the following:",
+        "options": {
+            "a": "A grounding electrode",
+            "b": "A bonding jumper that connects the equipment grounding conductor to a grounding electrode conductor",
+            "c": "A grounding electrode conductor that connects the grounding electrode to the system neutral",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 37,
+        "question": "Service equipment electrical continuity shall be ensured by which of the following:",
+        "options": {
+            "a": "Bonding equipment to the neutral conductor",
+            "b": "Use of bonding type bushings",
+            "c": "Both of the above",
+            "d": "Either of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "Use of bonding type bushings"
+    },
+    {
+        "id": 38,
+        "question": "If the use of multiple grounding connections results in objectionable current, which of the following alterations is permitted:",
+        "options": {
+            "a": "Change the location of the grounding connections",
+            "b": "Discontinue one or more, but not all, of the grounding connections",
+            "c": "Either of the above",
+            "d": "Both of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "Both of the above"
+    },
+    {
+        "id": 39,
+        "question": "A feeder overcurrent device that is not readily available shall be installed in which of the following manners:",
+        "options": {
+            "a": "Branch circuit overcurrent devices must be installed on the load side",
+            "b": "Branch circuit overcurrent devices shall have a lower ampacity rating than the feeder overcurrent device",
+            "c": "Branch circuit overcurrent devices must be installed in a readily accessible location",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 40,
+        "question": "Open conductors that are not service entrance cables shall not be installed less than which of the following:",
+        "options": {
+            "a": "3,100 mm from grade level",
+            "b": "2,900 mm below grade level",
+            "c": "2,500 mm below grade level",
+            "d": "1,300 mm from grade level"
+        },
+        "answer": "a",
+        "correct_answer_text": "3,100 mm from grade level"
+    },
+    {
+        "id": 41,
+        "question": "Ground-loop currents flow if the neutral-to-ground connections are made in which of the following ways:",
+        "options": {
+            "a": "On the feed side of separately derived systems",
+            "b": "On the load side of service equipment or separately derived systems",
+            "c": "In front of the overcurrent protection device",
+            "d": "All of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "On the load side of service equipment or separately derived systems"
+    },
+    {
+        "id": 42,
+        "question": "The metal disconnecting means at a remote building, supplied by a feeder with an equipment grounding conductor, is required to be which of the following:",
+        "options": {
+            "a": "Connected on the service load side of the feeder",
+            "b": "Buried not less than 3 feet under the ground",
+            "c": "Grounded to a grounding electrode",
+            "d": "None of the above"
+        },
+        "answer": "c",
+        "correct_answer_text": "Grounded to a grounding electrode"
+    },
+    {
+        "id": 43,
+        "question": "Circuit conductors that supply power conversion equipment included as part of an adjustable-speed drive system must have an ampacity of which of the following:",
+        "options": {
+            "a": "At least 125 percent of the motor's full-load current",
+            "b": "Not less than 125 percent of the rated input to the power conversion equipment",
+            "c": "Not less than 50 percent of the maximum ampacity listed on the equipment nameplate",
+            "d": "All of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "Not less than 125 percent of the rated input to the power conversion equipment"
+    },
+    {
+        "id": 44,
+        "question": "The disconnection means for a 400 volt motor circuit must have an ampere rating of which of the following:",
+        "options": {
+            "a": "At least 125 percent of the motor's full-load current",
+            "b": "Not less than 115 percent of the full-load current rating of the motor",
+            "c": "120 amps",
+            "d": "Equal to or greater than that the ampacity listed on the motor equipment"
+        },
+        "answer": "b",
+        "correct_answer_text": "Not less than 115 percent of the full-load current rating of the motor"
+    },
+    {
+        "id": 45,
+        "question": "A 15 amp receptacle that is installed in a wet location must meet which of the following installation requirements:",
+        "options": {
+            "a": "Be protected from rain or water runoff",
+            "b": "Have an attachment plug cap inserted",
+            "c": "Have an enclosure that is weatherproof",
+            "d": "All of the above"
+        },
+        "answer": "c",
+        "correct_answer_text": "Have an enclosure that is weatherproof"
+    },
+    {
+        "id": 46,
+        "question": "Receptacles are considered grounded by which of the following methods:",
+        "options": {
+            "a": "When the grounding contacts are connected to the equipment grounding conductor of the circuit that supplies the receptacle",
+            "b": "If the receptacle ground wire is terminated under a metal screw",
+            "c": "When wired to a cord connector",
+            "d": "When the grounding contacts have been effectively grounded"
+        },
+        "answer": "a",
+        "correct_answer_text": "When the grounding contacts are connected to the equipment grounding conductor of the circuit that supplies the receptacle"
+    },
+    {
+        "id": 47,
+        "question": "Installations for the electrical heating of a pipeline must:",
+        "options": {
+            "a": "Be protected from physical damage",
+            "b": "Include caution signs posted at frequent intervals along the pipeline",
+            "c": "Be identified as being suitable for the chemical, thermal and physical environment of the installation",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 48,
+        "question": "An industrial control panel supply conductor shall have an ampacity of which of the following:",
+        "options": {
+            "a": "No less than 125% of the full-load current rating of all resistance heating loads and no more than 125% of all combined continuous loads",
+            "b": "No less than 125% of the full-load current rating of all resistance heating loads plus 125% of the full-load current rating of all other connected motors based on their duty cycle if they are all in operation at the same time",
+            "c": "No less than 125% of the full-load of two or more components of a systematic assembly",
+            "d": "Not to exceed the ampacity listed for all resistance heating equipment and connected motor nameplates"
+        },
+        "answer": "b",
+        "correct_answer_text": "No less than 125% of the full-load current rating of all resistance heating loads plus 125% of the full-load current rating of all other connected motors based on their duty cycle if they are all in operation at the same time"
+    },
+    {
+        "id": 49,
+        "question": "In order to guard exposed live motor parts and controllers operating at 50 volts or higher from accidental contact, which of the following methods must be used:",
+        "options": {
+            "a": "Equipment is installed in a room that is only accessible by a qualified person",
+            "b": "Equipment is installed on a balcony that is elevated enough to prohibit access by unqualified people",
+            "c": "Equipment is installed or mounted at least 8 feet above floor level",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 50,
+        "question": "When a transformer is used to create a three-phase, four-wire distribution system from a three phase, three-wire ungrounded system, the transformer must meet which of the following installation requirements:",
+        "options": {
+            "a": "The transformer must not be switched",
+            "b": "The transformer must be directly connected to the ungrounded phase conductors",
+            "c": "The transformer shall not be provided with overcurrent protection that is independent from the main switch and common-trip overcurrent protection for a three-phase, four-wire system",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 51,
+        "question": "A factor that would affect conductor ampacity is which of the following:",
+        "options": {
+            "a": "The conductor length",
+            "b": "Voltage",
+            "c": "Temperature",
+            "d": "Motor size"
+        },
+        "answer": "c",
+        "correct_answer_text": "Temperature"
+    },
+    {
+        "id": 52,
+        "question": "A protective device used for limiting surge voltages by discharging surge current and that prevents continued flow of follow current while still remaining capable of repeating these functions is considered which of the following:",
+        "options": {
+            "a": "Circuit breaker",
+            "b": "Fuse",
+            "c": "Disconnect switch",
+            "d": "Surge arrestor"
+        },
+        "answer": "d",
+        "correct_answer_text": "Surge arrestor"
+    },
+    {
+        "id": 53,
+        "question": "Alternating current may be increased or reduced by using which of the following:",
+        "options": {
+            "a": "By-pass switch",
+            "b": "A transformer",
+            "c": "Grounding conductor",
+            "d": "None of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "A transformer"
+    },
+    {
+        "id": 54,
+        "question": "Which of the following conductors has one or more layers of non-conducting materials that are not considered insulation:",
+        "options": {
+            "a": "Covered",
+            "b": "Wrapped",
+            "c": "Rubber-coated",
+            "d": "All of the above"
+        },
+        "answer": "a",
+        "correct_answer_text": "Covered"
+    },
+    {
+        "id": 55,
+        "question": "Conductor sizes are listed as which of the following:",
+        "options": {
+            "a": "stranded conductor are expressed in area in sq mm while solid conductor are expressed in Diameter in mm",
+            "b": "Area",
+            "c": "AWG or circular mils",
+            "d": "AWG or millimeters"
+        },
+        "answer": "a",
+        "correct_answer_text": "stranded conductor are expressed in area in sq mm while solid conductor are expressed in Diameter in mm"
+    },
+    {
+        "id": 56,
+        "question": "The primary purpose for using thermal overload relays for polyphase induction motors is to protect against which of the following:",
+        "options": {
+            "a": "Fire",
+            "b": "Short circuits between phases",
+            "c": "Low voltage",
+            "d": "Sustained overload"
+        },
+        "answer": "d",
+        "correct_answer_text": "Sustained overload"
+    },
+    {
+        "id": 57,
+        "question": "A multi-wire branch circuit protected by fuses may supply which of the following:",
+        "options": {
+            "a": "Only one load",
+            "b": "Only line-to-neutral loads",
+            "c": "Both of the above",
+            "d": "Neither of the above."
+        },
+        "answer": "c",
+        "correct_answer_text": "Only line-to-neutral loads"
+    },
+    {
+        "id": 58,
+        "question": "Excluding those in the mains, the maximum number of overcurrent devices permitted in a single lighting and appliance panelboard is which of the following:",
+        "options": {
+            "a": "12",
+            "b": "24",
+            "c": "36",
+            "d": "42"
+        },
+        "answer": "d",
+        "correct_answer_text": "42"
+    },
+    {
+        "id": 59,
+        "question": "Rigid nonmetallic conduit shall be permitted to have a total number of quarter bends in one run that does not exceed which of the following:",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "1"
+        },
+        "answer": "c",
+        "correct_answer_text": "4"
+    },
+    {
+        "id": 60,
+        "question": "Which of the following shall be used to connect the grounding terminal of a grounding receptacle to a grounded box:",
+        "options": {
+            "a": "A Junction box",
+            "b": "A main bonding jumper",
+            "c": "A neutral conductor",
+            "d": "An equipment bonding jumper"
+        },
+        "answer": "d",
+        "correct_answer_text": "An equipment bonding jumper"
+    },
+    {
+        "id": 61,
+        "question": "The residual voltage of a capacitor must be reduced to which of the following voltage levels within one minute after the capacitor is disconnected from the power source:",
+        "options": {
+            "a": "50 volts or less",
+            "b": "60 volts or less",
+            "c": "120 volts or less",
+            "d": "Zero volts"
+        },
+        "answer": "a",
+        "correct_answer_text": "50 volts or less"
+    },
+    {
+        "id": 62,
+        "question": "If an installation has two 2-wire branch circuits then the service disconnecting means must be rated at not less than which of the following:",
+        "options": {
+            "a": "15 amps",
+            "b": "30 amps",
+            "c": "50 volts",
+            "d": "110 volts"
+        },
+        "answer": "b",
+        "correct_answer_text": "30 amps"
+    },
+    {
+        "id": 63,
+        "question": "The ampacity of a conductor must be derated where the ambient temperature exceeds which of the following:",
+        "options": {
+            "a": "30 degrees C",
+            "b": "32 degrees C",
+            "c": "26 degrees C",
+            "d": "20 degrees C"
+        },
+        "answer": "a",
+        "correct_answer_text": "30 degrees C"
+    },
+    {
+        "id": 64,
+        "question": "The type of switch required in each location to independently control a light fixture from two different locations is which of the following:",
+        "options": {
+            "a": "Single pole, double throw",
+            "b": "Double pole, single throw",
+            "c": "Double pole, double throw",
+            "d": "Three-way single throw"
+        },
+        "answer": "d",
+        "correct_answer_text": "Three-way single throw"
+    },
+    {
+        "id": 65,
+        "question": "Which of the following means is not used to fasten equipment to concrete:",
+        "options": {
+            "a": "Lead shield",
+            "b": "Steel bushing",
+            "c": "Expansion bolts",
+            "d": "All of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "Steel bushing"
+    },
+    {
+        "id": 66,
+        "question": "A lamp that is 1000 watt, 120-volt will use the same amount of energy as a 14.4 ohm resistor at which of the following:",
+        "options": {
+            "a": "1200 watts",
+            "b": "240 volts",
+            "c": "144 volts",
+            "d": "120 volts"
+        },
+        "answer": "d",
+        "correct_answer_text": "120 volts"
+    },
+    {
+        "id": 67,
+        "question": "In electrical construction, mica is most commonly used for which of the following:",
+        "options": {
+            "a": "In switchboard panels",
+            "b": "Communicator bus separators",
+            "c": "Conductor insulators",
+            "d": "None of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "Communicator bus separators"
+    },
+    {
+        "id": 68,
+        "question": "If an enclosure is supported by a suspended ceiling system, then it shall be fastened to the framing by which of the following methods:",
+        "options": {
+            "a": "Screws",
+            "b": "Rivets",
+            "c": "Bolts",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 69,
+        "question": "Which of the following shall not be used in wet or damp locations:",
+        "options": {
+            "a": "Open wiring",
+            "b": "AC armored cable",
+            "c": "Both of the above",
+            "d": "None of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "AC armored cable"
+    },
+    {
+        "id": 70,
+        "question": "Removing which of the following from conduit threads will ensure electrical continuity between conductors:",
+        "options": {
+            "a": "Enamel",
+            "b": "Copper ends",
+            "c": "Rubber coating",
+            "d": "All of the above"
+        },
+        "answer": "a",
+        "correct_answer_text": "Enamel"
+    },
+    {
+        "id": 71,
+        "question": "A panel may have from 2 to 6 disconnecting means, but which of the disconnect means listed below is permitted to be remote from the others:",
+        "options": {
+            "a": "Elevator",
+            "b": "Hoist",
+            "c": "Water pump for fire protection",
+            "d": "Nurse Call system"
+        },
+        "answer": "c",
+        "correct_answer_text": "Water pump for fire protection"
+    },
+    {
+        "id": 72,
+        "question": "A freestanding office partition is permitted a maximum of how many 15 amp receptacles:",
+        "options": {
+            "a": "15",
+            "b": "13",
+            "c": "12",
+            "d": "10"
+        },
+        "answer": "b",
+        "correct_answer_text": "13"
+    },
+    {
+        "id": 73,
+        "question": "If a transformer vault is not protected by an automatic sprinkler system, then it must have a minimum fire resistance and structural strength of which of the following periods of time:",
+        "options": {
+            "a": "2 hours",
+            "b": "3 hours",
+            "c": "4 hours",
+            "d": "6 hours"
+        },
+        "answer": "b",
+        "correct_answer_text": "3 hours"
+    },
+    {
+        "id": 74,
+        "question": "Switches, panelboards, wireways and transformers are allowed to be mounted above or below one another if which of the following conditions exists:",
+        "options": {
+            "a": "They don't extend more than 10 mm beyond the front of the equipment.",
+            "b": "No piece of equipment is rated over 300 volts.",
+            "c": "They are flush along the front edge.",
+            "d": "None of the above"
+        },
+        "answer": "a",
+        "correct_answer_text": "They don't extend more than 10 mm beyond the front of the equipment."
+    },
+    {
+        "id": 75,
+        "question": "Aluminum enclosures and fittings are allowed to be used with which of the following:",
+        "options": {
+            "a": "PVC conduit",
+            "b": "Electrical nonmetallic tubing",
+            "c": "Ferrous conduits",
+            "d": "Steel electrical metal tubing"
+        },
+        "answer": "d",
+        "correct_answer_text": "Steel electrical metal tubing"
+    },
+    {
+        "id": 76,
+        "question": "Any 125 volt single-phase receptacles must be protected by ground fault circuit interrupters if they are within which of the following distances from the inside wall of a hot tub:",
+        "options": {
+            "a": "15",
+            "b": "13",
+            "c": "12",
+            "d": "None of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "None of the above"
+    },
+    {
+        "id": 77,
+        "question": "The neutral conductor in an electrical installation has which of the following qualities:",
+        "options": {
+            "a": "It carries the unbalanced current.",
+            "b": "It is the white conductor.",
+            "c": "It does not apply ampacity correction.",
+            "d": "All of the above"
+        },
+        "answer": "a",
+        "correct_answer_text": "It carries the unbalanced current."
+    },
+    {
+        "id": 78,
+        "question": "Receptacles must be of the grounding type if they are installed on which of the following:",
+        "options": {
+            "a": "40 amp circuit",
+            "b": "30 amp branch circuit",
+            "c": "15 and 20 amp branch circuits",
+            "d": "None of the above"
+        },
+        "answer": "c",
+        "correct_answer_text": "15 and 20 amp branch circuits"
+    },
+    {
+        "id": 79,
+        "question": "In a corroded electrical connection, high spot temperature is caused by which of the following:",
+        "options": {
+            "a": "Increase in the voltage drop across the connection",
+            "b": "Absence of surge protection",
+            "c": "Decrease in the resistance of the connection",
+            "d": "Ampacity that is too high for the connection"
+        },
+        "answer": "a",
+        "correct_answer_text": "Increase in the voltage drop across the connection"
+    },
+    {
+        "id": 80,
+        "question": "A switch is used for which of the following purposes:",
+        "options": {
+            "a": "Making a connection",
+            "b": "Breaking a connection",
+            "c": "Changing a connection",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 81,
+        "question": "Which of the following has the highest electrical resistance:",
+        "options": {
+            "a": "Water",
+            "b": "Paper",
+            "c": "Iron",
+            "d": "Brass"
+        },
+        "answer": "b",
+        "correct_answer_text": "Paper"
+    },
+    {
+        "id": 82,
+        "question": "Which of the following is the term for the ability of a material to allow the flow of electrons:",
+        "options": {
+            "a": "Ampacity",
+            "b": "Resistance",
+            "c": "Current",
+            "d": "Conductance"
+        },
+        "answer": "d",
+        "correct_answer_text": "Conductance"
+    },
+    {
+        "id": 83,
+        "question": "Although silver, gold, and copper are all excellent conductors of electricity, copper is the most commonly used for which of the following reasons:",
+        "options": {
+            "a": "Strength",
+            "b": "Higher melting point",
+            "c": "Its ability to bond with a wider variety of materials",
+            "d": "Lower cost"
+        },
+        "answer": "d",
+        "correct_answer_text": "Lower cost"
+    },
+    {
+        "id": 84,
+        "question": "The term \"open circuit\" describes which of the following conditions:",
+        "options": {
+            "a": "The circuit is carrying voltage.",
+            "b": "All parts of the circuit are not in contact.",
+            "c": "There is no disconnecting means applied.",
+            "d": "The circuit is experiencing voltage variations or drops."
+        },
+        "answer": "b",
+        "correct_answer_text": "All parts of the circuit are not in contact."
+    },
+    {
+        "id": 85,
+        "question": "A machinery limit switch is used for which of the following purposes:",
+        "options": {
+            "a": "To close the circuit when the current exceeds a preset limit",
+            "b": "To open the circuit when temperature reaches a preset limit",
+            "c": "To open the circuit when travel reaches a preset limit",
+            "d": "To limit voltage drops"
+        },
+        "answer": "c",
+        "correct_answer_text": "To open the circuit when travel reaches a preset limit"
+    },
+    {
+        "id": 86,
+        "question": "Conduit installations should not have which of the following:",
+        "options": {
+            "a": "Conduits that run uphill",
+            "b": "Low points between successive outlets",
+            "c": "A high point at an outlet",
+            "d": "All of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "Low points between successive outlets"
+    },
+    {
+        "id": 87,
+        "question": "A fuse under normal load would most likely become hot because of which of the following conditions:",
+        "options": {
+            "a": "The rating of the fuse is too low for the application.",
+            "b": "Insufficient pressure at the fuse clips",
+            "c": "A surge in power has occurred.",
+            "d": "A lightning strike"
+        },
+        "answer": "b",
+        "correct_answer_text": "Insufficient pressure at the fuse clips"
+    },
+    {
+        "id": 88,
+        "question": "One receptacle on a single branch circuit must have which of the following ratings:",
+        "options": {
+            "a": "15 amps",
+            "b": "100 percent of the branch circuit rating",
+            "c": "110 volts",
+            "d": "None of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "100 percent of the branch circuit rating"
+    },
+    {
+        "id": 89,
+        "question": "A service disconnect means shall be installed in which of the following locations:",
+        "options": {
+            "a": "At the nearest point of entrance to a structure",
+            "b": "Within 3 feet of the electrical panel",
+            "c": "Inside or outside of a building",
+            "d": "All of the above"
+        },
+        "answer": "c",
+        "correct_answer_text": "Inside or outside of a building"
+    },
+    {
+        "id": 90,
+        "question": "Wooden plugs shall not be used to mount electrical equipment to which of the following types of material:",
+        "options": {
+            "a": "Masonry",
+            "b": "Plaster",
+            "c": "Concrete",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "correct_answer_text": "All of the above"
+    },
+    {
+        "id": 91,
+        "question": "All wiring must be installed so that when complete the installation:",
+        "options": {
+            "a": "Is as efficient as possible",
+            "b": "Is free of shorts and unintentional grounds",
+            "c": "Allows for future expansion of the electrical system or components",
+            "d": "All of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "Is free of shorts and unintentional grounds"
+    },
+    {
+        "id": 92,
+        "question": "A conductor must be sized in accordance with which of the following requirements:",
+        "options": {
+            "a": "No less than 100 percent of the noncontinuous load",
+            "b": "No less than 100 percent of the noncontinuous load, plus 125 percent of the continuous load",
+            "c": "No greater than 125 percent of the continuous load",
+            "d": "No less than 125 percent of the continuous load"
+        },
+        "answer": "b",
+        "correct_answer_text": "No less than 100 percent of the noncontinuous load, plus 125 percent of the continuous load"
+    },
+    {
+        "id": 93,
+        "question": "A device that establishes an electrical connection to the earth is which of the following:",
+        "options": {
+            "a": "A lightning rod",
+            "b": "A bonding jumper",
+            "c": "Grounded conductor",
+            "d": "Grounding electrode"
+        },
+        "answer": "d",
+        "correct_answer_text": "Grounding electrode"
+    },
+    {
+        "id": 94,
+        "question": "A premises wiring system with power derived from a source of electric energy or equipment other than a service is considered to be which of the following:",
+        "options": {
+            "a": "Low-voltage system",
+            "b": "Solar or photovoltaic system",
+            "c": "A separately derived system",
+            "d": "Closed-loop system"
+        },
+        "answer": "c",
+        "correct_answer_text": "A separately derived system"
+    },
+    {
+        "id": 95,
+        "question": "Which of the following colors of insulation or markings are not allowed to Identify hot phase conductors:",
+        "options": {
+            "a": "Black and red for 120\/208 volt systems",
+            "b": "Yellow or orange for 277\/480 volt systems",
+            "c": "White or gray",
+            "d": "All of the above"
+        },
+        "answer": "c",
+        "correct_answer_text": "White or gray"
+    },
+    {
+        "id": 96,
+        "question": "In a high-leg delta arrangement on a switchboard with bus bars, phase B would have which of the following:",
+        "options": {
+            "a": "The highest voltage to ground",
+            "b": "The lowest voltage to ground",
+            "c": "The highest ampacity",
+            "d": "The lowest ampacity"
+        },
+        "answer": "a",
+        "correct_answer_text": "The highest voltage to ground"
+    },
+    {
+        "id": 97,
+        "question": "A 200 amp service entrance equipment located indoors at a single-family dwelling must meet which of the following requirements:",
+        "options": {
+            "a": "Have 24 branch circuits",
+            "b": "Use bolt-in fuses or circuit breakers",
+            "c": "Be illuminated",
+            "d": "None of the above"
+        },
+        "answer": "c",
+        "correct_answer_text": "Be illuminated"
+    },
+    {
+        "id": 98,
+        "question": "The demand factor for three commercial kitchen loads is which of the following:",
+        "options": {
+            "a": "90 percent",
+            "b": "110 percent of the maximum ampacity",
+            "c": "Based on the ambient temperature",
+            "d": "None of the above"
+        },
+        "answer": "a",
+        "correct_answer_text": "90 percent"
+    },
+    {
+        "id": 99,
+        "question": "The total resistance in resistors connected in series is which of the following:",
+        "options": {
+            "a": "Equal to the largest resistor in the series",
+            "b": "Equal to the sum of all of the individual resistance values",
+            "c": "The sum of all of the resistance values divided by the number of resistors in the series",
+            "d": "None of the above"
+        },
+        "answer": "b",
+        "correct_answer_text": "Equal to the sum of all of the individual resistance values"
+    },
+    {
+        "id": 100,
+        "question": "A fixture with a combustible material shade shall not be installed in locations where temperatures exceed which of the following:",
+        "options": {
+            "a": "30 degrees C",
+            "b": "90 degrees C",
+            "c": "10 degrees C",
+            "d": "25 degrees C"
+        },
+        "answer": "b",
+        "correct_answer_text": "90 degrees C"
+    }
+]
