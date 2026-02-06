@@ -48,6 +48,9 @@ document.addEventListener('DOMContentLoaded', () => {
         isRandom: false,
         isChoiceRandom: false,
         currentFilename: 'PEC3.json', // Track filename for updates
+        selectedAnswerForEdit: null,
+
+        // Test Mode State
         isTestMode: false,
         testModeType: 'recycle', // 'recycle' (default) or 'continuous'
         score: 0,
@@ -65,6 +68,8 @@ document.addEventListener('DOMContentLoaded', () => {
         btnStartStudy: document.getElementById('btn-start-study'),
         btnBack: document.getElementById('btn-back'),
         fileSelect: document.getElementById('file-select'),
+        fileListContainer: document.getElementById('file-list-container'), // New
+        maxQuestionsInput: document.getElementById('max-questions'), // New
         shuffleToggle: document.getElementById('shuffle-cards-toggle'),
         shuffleChoicesToggle: document.getElementById('shuffle-choices-toggle'),
         mobileToggle: document.getElementById('mobile-mode-toggle'),
@@ -86,11 +91,13 @@ document.addEventListener('DOMContentLoaded', () => {
         btnPrev: document.getElementById('btn-prev'),
         btnNext: document.getElementById('btn-next'),
         btnFlip: document.getElementById('btn-flip'),
-        btnFlip: document.getElementById('btn-flip'),
-        // Edit button removed for static version
+        btnEditAnswer: document.getElementById('btn-edit-answer'), // New
 
         // Modal Elements
-        // Edit modal removed for static version
+        editModal: document.getElementById('edit-modal'),
+        editOptionsList: document.getElementById('edit-options-list'),
+        btnCancelEdit: document.getElementById('btn-cancel-edit'),
+        btnSaveEdit: document.getElementById('btn-save-edit'),
 
         // Recycle Modal
         recycleModal: document.getElementById('recycle-modal'),
@@ -118,23 +125,89 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function loadFileList() {
-        // Static file list for GitHub Pages
-        const files = ['PEC2.json', 'PEC3.json'];
+        try {
+            // Static File List for GitHub Pages compatibility
+            // Since we can't scan directories with JS in browser, we hardcode the known files.
+            const fileNames = ['PEC1.json', 'PEC2.json', 'PEC3.json', 'PEC4.json'];
 
-        // Clear loading option
-        els.fileSelect.innerHTML = '';
+            els.fileListContainer.innerHTML = '';
 
-        files.forEach(file => {
-            const option = document.createElement('option');
-            option.value = file;
-            option.text = file;
-            els.fileSelect.add(option);
-        });
+            // We'll fetch each file to get its correct count dynamically
+            const fileDataPromises = fileNames.map(async (name) => {
+                try {
+                    const res = await fetch(name);
+                    if (!res.ok) return { name, count: '?' };
+                    const json = await res.json();
+                    return { name, count: json.length };
+                } catch (e) {
+                    console.error(`Error loading info for ${name}`, e);
+                    return { name, count: 'Err' };
+                }
+            });
 
-        // Auto-load the first file
-        if (files.length > 0) {
-            loadData(files[0]);
+            const files = await Promise.all(fileDataPromises);
+
+            if (files.length === 0) {
+                els.fileListContainer.innerHTML = '<div class="loading-text">No JSON files found</div>';
+                return;
+            }
+
+            files.forEach(fileData => {
+                const fileName = fileData.name;
+                const fileCount = fileData.count;
+
+                const label = document.createElement('label');
+                label.className = 'file-checkbox-item';
+
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.value = fileName;
+                checkbox.dataset.count = fileCount; // Store count
+                checkbox.checked = false; // Default select none
+
+                const span = document.createElement('span');
+                span.textContent = `${fileName} (${fileCount} cards)`;
+
+                label.appendChild(checkbox);
+                label.appendChild(span);
+                els.fileListContainer.appendChild(label);
+            });
+
+            updateStartButtonState(); // Set initial button state
+            updateDashboardGenericStats(); // Update stats based on selection
+
+        } catch (error) {
+            console.error('Static list load failed:', error);
+            showUserError('Failed to load file list.');
         }
+    }
+
+    // Update Dashboard Stats (Total Cards) based on selection
+    function updateDashboardGenericStats() {
+        const checkedBoxes = els.fileListContainer.querySelectorAll('input[type="checkbox"]:checked');
+        let totalCount = 0;
+        checkedBoxes.forEach(cb => {
+            totalCount += parseInt(cb.dataset.count) || 0;
+        });
+        els.totalCardsCount.textContent = totalCount;
+    }
+
+    function updateStartButtonState() {
+        const checkedCount = els.fileListContainer.querySelectorAll('input[type="checkbox"]:checked').length;
+        if (checkedCount === 0) {
+            els.btnStartStudy.disabled = true;
+            els.btnStartStudy.style.opacity = '0.5';
+            els.btnStartStudy.style.cursor = 'not-allowed';
+            els.btnStartStudy.title = "Please select at least one set to start";
+        } else {
+            els.btnStartStudy.disabled = false;
+            els.btnStartStudy.style.opacity = '1';
+            els.btnStartStudy.style.cursor = 'pointer';
+            els.btnStartStudy.title = "";
+        }
+
+        // Also update stats whenever button state might change (i.e. selection changed)
+        updateDashboardGenericStats();
     }
 
     async function loadData(filename) {
@@ -168,6 +241,57 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    async function loadMultipleFiles(filenames, maxCount) {
+        try {
+            els.btnStartStudy.textContent = 'Loading...';
+            els.btnStartStudy.disabled = true;
+
+            const promises = filenames.map(async (filename) => {
+                const response = await fetch(filename);
+                if (!response.ok) throw new Error(`Failed to load ${filename}`);
+                const data = await response.json();
+                // Tag each card with source
+                return data.map(card => ({ ...card, _sourceFile: filename }));
+            });
+
+            const results = await Promise.all(promises);
+            let combinedCards = results.flat();
+
+            // Do NOT shuffle combined pool by default (User Request)
+            // combinedCards = shuffleArray(combinedCards);
+
+            // Limit if maxCount is specified
+            if (maxCount && maxCount > 0 && maxCount < combinedCards.length) {
+                combinedCards = combinedCards.slice(0, maxCount);
+            }
+
+            state.originalCards = combinedCards; // Store this specific session set
+            state.currentFilename = filenames[0]; // Fallback for single file edits (though we use _sourceFile now)
+
+            // Apply Random Toggle (if it was already checked, though we just shuffled above)
+            // If the user UNCHECKS shuffle, we revert to originalCards, which is the randomized session set.
+            // This is slightly different from before where "original" was file order.
+            // But for a mixed random set, "original" order IS the random selection order.
+
+            state.cards = [...state.originalCards];
+            state.currentIndex = 0;
+
+            updateDashboard();
+
+            els.btnStartStudy.textContent = 'Start Studying';
+            els.btnStartStudy.disabled = false;
+
+            // Switch view after loading
+            switchView('study');
+
+        } catch (error) {
+            console.error('Loader error:', error);
+            els.btnStartStudy.textContent = 'Error Loading';
+            showUserError('Failed to load sets: ' + error.message);
+            els.btnStartStudy.disabled = false;
+        }
+    }
+
     // Fisher-Yates Shuffle
     function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
@@ -178,12 +302,24 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function setupEventListeners() {
-        // File Selection
-        if (els.fileSelect) {
-            els.fileSelect.addEventListener('change', (e) => {
-                loadData(e.target.value);
-            });
-        }
+        // Start Study Button
+        els.btnStartStudy.addEventListener('click', () => {
+            const checkboxes = els.fileListContainer.querySelectorAll('input[type="checkbox"]:checked');
+            if (checkboxes.length === 0) {
+                // Should be disabled, but double check
+                return;
+            }
+
+            const filenames = Array.from(checkboxes).map(cb => cb.value);
+            const maxCount = parseInt(els.maxQuestionsInput.value) || 0;
+
+            loadMultipleFiles(filenames, maxCount);
+        });
+
+        // File Selection Change Listener for Button State
+        els.fileListContainer.addEventListener('change', () => {
+            updateStartButtonState();
+        });
 
         // Shuffle Toggle
         if (els.shuffleToggle) {
@@ -360,14 +496,31 @@ document.addEventListener('DOMContentLoaded', () => {
         // Keyboard shortcuts
         document.addEventListener('keydown', (e) => {
             if (els.viewStudy.classList.contains('hidden')) return;
-            // Edit modal check removed
+            if (!els.editModal.classList.contains('hidden')) return; // Disable shortcuts if modal is open
 
             if (e.key === 'ArrowRight') nextCard();
             if (e.key === 'ArrowLeft') prevCard();
             if (e.key === ' ' || e.key === 'Enter') toggleFlip();
         });
 
-        /* --- Edit Modal Events REMOVED --- */
+        /* --- Edit Modal Events --- */
+        if (els.btnEditAnswer) {
+            els.btnEditAnswer.addEventListener('click', openEditModal);
+        }
+
+        if (els.btnCancelEdit) {
+            els.btnCancelEdit.addEventListener('click', closeEditModal);
+        }
+
+        if (els.editModal) {
+            els.editModal.addEventListener('click', (e) => {
+                if (e.target === els.editModal) closeEditModal();
+            });
+        }
+
+        if (els.btnSaveEdit) {
+            els.btnSaveEdit.addEventListener('click', saveCorrectAnswer);
+        }
 
         /* --- Mobile Swipe Logic --- */
         let touchStartX = 0;
@@ -410,8 +563,51 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // Edit Modal Logic REMOVED
+    /* --- Edit Modal Logic --- */
+    function openEditModal() {
+        const card = state.cards[state.currentIndex];
+        if (!card) return;
 
+        state.selectedAnswerForEdit = card.answer; // Default to current answer
+
+        els.editOptionsList.innerHTML = '';
+
+        // Show options in original order (A, B, C...) to avoid confusion
+        // We use state.originalCards logic or just the raw options from the current card object
+        // NOTE: If Choice Shuffle is ON, card.options is shuffled in render but the object keys remain A, B, C...
+        // Wait, Object.entries order might be shuffled. We should sort by key to be safe.
+        const sortedOptions = Object.entries(card.options).sort((a, b) => a[0].localeCompare(b[0]));
+
+        sortedOptions.forEach(([key, value]) => {
+            const div = document.createElement('div');
+            div.className = 'edit-option-item';
+            if (key.toLowerCase() === card.answer.toLowerCase()) {
+                div.classList.add('selected');
+            }
+            div.innerHTML = `<strong>${key.toUpperCase()}.</strong> ${value}`;
+
+            div.onclick = () => {
+                // Deselect all
+                document.querySelectorAll('.edit-option-item').forEach(el => el.classList.remove('selected'));
+                // Select clicked
+                div.classList.add('selected');
+                state.selectedAnswerForEdit = key;
+            };
+
+            els.editOptionsList.appendChild(div);
+        });
+
+        els.editModal.classList.remove('hidden');
+    }
+
+    function closeEditModal() {
+        els.editModal.classList.add('hidden');
+    }
+
+    async function saveCorrectAnswer() {
+        alert("Saving is disabled in this static version (GitHub Pages Demo).");
+        return;
+    }
 
     /* --- View Management --- */
     function switchView(viewName) {

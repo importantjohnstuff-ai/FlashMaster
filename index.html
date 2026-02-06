@@ -34,11 +34,18 @@
                 </div>
 
                 <div class="dashboard-controls">
+                    <div class="control-group vertical-group">
+                        <label class="control-label">Select Sets:</label>
+                        <div id="file-list-container" class="file-list-container">
+                            <!-- Checkboxes injected here -->
+                            <div class="loading-text">Loading sets...</div>
+                        </div>
+                    </div>
+
                     <div class="control-group">
-                        <label for="file-select" class="control-label">Select Set:</label>
-                        <select id="file-select" class="file-select">
-                            <option value="" disabled selected>Loading sets...</option>
-                        </select>
+                        <label for="max-questions" class="control-label">Questions to Study:</label>
+                        <input type="number" id="max-questions" class="number-input" min="1">
+                        <span class="small-text">(Leave empty for all)</span>
                     </div>
 
                     <div class="control-group toggle-group">
@@ -85,14 +92,14 @@
                                 <input type="checkbox" id="shuffle-cards-toggle">
                                 <span class="slider round"></span>
                             </label>
-                            <span class="control-label">Cards</span>
+                            <span class="control-label">Shuffle Cards</span>
                         </div>
                         <div class="control-group toggle-group mini-toggle">
                             <label class="switch small">
                                 <input type="checkbox" id="shuffle-choices-toggle">
                                 <span class="slider round"></span>
                             </label>
-                            <span class="control-label">Choices</span>
+                            <span class="control-label">Shuffle Choices</span>
                         </div>
                     </div>
 
@@ -143,13 +150,26 @@
                 </div>
 
                 <div class="edit-controls">
-                    <!-- Edit button removed for static version -->
+                    <button id="btn-edit-answer" class="btn-text small-btn" style="display: none;">Change Correct
+                        Answer</button>
                 </div>
             </section>
         </main>
     </div>
 
-    <!-- Edit Answer Modal removed -->
+    <!-- Edit Answer Modal -->
+    <div id="edit-modal" class="modal hidden">
+        <div class="modal-content">
+            <h3>Change Correct Answer</h3>
+            <p>Select the correct option for this card:</p>
+            <div id="edit-options-list" class="edit-options-list">
+                <!-- Options injected here -->
+            </div>
+            <div class="modal-actions">
+                <button id="btn-cancel-edit" class="btn btn-secondary">Cancel</button>
+                <button id="btn-save-edit" class="btn btn-primary">Save Changes</button>
+            </div>
+        </div>
     </div>
     </div>
 

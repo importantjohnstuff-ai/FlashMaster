@@ -1,0 +1,1454 @@
+[
+  {
+    "id": 1,
+    "question": "What is the maximum number of bends permitted in rigid conduits between outlets?",
+    "options": {
+      "a": "4 quarter bends",
+      "b": "5 quarter bends",
+      "c": "2 quarter bends",
+      "d": "3 quarter bends"
+    },
+    "answer": "a",
+    "correct_answer_text": "4 quarter bends"
+  },
+  {
+    "id": 2,
+    "question": "Current reactors are used to",
+    "options": {
+      "a": "Improve the voltage regulation",
+      "b": "improve the efficiency",
+      "c": "bring down the fault level within the capacity",
+      "d": "Improve the power factor"
+    },
+    "answer": "c",
+    "correct_answer_text": "bring down the fault level within the capacity"
+  },
+  {
+    "id": 3,
+    "question": "Heating effect of current has undesirable effects in",
+    "options": {
+      "a": "electric oven",
+      "b": "vacuum cleaner",
+      "c": "water heater",
+      "d": "electric flat iron"
+    },
+    "answer": "b",
+    "correct_answer_text": "vacuum cleaner"
+  },
+  {
+    "id": 4,
+    "question": "What is the ampacity of the feeder conductor supplying several motors and other loads",
+    "options": {
+      "a": "The sum of the full-load motor currents plus the sum of the current of other loads",
+      "b": "The sum of the full-load motor currents plus 125% of other load",
+      "c": "125% of the sum of the full load motor currents plus the sum of the currents of other loads",
+      "d": "The sum of the full-load currents plus the sum of the currents of other loads plus 25% of the full-load current of the largest motor"
+    },
+    "answer": "d",
+    "correct_answer_text": "The sum of the full-load currents plus the sum of the currents of other loads plus 25% of the full-load current of the largest motor"
+  },
+  {
+    "id": 5,
+    "question": "Which one does not belong to the technical performance standards of Philippine Distribution Code?",
+    "options": {
+      "a": "plant efficiency",
+      "b": "reliability",
+      "c": "collection efficiency",
+      "d": "load distribution"
+    },
+    "answer": "c",
+    "correct_answer_text": "collection efficiency"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following shall be induced in the calculation of the reliability standard indices of the distributor asset by the Philippine Distribution Code?",
+    "options": {
+      "a": "Outages that occur on the secondary lines of the distribution system",
+      "b": "Planned outages where the customers have been notified at least three (3) days prior to be loss of power",
+      "c": "Outages that occur on the primary lines of the distribution system",
+      "d": "Outages that occur in the transmission line"
+    },
+    "answer": "c",
+    "correct_answer_text": "Outages that occur on the primary lines of the distribution system"
+  },
+  {
+    "id": 7,
+    "question": "The minimum size of copper conductor for a 230-volt general illumination branch-circuit in a dwelling is mm².",
+    "options": {
+      "a": "1.25",
+      "b": "0.75",
+      "c": "2.0",
+      "d": "3.5"
+    },
+    "answer": "c",
+    "correct_answer_text": "2.0"
+  },
+  {
+    "id": 8,
+    "question": "Diesel power plant is best solution as",
+    "options": {
+      "a": "peak load",
+      "b": "standby",
+      "c": "base load",
+      "d": "general purpose"
+    },
+    "answer": "b",
+    "correct_answer_text": "standby"
+  },
+  {
+    "id": 9,
+    "question": "Luminaire types permitted in clothes closets,",
+    "options": {
+      "a": "Incandescent fixtures with open lamps",
+      "b": "Incandescent fixtures with partially enclosed lamps",
+      "c": "Pendant luminaire",
+      "d": "Surface mounted or recessed incandescent fixture with a completely enclosed lamp"
+    },
+    "answer": "d",
+    "correct_answer_text": "Surface mounted or recessed incandescent fixture with a completely enclosed lamp"
+  },
+  {
+    "id": 10,
+    "question": "If the de current is reserved in the control winding of a saturable reactor",
+    "options": {
+      "a": "AC current will decrease",
+      "b": "AC current will increase",
+      "c": "The Inductance will decrease",
+      "d": "Same AC current will flow"
+    },
+    "answer": "d",
+    "correct_answer_text": "Same AC current will flow"
+  },
+  {
+    "id": 11,
+    "question": "When electrons build up pressure at one point is called",
+    "options": {
+      "a": "current flow",
+      "b": "pressure pilling",
+      "c": "Ganging",
+      "d": "Impedance"
+    },
+    "answer": "a",
+    "correct_answer_text": "current flow"
+  },
+  {
+    "id": 12,
+    "question": "Fermi energy is the amount of energy which,",
+    "options": {
+      "a": "a hole can have at room temperature",
+      "b": "must be a given to hole to move it to variance band",
+      "c": "must be given to an electron to move it to conduction band",
+      "d": "a valence electron can have at room temperature"
+    },
+    "answer": "c",
+    "correct_answer_text": "must be given to an electron to move it to conduction band"
+  },
+  {
+    "id": 13,
+    "question": "A gang capacitor is a variable capacitor in which capacitance is varied by changing the",
+    "options": {
+      "a": "Dielectric",
+      "b": "number of plates",
+      "c": "plate area",
+      "d": "distance between plates"
+    },
+    "answer": "c",
+    "correct_answer_text": "plate area"
+  },
+  {
+    "id": 14,
+    "question": "A thermal protection switch is able to protect a circuit against",
+    "options": {
+      "a": "Overvoltage",
+      "b": "temperature",
+      "c": "overload",
+      "d": "short-circuit"
+    },
+    "answer": "c",
+    "correct_answer_text": "overload"
+  },
+  {
+    "id": 15,
+    "question": "What is the process of heating electrically non-metallic such as plumber plastics, etc?",
+    "options": {
+      "a": "Resistive",
+      "b": "capacitive",
+      "c": "dielectric",
+      "d": "Induction"
+    },
+    "answer": "c",
+    "correct_answer_text": "dielectric"
+  },
+  {
+    "id": 16,
+    "question": "What electrode in a junction transistor corresponds to the cathode in vacuum tube?",
+    "options": {
+      "a": "Base",
+      "b": "emitter",
+      "c": "drain",
+      "d": "collector"
+    },
+    "answer": "b",
+    "correct_answer_text": "emitter"
+  },
+  {
+    "id": 17,
+    "question": "In a shunt motor, what is the relative connection of the armature winding with respect to the field winding?",
+    "options": {
+      "a": "Series",
+      "b": "parallel-series",
+      "c": "series-parallel",
+      "d": "parallel"
+    },
+    "answer": "d",
+    "correct_answer_text": "parallel"
+  },
+  {
+    "id": 18,
+    "question": "A pure semiconductor without doping is called",
+    "options": {
+      "a": "Contaminated",
+      "b": "extrinsic",
+      "c": "Doped",
+      "d": "Intrinsic"
+    },
+    "answer": "d",
+    "correct_answer_text": "Intrinsic"
+  },
+  {
+    "id": 19,
+    "question": "Name of the transformer that provides an almost continuously variable stepless output voltage from zero to rated line voltage",
+    "options": {
+      "a": "Booster",
+      "b": "UPS",
+      "c": "AVR",
+      "d": "variac"
+    },
+    "answer": "d",
+    "correct_answer_text": "variac"
+  },
+  {
+    "id": 20,
+    "question": "Shunts are generally made of",
+    "options": {
+      "a": "Constantan",
+      "b": "silver",
+      "c": "aluminum",
+      "d": "manganin"
+    },
+    "answer": "d",
+    "correct_answer_text": "manganin"
+  },
+  {
+    "id": 21,
+    "question": "A 500kV transmission line is categorized as",
+    "options": {
+      "a": "high voltage",
+      "b": "ultra high voltage",
+      "c": "extra high voltage",
+      "d": "medium voltage"
+    },
+    "answer": "c",
+    "correct_answer_text": "extra high voltage"
+  },
+  {
+    "id": 22,
+    "question": "Out of the following given choices for polyphase transformer connections, which one will you select for three to ttw phase conversion?",
+    "options": {
+      "a": "scott",
+      "b": "star/star",
+      "c": "double scott",
+      "d": "star/double-data"
+    },
+    "answer": "a",
+    "correct_answer_text": "scott"
+  },
+  {
+    "id": 23,
+    "question": "Overcurrent protection responds to",
+    "options": {
+      "a": "Single line to ground faults",
+      "b": "Line to line faults",
+      "c": "Increase in current above the pick-up value",
+      "d": "Three phase faults"
+    },
+    "answer": "c",
+    "correct_answer_text": "Increase in current above the pick-up value"
+  },
+  {
+    "id": 24,
+    "question": "The overcurrent protective device is caused to operate by",
+    "options": {
+      "a": "voltage surge",
+      "b": "current flow",
+      "c": "voltage drop",
+      "d": "Impedance"
+    },
+    "answer": "b",
+    "correct_answer_text": "current flow"
+  },
+  {
+    "id": 25,
+    "question": "The primary function of a fuse is to",
+    "options": {
+      "a": "open the circuit",
+      "b": "prevent excessive currents",
+      "c": "protect the line",
+      "d": "protect the appliance"
+    },
+    "answer": "b",
+    "correct_answer_text": "prevent excessive currents"
+  },
+  {
+    "id": 26,
+    "question": "The commonly used light sensor in a modern fax machine is the",
+    "options": {
+      "a": "photo tube",
+      "b": "photo transistor",
+      "c": "charge couple device",
+      "d": "liquid crystal display"
+    },
+    "answer": "c",
+    "correct_answer_text": "charge couple device"
+  },
+  {
+    "id": 27,
+    "question": "What is the device function number of an ac circuit breaker?",
+    "options": {
+      "a": "48",
+      "b": "50",
+      "c": "46",
+      "d": "52"
+    },
+    "answer": "d",
+    "correct_answer_text": "52"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following cannot have a single unit of 100 MW?",
+    "options": {
+      "a": "Hydro power plant",
+      "b": "Steam power plant",
+      "c": "Diesel power plant",
+      "d": "Nuclear power plant"
+    },
+    "answer": "c",
+    "correct_answer_text": "Diesel power plant"
+  },
+  {
+    "id": 29,
+    "question": "Which of the following is not a source of power?",
+    "options": {
+      "a": "Thermocouple",
+      "b": "Photovoltaic cell",
+      "c": "Solar cell",
+      "d": "Photoelectric cell"
+    },
+    "answer": "a",
+    "correct_answer_text": "Thermocouple"
+  },
+  {
+    "id": 30,
+    "question": "Magnetic circuit breaker has trip action.",
+    "options": {
+      "a": "Delayed",
+      "b": "instantaneous",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "correct_answer_text": "instantaneous"
+  },
+  {
+    "id": 31,
+    "question": "In a circuit breaker the basic problem is to",
+    "options": {
+      "a": "maintain the arc",
+      "b": "extinguish the arc",
+      "c": "transmit large power",
+      "d": "emit the lonizing electrons"
+    },
+    "answer": "b",
+    "correct_answer_text": "extinguish the arc"
+  },
+  {
+    "id": 32,
+    "question": "A/An relay that operates or pick-up when its current exceeds a pre-determined value.",
+    "options": {
+      "a": "directional current",
+      "b": "over current",
+      "c": "directional voltage",
+      "d": "over voltage"
+    },
+    "answer": "b",
+    "correct_answer_text": "over current"
+  },
+  {
+    "id": 33,
+    "question": "are auxillary transformers used for metering or operation of auxillary equipment and relays",
+    "options": {
+      "a": "dry transformers",
+      "b": "oil Immersed transformers",
+      "c": "current transformers",
+      "d": "station service transformers"
+    },
+    "answer": "c",
+    "correct_answer_text": "current transformers"
+  },
+  {
+    "id": 34,
+    "question": "An electrical outlet constructed so that moisture will not enter the enclosure is classified as being",
+    "options": {
+      "a": "Waterproof",
+      "b": "rainproof",
+      "c": "watertight",
+      "d": "weatherproof"
+    },
+    "answer": "c",
+    "correct_answer_text": "watertight"
+  },
+  {
+    "id": 35,
+    "question": "The varmeter, In conjunction with other meter device can be used to determine the factor.",
+    "options": {
+      "a": "Load",
+      "b": "diversity",
+      "c": "power",
+      "d": "capacity"
+    },
+    "answer": "c",
+    "correct_answer_text": "power"
+  },
+  {
+    "id": 36,
+    "question": "Which device automatically trips and recloses a preset no. of times to clear temporary faults or isolate permanent faults?",
+    "options": {
+      "a": "Sectionalizer",
+      "b": "oil switch",
+      "c": "circuit breaker",
+      "d": "circuit recloser"
+    },
+    "answer": "d",
+    "correct_answer_text": "circuit recloser"
+  },
+  {
+    "id": 37,
+    "question": "An electromagnetic device used for finding short circuited coil is called a/an",
+    "options": {
+      "a": "hl-pot",
+      "b": "ohmmeter",
+      "c": "growler",
+      "d": "megger"
+    },
+    "answer": "c",
+    "correct_answer_text": "growler"
+  },
+  {
+    "id": 38,
+    "question": "The branch circuit conductors for a resistance heater and motor unit must be rated at what percent of the load?",
+    "options": {
+      "a": "115% of the total load",
+      "b": "125% of the total load",
+      "c": "125% of the motor load plus 100% of the heating load",
+      "d": "100% of the total load"
+    },
+    "answer": "c",
+    "correct_answer_text": "125% of the motor load plus 100% of the heating load"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is not a type of the contactor for circuit breakers?",
+    "options": {
+      "a": "Pneumatic",
+      "b": "Vacuum",
+      "c": "Electro-pneumatic",
+      "d": "Electro-magnetic"
+    },
+    "answer": "b",
+    "correct_answer_text": "Vacuum"
+  },
+  {
+    "id": 40,
+    "question": "Which dc motor cannot be used without a load connected to it?",
+    "options": {
+      "a": "Shunt",
+      "b": "Serles",
+      "c": "Compound",
+      "d": "Universal"
+    },
+    "answer": "b",
+    "correct_answer_text": "Serles"
+  },
+  {
+    "id": 41,
+    "question": "The electric motor generally used in household food mixers.",
+    "options": {
+      "a": "shaded pole",
+      "b": "universal",
+      "c": "split phase",
+      "d": "capacitor start"
+    },
+    "answer": "b",
+    "correct_answer_text": "universal"
+  },
+  {
+    "id": 42,
+    "question": "When the sole purpose of ac is to produce heat, the selection of conductor is based on value of the current",
+    "options": {
+      "a": "Average",
+      "b": "Instantaneous",
+      "c": "RMS",
+      "d": "Peak"
+    },
+    "answer": "c",
+    "correct_answer_text": "RMS"
+  },
+  {
+    "id": 43,
+    "question": "What is the type of relay that is intended to respond to the difference between incoming and outgoing electrical quantities?",
+    "options": {
+      "a": "Directional",
+      "b": "Differential",
+      "c": "Subtractive",
+      "d": "Distance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Differential"
+  },
+  {
+    "id": 44,
+    "question": "Which of theses is not a factor in determining the speed of a de motor?",
+    "options": {
+      "a": "strength of armature circuit magnetic field",
+      "b": "strength of magnetic field produced by the field colls",
+      "c": "the load on the motor",
+      "d": "the thickness of commutator bars"
+    },
+    "answer": "d",
+    "correct_answer_text": "the thickness of commutator bars"
+  },
+  {
+    "id": 45,
+    "question": "Which of the following statements is correct?",
+    "options": {
+      "a": "The resistance does not play an important role in electrical engineering",
+      "b": "The resistance of the wire does not depends on the material",
+      "c": "The resistance of the most of the materials is independent of temperature",
+      "d": "The resistance of the conductor is the hindrance by which the conductor opposes the flow of the current"
+    },
+    "answer": "d",
+    "correct_answer_text": "The resistance of the conductor is the hindrance by which the conductor opposes the flow of the current"
+  },
+  {
+    "id": 46,
+    "question": "Rapid stopping of a motor by momentarily connecting the motor in reverse direction is called",
+    "options": {
+      "a": "Jogging",
+      "b": "Inching",
+      "c": "Plugging",
+      "d": "Sequence operation"
+    },
+    "answer": "c",
+    "correct_answer_text": "Plugging"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is the best conductor of electricity?",
+    "options": {
+      "a": "Polyurethane",
+      "b": "china clay",
+      "c": "graphite",
+      "d": "porcelain"
+    },
+    "answer": "c",
+    "correct_answer_text": "graphite"
+  },
+  {
+    "id": 48,
+    "question": "Is used to prevent motorizing of the generator.",
+    "options": {
+      "a": "directional current relay",
+      "b": "over current relay",
+      "c": "reverse current relay",
+      "d": "over voltage relay"
+    },
+    "answer": "c",
+    "correct_answer_text": "reverse current relay"
+  },
+  {
+    "id": 49,
+    "question": "Resistance of the conductor increases when",
+    "options": {
+      "a": "its length increases",
+      "b": "its area increases",
+      "c": "both length and area increases",
+      "d": "specific resistance is kept constant"
+    },
+    "answer": "a",
+    "correct_answer_text": "its length increases"
+  },
+  {
+    "id": 50,
+    "question": "The specific resistance depends upon",
+    "options": {
+      "a": "the the area of cross-section and the length of the conductor",
+      "b": "the material of the conductor, its area of cross-section and length",
+      "c": "the nature of the material",
+      "d": "the area of cross-section of the conductor"
+    },
+    "answer": "c",
+    "correct_answer_text": "the nature of the material"
+  },
+  {
+    "id": 51,
+    "question": "Which of the following is not a consideration in surge arrester?",
+    "options": {
+      "a": "arrester class",
+      "b": "current rating",
+      "c": "voltage rating",
+      "d": "insulation coordination"
+    },
+    "answer": "d",
+    "correct_answer_text": "insulation coordination"
+  },
+  {
+    "id": 52,
+    "question": "is a device that carry and interrupt load current even in case of a fault by use of separate contacts",
+    "options": {
+      "a": "air switch",
+      "b": "fuse",
+      "c": "Sectionalizing",
+      "d": "circuit breaker"
+    },
+    "answer": "d",
+    "correct_answer_text": "circuit breaker"
+  },
+  {
+    "id": 53,
+    "question": "Current reactors are use to",
+    "options": {
+      "a": "improve the voltage regulation",
+      "b": "improve the efficiency",
+      "c": "bring down the fault level w/in capacity",
+      "d": "improve the power factor"
+    },
+    "answer": "c",
+    "correct_answer_text": "bring down the fault level w/in capacity"
+  },
+  {
+    "id": 54,
+    "question": "Which is not the purpose of performance standards for distribution of Philippine Distribution Code?",
+    "options": {
+      "a": "To ensure the quality of electric power in the Distribution System",
+      "b": "To ensure that the Distribution System will be operated in a safe efficient manner and with a high degree of reliability",
+      "c": "To facilitate the monitoring of compliance with the Distribution Code at the operations level",
+      "d": "To specify safety standards for the protection of personnel in the work environment."
+    },
+    "answer": "c",
+    "correct_answer_text": "To facilitate the monitoring of compliance with the Distribution Code at the operations level"
+  },
+  {
+    "id": 55,
+    "question": "Which is not a source of noise in a communication system?",
+    "options": {
+      "a": "Atmosphere",
+      "b": "Manufactured electrical equipment",
+      "c": "Another communication signal",
+      "d": "Thermal agitation in electronic components"
+    },
+    "answer": "b",
+    "correct_answer_text": "Manufactured electrical equipment"
+  },
+  {
+    "id": 56,
+    "question": "A receptacle outlet is required above a show window every linear meters,",
+    "options": {
+      "a": "5",
+      "b": "4",
+      "c": "2",
+      "d": "3"
+    },
+    "answer": "d",
+    "correct_answer_text": "3"
+  },
+  {
+    "id": 57,
+    "question": "A live room is one whose interior finish is such that reverberation of sound in seconds is",
+    "options": {
+      "a": "Zero",
+      "b": "more than 5",
+      "c": "more than 1",
+      "d": "less than 14"
+    },
+    "answer": "c",
+    "correct_answer_text": "more than 1"
+  },
+  {
+    "id": 58,
+    "question": "What is the electric state of a body that contains equal number of protons and electrons in its atom?",
+    "options": {
+      "a": "Static",
+      "b": "electrically charge",
+      "c": "positively charge",
+      "d": "negatively charge"
+    },
+    "answer": "",
+    "correct_answer_text": "neutral"
+  },
+  {
+    "id": 59,
+    "question": "Which is not 180 degrees apart?",
+    "options": {
+      "a": "XL and Ic",
+      "b": "Xc and Ic",
+      "c": "IL, and Ic",
+      "d": "Xc and XL"
+    },
+    "answer": "a",
+    "correct_answer_text": "XL and Ic"
+  },
+  {
+    "id": 60,
+    "question": "Which is not used as a reduced voltage starting method for induction motors?",
+    "options": {
+      "a": "variac",
+      "b": "autotransformer",
+      "c": "part winding resistance",
+      "d": "wye-delta"
+    },
+    "answer": "a",
+    "correct_answer_text": "variac"
+  },
+  {
+    "id": 61,
+    "question": "The arcing contacts in a circuit breaker are made of",
+    "options": {
+      "a": "copper tungsten alloy",
+      "b": "porcelain",
+      "c": "electrolytic copper",
+      "d": "aluminium alloy"
+    },
+    "answer": "a",
+    "correct_answer_text": "copper tungsten alloy"
+  },
+  {
+    "id": 62,
+    "question": "What republic of the Philippines shall serve as an act providing for a more responsive and comprehensive regulation for the practice, licensing, and registration of electrical engineers and electricians?",
+    "options": {
+      "a": "RA 184",
+      "b": "RA 7920",
+      "c": "RA 9136",
+      "d": "RA 2325"
+    },
+    "answer": "b",
+    "correct_answer_text": "RA 7920"
+  },
+  {
+    "id": 63,
+    "question": "A person is deemed to be in the practice of electrical engineering when he renders or offers to render professional electrical engineering service in the form of? I. Consultation, investigation, valuation and management of services requiring electrical engineering knowledge. II. Supervision of erection, installation, testing and commissioning of power plants, substations, transmission lines, industrial plants and others. III. Supervision of operation and maintenance of electrical equipment in power plants, industrial plants, watercrafts, electric locomotives and others. IV. Teaching of mathematics and allied subjects.",
+    "options": {
+      "a": "I, II, III, IV",
+      "b": "I, II, III",
+      "c": "I and II only",
+      "d": "II only"
+    },
+    "answer": "a",
+    "correct_answer_text": "I, II, III, IV"
+  },
+  {
+    "id": 64,
+    "question": "What term is related to the choice of electrical systems, including planning and detailing of requirements for protection, control, monitoring, coordination and interlocking of electrical systems among others?",
+    "options": {
+      "a": "Electrical system design",
+      "b": "Electric plant design",
+      "c": "Electric supply equipment",
+      "d": "Power plant design"
+    },
+    "answer": "a",
+    "correct_answer_text": "Electrical system design"
+  },
+  {
+    "id": 65,
+    "question": "Which term refers to manufacturing assembly plants, including engineering shops, shipyards or other business endeavors where electrical machinery and equipment are installed?",
+    "options": {
+      "a": "Institutional buildings",
+      "b": "Mall",
+      "c": "Factory",
+      "d": "Commercial establishments"
+    },
+    "answer": "c",
+    "correct_answer_text": "Factory"
+  },
+  {
+    "id": 66,
+    "question": "It is an electrical building which houses or encloses electric supply equipment connected to transmission or distribution lines and the interior of which is accessible, as a rule, only to properly qualified persons.",
+    "options": {
+      "a": "Substation",
+      "b": "Electric plant",
+      "c": "Power plant",
+      "d": "Industrial plant"
+    },
+    "answer": "a",
+    "correct_answer_text": "Substation"
+  },
+  {
+    "id": 67,
+    "question": "What do you call the energy-consuming equipment including motors, heaters, furnaces, light sources and other devices which utilize electric energy, for any purpose?",
+    "options": {
+      "a": "Utilization equipment",
+      "b": "Institutional building equipment",
+      "c": "Electric supply equipment",
+      "d": "Electrical service equipment"
+    },
+    "answer": "a",
+    "correct_answer_text": "Utilization equipment"
+  },
+  {
+    "id": 68,
+    "question": "The Board of Electrical Engineering... shall be created as a collegial body under the general supervision and administrative control of the Professional Regulations Commission. Who will be the one to appoint the chairman and the members of the board?",
+    "options": {
+      "a": "Commissioner",
+      "b": "Secretary of IIEE",
+      "c": "President",
+      "d": "Senate"
+    },
+    "answer": "c",
+    "correct_answer_text": "President"
+  },
+  {
+    "id": 69,
+    "question": "Can the President of the Philippines remove any member of the Board of electrical engineering?",
+    "options": {
+      "a": "No, because the BEE was created as a collegial body...",
+      "b": "No, because the members of the Board shall hold office for a term of three (3) years...",
+      "c": "Yes, upon the recommendation of the Commissioner for neglect of duty, incompetence, malpractice...",
+      "d": "Yes, Vacancies in the Board shall be filled by the President..."
+    },
+    "answer": "c",
+    "correct_answer_text": "Yes, upon the recommendation of the Commissioner for neglect of duty, incompetence, malpractice, commission or tolerance of irregularities in the examinations"
+  },
+  {
+    "id": 70,
+    "question": "Who will act as the Executive Officer of the Board?",
+    "options": {
+      "a": "President",
+      "b": "Commissioner",
+      "c": "Secretary of IIEE",
+      "d": "Senate"
+    },
+    "answer": "b",
+    "correct_answer_text": "Commissioner"
+  },
+  {
+    "id": 71,
+    "question": "How much is the Compensation of Chairman and the Board Members?",
+    "options": {
+      "a": "the chairman shall receive a monthly compensation of ten percent (10%) more",
+      "b": "the chairman shall receive a monthly compensation of fifteen percent (10%) more",
+      "c": "the chairman shall receive a monthly compensation equal to the members",
+      "d": "the chairman shall receive a monthly compensation of twenty percent (20%) less"
+    },
+    "answer": "a",
+    "correct_answer_text": "the chairman shall receive a monthly compensation of ten percent (10%) more"
+  },
+  {
+    "id": 72,
+    "question": "Each Board member must, at the time of his appointment must be? I. Be a natural born Filipino citizen... II. Be at least thirty-five (35) years of age... III. Have practiced electrical engineering for a period of not less than six (6) years... IV. Not be an official nor a member of the faculty...",
+    "options": {
+      "a": "I, II, III, IV",
+      "b": "I and II",
+      "c": "II and IV",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "correct_answer_text": "II and IV (I: natural born for at least 5 consecutive years, III: Practiced electrical engineering for a period of not less than 10 years"
+  },
+  {
+    "id": 73,
+    "question": "Any person applying for admission to the registered master electrician examinations... how old should this person be?",
+    "options": {
+      "a": "21",
+      "b": "18",
+      "c": "19",
+      "d": "20"
+    },
+    "answer": "b",
+    "correct_answer_text": "18"
+  },
+  {
+    "id": 74,
+    "question": "Section 38 of RA 7920 is related what sundry provisions relative to the practice of electrical engineering?",
+    "options": {
+      "a": "Certificate of Specialty",
+      "b": "Foreign Reciprocity",
+      "c": "Posting of Certificates",
+      "d": "Enforcement of the Act by Officers of the Law"
+    },
+    "answer": "b",
+    "correct_answer_text": "Foreign Reciprocity"
+  },
+  {
+    "id": 75,
+    "question": "What section of RA 7920 states that the Secretary of Justice or his assistant shall act as legal adviser of the Board...?",
+    "options": {
+      "a": "Section 38",
+      "b": "Section 39",
+      "c": "Section 37",
+      "d": "Section 42"
+    },
+    "answer": "b",
+    "correct_answer_text": "Section 39"
+  },
+  {
+    "id": 76,
+    "question": "What section of RA 7920 Certificates of specialty shall be issued by the Board... to professional electrical engineers...?",
+    "options": {
+      "a": "Section 38",
+      "b": "Section 39",
+      "c": "Section 37",
+      "d": "Section 42"
+    },
+    "answer": "c",
+    "correct_answer_text": "Section 37"
+  },
+  {
+    "id": 77,
+    "question": "The Act shall take effect after how many days following its full publication in the Official Gazette or newspaper of general circulation?",
+    "options": {
+      "a": "10",
+      "b": "20",
+      "c": "15",
+      "d": "30"
+    },
+    "answer": "d",
+    "correct_answer_text": "30"
+  },
+  {
+    "id": 78,
+    "question": "The passing general weighted average in order to be An REE must be?",
+    "options": {
+      "a": "(70%) with no grade below fifty percent (60%) In any group of subjects listed above",
+      "b": "(75%) with no grade below fifty percent (50%) in any group of subjects listed above",
+      "c": "(75%) with no grade below fifty percent (60%) in any group of subjects listed above",
+      "d": "(70%) with no grade below fifty percent (50%) in any group of subjects listed above"
+    },
+    "answer": "d",
+    "correct_answer_text": "(70%) with no grade below fifty percent (50%) in any group of subjects listed above"
+  },
+  {
+    "id": 79,
+    "question": "The passing general weighted average in order to be An RME must be?",
+    "options": {
+      "a": "(70%) with no grade below fifty percent (60%) in any group of subjects listed above",
+      "b": "(75%) with no grade below fifty percent (50%) in any group of subjects listed above",
+      "c": "(75%) with no grade below fifty percent (60%) in any group of subjects listed above",
+      "d": "(70%) with no grade below fifty percent (50%) in any group of subjects listed above"
+    },
+    "answer": "d",
+    "correct_answer_text": "(70%) with no grade below fifty percent (50%) in any group of subjects listed above"
+  },
+  {
+    "id": 80,
+    "question": "What section of RA 7920 states that an applicant shall be allowed to retake, any number of times, only the subject/s in which he has obtained a grade below fifty percent (50%).",
+    "options": {
+      "a": "Sec. 21",
+      "b": "Sec. 22",
+      "c": "Sec. 23",
+      "d": "Sec 24"
+    },
+    "answer": "a",
+    "correct_answer_text": "Sec. 21"
+  },
+  {
+    "id": 81,
+    "question": "What section of RA 7920 states that All successful candidates in the examination shall be required to take a professional oath before the Board...?",
+    "options": {
+      "a": "Sec. 21",
+      "b": "Sec. 22",
+      "c": "Sec. 23",
+      "d": "Sec 24"
+    },
+    "answer": "b",
+    "correct_answer_text": "Sec. 22"
+  },
+  {
+    "id": 82,
+    "question": "The seal of Professional Electrical Engineer... the innercircle must have an inner diameter of?",
+    "options": {
+      "a": "48 mm",
+      "b": "28 mm",
+      "c": "26 mm",
+      "d": "46 mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "28 mm"
+  },
+  {
+    "id": 83,
+    "question": "The seal of Professional Electrical Engineer... the outer circle must have a diameter of?",
+    "options": {
+      "a": "48 mm",
+      "b": "28 mm",
+      "c": "26 mm",
+      "d": "46 mm"
+    },
+    "answer": "a",
+    "correct_answer_text": "48 mm"
+  },
+  {
+    "id": 84,
+    "question": "Rule 11 of the Implementing Rules and Regulations (IRR) of Republic Act No. 7920 is about?",
+    "options": {
+      "a": "Places and Dates of Examinations",
+      "b": "The Publication of the Examination",
+      "c": "Program of Examination",
+      "d": "Official Business with the Commission."
+    },
+    "answer": "a",
+    "correct_answer_text": "Places and Dates of Examinations"
+  },
+  {
+    "id": 85,
+    "question": "Rule 6 of the Implementing Rules and Regulations (IRR) of Republic Act No. 7920 is about?",
+    "options": {
+      "a": "Places and Dates of Examinations",
+      "b": "The Publication of the Examination",
+      "c": "Program of Examination",
+      "d": "Official Business with the Commission"
+    },
+    "answer": "d",
+    "correct_answer_text": "Official Business with the Commission"
+  },
+  {
+    "id": 86,
+    "question": "It refers to the outlines embodying topics and concepts of major subjects prescribed in specific courses of study...?",
+    "options": {
+      "a": "Commissioner",
+      "b": "Syllabi",
+      "c": "DECS",
+      "d": "RA 184"
+    },
+    "answer": "b",
+    "correct_answer_text": "Syllabi"
+  },
+  {
+    "id": 87,
+    "question": "The seal of Professional Electrical Engineer... and a horizontal diametral space of?",
+    "options": {
+      "a": "6 mm",
+      "b": "8mm",
+      "c": "5 mm",
+      "d": "7 mm"
+    },
+    "answer": "a",
+    "correct_answer_text": "6 mm"
+  },
+  {
+    "id": 88,
+    "question": "What rule states that the Board in the enforcement and administration of Republic Act No. 7920... shall rely or seek the review... of the Commission...?",
+    "options": {
+      "a": "Rule 4",
+      "b": "Rule 5",
+      "c": "Rule 6",
+      "d": "Rule 7"
+    },
+    "answer": "a",
+    "correct_answer_text": "Rule 4"
+  },
+  {
+    "id": 89,
+    "question": "How old should a Professional electrical engineer be in order to be qualified as a candidate for the position of a member of the BEE?",
+    "options": {
+      "a": "21",
+      "b": "25",
+      "c": "35",
+      "d": "39"
+    },
+    "answer": "c",
+    "correct_answer_text": "35"
+  },
+  {
+    "id": 90,
+    "question": "In order to take liscensure examination of RME, how many years should he practiced electrical wiring and installation?",
+    "options": {
+      "a": "2 years",
+      "b": "3 years",
+      "c": "4 years",
+      "d": "1 year"
+    },
+    "answer": "d",
+    "correct_answer_text": "1 year"
+  },
+  {
+    "id": 91,
+    "question": "Who is the present chairman of the Board of Electrical Engineering?",
+    "options": {
+      "a": "Francis V. Mendoza",
+      "b": "Francis M. Marcos",
+      "c": "Francis V. Mapile",
+      "d": "Francis M. Dela Cruz"
+    },
+    "answer": "c",
+    "correct_answer_text": "Francis V. Mapile"
+  },
+  {
+    "id": 92,
+    "question": "A device which connects conductor to the earth to discharge the charge on the conductor on the earth is called",
+    "options": {
+      "a": "grounding electrode",
+      "b": "isolator",
+      "c": "earthing switch",
+      "d": "surge arrester"
+    },
+    "answer": "c",
+    "correct_answer_text": "earthing switch"
+  },
+  {
+    "id": 93,
+    "question": "The function of saturable reactor is to provide variable inductance which can be increased by",
+    "options": {
+      "a": "saturating the core",
+      "b": "decreasing ac winding",
+      "c": "increasing the current in the dc winding",
+      "d": "decreasing the current in the dc winding"
+    },
+    "answer": "a",
+    "correct_answer_text": "saturating the core"
+  },
+  {
+    "id": 94,
+    "question": "The main contacts of a circuit breaker are most likely to be operated by a",
+    "options": {
+      "a": "heavy duty switch",
+      "b": "vacuum",
+      "c": "mimic bus",
+      "d": "solenoid"
+    },
+    "answer": "b",
+    "correct_answer_text": "vacuum"
+  },
+  {
+    "id": 95,
+    "question": "The highest speed attained by a dc shunt motor is",
+    "options": {
+      "a": "equal to infinity at rated flux",
+      "b": "higher than no load speed at rated flux",
+      "c": "equal to no load speed at rated flux",
+      "d": "lower than no load speed at rated flux"
+    },
+    "answer": "c",
+    "correct_answer_text": "equal to no load speed at rated flux"
+  },
+  {
+    "id": 96,
+    "question": "What will happen to an insulating medium if subjected to a voltage more than the basic impulse insulation level?",
+    "options": {
+      "a": "change its molecular structure",
+      "b": "become magnetic",
+      "c": "get punctured",
+      "d": "melt"
+    },
+    "answer": "d",
+    "correct_answer_text": "melt"
+  },
+  {
+    "id": 97,
+    "question": "The effect of the dielectric is to",
+    "options": {
+      "a": "increase the capacitance",
+      "b": "decrease the capacitance",
+      "c": "increase the working voltage",
+      "d": "reduce the working voltage"
+    },
+    "answer": "d",
+    "correct_answer_text": "reduce the working voltage"
+  },
+  {
+    "id": 98,
+    "question": "What do you call the interior lighting where the roof trusses or ceiling height is greater than 7.6 m above floor level?",
+    "options": {
+      "a": "High bay",
+      "b": "High mast",
+      "c": "High pressure sodium",
+      "d": "HID"
+    },
+    "answer": "b",
+    "correct_answer_text": "High mast"
+  },
+  {
+    "id": 99,
+    "question": "What is the purpose of air blowers in substation transformers?",
+    "options": {
+      "a": "to remove dust accumulation",
+      "b": "for cooling casing",
+      "c": "to increase the capacity",
+      "d": "to prevent explotion"
+    },
+    "answer": "c",
+    "correct_answer_text": "to increase the capacity"
+  },
+  {
+    "id": 100,
+    "question": "Transformer taps are generally on the of transformer.",
+    "options": {
+      "a": "both high and low voltage windings",
+      "b": "low voltage winding",
+      "c": "tertiary winding",
+      "d": "high voltage winding"
+    },
+    "answer": "d",
+    "correct_answer_text": "high voltage winding"
+  },
+  {
+    "id": 101,
+    "question": "All circuits must be protected against?",
+    "options": {
+      "a": "overload, short-circuit and earth leakage",
+      "b": "overload only",
+      "c": "overload and short circuit",
+      "d": "overload, short circuit, earth leakage and voltage spikes"
+    },
+    "answer": "c",
+    "correct_answer_text": "overload and short circuit"
+  },
+  {
+    "id": 102,
+    "question": "Which of the following is not a standard classification for a branch circuit supplying several loads?",
+    "options": {
+      "a": "30 A",
+      "b": "20 A",
+      "c": "40 A",
+      "d": "25 A"
+    },
+    "answer": "d",
+    "correct_answer_text": "25 A"
+  },
+  {
+    "id": 103,
+    "question": "Based on Philippine Distribution Code which of the following interruption events is included in the calculation of distribution utility reliability indices?",
+    "options": {
+      "a": "outages that occur on 230 v lines",
+      "b": "outages due to 500 KV lines",
+      "c": "outages on 34.5 KV lines",
+      "d": "outages due to generator failure"
+    },
+    "answer": "b",
+    "correct_answer_text": "outages due to 500 KV lines"
+  },
+  {
+    "id": 104,
+    "question": "What does WESM in EPIRA (RA 9136) stands for?",
+    "options": {
+      "a": "Wholesale Electrical Spot Market",
+      "b": "Wholesale Electrical Supplying Market",
+      "c": "Wholesale Electricity Spot Market",
+      "d": "Wholesale Electricity Supply Market"
+    },
+    "answer": "c",
+    "correct_answer_text": "Wholesale Electricity Spot Market"
+  },
+  {
+    "id": 105,
+    "question": "In a resistance welding, the pneumatic pressure is applied during time.",
+    "options": {
+      "a": "Hold",
+      "b": "weld",
+      "c": "squeeze",
+      "d": "squeeze, weld and hold"
+    },
+    "answer": "d",
+    "correct_answer_text": "squeeze, weld and hold"
+  },
+  {
+    "id": 106,
+    "question": "Is known also as cold standby reserve.",
+    "options": {
+      "a": "power reserve",
+      "b": "spinning reserve",
+      "c": "back-up reserve",
+      "d": "contingency reserve"
+    },
+    "answer": "c",
+    "correct_answer_text": "back-up reserve"
+  },
+  {
+    "id": 107,
+    "question": "The correct word to define wiring which is not concealed is",
+    "options": {
+      "a": "Open",
+      "b": "exposed",
+      "c": "bare",
+      "d": "uncovered"
+    },
+    "answer": "b",
+    "correct_answer_text": "exposed"
+  },
+  {
+    "id": 108,
+    "question": "In Philippine distribution code. retail competition and open access in distribution wires... which is not included?",
+    "options": {
+      "a": "Establishment of the wholesale Electricity Spot Market",
+      "b": "Approval of the unbundled transmission and the distribution wheeling charges",
+      "c": "Initial Implantation of the cross subsidy removal scheme",
+      "d": "Non-privatization of at least 70 percent of the total capacity of generating assets of NPC Luzon and Visayas"
+    },
+    "answer": "d",
+    "correct_answer_text": "Non-privatization of at least 70 percent of the total capacity of generating assets of NPC Luzon and Visayas"
+  },
+  {
+    "id": 109,
+    "question": "To protect delta-delta power transformer against fault, the CT will have",
+    "options": {
+      "a": "delta-delta",
+      "b": "delta-wye",
+      "c": "wye-delta",
+      "d": "wye-wye"
+    },
+    "answer": "d",
+    "correct_answer_text": "wye-wye"
+  },
+  {
+    "id": 110,
+    "question": "Which of the following distributing system gives the greater reliability",
+    "options": {
+      "a": "radial system",
+      "b": "ring system",
+      "c": "DC three wire system",
+      "d": "open loop system"
+    },
+    "answer": "b",
+    "correct_answer_text": "ring system"
+  },
+  {
+    "id": 111,
+    "question": "Ideal the transformer assumptions do NOT include",
+    "options": {
+      "a": "zero resistance of the winding",
+      "b": "zero reactance of the winding",
+      "c": "no saturation of the core",
+      "d": "no leakage flux"
+    },
+    "answer": "b",
+    "correct_answer_text": "zero reactance of the winding"
+  },
+  {
+    "id": 112,
+    "question": "The power lost is MORE consider in the design of",
+    "options": {
+      "a": "a motor",
+      "b": "a generator",
+      "c": "the feeder",
+      "d": "the transmission line"
+    },
+    "answer": "d",
+    "correct_answer_text": "the transmission line"
+  },
+  {
+    "id": 113,
+    "question": "Based on PDC... What power factor should be maintained at the connection point?",
+    "options": {
+      "a": "not less than 65%",
+      "b": "not less than 70%",
+      "c": "not less than 85%",
+      "d": "not less than 75%"
+    },
+    "answer": "c",
+    "correct_answer_text": "not less than 85%"
+  },
+  {
+    "id": 114,
+    "question": "Which of the following type of fault that used only the equivalent positive and negative sequence impedance of the circuit in the short-circuit calculation?",
+    "options": {
+      "a": "Line-to-line fault",
+      "b": "Double-line-to-ground fault",
+      "c": "Three-phase fault",
+      "d": "Single-line-to-ground fault"
+    },
+    "answer": "a",
+    "correct_answer_text": "Line-to-line fault"
+  },
+  {
+    "id": 115,
+    "question": "Heating value of coal largely depends on",
+    "options": {
+      "a": "ash content",
+      "b": "moisture element",
+      "c": "volatile matter",
+      "d": "size of coal particles"
+    },
+    "answer": "a",
+    "correct_answer_text": "ash content"
+  },
+  {
+    "id": 116,
+    "question": "Zero-sequence current will flow in a transmission line when there is",
+    "options": {
+      "a": "a fault across all three phases",
+      "b": "a line to line fault",
+      "c": "an overvoltage in the line due to switching",
+      "d": "double line to ground"
+    },
+    "answer": "d",
+    "correct_answer_text": "double line to ground"
+  },
+  {
+    "id": 117,
+    "question": "Series capacitors are used to",
+    "options": {
+      "a": "improve the line voltage",
+      "b": "compensate for line inductive reactance",
+      "c": "compensate for line capacitive reactance",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "correct_answer_text": "compensate for line inductive reactance"
+  },
+  {
+    "id": 118,
+    "question": "When peace and order problem exist, National Grid Corporation of the Philippines (NGCP) Issues",
+    "options": {
+      "a": "security red alert",
+      "b": "imminent danger alert",
+      "c": "trouble alert",
+      "d": "red alert"
+    },
+    "answer": "a",
+    "correct_answer_text": "security red alert"
+  },
+  {
+    "id": 119,
+    "question": "Which of the following luminaire types are NOT permitted in clothes closets? I. Incandescent fixtures with open lamps II. Incandescent fixtures with partially enclosed lamps III. Pendant luminaires IV. Surface mounted or recessed incandescent fixture with a completely enclosed lamp",
+    "options": {
+      "a": "1,2, and 3",
+      "b": "1,2, and 4",
+      "c": "1,3, and 4",
+      "d": "2,3, and 4"
+    },
+    "answer": "a",
+    "correct_answer_text": "1,2, and 3"
+  },
+  {
+    "id": 120,
+    "question": "What is the maximum allowable voltage drop for lighting circuit?",
+    "options": {
+      "a": "3%",
+      "b": "5%",
+      "c": "2%",
+      "d": "10%"
+    },
+    "answer": "a",
+    "correct_answer_text": "3%"
+  },
+  {
+    "id": 121,
+    "question": "The rapid failure by the heat of an arc on the conductor surface accompanied by the heating effect of short circuit.",
+    "options": {
+      "a": "fault current burndown",
+      "b": "current limit value",
+      "c": "arc current burndown",
+      "d": "fault current limit"
+    },
+    "answer": "a",
+    "correct_answer_text": "fault current burndown"
+  }
+]

@@ -524,8 +524,8 @@
             "c": "Bonded",
             "d": "None of the above"
         },
-        "answer": "a",
-        "correct_answer_text": "Ungrounded"
+        "answer": "b",
+        "correct_answer_text": "Grounded"
     },
     {
         "id": 45,
@@ -618,10 +618,10 @@
             "a": "15 amps: 125 volt, 15 amperes, 2-pole, 4-wire grounding type for 120-volt system",
             "b": "20 amps: 125 volt, 20 amperes, 3-pole, 4-wire grounding type for 120\/240 volt system",
             "c": "30 amps: 125 volt, 30 amperes, 2-pole, 4-wire grounding type for 120-volt system",
-            "d": "60 amps: 125 volt, 50 amperes, 3-pole, 4-wire grounding type for 120\/240 volt system"
+            "d": "50 amps: 125 volt, 50 amperes, 3-pole, 4-wire grounding type for 120\/240 volt system"
         },
-        "answer": "c",
-        "correct_answer_text": "30 amps: 125 volt, 30 amperes, 2-pole, 3-wire grounding type (Note: Typical exam answer for 30A RV is the 125V 30A config)"
+        "answer": "d",
+        "correct_answer_text": "50 amps: 125 volt, 50 amperes, 3-pole, 4-wire grounding type for 120\/240 volt system"
     },
     {
         "id": 53,
@@ -784,12 +784,12 @@
         "question": "Indoor antennas shall not run closer than which of the following to other wiring system conductors on the premises:",
         "options": {
             "a": "50 mm",
-            "b": "60 mm if the other conductors are located in cable armor",
+            "b": "50 mm if the other conductors are located in cable armor",
             "c": "300 mm",
             "d": "76 mm if the other conductors are located in a metal raceway"
         },
         "answer": "b",
-        "correct_answer_text": "60 mm if the other conductors are located in cable armor"
+        "correct_answer_text": "50 mm if the other conductors are located in cable armor"
     },
     {
         "id": 67,
@@ -824,8 +824,8 @@
             "c": "Kitchens",
             "d": "All of the above"
         },
-        "answer": "a",
-        "correct_answer_text": "Bedrooms"
+        "answer": "b",
+        "correct_answer_text": "Bathrooms"
     },
     {
         "id": 70,
