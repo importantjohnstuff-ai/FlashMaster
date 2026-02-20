@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
         try {
             // Static File List for GitHub Pages compatibility
             // Since we can't scan directories with JS in browser, we hardcode the known files.
-            const fileNames = ['PEC1.json', 'PEC2.json', 'PEC3.json', 'PEC4.json'];
+            const fileNames = ['PEC1.json', 'PEC2.json', 'PEC3.json', 'PEC4.json', 'PEC5.json'];
 
             els.fileListContainer.innerHTML = '';
 

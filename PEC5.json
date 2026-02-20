@@ -1,0 +1,3710 @@
+[
+  {
+    "id": 1,
+    "question": "According to Faraday's Law, the magnitude of the induced EMF in a conductor is proportional to what?",
+    "options": {
+      "a": "The magnitude of the magnetic flux",
+      "b": "The rate of change of magnetic flux linkage",
+      "c": "The resistance of the conductor",
+      "d": "The area of the magnetic field"
+    },
+    "answer": "b",
+    "correct_answer_text": "The rate of change of magnetic flux linkage"
+  },
+  {
+    "id": 2,
+    "question": "Lenz's Law is a consequence of the law of conservation of:",
+    "options": {
+      "a": "Charge",
+      "b": "Momentum",
+      "c": "Energy",
+      "d": "Mass"
+    },
+    "answer": "c",
+    "correct_answer_text": "Energy"
+  },
+  {
+    "id": 3,
+    "question": "In a transformer, which type of induction is primarily responsible for the transfer of energy from primary to secondary?",
+    "options": {
+      "a": "Self-induction",
+      "b": "Mutual induction",
+      "c": "Electrostatic induction",
+      "d": "Motional induction"
+    },
+    "answer": "b",
+    "correct_answer_text": "Mutual induction"
+  },
+  {
+    "id": 4,
+    "question": "Which component of a transformer's EMF is induced by the time-varying magnetic field without physical motion?",
+    "options": {
+      "a": "Motional EMF",
+      "b": "Transformer EMF",
+      "c": "Static EMF",
+      "d": "Rotational EMF"
+    },
+    "answer": "b",
+    "correct_answer_text": "Transformer EMF"
+  },
+  {
+    "id": 5,
+    "question": "Eddy currents are induced in the core of a transformer due to:",
+    "options": {
+      "a": "High voltage",
+      "b": "Varying magnetic flux",
+      "c": "Direct current",
+      "d": "Insulation failure"
+    },
+    "answer": "b",
+    "correct_answer_text": "Varying magnetic flux"
+  },
+  {
+    "id": 6,
+    "question": "Laminating a transformer core helps reduce:",
+    "options": {
+      "a": "Hysteresis loss",
+      "b": "Copper loss",
+      "c": "Eddy current loss",
+      "d": "Friction loss"
+    },
+    "answer": "c",
+    "correct_answer_text": "Eddy current loss"
+  },
+  {
+    "id": 7,
+    "question": "The polarity of the induced EMF is determined by:",
+    "options": {
+      "a": "Faraday's Law",
+      "b": "Lenz's Law",
+      "c": "Ampere's Law",
+      "d": "Gauss's Law"
+    },
+    "answer": "b",
+    "correct_answer_text": "Lenz's Law"
+  },
+  {
+    "id": 8,
+    "question": "If the number of turns in a coil is doubled while the rate of change of flux remains constant, the induced EMF will:",
+    "options": {
+      "a": "Remain the same",
+      "b": "Be halved",
+      "c": "Double",
+      "d": "Quadruple"
+    },
+    "answer": "c",
+    "correct_answer_text": "Double"
+  },
+  {
+    "id": 9,
+    "question": "Which law relates the line integral of the electric field around a closed loop to the magnetic flux?",
+    "options": {
+      "a": "Ampere's Law",
+      "b": "Faraday's Law",
+      "c": "Kirchhoff's Voltage Law",
+      "d": "Biot-Savart Law"
+    },
+    "answer": "b",
+    "correct_answer_text": "Faraday's Law"
+  },
+  {
+    "id": 10,
+    "question": "In an ideal inductor, the induced voltage is zero when:",
+    "options": {
+      "a": "The magnetic flux is maximum",
+      "b": "The current is changing at its maximum rate",
+      "c": "The current is constant (DC)",
+      "d": "The magnetic flux is zero"
+    },
+    "answer": "c",
+    "correct_answer_text": "The current is constant (DC)"
+  },
+  {
+    "id": 11,
+    "question": "A phasor represents a sinusoidally varying quantity as a:",
+    "options": {
+      "a": "Scalar value",
+      "b": "Rotating vector in the complex plane",
+      "c": "Constant DC value",
+      "d": "Logarithmic function"
+    },
+    "answer": "b",
+    "correct_answer_text": "Rotating vector in the complex plane"
+  },
+  {
+    "id": 12,
+    "question": "In a phasor diagram, the angular velocity (omega) represents the:",
+    "options": {
+      "a": "Phase shift",
+      "b": "Frequency of the AC signal",
+      "c": "Peak amplitude",
+      "d": "RMS value"
+    },
+    "answer": "b",
+    "correct_answer_text": "Frequency of the AC signal"
+  },
+  {
+    "id": 13,
+    "question": "If a voltage phasor leads a current phasor by 90 degrees, the circuit is:",
+    "options": {
+      "a": "Purely resistive",
+      "b": "Purely inductive",
+      "c": "Purely capacitive",
+      "d": "In resonance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Purely inductive"
+  },
+  {
+    "id": 14,
+    "question": "The length of a phasor typically represents the ___ of the AC quantity.",
+    "options": {
+      "a": "Instantaneous value",
+      "b": "Average value",
+      "c": "RMS or Peak value",
+      "d": "Phase angle"
+    },
+    "answer": "c",
+    "correct_answer_text": "RMS or Peak value"
+  },
+  {
+    "id": 15,
+    "question": "In the complex plane, multiplying a phasor by 'j' results in a rotation of:",
+    "options": {
+      "a": "90° clockwise",
+      "b": "90° counter-clockwise",
+      "c": "180° counter-clockwise",
+      "d": "0°"
+    },
+    "answer": "b",
+    "correct_answer_text": "90° counter-clockwise"
+  },
+  {
+    "id": 16,
+    "question": "The imaginary part of the complex impedance represents:",
+    "options": {
+      "a": "Resistance",
+      "b": "Conductance",
+      "c": "Reactance",
+      "d": "Susceptance"
+    },
+    "answer": "c",
+    "correct_answer_text": "Reactance"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is true for a purely capacitive circuit?",
+    "options": {
+      "a": "Current leads voltage by 90°",
+      "b": "Current lags voltage by 90°",
+      "c": "Voltage and current are in phase",
+      "d": "Current leads voltage by 180°"
+    },
+    "answer": "a",
+    "correct_answer_text": "Current leads voltage by 90°"
+  },
+  {
+    "id": 18,
+    "question": "The 'Admittance' of an AC circuit is the:",
+    "options": {
+      "a": "Reciprocal of Resistance",
+      "b": "Reciprocal of Impedance",
+      "c": "Sum of Reactance and Resistance",
+      "d": "Square of Impedance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Reciprocal of Impedance"
+  },
+  {
+    "id": 19,
+    "question": "Two phasors can only be added or subtracted directly if they:",
+    "options": {
+      "a": "Have the same amplitude",
+      "b": "Have the same phase",
+      "c": "Have the same frequency",
+      "d": "Are in the same quadrant"
+    },
+    "answer": "c",
+    "correct_answer_text": "Have the same frequency"
+  },
+  {
+    "id": 20,
+    "question": "The phase difference between the line-to-neutral voltages in a balanced three-phase system is:",
+    "options": {
+      "a": "90°",
+      "b": "120°",
+      "c": "180°",
+      "d": "360°"
+    },
+    "answer": "b",
+    "correct_answer_text": "120°"
+  },
+  {
+    "id": 21,
+    "question": "In a series RL circuit, the total impedance Z is:",
+    "options": {
+      "a": "R+L",
+      "b": "R + jwL",
+      "c": "R - jwL",
+      "d": "sqrt(R^2-(WL)^2)"
+    },
+    "answer": "b",
+    "correct_answer_text": "R + jwL"
+  },
+  {
+    "id": 22,
+    "question": "In a parallel AC circuit, which quantity is common to all branches?",
+    "options": {
+      "a": "Current",
+      "b": "Voltage",
+      "c": "Power",
+      "d": "Impedance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Voltage"
+  },
+  {
+    "id": 23,
+    "question": "If the frequency of an AC source increases, the reactance of an inductor:",
+    "options": {
+      "a": "Decreases",
+      "b": "Increases",
+      "c": "Remains constant",
+      "d": "Becomes zero"
+    },
+    "answer": "b",
+    "correct_answer_text": "Increases"
+  },
+  {
+    "id": 24,
+    "question": "If the frequency of an AC source increases, the reactance of a capacitor:",
+    "options": {
+      "a": "Decreases",
+      "b": "Increases",
+      "c": "Remains constant",
+      "d": "Becomes infinite"
+    },
+    "answer": "a",
+    "correct_answer_text": "Decreases"
+  },
+  {
+    "id": 25,
+    "question": "The power factor of a purely resistive circuit is:",
+    "options": {
+      "a": "0",
+      "b": "0.5",
+      "c": "1.0",
+      "d": "Infinite"
+    },
+    "answer": "c",
+    "correct_answer_text": "1.0"
+  },
+  {
+    "id": 26,
+    "question": "In a series RLC circuit, if XL > XC, the circuit behaves as:",
+    "options": {
+      "a": "Inductive",
+      "b": "Capacitive",
+      "c": "Resistive",
+      "d": "Non-reactive"
+    },
+    "answer": "a",
+    "correct_answer_text": "Inductive"
+  },
+  {
+    "id": 27,
+    "question": "In a parallel RC circuit, as frequency increases, the total current:",
+    "options": {
+      "a": "Decreases",
+      "b": "Increases",
+      "c": "Remains the same",
+      "d": "Drops to zero"
+    },
+    "answer": "b",
+    "correct_answer_text": "Increases"
+  },
+  {
+    "id": 28,
+    "question": "The real part of admittance (Y=G+jB) is called:",
+    "options": {
+      "a": "Reactance",
+      "b": "Susceptance",
+      "c": "Conductance",
+      "d": "Resistance"
+    },
+    "answer": "c",
+    "correct_answer_text": "Conductance"
+  },
+  {
+    "id": 29,
+    "question": "When XL = XC in a series circuit, the impedance is:",
+    "options": {
+      "a": "Maximum",
+      "b": "Minimum (equal to R)",
+      "c": "Zero",
+      "d": "Infinite"
+    },
+    "answer": "b",
+    "correct_answer_text": "Minimum (equal to R)"
+  },
+  {
+    "id": 30,
+    "question": "In a series RL circuit, the phase angle theta is given by:",
+    "options": {
+      "a": "cos^-1(R/Z)",
+      "b": "sin^-1(R/Z)",
+      "c": "tan^-1(R/XL)",
+      "d": "tan^-1(Z/R)"
+    },
+    "answer": "a",
+    "correct_answer_text": "cos^-1(R/Z)"
+  },
+  {
+    "id": 31,
+    "question": "Active power (P) is measured in:",
+    "options": {
+      "a": "VA",
+      "b": "VAR",
+      "c": "Watts",
+      "d": "Joules"
+    },
+    "answer": "c",
+    "correct_answer_text": "Watts"
+  },
+  {
+    "id": 32,
+    "question": "Reactive power (Q) represents energy that:",
+    "options": {
+      "a": "Is consumed by the load",
+      "b": "Oscillates between the source and the reactive components",
+      "c": "Is lost as heat in resistors",
+      "d": "Is converted into mechanical work"
+    },
+    "answer": "b",
+    "correct_answer_text": "Oscillates between the source and the reactive components"
+  },
+  {
+    "id": 33,
+    "question": "Apparent power (S) is the product of:",
+    "options": {
+      "a": "RMS Voltage and RMS Current",
+      "b": "Peak Voltage and Peak Current",
+      "c": "Average Voltage and Average Current",
+      "d": "RMS Voltage and Resistance"
+    },
+    "answer": "a",
+    "correct_answer_text": "RMS Voltage and RMS Current"
+  },
+  {
+    "id": 34,
+    "question": "The power factor is the ratio of:",
+    "options": {
+      "a": "Q/P",
+      "b": "P/S",
+      "c": "S/P",
+      "d": "R/X"
+    },
+    "answer": "b",
+    "correct_answer_text": "P/S"
+  },
+  {
+    "id": 35,
+    "question": "A \"Lagging\" power factor implies that:",
+    "options": {
+      "a": "Current leads voltage",
+      "b": "Current lags voltage",
+      "c": "Power is negative",
+      "d": "The load is capacitive"
+    },
+    "answer": "b",
+    "correct_answer_text": "Current lags voltage"
+  },
+  {
+    "id": 36,
+    "question": "In the power triangle, the hypotenuse represents:",
+    "options": {
+      "a": "Active Power",
+      "b": "Reactive Power",
+      "c": "Apparent Power",
+      "d": "Complex Impedance"
+    },
+    "answer": "c",
+    "correct_answer_text": "Apparent Power"
+  },
+  {
+    "id": 37,
+    "question": "For a purely inductive load, the active power P is:",
+    "options": {
+      "a": "Maximum",
+      "b": "Zero",
+      "c": "Negative",
+      "d": "Equal to S"
+    },
+    "answer": "b",
+    "correct_answer_text": "Zero"
+  },
+  {
+    "id": 38,
+    "question": "The unit of Reactive Power is:",
+    "options": {
+      "a": "Watt",
+      "b": "Volt-Ampere Reactive (VAR)",
+      "c": "Volt-Ampere (VA)",
+      "d": "Henry"
+    },
+    "answer": "b",
+    "correct_answer_text": "Volt-Ampere Reactive (VAR)"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following loads usually has a leading power factor?",
+    "options": {
+      "a": "Induction Motor",
+      "b": "Incandescent Lamp",
+      "c": "Synchronous Motor (Over-excited)",
+      "d": "Transformer"
+    },
+    "answer": "c",
+    "correct_answer_text": "Synchronous Motor (Over-excited)"
+  },
+  {
+    "id": 40,
+    "question": "Complex Power S is mathematically defined as:",
+    "options": {
+      "a": "VI (where V* is the conjugate of voltage)",
+      "b": "VI* (where I* is the conjugate of current)",
+      "c": "V^2/R",
+      "d": "P+S"
+    },
+    "answer": "b",
+    "correct_answer_text": "VI* (where I* is the conjugate of current)"
+  },
+  {
+    "id": 41,
+    "question": "At resonance, the phase angle between voltage and current is:",
+    "options": {
+      "a": "90°",
+      "b": "45°",
+      "c": "0°",
+      "d": "180°"
+    },
+    "answer": "c",
+    "correct_answer_text": "0°"
+  },
+  {
+    "id": 42,
+    "question": "In a series resonance circuit, the current is:",
+    "options": {
+      "a": "Zero",
+      "b": "Minimum",
+      "c": "Maximum",
+      "d": "Lagging"
+    },
+    "answer": "c",
+    "correct_answer_text": "Maximum"
+  },
+  {
+    "id": 43,
+    "question": "The 'Quality Factor' (Q) of a resonance circuit is a measure of its:",
+    "options": {
+      "a": "Power consumption",
+      "b": "Selectivity",
+      "c": "Voltage rating",
+      "d": "Physical size"
+    },
+    "answer": "b",
+    "correct_answer_text": "Selectivity"
+  },
+  {
+    "id": 44,
+    "question": "In parallel resonance, the circuit impedance at the resonant frequency is:",
+    "options": {
+      "a": "Minimum",
+      "b": "Maximum",
+      "c": "Zero",
+      "d": "Equal to XL"
+    },
+    "answer": "b",
+    "correct_answer_text": "Maximum"
+  },
+  {
+    "id": 45,
+    "question": "The bandwidth of a resonant circuit is inversely proportional to:",
+    "options": {
+      "a": "The Resistance",
+      "b": "The Quality Factor (Q)",
+      "c": "The Peak Current",
+      "d": "The Inductance"
+    },
+    "answer": "b",
+    "correct_answer_text": "The Quality Factor (Q)"
+  },
+  {
+    "id": 46,
+    "question": "A series RLC circuit at resonance acts as a:",
+    "options": {
+      "a": "Band-stop filter",
+      "b": "Band-pass filter",
+      "c": "Low-pass filter",
+      "d": "High-pass filter"
+    },
+    "answer": "b",
+    "correct_answer_text": "Band-pass filter"
+  },
+  {
+    "id": 47,
+    "question": "What happens to the resonant frequency if the capacitance is increased?",
+    "options": {
+      "a": "It increases",
+      "b": "It decreases",
+      "c": "It remains the same",
+      "d": "It doubles"
+    },
+    "answer": "b",
+    "correct_answer_text": "It decreases"
+  },
+  {
+    "id": 48,
+    "question": "Magnification of ____ occurs in a series resonant circuit.",
+    "options": {
+      "a": "Current",
+      "b": "Voltage",
+      "c": "Resistance",
+      "d": "Frequency"
+    },
+    "answer": "b",
+    "correct_answer_text": "Voltage"
+  },
+  {
+    "id": 49,
+    "question": "Magnification of ____ occurs in a parallel resonant circuit.",
+    "options": {
+      "a": "Current",
+      "b": "Voltage",
+      "c": "Power Factor",
+      "d": "Impedance"
+    },
+    "answer": "a",
+    "correct_answer_text": "Current"
+  },
+  {
+    "id": 50,
+    "question": "At frequencies above the resonant frequency, a series RLC circuit is:",
+    "options": {
+      "a": "Resistive",
+      "b": "Inductive",
+      "c": "Capacitive",
+      "d": "Superconducting"
+    },
+    "answer": "b",
+    "correct_answer_text": "Inductive"
+  },
+  {
+    "id": 51,
+    "question": "Harmonics in a power system are:",
+    "options": {
+      "a": "DC offsets",
+      "b": "Voltages/currents at integer multiples of the fundamental frequency",
+      "c": "Random noise signals",
+      "d": "Sub-synchronous oscillations"
+    },
+    "answer": "b",
+    "correct_answer_text": "Voltages/currents at integer multiples of the fundamental frequency"
+  },
+  {
+    "id": 52,
+    "question": "What is the frequency of the 3rd harmonic in a 60 Hz system?",
+    "options": {
+      "a": "20 Hz",
+      "b": "120 Hz",
+      "c": "180 Hz",
+      "d": "240 Hz"
+    },
+    "answer": "c",
+    "correct_answer_text": "180 Hz"
+  },
+  {
+    "id": 53,
+    "question": "Non-linear loads (like VFDs and computers) are the primary source of:",
+    "options": {
+      "a": "High power factor",
+      "b": "Harmonics",
+      "c": "Voltage sag",
+      "d": "Phase imbalance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Harmonics"
+  },
+  {
+    "id": 54,
+    "question": "The term THD stands for:",
+    "options": {
+      "a": "Total Heat Dissipation",
+      "b": "Total Harmonic Distortion",
+      "c": "Triple Harmonic Deviation",
+      "d": "Thermal Harmonic Degree"
+    },
+    "answer": "b",
+    "correct_answer_text": "Total Harmonic Distortion"
+  },
+  {
+    "id": 55,
+    "question": "In a balanced 3-phase system, \"Triplen\" harmonics (3rd, 9th, etc.) primarily flow through:",
+    "options": {
+      "a": "Phase A only",
+      "b": "The Neutral conductor",
+      "c": "The Grounding rod",
+      "d": "The Phase-to-Phase capacitance"
+    },
+    "answer": "b",
+    "correct_answer_text": "The Neutral conductor"
+  },
+  {
+    "id": 56,
+    "question": "Harmonics can cause which of the following in motors?",
+    "options": {
+      "a": "Decreased temperature",
+      "b": "Counter-torque and overheating",
+      "c": "Increased efficiency",
+      "d": "Higher power factor"
+    },
+    "answer": "b",
+    "correct_answer_text": "Counter-torque and overheating"
+  },
+  {
+    "id": 57,
+    "question": "Which harmonic order is generally considered the most troublesome for 3-phase 4-wire systems?",
+    "options": {
+      "a": "2nd",
+      "b": "3rd",
+      "c": "4th",
+      "d": "6th"
+    },
+    "answer": "b",
+    "correct_answer_text": "3rd"
+  },
+  {
+    "id": 58,
+    "question": "Total Harmonic Distortion (THD) is the ratio of:",
+    "options": {
+      "a": "Fundamental to RMS",
+      "b": "Sum of all harmonic components to the fundamental component",
+      "c": "Peak value to Average value",
+      "d": "Reactive power to Active power"
+    },
+    "answer": "b",
+    "correct_answer_text": "Sum of all harmonic components to the fundamental component"
+  },
+  {
+    "id": 59,
+    "question": "A passive harmonic filter usually consists of:",
+    "options": {
+      "a": "A resistor only",
+      "b": "A series-tuned LC circuit",
+      "c": "A diode bridge",
+      "d": "A transformer"
+    },
+    "answer": "b",
+    "correct_answer_text": "A series-tuned LC circuit"
+  },
+  {
+    "id": 60,
+    "question": "Harmonics reduce the ____ of the power system.",
+    "options": {
+      "a": "Voltage",
+      "b": "Efficiency and capacity",
+      "c": "Frequency",
+      "d": "Phase angle"
+    },
+    "answer": "b",
+    "correct_answer_text": "Efficiency and capacity"
+  },
+  {
+    "id": 61,
+    "question": "What is the primary goal of Power Factor Correction?",
+    "options": {
+      "a": "To increase active power",
+      "b": "To reduce apparent power demand and line losses",
+      "c": "To increase the frequency",
+      "d": "To reduce the resistance of the load"
+    },
+    "answer": "b",
+    "correct_answer_text": "To reduce apparent power demand and line losses"
+  },
+  {
+    "id": 62,
+    "question": "Most industrial loads (motors) have a power factor that is:",
+    "options": {
+      "a": "Unity",
+      "b": "Leading",
+      "c": "Lagging",
+      "d": "Zero"
+    },
+    "answer": "c",
+    "correct_answer_text": "Lagging"
+  },
+  {
+    "id": 63,
+    "question": "To improve a lagging power factor, we should connect ____ in parallel with the load.",
+    "options": {
+      "a": "Inductors",
+      "b": "Resistors",
+      "c": "Capacitors",
+      "d": "Transformers"
+    },
+    "answer": "c",
+    "correct_answer_text": "Capacitors"
+  },
+  {
+    "id": 64,
+    "question": "A synchronous condenser is essentially a:",
+    "options": {
+      "a": "Large capacitor bank",
+      "b": "Over-excited synchronous motor running without mechanical load",
+      "c": "DC generator",
+      "d": "Induction generator"
+    },
+    "answer": "b",
+    "correct_answer_text": "Over-excited synchronous motor running without mechanical load"
+  },
+  {
+    "id": 65,
+    "question": "Improving the power factor leads to:",
+    "options": {
+      "a": "Increased electricity bills",
+      "b": "Increased I^2R losses in cables",
+      "c": "Reduced voltage drop in the system",
+      "d": "Higher demand charges"
+    },
+    "answer": "c",
+    "correct_answer_text": "Reduced voltage drop in the system"
+  },
+  {
+    "id": 66,
+    "question": "In a system with high harmonic content, PF correction capacitors might:",
+    "options": {
+      "a": "Eliminate all harmonics",
+      "b": "Enter into resonance with system inductance",
+      "c": "Increase the fundamental frequency",
+      "d": "Act as open circuits to harmonics"
+    },
+    "answer": "b",
+    "correct_answer_text": "Enter into resonance with system inductance"
+  },
+  {
+    "id": 67,
+    "question": "The \"Displacement Power Factor\" refers to the PF associated with:",
+    "options": {
+      "a": "Harmonics only",
+      "b": "The fundamental frequency (50/60 Hz) only",
+      "c": "The peak voltage only",
+      "d": "The mechanical displacement of the rotor"
+    },
+    "answer": "b",
+    "correct_answer_text": "The fundamental frequency (50/60 Hz) only"
+  },
+  {
+    "id": 68,
+    "question": "Total Power Factor accounts for both:",
+    "options": {
+      "a": "Voltage and Resistance",
+      "b": "Displacement and Distortion",
+      "c": "Real and Imaginary numbers",
+      "d": "Heat and Light"
+    },
+    "answer": "b",
+    "correct_answer_text": "Displacement and Distortion"
+  },
+  {
+    "id": 69,
+    "question": "Where is the most effective location for PF correction to reduce internal building losses?",
+    "options": {
+      "a": "At the utility meter",
+      "b": "Directly at the terminals of the inductive load",
+      "c": "At the main transformer",
+      "d": "At the substation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Directly at the terminals of the inductive load"
+  },
+  {
+    "id": 70,
+    "question": "Which device is used for automatic power factor correction by switching capacitor steps?",
+    "options": {
+      "a": "VFD",
+      "b": "APFC Relay",
+      "c": "UPS",
+      "d": "MCCB"
+    },
+    "answer": "b",
+    "correct_answer_text": "APFC Relay"
+  },
+  {
+    "id": 71,
+    "question": "If a load's PF is 0.8 lagging, the phase angle is approximately:",
+    "options": {
+      "a": "30°",
+      "b": "36.8°",
+      "c": "45°",
+      "d": "53.1°"
+    },
+    "answer": "b",
+    "correct_answer_text": "36.8°"
+  },
+  {
+    "id": 72,
+    "question": "What happens to the current in the supply lines when the power factor is improved from 0.7 to 0.95 for the same real power?",
+    "options": {
+      "a": "It increases",
+      "b": "It decreases",
+      "c": "It remains the same",
+      "d": "It fluctuates"
+    },
+    "answer": "b",
+    "correct_answer_text": "It decreases"
+  },
+  {
+    "id": 73,
+    "question": "A \"Static VAR Compensator\" (SVC) is used for:",
+    "options": {
+      "a": "Measuring energy",
+      "b": "Fast reactive power compensation",
+      "c": "Converting AC to DC",
+      "d": "Stepping up voltage"
+    },
+    "answer": "b",
+    "correct_answer_text": "Fast reactive power compensation"
+  },
+  {
+    "id": 74,
+    "question": "In an AC circuit, if the voltage is v(t)=Vm sin(omega t) and the current is i(t)=Im sin(omega t-30°), the power factor is:",
+    "options": {
+      "a": "cos(0°)",
+      "b": "cos(30°)",
+      "c": "sin(30°)",
+      "d": "tan(30°)"
+    },
+    "answer": "b",
+    "correct_answer_text": "cos(30°)"
+  },
+  {
+    "id": 75,
+    "question": "Skin effect in AC conductors causes the current density to be higher:",
+    "options": {
+      "a": "At the center of the conductor",
+      "b": "Near the surface of the conductor",
+      "c": "Uniformly throughout",
+      "d": "Only at the terminals"
+    },
+    "answer": "b",
+    "correct_answer_text": "Near the surface of the conductor"
+  },
+  {
+    "id": 76,
+    "question": "Which of the following best describes \"Voltage\" in a conceptual sense?",
+    "options": {
+      "a": "The flow of electrons per unit time.",
+      "b": "The work done in moving a unit charge between two points.",
+      "c": "The resistance encountered by a moving charge.",
+      "d": "The total number of electrons in a conductor."
+    },
+    "answer": "b",
+    "correct_answer_text": "The work done in moving a unit charge between two points."
+  },
+  {
+    "id": 77,
+    "question": "If the cross-sectional area of a conductor is doubled while keeping the volume constant, the drift velocity of electrons for a constant current will:",
+    "options": {
+      "a": "Double.",
+      "b": "Remain the same.",
+      "c": "Decrease by half.",
+      "d": "Increase fourfold."
+    },
+    "answer": "c",
+    "correct_answer_text": "Decrease by half."
+  },
+  {
+    "id": 78,
+    "question": "Ohm's Law is a relationship between voltage and current that specifically requires:",
+    "options": {
+      "a": "Changing temperature.",
+      "b": "Constant physical conditions (like temperature).",
+      "c": "A vacuum environment.",
+      "d": "Non-linear components."
+    },
+    "answer": "b",
+    "correct_answer_text": "Constant physical conditions (like temperature)."
+  },
+  {
+    "id": 79,
+    "question": "In a purely resistive circuit, if the voltage is tripled and the resistance is doubled, the current will change by a factor of:",
+    "options": {
+      "a": "1.5",
+      "b": "6",
+      "c": "0.66",
+      "d": "5"
+    },
+    "answer": "a",
+    "correct_answer_text": "1.5"
+  },
+  {
+    "id": 80,
+    "question": "A \"node\" in a circuit is defined as:",
+    "options": {
+      "a": "Any point where a component exists.",
+      "b": "A loop within the network.",
+      "c": "A junction where two or more branches meet.",
+      "d": "The return path to the ground."
+    },
+    "answer": "c",
+    "correct_answer_text": "A junction where two or more branches meet."
+  },
+  {
+    "id": 81,
+    "question": "A resistor has color bands: Yellow, Violet, Orange, Gold. What is its nominal value?",
+    "options": {
+      "a": "47 kOhm ± 5%",
+      "b": "4.7 kOhm ± 10%",
+      "c": "470 Ohm ± 5%",
+      "d": ".47 kOhm ± 1%"
+    },
+    "answer": "a",
+    "correct_answer_text": "47 kOhm ± 5%"
+  },
+  {
+    "id": 82,
+    "question": "What does the third band in a standard 4-band resistor represent?",
+    "options": {
+      "a": "The first digit.",
+      "b": "The tolerance.",
+      "c": "The multiplier (power of 10).",
+      "d": "The temperature coefficient."
+    },
+    "answer": "c",
+    "correct_answer_text": "The multiplier (power of 10)."
+  },
+  {
+    "id": 83,
+    "question": "If a resistor has a Silver tolerance band, the measured value must be within what percentage of the nominal value?",
+    "options": {
+      "a": "1%",
+      "b": "5%",
+      "c": "10%",
+      "d": "20%"
+    },
+    "answer": "c",
+    "correct_answer_text": "10%"
+  },
+  {
+    "id": 84,
+    "question": "Most metals possess a \"Positive Temperature Coefficient.\" This means as temperature increases:",
+    "options": {
+      "a": "Resistance decreases.",
+      "b": "Resistance increases.",
+      "c": "Resistance remains constant.",
+      "d": "The material becomes a superconductor."
+    },
+    "answer": "b",
+    "correct_answer_text": "Resistance increases."
+  },
+  {
+    "id": 85,
+    "question": "Which of the following materials is likely to have a Negative Temperature Coefficient (NTC)?",
+    "options": {
+      "a": "Copper",
+      "b": "Aluminum",
+      "c": "Silicon (Semiconductors)",
+      "d": "Silver"
+    },
+    "answer": "c",
+    "correct_answer_text": "Silicon (Semiconductors)"
+  },
+  {
+    "id": 86,
+    "question": "The resistance of a conductor is inversely proportional to its:",
+    "options": {
+      "a": "Length.",
+      "b": "Resistivity.",
+      "c": "Cross-sectional area.",
+      "d": "Temperature."
+    },
+    "answer": "c",
+    "correct_answer_text": "Cross-sectional area."
+  },
+  {
+    "id": 87,
+    "question": "What is the primary reason why a \"zero-ohm\" resistor is used in PCB design?",
+    "options": {
+      "a": "To increase circuit current.",
+      "b": "As a jumper to bridge traces or for automated assembly.",
+      "c": "To act as a precision fuse.",
+      "d": "To dissipate heat."
+    },
+    "answer": "b",
+    "correct_answer_text": "As a jumper to bridge traces or for automated assembly."
+  },
+  {
+    "id": 88,
+    "question": "In the American Wire Gauge (AWG) system, as the gauge number increases, the wire diameter:",
+    "options": {
+      "a": "Increases.",
+      "b": "Decreases.",
+      "c": "Stays the same.",
+      "d": "Becomes more conductive."
+    },
+    "answer": "b",
+    "correct_answer_text": "Decreases."
+  },
+  {
+    "id": 89,
+    "question": "A Circular Mil (CMIL) is defined as the area of a circle with a diameter of:",
+    "options": {
+      "a": "1 inch.",
+      "b": "0.1 inch.",
+      "c": "0.001 inch (1 mil).",
+      "d": "1 millimeter."
+    },
+    "answer": "c",
+    "correct_answer_text": "0.001 inch (1 mil)."
+  },
+  {
+    "id": 90,
+    "question": "To find the area in Circular Mils of a wire with a diameter d in mils, the formula is:",
+    "options": {
+      "a": "A=pi*d^2",
+      "b": "A=d^2",
+      "c": "A=(pi/4)*d^2",
+      "d": "A=2d"
+    },
+    "answer": "b",
+    "correct_answer_text": "A=d^2"
+  },
+  {
+    "id": 91,
+    "question": "Why do we use CMILS instead of square inches in electrical wiring calculations?",
+    "options": {
+      "a": "It simplifies calculations by removing the pi constant.",
+      "b": "It is more accurate for square conductors.",
+      "c": "It accounts for insulation thickness.",
+      "d": "It is a metric standard."
+    },
+    "answer": "a",
+    "correct_answer_text": "It simplifies calculations by removing the pi constant."
+  },
+  {
+    "id": 92,
+    "question": "If you have two wires of the same material, and Wire A is 10 AWG while Wire B is 20 AWG, which wire has higher resistance per foot?",
+    "options": {
+      "a": "Wire A",
+      "b": "Wire B",
+      "c": "They are equal.",
+      "d": "Cannot be determined without length."
+    },
+    "answer": "b",
+    "correct_answer_text": "Wire B"
+  },
+  {
+    "id": 93,
+    "question": "In a series circuit, which parameter remains constant across all components?",
+    "options": {
+      "a": "Voltage.",
+      "b": "Power.",
+      "c": "Current.",
+      "d": "Resistance."
+    },
+    "answer": "c",
+    "correct_answer_text": "Current."
+  },
+  {
+    "id": 94,
+    "question": "If one resistor in a parallel circuit is shorted, the total circuit resistance becomes:",
+    "options": {
+      "a": "Infinite.",
+      "b": "The average of the remaining resistors.",
+      "c": "Zero.",
+      "d": "The value of the smallest resistor."
+    },
+    "answer": "c",
+    "correct_answer_text": "Zero."
+  },
+  {
+    "id": 95,
+    "question": "In a parallel bank of resistors, the equivalent resistance is always:",
+    "options": {
+      "a": "Greater than the largest resistor.",
+      "b": "Equal to the average of all resistors.",
+      "c": "Smaller than the smallest resistor.",
+      "d": "The sum of all resistances."
+    },
+    "answer": "c",
+    "correct_answer_text": "Smaller than the smallest resistor."
+  },
+  {
+    "id": 96,
+    "question": "Adding more resistors in parallel to a voltage source will cause the total source current to:",
+    "options": {
+      "a": "Decrease.",
+      "b": "Increase.",
+      "c": "Stay the same.",
+      "d": "Drop to zero."
+    },
+    "answer": "b",
+    "correct_answer_text": "Increase."
+  },
+  {
+    "id": 97,
+    "question": "What happens to the total power dissipation in a series circuit if the total resistance is doubled while the source voltage remains constant?",
+    "options": {
+      "a": "Power doubles.",
+      "b": "Power quadruples.",
+      "c": "Power is halved.",
+      "d": "Power remains constant."
+    },
+    "answer": "c",
+    "correct_answer_text": "Power is halved."
+  },
+  {
+    "id": 98,
+    "question": "The Voltage Divider Rule is primarily applicable to:",
+    "options": {
+      "a": "Parallel circuits.",
+      "b": "Series circuits.",
+      "c": "Both series and parallel.",
+      "d": "Only circuits with active sources."
+    },
+    "answer": "b",
+    "correct_answer_text": "Series circuits."
+  },
+  {
+    "id": 99,
+    "question": "The Current Divider Rule states that in a two-branch parallel circuit, the current through one branch is:",
+    "options": {
+      "a": "Directly proportional to its own resistance.",
+      "b": "Inversely proportional to the total resistance.",
+      "c": "Proportional to the resistance of the opposite branch.",
+      "d": "Always half of the total current."
+    },
+    "answer": "c",
+    "correct_answer_text": "Proportional to the resistance of the opposite branch."
+  },
+  {
+    "id": 100,
+    "question": "Thevenin's Theorem states that any linear, bilateral DC network can be replaced by:",
+    "options": {
+      "a": "A current source in parallel with a resistor.",
+      "b": "A voltage source in series with a resistor.",
+      "c": "An ideal transformer.",
+      "d": "A single capacitor and inductor."
+    },
+    "answer": "b",
+    "correct_answer_text": "A voltage source in series with a resistor."
+  },
+  {
+    "id": 101,
+    "question": "To find the Thevenin Resistance (R_th), all independent voltage sources must be:",
+    "options": {
+      "a": "Opened.",
+      "b": "Shorted.",
+      "c": "Left as they are.",
+      "d": "Replaced by their internal resistance (usually shorted if ideal)."
+    },
+    "answer": "b",
+    "correct_answer_text": "Shorted."
+  },
+  {
+    "id": 102,
+    "question": "Norton's Theorem is the \"Dual\" of Thevenin's Theorem. It represents a circuit as:",
+    "options": {
+      "a": "A voltage source in series with a resistor.",
+      "b": "A current source in parallel with a resistor.",
+      "c": "A current source in series with a resistor.",
+      "d": "A voltage source in parallel with a resistor."
+    },
+    "answer": "b",
+    "correct_answer_text": "A current source in parallel with a resistor."
+  },
+  {
+    "id": 103,
+    "question": "The relationship between Thevenin voltage (V_th), Norton current (I_n), and Thevenin resistance (R_th) is:",
+    "options": {
+      "a": "V_th = In * R_th",
+      "b": "I_n = V_th * R_th",
+      "c": "R_th = V_th + In",
+      "d": "V_th = I_n / R_th"
+    },
+    "answer": "a",
+    "correct_answer_text": "V_th = In * R_th"
+  },
+  {
+    "id": 104,
+    "question": "The Superposition Theorem is only applicable to:",
+    "options": {
+      "a": "Non-linear circuits.",
+      "b": "Linear, bilateral circuits.",
+      "c": "Circuits with only one source.",
+      "d": "High-voltage AC circuits only."
+    },
+    "answer": "b",
+    "correct_answer_text": "Linear, bilateral circuits."
+  },
+  {
+    "id": 105,
+    "question": "When using Superposition to analyze a circuit with multiple sources, independent current sources are replaced by:",
+    "options": {
+      "a": "Short circuits.",
+      "b": "Open circuits.",
+      "c": "Their internal resistance.",
+      "d": "Ground."
+    },
+    "answer": "b",
+    "correct_answer_text": "Open circuits."
+  },
+  {
+    "id": 106,
+    "question": "Can Superposition be used to calculate total power in a circuit directly?",
+    "options": {
+      "a": "Yes, power is linear.",
+      "b": "No, because power has a squared relationship (I^2R or V^2/R) and is non-linear.",
+      "c": "Only if all resistors are equal.",
+      "d": "Only in parallel circuits."
+    },
+    "answer": "b",
+    "correct_answer_text": "No, because power has a squared relationship (I^2R or V^2/R) and is non-linear."
+  },
+  {
+    "id": 107,
+    "question": "The Maximum Power Transfer Theorem states that max power is delivered to a load when:",
+    "options": {
+      "a": "R_load = 0",
+      "b": "R_load is infinite.",
+      "c": "R_load = R_thevenin",
+      "d": "R_load = 2 * R_thevenin"
+    },
+    "answer": "c",
+    "correct_answer_text": "R_load = R_thevenin"
+  },
+  {
+    "id": 108,
+    "question": "Under the condition of Maximum Power Transfer, the efficiency of the system is:",
+    "options": {
+      "a": "100%",
+      "b": "75%",
+      "c": "50%",
+      "d": "25%"
+    },
+    "answer": "c",
+    "correct_answer_text": "50%"
+  },
+  {
+    "id": 109,
+    "question": "Millman's Theorem is most useful for:",
+    "options": {
+      "a": "Circuits with many series components.",
+      "b": "Circuits with several parallel voltage sources with internal resistances.",
+      "c": "Calculating power in non-linear loads.",
+      "d": "Resolving bridge circuits."
+    },
+    "answer": "b",
+    "correct_answer_text": "Circuits with several parallel voltage sources with internal resistances."
+  },
+  {
+    "id": 110,
+    "question": "According to Millman's Theorem, the common voltage across several parallel branches is the ratio of:",
+    "options": {
+      "a": "Total current to total resistance.",
+      "b": "Sum of short-circuit currents to sum of conductances.",
+      "c": "Total voltage to total number of branches.",
+      "d": "Product of all voltages."
+    },
+    "answer": "b",
+    "correct_answer_text": "Sum of short-circuit currents to sum of conductances."
+  },
+  {
+    "id": 111,
+    "question": "When applying Kirchhoff's Voltage Law (KVL), the algebraic sum of all voltages around any closed loop must be:",
+    "options": {
+      "a": "Equal to the source voltage.",
+      "b": "Zero.",
+      "c": "Infinite.",
+      "d": "Dependent on the current."
+    },
+    "answer": "b",
+    "correct_answer_text": "Zero."
+  },
+  {
+    "id": 112,
+    "question": "Kirchhoff's Current Law (KCL) is a reflection of the Law of Conservation of:",
+    "options": {
+      "a": "Energy.",
+      "b": "Momentum.",
+      "c": "Charge.",
+      "d": "Mass."
+    },
+    "answer": "c",
+    "correct_answer_text": "Charge."
+  },
+  {
+    "id": 113,
+    "question": "In a Bridge Circuit (Wheatstone), the bridge is said to be \"balanced\" when:",
+    "options": {
+      "a": "No current flows through the galvanometer/center branch.",
+      "b": "The current is maximum in all branches.",
+      "c": "All resistors are equal to 1 Ohm.",
+      "d": "The source voltage is zero."
+    },
+    "answer": "a",
+    "correct_answer_text": "No current flows through the galvanometer/center branch."
+  },
+  {
+    "id": 114,
+    "question": "To convert a Delta (Delta) network to a Wye (Y) network, the resistance of a branch in the Y network is the:",
+    "options": {
+      "a": "Sum of the adjacent Delta resistances.",
+      "b": "Product of the adjacent Delta resistances divided by the sum of all Delta resistances.",
+      "c": "Average of the Delta resistances.",
+      "d": "Square root of the Delta product."
+    },
+    "answer": "b",
+    "correct_answer_text": "Product of the adjacent Delta resistances divided by the sum of all Delta resistances."
+  },
+  {
+    "id": 115,
+    "question": "Reciprocity Theorem applies to networks that are:",
+    "options": {
+      "a": "Linear, bilateral, and have a single source.",
+      "b": "Non-linear and multi-source.",
+      "c": "Purely capacitive.",
+      "d": "Time-varying."
+    },
+    "answer": "a",
+    "correct_answer_text": "Linear, bilateral, and have a single source."
+  },
+  {
+    "id": 116,
+    "question": "An ideal voltage source has internal resistance equal to:",
+    "options": {
+      "a": "Infinity.",
+      "b": "One Ohm.",
+      "c": "Zero.",
+      "d": "100 Ohms."
+    },
+    "answer": "c",
+    "correct_answer_text": "Zero."
+  },
+  {
+    "id": 117,
+    "question": "An ideal current source has internal resistance equal to:",
+    "options": {
+      "a": "Infinity.",
+      "b": "Zero.",
+      "c": "One Ohm.",
+      "d": "Negative one."
+    },
+    "answer": "a",
+    "correct_answer_text": "Infinity."
+  },
+  {
+    "id": 118,
+    "question": "If you connect two identical ideal voltage sources in parallel with different voltage values:",
+    "options": {
+      "a": "The voltages add up.",
+      "b": "It violates KVL (and in reality, results in extremely high circulating current).",
+      "c": "The lower voltage prevails.",
+      "d": "The total voltage becomes the average."
+    },
+    "answer": "b",
+    "correct_answer_text": "It violates KVL (and in reality, results in extremely high circulating current)."
+  },
+  {
+    "id": 119,
+    "question": "Tellegen's Theorem states that the sum of power delivered in a network is:",
+    "options": {
+      "a": "Greater than the power absorbed.",
+      "b": "Always zero (Conservation of Energy).",
+      "c": "Equal to the square of the current.",
+      "d": "Independent of the components."
+    },
+    "answer": "b",
+    "correct_answer_text": "Always zero (Conservation of Energy)."
+  },
+  {
+    "id": 120,
+    "question": "What happens to the resistance of a wire if its length is doubled and its diameter is also doubled?",
+    "options": {
+      "a": "Resistance doubles.",
+      "b": "Resistance stays the same.",
+      "c": "Resistance is halved.",
+      "d": "Resistance is quartered."
+    },
+    "answer": "c",
+    "correct_answer_text": "Resistance is halved."
+  },
+  {
+    "id": 121,
+    "question": "The unit of Conductance (G) is:",
+    "options": {
+      "a": "Ohm.",
+      "b": "Siemens (or Mho).",
+      "c": "Farad.",
+      "d": "Henry."
+    },
+    "answer": "b",
+    "correct_answer_text": "Siemens (or Mho)."
+  },
+  {
+    "id": 122,
+    "question": "In a non-linear circuit, which of the following is true?",
+    "options": {
+      "a": "Ohm's Law is always strictly followed.",
+      "b": "The V-I characteristic is not a straight line.",
+      "c": "Superposition is always valid.",
+      "d": "Resistance is constant regardless of voltage."
+    },
+    "answer": "b",
+    "correct_answer_text": "The V-I characteristic is not a straight line."
+  },
+  {
+    "id": 123,
+    "question": "Substitution Theorem allows us to replace any branch in a network with:",
+    "options": {
+      "a": "Only a resistor.",
+      "b": "Only a voltage source.",
+      "c": "Any combination that maintains the same voltage and current at the branch terminals.",
+      "d": "A short circuit only."
+    },
+    "answer": "c",
+    "correct_answer_text": "Any combination that maintains the same voltage and current at the branch terminals."
+  },
+  {
+    "id": 124,
+    "question": "If a circuit is \"Bilateral,\" it means:",
+    "options": {
+      "a": "It only works with DC.",
+      "b": "It has two voltage sources.",
+      "c": "The properties are the same regardless of the direction of current flow.",
+      "d": "It can only be solved using Norton's Theorem."
+    },
+    "answer": "c",
+    "correct_answer_text": "The properties are the same regardless of the direction of current flow."
+  },
+  {
+    "id": 125,
+    "question": "Which theorem is most helpful in simplifying a complex network down to a single loop for the purpose of analyzing a varying load resistor?",
+    "options": {
+      "a": "Kirchhoff's Law.",
+      "b": "Thevenin's Theorem.",
+      "c": "Millman's Theorem.",
+      "d": "Reciprocity Theorem."
+    },
+    "answer": "b",
+    "correct_answer_text": "Thevenin's Theorem."
+  },
+  {
+    "id": 126,
+    "question": "The electric field strength at a point is defined as:",
+    "options": {
+      "a": "The potential energy per unit charge",
+      "b": "The force per unit positive charge",
+      "c": "The work done per unit charge",
+      "d": "The total charge enclosed"
+    },
+    "answer": "b",
+    "correct_answer_text": "The force per unit positive charge"
+  },
+  {
+    "id": 127,
+    "question": "Which of the following statements regarding electric field lines is incorrect?",
+    "options": {
+      "a": "They originate from positive charges and terminate on negative charges.",
+      "b": "They never intersect each other.",
+      "c": "They form closed loops in electrostatics.",
+      "d": "The density of lines represents the field strength."
+    },
+    "answer": "c",
+    "correct_answer_text": "They form closed loops in electrostatics."
+  },
+  {
+    "id": 128,
+    "question": "Gauss's Law states that the total electric flux leaving a closed surface is equal to:",
+    "options": {
+      "a": "The charge enclosed divided by permittivity (epsilon)",
+      "b": "The charge enclosed multiplied by permittivity (epsilon)",
+      "c": "The electric field times the area",
+      "d": "Zero, if the charge is outside"
+    },
+    "answer": "a",
+    "correct_answer_text": "The charge enclosed divided by permittivity (epsilon)"
+  },
+  {
+    "id": 129,
+    "question": "If a Gaussian surface encloses no net charge, the net electric flux through the surface is:",
+    "options": {
+      "a": "Infinite",
+      "b": "Proportional to the surface area",
+      "c": "Zero",
+      "d": "Equal to the external field intensity"
+    },
+    "answer": "c",
+    "correct_answer_text": "Zero"
+  },
+  {
+    "id": 130,
+    "question": "The electric field inside a hollow conducting sphere with charge Q on its surface is:",
+    "options": {
+      "a": "Q / (4pi epsilon r^2)",
+      "b": "Zero",
+      "c": "Infinite",
+      "d": "Uniform and non-zero"
+    },
+    "answer": "b",
+    "correct_answer_text": "Zero"
+  },
+  {
+    "id": 131,
+    "question": "The unit of Electric Field Strength is:",
+    "options": {
+      "a": "Volts/meter",
+      "b": "Newtons/Coulomb",
+      "c": "Both A and B",
+      "d": "Joules/Coulomb"
+    },
+    "answer": "c",
+    "correct_answer_text": "Both A and B"
+  },
+  {
+    "id": 132,
+    "question": "In a uniform electric field, an electric dipole experiences:",
+    "options": {
+      "a": "A net force but no torque",
+      "b": "A torque but no net force",
+      "c": "Both a force and a torque",
+      "d": "Neither a force nor a torque"
+    },
+    "answer": "b",
+    "correct_answer_text": "A torque but no net force"
+  },
+  {
+    "id": 133,
+    "question": "The electric flux density (D) is related to Electric Field intensity (E) by the equation:",
+    "options": {
+      "a": "D = E / epsilon",
+      "b": "D = epsilon * E",
+      "c": "v = epsilon / t",
+      "d": "D = E^2"
+    },
+    "answer": "b",
+    "correct_answer_text": "D = epsilon * E"
+  },
+  {
+    "id": 134,
+    "question": "Which quantity is a vector?",
+    "options": {
+      "a": "Electric Potential",
+      "b": "Electric Flux",
+      "c": "Electric Field Intensity",
+      "d": "Electric Charge"
+    },
+    "answer": "c",
+    "correct_answer_text": "Electric Field Intensity"
+  },
+  {
+    "id": 135,
+    "question": "When a dielectric material is introduced into an electric field, the field inside the dielectric:",
+    "options": {
+      "a": "Increases",
+      "b": "Remains the same",
+      "c": "Decreases due to polarization",
+      "d": "Becomes zero"
+    },
+    "answer": "c",
+    "correct_answer_text": "Decreases due to polarization"
+  },
+  {
+    "id": 136,
+    "question": "The dielectric constant (relative permittivity) of a metal is:",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "Finite but large",
+      "d": "Infinite"
+    },
+    "answer": "d",
+    "correct_answer_text": "Infinite"
+  },
+  {
+    "id": 137,
+    "question": "Polarization in a dielectric is defined as:",
+    "options": {
+      "a": "The alignment of dipoles in the direction of the field",
+      "b": "The flow of free electrons",
+      "c": "The creation of magnetic domains",
+      "d": "The breakdown of the material"
+    },
+    "answer": "a",
+    "correct_answer_text": "The alignment of dipoles in the direction of the field"
+  },
+  {
+    "id": 138,
+    "question": "The capacitance of a parallel plate capacitor depends on:",
+    "options": {
+      "a": "The charge on the plates",
+      "b": "The potential difference between plates",
+      "c": "The geometry and dielectric material",
+      "d": "The material of the conducting plates"
+    },
+    "answer": "c",
+    "correct_answer_text": "The geometry and dielectric material"
+  },
+  {
+    "id": 139,
+    "question": "If the distance between the plates of a capacitor is doubled, the capacitance:",
+    "options": {
+      "a": "Doubles",
+      "b": "Halves",
+      "c": "Remains the same",
+      "d": "Quadruples"
+    },
+    "answer": "b",
+    "correct_answer_text": "Halves"
+  },
+  {
+    "id": 140,
+    "question": "Energy stored in a capacitor is given by:",
+    "options": {
+      "a": "CV",
+      "b": "1/2 CV^2",
+      "c": "Q^2V",
+      "d": "1/2 QV^2"
+    },
+    "answer": "b",
+    "correct_answer_text": "1/2 CV^2"
+  },
+  {
+    "id": 142,
+    "question": "Two capacitors of capacitance C are connected in series. The equivalent capacitance is:",
+    "options": {
+      "a": "2C",
+      "b": "C",
+      "c": "C/2",
+      "d": "C^2"
+    },
+    "answer": "c",
+    "correct_answer_text": "C/2"
+  },
+  {
+    "id": 143,
+    "question": "When a dielectric slab is inserted into a charged capacitor (isolated), the potential difference across the plates:",
+    "options": {
+      "a": "Increases",
+      "b": "Decreases",
+      "c": "Remains unchanged",
+      "d": "Becomes zero"
+    },
+    "answer": "b",
+    "correct_answer_text": "Decreases"
+  },
+  {
+    "id": 144,
+    "question": "Which capacitor type is generally polarized and must be connected with correct polarity?",
+    "options": {
+      "a": "Ceramic",
+      "b": "Mica",
+      "c": "Electrolytic",
+      "d": "Paper"
+    },
+    "answer": "c",
+    "correct_answer_text": "Electrolytic"
+  },
+  {
+    "id": 145,
+    "question": "The breakdown voltage of a capacitor depends primarily on:",
+    "options": {
+      "a": "The plate area",
+      "b": "The dielectric strength of the material",
+      "c": "The plate material",
+      "d": "The frequency of operation"
+    },
+    "answer": "b",
+    "correct_answer_text": "The dielectric strength of the material"
+  },
+  {
+    "id": 146,
+    "question": "In a multi-plate capacitor with n plates, the effective number of capacitors is:",
+    "options": {
+      "a": "n",
+      "b": "n + 1",
+      "c": "n - 1",
+      "d": "2n"
+    },
+    "answer": "c",
+    "correct_answer_text": "n - 1"
+  },
+  {
+    "id": 147,
+    "question": "Current flows through a capacitor:",
+    "options": {
+      "a": "Only when DC is applied",
+      "b": "Only during charging or discharging (transient) or AC operation",
+      "c": "Continuously in a steady DC circuit",
+      "d": "Never"
+    },
+    "answer": "b",
+    "correct_answer_text": "Only during charging or discharging (transient) or AC operation"
+  },
+  {
+    "id": 148,
+    "question": "The time constant of an RC circuit represents the time taken for the voltage to reach approximately:",
+    "options": {
+      "a": "50% of the final value",
+      "b": "63.2% of the final value",
+      "c": "90% of the final value",
+      "d": "100% of the final value"
+    },
+    "answer": "b",
+    "correct_answer_text": "63.2% of the final value"
+  },
+  {
+    "id": 149,
+    "question": "The force of attraction between the plates of a charged parallel plate capacitor is:",
+    "options": {
+      "a": "Q^2 / (2 * epsilon * A)",
+      "b": "Q^2 / (epsilon * A)",
+      "c": "CV^2",
+      "d": "Independent of distance"
+    },
+    "answer": "a",
+    "correct_answer_text": "Q^2 / (2 * epsilon * A)"
+  },
+  {
+    "id": 150,
+    "question": "Surge arresters utilizing spark gaps often rely on the principle that:",
+    "options": {
+      "a": "Air has infinite dielectric strength",
+      "b": "Dielectric breakdown occurs at a specific high voltage, diverting current",
+      "c": "Capacitance decreases with voltage",
+      "d": "Magnetic fields block the surge"
+    },
+    "answer": "b",
+    "correct_answer_text": "Dielectric breakdown occurs at a specific high voltage, diverting current"
+  },
+  {
+    "id": 151,
+    "question": "The source of a static magnetic field is:",
+    "options": {
+      "a": "A stationary charge",
+      "b": "A moving charge or current",
+      "c": "A changing electric field (displacement current)",
+      "d": "Both B and C"
+    },
+    "answer": "b",
+    "correct_answer_text": "A moving charge or current"
+  },
+  {
+    "id": 152,
+    "question": "The unit of Magnetic Flux Density (B) is:",
+    "options": {
+      "a": "Weber",
+      "b": "Tesla",
+      "c": "Henry",
+      "d": "Ampere/meter"
+    },
+    "answer": "b",
+    "correct_answer_text": "Tesla"
+  },
+  {
+    "id": 153,
+    "question": "The magnetic field strength (H) inside a long solenoid is determined by:",
+    "options": {
+      "a": "The core material only",
+      "b": "The current and number of turns per unit length",
+      "c": "The length of the solenoid only",
+      "d": "The diameter of the solenoid"
+    },
+    "answer": "b",
+    "correct_answer_text": "The current and number of turns per unit length"
+  },
+  {
+    "id": 154,
+    "question": "The force on a charge q moving with velocity v parallel to a magnetic field B is:",
+    "options": {
+      "a": "qvB",
+      "b": "qB/v",
+      "c": "Zero",
+      "d": "qv^2B"
+    },
+    "answer": "c",
+    "correct_answer_text": "Zero"
+  },
+  {
+    "id": 155,
+    "question": "Lorentz Force is the vector sum of:",
+    "options": {
+      "a": "Gravitational and Magnetic force",
+      "b": "Electric and Magnetic force",
+      "c": "Potential and Kinetic force",
+      "d": "Centrifugal and Centripetal force"
+    },
+    "answer": "b",
+    "correct_answer_text": "Electric and Magnetic force"
+  },
+  {
+    "id": 156,
+    "question": "Two parallel wires carrying current in the same direction will:",
+    "options": {
+      "a": "Repel each other",
+      "b": "Attract each other",
+      "c": "Experience no force",
+      "d": "Rotate"
+    },
+    "answer": "b",
+    "correct_answer_text": "Attract each other"
+  },
+  {
+    "id": 157,
+    "question": "Biot-Savart's Law is analogous to which law in electrostatics?",
+    "options": {
+      "a": "Gauss's Law",
+      "b": "Coulomb's Law",
+      "c": "Ohm's Law",
+      "d": "Kirchhoff's Law"
+    },
+    "answer": "b",
+    "correct_answer_text": "Coulomb's Law"
+  },
+  {
+    "id": 158,
+    "question": "The magnetic field lines inside a solenoid travel:",
+    "options": {
+      "a": "From North to South",
+      "b": "From South to North",
+      "c": "Radially outward",
+      "d": "In circles perpendicular to the axis"
+    },
+    "answer": "b",
+    "correct_answer_text": "From South to North"
+  },
+  {
+    "id": 159,
+    "question": "Ampere's Circuital Law states that the line integral of H dl around a closed path is equal to:",
+    "options": {
+      "a": "The magnetic flux enclosed",
+      "b": "The current enclosed",
+      "c": "The voltage enclosed",
+      "d": "Zero"
+    },
+    "answer": "b",
+    "correct_answer_text": "The current enclosed"
+  },
+  {
+    "id": 160,
+    "question": "A charge moving perpendicular to a uniform magnetic field follows a:",
+    "options": {
+      "a": "Straight path",
+      "b": "Parabolic path",
+      "c": "Circular path",
+      "d": "Elliptical path"
+    },
+    "answer": "c",
+    "correct_answer_text": "Circular path"
+  },
+  {
+    "id": 161,
+    "question": "The force between two parallel conductors is Inversely proportional to:",
+    "options": {
+      "a": "The product of currents",
+      "b": "The distance between them",
+      "c": "The length of the conductors",
+      "d": "The radius of the wires"
+    },
+    "answer": "b",
+    "correct_answer_text": "The distance between them"
+  },
+  {
+    "id": 162,
+    "question": "Which material property corresponds to conductivity in electric circuits?",
+    "options": {
+      "a": "Reluctance",
+      "b": "Permeability",
+      "c": "Retentivity",
+      "d": "Coercivity"
+    },
+    "answer": "b",
+    "correct_answer_text": "Permeability"
+  },
+  {
+    "id": 163,
+    "question": "Magnetomotive Force (MMF) is measured in:",
+    "options": {
+      "a": "Volts",
+      "b": "Amperes",
+      "c": "Ampere-turns",
+      "d": "Webers"
+    },
+    "answer": "c",
+    "correct_answer_text": "Ampere-turns"
+  },
+  {
+    "id": 164,
+    "question": "Reluctance in a magnetic circuit is analogous to what in an electric circuit?",
+    "options": {
+      "a": "Voltage",
+      "b": "Current",
+      "c": "Resistance",
+      "d": "Conductance"
+    },
+    "answer": "c",
+    "correct_answer_text": "Resistance"
+  },
+  {
+    "id": 165,
+    "question": "The relation between Magnetic Flux (Phi), MMF (F), and Reluctance (R) is:",
+    "options": {
+      "a": "Phi = F * R",
+      "b": "F = Phi * R",
+      "c": "R = F * Phi",
+      "d": "Phi = R / F"
+    },
+    "answer": "b",
+    "correct_answer_text": "F = Phi * R"
+  },
+  {
+    "id": 166,
+    "question": "Magnetic leakage refers to:",
+    "options": {
+      "a": "Flux that stays within the core",
+      "b": "Flux that follows a path not intended for useful work",
+      "c": "The loss of magnetism due to heat",
+      "d": "The flow of eddy currents"
+    },
+    "answer": "b",
+    "correct_answer_text": "Flux that follows a path not intended for useful work"
+  },
+  {
+    "id": 167,
+    "question": "Fringing in a magnetic circuit (e.g., at an air gap):",
+    "options": {
+      "a": "Increases the flux density in the gap",
+      "b": "Decreases the effective area of the gap",
+      "c": "Increases the effective area of the gap",
+      "d": "Has no effect on reluctance"
+    },
+    "answer": "c",
+    "correct_answer_text": "Increases the effective area of the gap"
+  },
+  {
+    "id": 168,
+    "question": "Due to fringing, the flux density in the air gap is:",
+    "options": {
+      "a": "Slightly higher than in the core",
+      "b": "Slightly lower than in the core",
+      "c": "Exactly the same as in the core",
+      "d": "Zero"
+    },
+    "answer": "b",
+    "correct_answer_text": "Slightly lower than in the core"
+  },
+  {
+    "id": 169,
+    "question": "Permeance is the reciprocal of:",
+    "options": {
+      "a": "Permeability",
+      "b": "Reluctance",
+      "c": "Susceptance",
+      "d": "Admittance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Reluctance"
+  },
+  {
+    "id": 170,
+    "question": "Magnetic Susceptibility (X_m) is defined by the relation:",
+    "options": {
+      "a": "mu_r = 1 + X_m",
+      "b": "mu_r = X_m - 1",
+      "c": "X_m = mu_0 * mu_r",
+      "d": "X_m = 1/t"
+    },
+    "answer": "a",
+    "correct_answer_text": "mu_r = 1 + X_m"
+  },
+  {
+    "id": 171,
+    "question": "A material with a negative magnetic susceptibility is classified as:",
+    "options": {
+      "a": "Ferromagnetic",
+      "b": "Paramagnetic",
+      "c": "Diamagnetic",
+      "d": "Ferrimagnetic"
+    },
+    "answer": "c",
+    "correct_answer_text": "Diamagnetic"
+  },
+  {
+    "id": 172,
+    "question": "The unit of Magnetic Field Intensity (H) is:",
+    "options": {
+      "a": "Tesla",
+      "b": "Weber",
+      "c": "Ampere-turns/meter",
+      "d": "Henry/meter"
+    },
+    "answer": "c",
+    "correct_answer_text": "Ampere-turns/meter"
+  },
+  {
+    "id": 173,
+    "question": "In a series magnetic circuit, which quantity is constant throughout the circuit?",
+    "options": {
+      "a": "MMF",
+      "b": "Magnetic Field Intensity (H)",
+      "c": "Magnetic Flux (Phi)",
+      "d": "Reluctance"
+    },
+    "answer": "c",
+    "correct_answer_text": "Magnetic Flux (Phi)"
+  },
+  {
+    "id": 174,
+    "question": "The permeability of free space (mu_o) is approximately:",
+    "options": {
+      "a": "8.854 x 10^-12 F/m",
+      "b": "4pi x 10^-7 H/m",
+      "c": "9 x 10^9",
+      "d": "1.6 x 10^-19"
+    },
+    "answer": "b",
+    "correct_answer_text": "4pi x 10^-7 H/m"
+  },
+  {
+    "id": 175,
+    "question": "Kirchhoff's Voltage Law (KVL) in electric circuits corresponds to which law in magnetic circuits?",
+    "options": {
+      "a": "Conservation of Flux",
+      "b": "Ampere's Circuital Law",
+      "c": "Ohm's Law",
+      "d": "Faraday's Law"
+    },
+    "answer": "b",
+    "correct_answer_text": "Ampere's Circuital Law"
+  },
+  {
+    "id": 176,
+    "question": "Hysteresis loss is caused by:",
+    "options": {
+      "a": "The resistance of the coil wire",
+      "b": "Eddy currents circulating in the core",
+      "c": "Energy dissipated in reversing magnetic domains",
+      "d": "Mechanical vibrations"
+    },
+    "answer": "c",
+    "correct_answer_text": "Energy dissipated in reversing magnetic domains"
+  },
+  {
+    "id": 177,
+    "question": "The area of the B-H loop represents:",
+    "options": {
+      "a": "The permeability of the material",
+      "b": "The energy dissipated per unit volume per cycle",
+      "c": "The saturation flux density",
+      "d": "The coercive force"
+    },
+    "answer": "b",
+    "correct_answer_text": "The energy dissipated per unit volume per cycle"
+  },
+  {
+    "id": 178,
+    "question": "Retentivity is:",
+    "options": {
+      "a": "The amount of magnetism remaining after the external field is removed",
+      "b": "The field required to demagnetize the material",
+      "c": "The maximum flux density achievable",
+      "d": "The ease of magnetization"
+    },
+    "answer": "a",
+    "correct_answer_text": "The amount of magnetism remaining after the external field is removed"
+  },
+  {
+    "id": 179,
+    "question": "Coercivity refers to:",
+    "options": {
+      "a": "The flux density at saturation",
+      "b": "The reverse field intensity (H) required to reduce residual magnetism to zero",
+      "c": "The ratio of B to H",
+      "d": "The density of the material"
+    },
+    "answer": "b",
+    "correct_answer_text": "The reverse field intensity (H) required to reduce residual magnetism to zero"
+  },
+  {
+    "id": 180,
+    "question": "Which material is best suited for making permanent magnets?",
+    "options": {
+      "a": "Soft iron (Narrow hysteresis loop)",
+      "b": "Steel/Alnico (Broad hysteresis loop)",
+      "c": "Copper",
+      "d": "Silicon steel"
+    },
+    "answer": "b",
+    "correct_answer_text": "Steel/Alnico (Broad hysteresis loop)"
+  },
+  {
+    "id": 181,
+    "question": "Soft magnetic materials (like Silicon Steel) are used in transformers because they have:",
+    "options": {
+      "a": "High retentivity and high coercivity",
+      "b": "Low hysteresis loss (narrow B-H loop)",
+      "c": "Low permeability",
+      "d": "High eddy current loss"
+    },
+    "answer": "b",
+    "correct_answer_text": "Low hysteresis loss (narrow B-H loop)"
+  },
+  {
+    "id": 182,
+    "question": "Eddy current losses can be minimized by:",
+    "options": {
+      "a": "Using solid cores",
+      "b": "Using laminated cores",
+      "c": "Increasing the core thickness",
+      "d": "Using material with low resistivity"
+    },
+    "answer": "b",
+    "correct_answer_text": "Using laminated cores"
+  },
+  {
+    "id": 183,
+    "question": "The Curie temperature is the temperature at which:",
+    "options": {
+      "a": "A material melts",
+      "b": "A ferromagnetic material becomes paramagnetic",
+      "c": "Conductivity becomes zero",
+      "d": "Dielectric breakdown occurs"
+    },
+    "answer": "b",
+    "correct_answer_text": "A ferromagnetic material becomes paramagnetic"
+  },
+  {
+    "id": 184,
+    "question": "In a magnetic circuit with an air gap, most of the MMF is dropped across:",
+    "options": {
+      "a": "The iron core",
+      "b": "The air gap",
+      "c": "The coil resistance",
+      "d": "Distributed equally"
+    },
+    "answer": "b",
+    "correct_answer_text": "The air gap"
+  },
+  {
+    "id": 185,
+    "question": "Lightning arresters (Surge Diverters) are connected:",
+    "options": {
+      "a": "In series with the line",
+      "b": "In parallel between line and ground",
+      "c": "In series with the neutral",
+      "d": "Across the transformer windings"
+    },
+    "answer": "b",
+    "correct_answer_text": "In parallel between line and ground"
+  },
+  {
+    "id": 186,
+    "question": "A \"valve type\" arrester (like SiC or ZnO) works on the principle of:",
+    "options": {
+      "a": "Linear resistance",
+      "b": "Non-linear resistance (Resistance decreases as voltage increases)",
+      "c": "Constant impedance",
+      "d": "Inductive reactance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Non-linear resistance (Resistance decreases as voltage increases)"
+  },
+  {
+    "id": 187,
+    "question": "The property of a magnetic material to oppose the creation of magnetic flux in it is called:",
+    "options": {
+      "a": "Permeance",
+      "b": "Reluctance",
+      "c": "Conductance",
+      "d": "Inductance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Reluctance"
+  },
+  {
+    "id": 188,
+    "question": "If the current in a solenoid is doubled, the energy stored in the magnetic field:",
+    "options": {
+      "a": "Doubles",
+      "b": "Halves",
+      "c": "Quadruples",
+      "d": "Remains constant"
+    },
+    "answer": "c",
+    "correct_answer_text": "Quadruples"
+  },
+  {
+    "id": 189,
+    "question": "Hard magnetic materials are characterized by:",
+    "options": {
+      "a": "High Permeability",
+      "b": "Low Retentivity",
+      "c": "High Coercivity",
+      "d": "Zero Hysteresis loss"
+    },
+    "answer": "c",
+    "correct_answer_text": "High Coercivity"
+  },
+  {
+    "id": 190,
+    "question": "Mutual Inductance depends on:",
+    "options": {
+      "a": "The current in the primary coil only",
+      "b": "The geometry and orientation of the two coils relative to each other",
+      "c": "The resistance of the coils",
+      "d": "The voltage applied"
+    },
+    "answer": "b",
+    "correct_answer_text": "The geometry and orientation of the two coils relative to each other"
+  },
+  {
+    "id": 191,
+    "question": "The Steinmetz equation (W_h = eta * Bmax^1.6 * f * V) calculates:",
+    "options": {
+      "a": "Eddy current loss",
+      "b": "Hysteresis loss",
+      "c": "Copper loss",
+      "d": "Dielectric loss"
+    },
+    "answer": "b",
+    "correct_answer_text": "Hysteresis loss"
+  },
+  {
+    "id": 192,
+    "question": "The relationship B = mu * H is linear for:",
+    "options": {
+      "a": "Ferromagnetic materials",
+      "b": "Paramagnetic materials",
+      "c": "Free space / Air",
+      "d": "All materials"
+    },
+    "answer": "c",
+    "correct_answer_text": "Free space / Air"
+  },
+  {
+    "id": 193,
+    "question": "Magnetic saturation means:",
+    "options": {
+      "a": "The material has lost its magnetism",
+      "b": "Increasing H produces no significant increase in B",
+      "c": "The material has become a superconductor",
+      "d": "Eddy currents are maximum"
+    },
+    "answer": "b",
+    "correct_answer_text": "Increasing H produces no significant increase in B"
+  },
+  {
+    "id": 194,
+    "question": "Stacking factor in a laminated core is always:",
+    "options": {
+      "a": "Greater than 1",
+      "b": "Less than 1",
+      "c": "Equal to 1",
+      "d": "Zero"
+    },
+    "answer": "b",
+    "correct_answer_text": "Less than 1"
+  },
+  {
+    "id": 195,
+    "question": "Which of the following is an application of electromagnetic induction?",
+    "options": {
+      "a": "Capacitor",
+      "b": "Transformer",
+      "c": "Resistor",
+      "d": "Diode"
+    },
+    "answer": "b",
+    "correct_answer_text": "Transformer"
+  },
+  {
+    "id": 196,
+    "question": "In a magnetic circuit, the sum of fluxes entering a node is zero. This follows from:",
+    "options": {
+      "a": "Gauss's Law for Magnetism",
+      "b": "Faraday's Law",
+      "c": "Lenz's Law",
+      "d": "Coulomb's Law"
+    },
+    "answer": "a",
+    "correct_answer_text": "Gauss's Law for Magnetism"
+  },
+  {
+    "id": 197,
+    "question": "The force exerted by a magnetic field on a stationary charge is:",
+    "options": {
+      "a": "Infinite",
+      "b": "qvB",
+      "c": "Zero",
+      "d": "qE"
+    },
+    "answer": "c",
+    "correct_answer_text": "Zero"
+  },
+  {
+    "id": 198,
+    "question": "Susceptance (B) in AC circuits is the imaginary part of:",
+    "options": {
+      "a": "Impedance",
+      "b": "Admittance",
+      "c": "Reactance",
+      "d": "Conductance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Admittance"
+  },
+  {
+    "id": 199,
+    "question": "The \"knee\" of the magnetization curve corresponds to:",
+    "options": {
+      "a": "The origin",
+      "b": "The region where saturation begins",
+      "c": "The point of maximum retentivity",
+      "d": "The point of maximum coercivity"
+    },
+    "answer": "b",
+    "correct_answer_text": "The region where saturation begins"
+  },
+  {
+    "id": 200,
+    "question": "A magnetic blowout coil in a circuit breaker uses a magnetic field to:",
+    "options": {
+      "a": "Close the contacts faster",
+      "b": "Extinguish the arc by lengthening it",
+      "c": "Cool the contacts",
+      "d": "Increase the conductivity of the air"
+    },
+    "answer": "b",
+    "correct_answer_text": "Extinguish the arc by lengthening it"
+  },
+  {
+    "id": 201,
+    "question": "In a pure capacitive circuit, if the DC voltage is suddenly applied, the initial current is:",
+    "options": {
+      "a": "Zero",
+      "b": "Infinite (theoretically)",
+      "c": "Equal to V/R",
+      "d": "Steady state current"
+    },
+    "answer": "b",
+    "correct_answer_text": "Infinite (theoretically)"
+  },
+  {
+    "id": 202,
+    "question": "The time constant of an RL series circuit is defined as the time it takes for the current to reach what percentage of its final steady-state value?",
+    "options": {
+      "a": "36.8%",
+      "b": "50%",
+      "c": "63.2%",
+      "d": "90%"
+    },
+    "answer": "c",
+    "correct_answer_text": "63.2%"
+  },
+  {
+    "id": 203,
+    "question": "Which component opposes a sudden change in voltage?",
+    "options": {
+      "a": "Resistor",
+      "b": "Inductor",
+      "c": "Capacitor",
+      "d": "Transistor"
+    },
+    "answer": "c",
+    "correct_answer_text": "Capacitor"
+  },
+  {
+    "id": 204,
+    "question": "In an RC circuit, after a time equal to five time constants, the capacitor is considered to be:",
+    "options": {
+      "a": "63.2% charged",
+      "b": "50% charged",
+      "c": "Fully charged (99.3%)",
+      "d": "Fully discharged"
+    },
+    "answer": "c",
+    "correct_answer_text": "Fully charged (99.3%)"
+  },
+  {
+    "id": 205,
+    "question": "The transient response of a system is mainly due to:",
+    "options": {
+      "a": "Friction",
+      "b": "Voltage drops",
+      "c": "Energy storage elements",
+      "d": "Resistance"
+    },
+    "answer": "c",
+    "correct_answer_text": "Energy storage elements"
+  },
+  {
+    "id": 206,
+    "question": "An inductor acts as what at the exact instant (t = 0+) a DC source is connected?",
+    "options": {
+      "a": "Short circuit",
+      "b": "Open circuit",
+      "c": "Voltage source",
+      "d": "Resistor"
+    },
+    "answer": "b",
+    "correct_answer_text": "Open circuit"
+  },
+  {
+    "id": 207,
+    "question": "The \"steady state\" in a DC transient circuit is reached when:",
+    "options": {
+      "a": "t = 0",
+      "b": "t = 1 tau (time constant)",
+      "c": "t approaches infinity",
+      "d": "The voltage is removed"
+    },
+    "answer": "c",
+    "correct_answer_text": "t approaches infinity"
+  },
+  {
+    "id": 208,
+    "question": "In an RLC circuit, if the resistance is very high, the response will be:",
+    "options": {
+      "a": "Critically damped",
+      "b": "Underdamped",
+      "c": "Overdamped",
+      "d": "Oscillatory"
+    },
+    "answer": "c",
+    "correct_answer_text": "Overdamped"
+  },
+  {
+    "id": 209,
+    "question": "What is the unit of the time constant in an RL circuit?",
+    "options": {
+      "a": "Henry-Ohms",
+      "b": "Ohms/Henry",
+      "c": "Seconds",
+      "d": "Amperes"
+    },
+    "answer": "c",
+    "correct_answer_text": "Seconds"
+  },
+  {
+    "id": 210,
+    "question": "During the discharge of a capacitor through a resistor, the plot of voltage vs. time is:",
+    "options": {
+      "a": "Linear",
+      "b": "Parabolic",
+      "c": "Exponentially decaying",
+      "d": "Sinusoidal"
+    },
+    "answer": "c",
+    "correct_answer_text": "Exponentially decaying"
+  },
+  {
+    "id": 211,
+    "question": "Double energy transients occur in which type of circuit?",
+    "options": {
+      "a": "Purely resistive",
+      "b": "RL circuits",
+      "c": "RC circuits",
+      "d": "RLC circuits"
+    },
+    "answer": "d",
+    "correct_answer_text": "RLC circuits"
+  },
+  {
+    "id": 212,
+    "question": "In a series RL circuit, the rate of change of current is maximum at:",
+    "options": {
+      "a": "t = 0",
+      "b": "t = tau",
+      "c": "t = 5tau",
+      "d": "Steady state"
+    },
+    "answer": "a",
+    "correct_answer_text": "t = 0"
+  },
+  {
+    "id": 213,
+    "question": "Which of the following describes a \"critically damped\" system?",
+    "options": {
+      "a": "The system oscillates indefinitely.",
+      "b": "The system returns to equilibrium as quickly as possible without oscillating.",
+      "c": "The system takes a very long time to reach equilibrium.",
+      "d": "The voltage exceeds the source voltage."
+    },
+    "answer": "b",
+    "correct_answer_text": "The system returns to equilibrium as quickly as possible without oscillating."
+  },
+  {
+    "id": 214,
+    "question": "The energy stored in a capacitor during the transient period is in the form of:",
+    "options": {
+      "a": "Magnetic field",
+      "b": "Electrostatic field",
+      "c": "Thermal energy",
+      "d": "Kinetic energy"
+    },
+    "answer": "b",
+    "correct_answer_text": "Electrostatic field"
+  },
+  {
+    "id": 215,
+    "question": "If the resistance in an RC circuit is doubled, the time constant will:",
+    "options": {
+      "a": "Be halved",
+      "b": "Be doubled",
+      "c": "Remain the same",
+      "d": "Quadruple"
+    },
+    "answer": "b",
+    "correct_answer_text": "Be doubled"
+  },
+  {
+    "id": 216,
+    "question": "At t = 0+, a capacitor with no initial charge behaves like a:",
+    "options": {
+      "a": "Short circuit",
+      "b": "Open circuit",
+      "c": "Constant current source",
+      "d": "Resistor"
+    },
+    "answer": "a",
+    "correct_answer_text": "Short circuit"
+  },
+  {
+    "id": 217,
+    "question": "Switching transients are most severe when the circuit is:",
+    "options": {
+      "a": "Highly resistive",
+      "b": "Highly inductive",
+      "c": "Purely capacitive",
+      "d": "Disconnected from ground"
+    },
+    "answer": "b",
+    "correct_answer_text": "Highly inductive"
+  },
+  {
+    "id": 218,
+    "question": "The mathematical expression for the time constant of an RL circuit is:",
+    "options": {
+      "a": "RC",
+      "b": "L/R",
+      "c": "R/L",
+      "d": "1/(LC)"
+    },
+    "answer": "b",
+    "correct_answer_text": "L/R"
+  },
+  {
+    "id": 219,
+    "question": "The damping ratio (zeta) in an RLC circuit determines:",
+    "options": {
+      "a": "The frequency of the source",
+      "b": "The decay rate of the oscillations",
+      "c": "The maximum voltage capacity",
+      "d": "The power factor"
+    },
+    "answer": "b",
+    "correct_answer_text": "The decay rate of the oscillations"
+  },
+  {
+    "id": 220,
+    "question": "When a DC supply is removed from an RL circuit and the circuit is shorted, the magnetic energy is:",
+    "options": {
+      "a": "Dissipated as heat in the resistor",
+      "b": "Returned to the source",
+      "c": "Stored forever in the inductor",
+      "d": "Converted into electrostatic energy"
+    },
+    "answer": "a",
+    "correct_answer_text": "Dissipated as heat in the resistor"
+  },
+  {
+    "id": 221,
+    "question": "DC generators work on the principle of:",
+    "options": {
+      "a": "Faraday's Law",
+      "b": "Lenz's Law",
+      "c": "Ohm's Law",
+      "d": "Kirchhoff's Law"
+    },
+    "answer": "a",
+    "correct_answer_text": "Faraday's Law of Electromagnetic Induction"
+  },
+  {
+    "id": 222,
+    "question": "The function of the commutator in a DC generator is to:",
+    "options": {
+      "a": "Reduce friction",
+      "b": "Collect current from the armature",
+      "c": "Convert internal AC to external DC",
+      "d": "Increase the magnetic field strength"
+    },
+    "answer": "c",
+    "correct_answer_text": "Convert internal AC to external DC"
+  },
+  {
+    "id": 223,
+    "question": "The armature of a DC generator is laminated to reduce:",
+    "options": {
+      "a": "Hysteresis loss",
+      "b": "Eddy current loss",
+      "c": "Copper loss",
+      "d": "Friction loss"
+    },
+    "answer": "b",
+    "correct_answer_text": "Eddy current loss"
+  },
+  {
+    "id": 224,
+    "question": "Which type of DC generator is most suitable for arc welding?",
+    "options": {
+      "a": "Series generator",
+      "b": "Shunt generator",
+      "c": "Differential compound generator",
+      "d": "Cumulative compound generator"
+    },
+    "answer": "c",
+    "correct_answer_text": "Differential compound generator"
+  },
+  {
+    "id": 225,
+    "question": "The voltage regulation of a DC generator is best in which type?",
+    "options": {
+      "a": "Series",
+      "b": "Shunt",
+      "c": "Over-compounded",
+      "d": "Flat-compounded"
+    },
+    "answer": "d",
+    "correct_answer_text": "Flat-compounded"
+  },
+  {
+    "id": 226,
+    "question": "Residual magnetism is necessary for the operation of which generator?",
+    "options": {
+      "a": "Separately excited",
+      "b": "Self-excited",
+      "c": "Both A and B",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "correct_answer_text": "Self-excited"
+  },
+  {
+    "id": 227,
+    "question": "In a DC generator, the actual current produced in the armature conductors is:",
+    "options": {
+      "a": "AC",
+      "b": "DC",
+      "c": "Pulsating DC",
+      "d": "Purely sinusoidal DC"
+    },
+    "answer": "a",
+    "correct_answer_text": "AC"
+  },
+  {
+    "id": 228,
+    "question": "Armature reaction in a DC generator results in:",
+    "options": {
+      "a": "Demagnetization of main poles",
+      "b": "Cross-magnetization of main poles",
+      "c": "Both A and B",
+      "d": "Increase in terminal voltage"
+    },
+    "answer": "c",
+    "correct_answer_text": "Both A and B"
+  },
+  {
+    "id": 229,
+    "question": "To neutralize the cross-magnetizing effect of armature reaction, we use:",
+    "options": {
+      "a": "Interpoles",
+      "b": "Compensating windings",
+      "c": "Shunt field",
+      "d": "Thicker brushes"
+    },
+    "answer": "b",
+    "correct_answer_text": "Compensating windings"
+  },
+  {
+    "id": 230,
+    "question": "Interpoles are primarily used to:",
+    "options": {
+      "a": "Increase the speed",
+      "b": "Reduce sparking at the brushes",
+      "c": "Increase generated EMF",
+      "d": "Strengthen the main field"
+    },
+    "answer": "b",
+    "correct_answer_text": "Reduce sparking at the brushes"
+  },
+  {
+    "id": 231,
+    "question": "The critical resistance of a DC shunt generator refers to the resistance of the:",
+    "options": {
+      "a": "Armature",
+      "b": "Field circuit",
+      "c": "Load",
+      "d": "Brushes"
+    },
+    "answer": "b",
+    "correct_answer_text": "Field circuit"
+  },
+  {
+    "id": 232,
+    "question": "A series generator is rarely used for power supply because:",
+    "options": {
+      "a": "Its terminal voltage varies wildly with load",
+      "b": "It has low efficiency",
+      "c": "It cannot be self-excited",
+      "d": "It requires a battery for excitation"
+    },
+    "answer": "a",
+    "correct_answer_text": "Its terminal voltage varies wildly with load"
+  },
+  {
+    "id": 233,
+    "question": "The \"building up\" of voltage in a DC shunt generator fails if:",
+    "options": {
+      "a": "Field resistance is less than critical resistance",
+      "b": "Speed is higher than rated",
+      "c": "There is no residual magnetism",
+      "d": "Brushes are in the MNA"
+    },
+    "answer": "c",
+    "correct_answer_text": "There is no residual magnetism"
+  },
+  {
+    "id": 234,
+    "question": "In a DC generator, the brushes are made of carbon because:",
+    "options": {
+      "a": "It is a soft material and reduces wear on the commutator",
+      "b": "It has a negative temperature coefficient of resistance",
+      "c": "It provides self-lubrication",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "id": 235,
+    "question": "The polarity of a DC generator can be reversed by:",
+    "options": {
+      "a": "Reversing the field current",
+      "b": "Reversing the direction of rotation",
+      "c": "Both A or B",
+      "d": "Increasing the speed"
+    },
+    "answer": "c",
+    "correct_answer_text": "Both A or B"
+  },
+  {
+    "id": 236,
+    "question": "For a given number of poles and conductors, which winding gives a higher voltage?",
+    "options": {
+      "a": "Lap winding",
+      "b": "Wave winding",
+      "c": "Duplex lap winding",
+      "d": "Parallel winding"
+    },
+    "answer": "b",
+    "correct_answer_text": "Wave winding"
+  },
+  {
+    "id": 237,
+    "question": "The yoke of a DC machine is usually made of:",
+    "options": {
+      "a": "Copper",
+      "b": "Cast iron or steel",
+      "c": "Aluminum",
+      "d": "Carbon"
+    },
+    "answer": "b",
+    "correct_answer_text": "Cast iron or steel"
+  },
+  {
+    "id": 238,
+    "question": "The number of parallel paths in a simplex lap-wound generator with 4 poles is:",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "8",
+      "d": "1"
+    },
+    "answer": "b",
+    "correct_answer_text": "4"
+  },
+  {
+    "id": 239,
+    "question": "The purpose of the pole shoe is to:",
+    "options": {
+      "a": "Support the field coils",
+      "b": "Spread the magnetic flux uniformly",
+      "c": "Reduce magnetic reluctance",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "id": 240,
+    "question": "If a DC shunt generator is driven in the reverse direction:",
+    "options": {
+      "a": "It will produce higher voltage",
+      "b": "It will fail to build up voltage",
+      "c": "It will burn out",
+      "d": "Its polarity will remain the same"
+    },
+    "answer": "b",
+    "correct_answer_text": "It will fail to build up voltage"
+  },
+  {
+    "id": 241,
+    "question": "Iron losses in a DC generator occur in the:",
+    "options": {
+      "a": "Yoke",
+      "b": "Commutator",
+      "c": "Armature core",
+      "d": "Field poles"
+    },
+    "answer": "c",
+    "correct_answer_text": "Armature core"
+  },
+  {
+    "id": 242,
+    "question": "Copper loss in a DC generator occurs in the:",
+    "options": {
+      "a": "Shaft",
+      "b": "Windings",
+      "c": "Bearings",
+      "d": "Lamination"
+    },
+    "answer": "b",
+    "correct_answer_text": "Windings"
+  },
+  {
+    "id": 243,
+    "question": "A shunt generator used for battery charging should have:",
+    "options": {
+      "a": "High voltage regulation",
+      "b": "Drooping characteristics",
+      "c": "Rising characteristics",
+      "d": "Constant speed"
+    },
+    "answer": "b",
+    "correct_answer_text": "Drooping characteristics"
+  },
+  {
+    "id": 244,
+    "question": "Sparking at the brushes of a DC generator may be caused by:",
+    "options": {
+      "a": "Dirty commutator",
+      "b": "Incorrect brush position",
+      "c": "Short-circuited armature coils",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "id": 245,
+    "question": "Which generator has the poorest voltage regulation?",
+    "options": {
+      "a": "Shunt",
+      "b": "Series",
+      "c": "Compound",
+      "d": "Separately excited"
+    },
+    "answer": "b",
+    "correct_answer_text": "Series"
+  },
+  {
+    "id": 246,
+    "question": "The direction of rotation of a DC motor is determined by:",
+    "options": {
+      "a": "Fleming's Right Hand Rule",
+      "b": "Fleming's Left Hand Rule",
+      "c": "Lenz's Law",
+      "d": "Maxwell's Rule"
+    },
+    "answer": "b",
+    "correct_answer_text": "Fleming's Left Hand Rule"
+  },
+  {
+    "id": 247,
+    "question": "Back EMF (Eb) in a DC motor:",
+    "options": {
+      "a": "Opposes the applied voltage",
+      "b": "Aids the applied voltage",
+      "c": "Is zero at rated speed",
+      "d": "Helps in the conversion of mechanical to electrical energy"
+    },
+    "answer": "a",
+    "correct_answer_text": "Opposes the applied voltage"
+  },
+  {
+    "id": 248,
+    "question": "When the speed of a DC motor increases, the back EMF:",
+    "options": {
+      "a": "Decreases",
+      "b": "Increases",
+      "c": "Remains constant",
+      "d": "Becomes zero"
+    },
+    "answer": "b",
+    "correct_answer_text": "Increases"
+  },
+  {
+    "id": 249,
+    "question": "The torque of a DC series motor is proportional to:",
+    "options": {
+      "a": "Armature current (Ia)",
+      "b": "Square of armature current (Ia^2)",
+      "c": "Cube of armature current (Ia^3)",
+      "d": "Inverse of armature current"
+    },
+    "answer": "b",
+    "correct_answer_text": "Square of armature current (Ia^2)"
+  },
+  {
+    "id": 250,
+    "question": "DC series motors are used for electric traction because:",
+    "options": {
+      "a": "They have high starting torque",
+      "b": "They are constant speed motors",
+      "c": "They are cheap",
+      "d": "They require no starters"
+    },
+    "answer": "a",
+    "correct_answer_text": "They have high starting torque"
+  },
+  {
+    "id": 251,
+    "question": "What happens if a DC series motor is started without load?",
+    "options": {
+      "a": "It will not start.",
+      "b": "It will reach dangerously high speeds.",
+      "c": "It will draw heavy current and burn.",
+      "d": "It will run at its rated speed."
+    },
+    "answer": "b",
+    "correct_answer_text": "It will reach dangerously high speeds."
+  },
+  {
+    "id": 252,
+    "question": "The speed of a DC shunt motor can be increased above rated speed by:",
+    "options": {
+      "a": "Increasing the field current",
+      "b": "Decreasing the field current",
+      "c": "Decreasing the armature resistance",
+      "d": "Increasing the load"
+    },
+    "answer": "b",
+    "correct_answer_text": "Decreasing the field current"
+  },
+  {
+    "id": 253,
+    "question": "The speed of a DC motor is inversely proportional to:",
+    "options": {
+      "a": "Applied voltage",
+      "b": "Flux per pole",
+      "c": "Armature current",
+      "d": "Number of poles"
+    },
+    "answer": "b",
+    "correct_answer_text": "Flux per pole"
+  },
+  {
+    "id": 254,
+    "question": "A starter is necessary to start a DC motor because:",
+    "options": {
+      "a": "It increases the starting torque.",
+      "b": "It limits the high starting armature current.",
+      "c": "It protects the motor from overvoltage.",
+      "d": "It helps the motor to reach full speed quickly."
+    },
+    "answer": "b",
+    "correct_answer_text": "It limits the high starting armature current."
+  },
+  {
+    "id": 255,
+    "question": "The function of the 'No-volt release' coil in a DC starter is:",
+    "options": {
+      "a": "To disconnect the motor when the supply fails.",
+      "b": "To protect the motor against overload.",
+      "c": "To limit the current.",
+      "d": "To control the speed."
+    },
+    "answer": "a",
+    "correct_answer_text": "To disconnect the motor when the supply fails."
+  },
+  {
+    "id": 256,
+    "question": "In Ward-Leonard speed control, the speed of the motor is controlled by varying:",
+    "options": {
+      "a": "Field of the motor",
+      "b": "Armature resistance of the motor",
+      "c": "Supply voltage to the motor armature",
+      "d": "Frequency"
+    },
+    "answer": "c",
+    "correct_answer_text": "Supply voltage to the motor armature"
+  },
+  {
+    "id": 257,
+    "question": "Which motor is used for driving a constant speed fan or lathe?",
+    "options": {
+      "a": "Series motor",
+      "b": "Shunt motor",
+      "c": "Differential compound motor",
+      "d": "Cumulative compound motor"
+    },
+    "answer": "b",
+    "correct_answer_text": "Shunt motor"
+  },
+  {
+    "id": 258,
+    "question": "During \"Plugging\" in a DC motor:",
+    "options": {
+      "a": "The armature is disconnected and shorted.",
+      "b": "The armature connections are reversed.",
+      "c": "The field connections are reversed.",
+      "d": "The motor acts as a generator."
+    },
+    "answer": "b",
+    "correct_answer_text": "The armature connections are reversed."
+  },
+  {
+    "id": 259,
+    "question": "If the field of a running DC shunt motor suddenly opens:",
+    "options": {
+      "a": "The motor stops immediately.",
+      "b": "The motor runs at dangerously high speed.",
+      "c": "The motor speed reduces.",
+      "d": "The motor polarity reverses."
+    },
+    "answer": "b",
+    "correct_answer_text": "The motor runs at dangerously high speed."
+  },
+  {
+    "id": 260,
+    "question": "\"Commutation\" in DC motors refers to:",
+    "options": {
+      "a": "Speed control",
+      "b": "The process of reversing current in the armature coils",
+      "c": "Cooling of the motor",
+      "d": "Magnetic saturation"
+    },
+    "answer": "b",
+    "correct_answer_text": "The process of reversing current in the armature coils"
+  },
+  {
+    "id": 261,
+    "question": "The mechanical power developed in a DC motor is maximum when:",
+    "options": {
+      "a": "Eb = V",
+      "b": "Eb = V/2",
+      "c": "Eb = 0",
+      "d": "Eb = 2V"
+    },
+    "answer": "b",
+    "correct_answer_text": "Eb = V/2"
+  },
+  {
+    "id": 262,
+    "question": "The efficiency of a DC motor is maximum when:",
+    "options": {
+      "a": "Variable losses = Constant losses",
+      "b": "Copper losses = 0",
+      "c": "Iron losses = 0",
+      "d": "It runs at no load"
+    },
+    "answer": "a",
+    "correct_answer_text": "Variable losses = Constant losses"
+  },
+  {
+    "id": 263,
+    "question": "Swinburne's test is performed at:",
+    "options": {
+      "a": "Full load",
+      "b": "No load",
+      "c": "Half load",
+      "d": "Variable load"
+    },
+    "answer": "b",
+    "correct_answer_text": "No load"
+  },
+  {
+    "id": 264,
+    "question": "The speed-torque characteristic of a DC shunt motor is:",
+    "options": {
+      "a": "A straight line through the origin",
+      "b": "A rectangular hyperbola",
+      "c": "Slightly drooping",
+      "d": "Parabolic"
+    },
+    "answer": "c",
+    "correct_answer_text": "Slightly drooping"
+  },
+  {
+    "id": 265,
+    "question": "Which motor is used in heavy duty rolling mills?",
+    "options": {
+      "a": "Shunt motor",
+      "b": "Series motor",
+      "c": "Cumulative compound motor",
+      "d": "Differential compound motor"
+    },
+    "answer": "c",
+    "correct_answer_text": "Cumulative compound motor"
+  },
+  {
+    "id": 266,
+    "question": "What is the common cause of brush vibration?",
+    "options": {
+      "a": "High commutator mica",
+      "b": "Loose brush holders",
+      "c": "Commutator eccentricity",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "id": 267,
+    "question": "Troubleshooting: If a DC motor fails to start, the first thing to check is:",
+    "options": {
+      "a": "The condition of the bearings",
+      "b": "The supply voltage and fuses",
+      "c": "The armature winding",
+      "d": "The commutator surface"
+    },
+    "answer": "b",
+    "correct_answer_text": "The supply voltage and fuses"
+  },
+  {
+    "id": 268,
+    "question": "Small holes in the commutator or \"pitting\" is usually a sign of:",
+    "options": {
+      "a": "Over-speeding",
+      "b": "Sparking",
+      "c": "Over-lubrication",
+      "d": "High humidity"
+    },
+    "answer": "b",
+    "correct_answer_text": "Sparking"
+  },
+  {
+    "id": 269,
+    "question": "A motor that runs too hot may be caused by:",
+    "options": {
+      "a": "Overload",
+      "b": "Lack of ventilation",
+      "c": "Short-circuited armature coils",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "id": 270,
+    "question": "In a 3-point starter, the 'Overload Release' coil is connected in:",
+    "options": {
+      "a": "Parallel with the field",
+      "b": "Series with the line",
+      "c": "Parallel with the armature",
+      "d": "Series with the field"
+    },
+    "answer": "b",
+    "correct_answer_text": "Series with the line"
+  },
+  {
+    "id": 271,
+    "question": "Which speed control method is the most efficient?",
+    "options": {
+      "a": "Rheostatic control",
+      "b": "Voltage control",
+      "c": "Field control",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "correct_answer_text": "Voltage control"
+  },
+  {
+    "id": 272,
+    "question": "The back EMF of a motor is 200 V and the supply is 220 V. If the armature resistance is 0.5 ohm, what is the armature current?",
+    "options": {
+      "a": "40 A",
+      "b": "20 A",
+      "c": "440 A",
+      "d": "10 A"
+    },
+    "answer": "a",
+    "correct_answer_text": "40 A"
+  },
+  {
+    "id": 273,
+    "question": "DC motors are generally not used in residential homes because:",
+    "options": {
+      "a": "They are dangerous.",
+      "b": "Residential supply is AC.",
+      "c": "They are too noisy.",
+      "d": "They cannot be turned off easily."
+    },
+    "answer": "b",
+    "correct_answer_text": "Residential supply is AC."
+  },
+  {
+    "id": 274,
+    "question": "Permanent magnet DC (PMDC) motors are commonly used in:",
+    "options": {
+      "a": "Locomotives",
+      "b": "Toys and small appliances",
+      "c": "Large cranes",
+      "d": "Elevator systems"
+    },
+    "answer": "b",
+    "correct_answer_text": "Toys and small appliances"
+  },
+  {
+    "id": 275,
+    "question": "The direction of rotation of a DC shunt motor can be reversed by:",
+    "options": {
+      "a": "Reversing the supply terminals",
+      "b": "Reversing either the field or armature terminals",
+      "c": "Reversing both the field and armature terminals",
+      "d": "Adding resistance to the armature"
+    },
+    "answer": "b",
+    "correct_answer_text": "Reversing either the field or armature terminals"
+  },
+  {
+    "id": 276,
+    "question": "The unit of Luminous Flux is:",
+    "options": {
+      "a": "Candela",
+      "b": "Lux",
+      "c": "Lumen",
+      "d": "Steradian"
+    },
+    "answer": "c",
+    "correct_answer_text": "Lumen"
+  },
+  {
+    "id": 277,
+    "question": "One Lux is equal to:",
+    "options": {
+      "a": "One lumen per square meter",
+      "b": "One candela per square meter",
+      "c": "One lumen per steradian",
+      "d": "One foot-candle"
+    },
+    "answer": "a",
+    "correct_answer_text": "One lumen per square meter"
+  },
+  {
+    "id": 278,
+    "question": "MSCP stands for:",
+    "options": {
+      "a": "Mean Spherical Candle Power",
+      "b": "Maximum Standard Candle Power",
+      "c": "Mean Surface Candle Power",
+      "d": "Minimum Standard Candle Power"
+    },
+    "answer": "a",
+    "correct_answer_text": "Mean Spherical Candle Power"
+  },
+  {
+    "id": 279,
+    "question": "The ratio of total lumens reaching the working plane to the total lumens emitted by the source is called:",
+    "options": {
+      "a": "Depreciation factor",
+      "b": "Maintenance factor",
+      "c": "Coefficient of Utilization",
+      "d": "Reflection factor"
+    },
+    "answer": "c",
+    "correct_answer_text": "Coefficient of Utilization"
+  },
+  {
+    "id": 280,
+    "question": "The Maintenance Factor (MF) accounts for:",
+    "options": {
+      "a": "Aging of the lamps",
+      "b": "Dust and dirt accumulation on luminaires",
+      "c": "Both A and B",
+      "d": "The cost of electricity"
+    },
+    "answer": "c",
+    "correct_answer_text": "Both A and B"
+  },
+  {
+    "id": 281,
+    "question": "The inverse square law of illumination states that illumination is inversely proportional to:",
+    "options": {
+      "a": "Distance",
+      "b": "Square of the distance",
+      "c": "Luminous intensity",
+      "d": "Angle of incidence"
+    },
+    "answer": "b",
+    "correct_answer_text": "Square of the distance"
+  },
+  {
+    "id": 282,
+    "question": "What is the standard unit of Luminous Intensity?",
+    "options": {
+      "a": "Lumen",
+      "b": "Candela",
+      "c": "Lux",
+      "d": "Nit"
+    },
+    "answer": "b",
+    "correct_answer_text": "Candela"
+  },
+  {
+    "id": 283,
+    "question": "A \"luminaire\" is defined as:",
+    "options": {
+      "a": "Just the light bulb",
+      "b": "The complete lighting unit including lamp and housing",
+      "c": "The electrical circuit for lighting",
+      "d": "A decorative light fixture only"
+    },
+    "answer": "b",
+    "correct_answer_text": "The complete lighting unit including lamp and housing"
+  },
+  {
+    "id": 284,
+    "question": "Which lighting system is most efficient for high-ceiling industrial warehouses?",
+    "options": {
+      "a": "Incandescent",
+      "b": "Fluorescent",
+      "c": "LED High Bay",
+      "d": "Mercury Vapor"
+    },
+    "answer": "c",
+    "correct_answer_text": "LED High Bay"
+  },
+  {
+    "id": 285,
+    "question": "What does \"CCT\" stand for in LED lighting?",
+    "options": {
+      "a": "Color Controlled Temperature",
+      "b": "Correlated Color Temperature",
+      "c": "Constant Current Technology",
+      "d": "Circuit Color Test"
+    },
+    "answer": "b",
+    "correct_answer_text": "Correlated Color Temperature"
+  },
+  {
+    "id": 286,
+    "question": "According to the Philippine Electrical Code (PEC) or OSH standards, the recommended illumination for general office work is approximately:",
+    "options": {
+      "a": "50 lux",
+      "b": "100 lux",
+      "c": "500 lux",
+      "d": "2000 lux"
+    },
+    "answer": "c",
+    "correct_answer_text": "500 lux"
+  },
+  {
+    "id": 287,
+    "question": "Depreciation Factor is the reciprocal of:",
+    "options": {
+      "a": "Utilization factor",
+      "b": "Maintenance factor",
+      "c": "Space-height ratio",
+      "d": "Reflection factor"
+    },
+    "answer": "b",
+    "correct_answer_text": "Maintenance factor"
+  },
+  {
+    "id": 288,
+    "question": "Street lighting usually employs which type of lamp due to high efficiency and long life?",
+    "options": {
+      "a": "Halogen",
+      "b": "LED or High-Pressure Sodium",
+      "c": "Incandescent",
+      "d": "Neon"
+    },
+    "answer": "b",
+    "correct_answer_text": "LED or High-Pressure Sodium"
+  },
+  {
+    "id": 289,
+    "question": "Flood lighting is used for:",
+    "options": {
+      "a": "Indoor reading",
+      "b": "Illuminating large outdoor areas or building facades",
+      "c": "Small showcases",
+      "d": "Night lights in bedrooms"
+    },
+    "answer": "b",
+    "correct_answer_text": "Illuminating large outdoor areas or building facades"
+  },
+  {
+    "id": 290,
+    "question": "In illumination design, the \"Space-Height Ratio\" is the ratio of:",
+    "options": {
+      "a": "Horizontal distance between lamps to mounting height",
+      "b": "Height of lamp to its wattage",
+      "c": "Floor area to number of lamps",
+      "d": "Lumen output to floor area"
+    },
+    "answer": "a",
+    "correct_answer_text": "Horizontal distance between lamps to mounting height"
+  },
+  {
+    "id": 291,
+    "question": "What is the CRI (Color Rendering Index)?",
+    "options": {
+      "a": "The brightness of the lamp",
+      "b": "The measure of how accurately a light source reveals colors",
+      "c": "The energy efficiency rating",
+      "d": "The lifespan of the LED"
+    },
+    "answer": "b",
+    "correct_answer_text": "The measure of how accurately a light source reveals colors"
+  },
+  {
+    "id": 292,
+    "question": "Which of the following has the highest luminous efficacy (lumens per watt)?",
+    "options": {
+      "a": "Incandescent lamp",
+      "b": "Mercury vapor lamp",
+      "c": "LED lamp",
+      "d": "Fluorescent lamp"
+    },
+    "answer": "c",
+    "correct_answer_text": "LED lamp"
+  },
+  {
+    "id": 293,
+    "question": "Philippine Standards: The \"Philippine Green Building Code\" encourages the use of what to reduce lighting energy?",
+    "options": {
+      "a": "Higher wattage lamps.",
+      "b": "Daylighting and occupancy sensors",
+      "c": "Darker wall paints",
+      "d": "Incandescent bulbs"
+    },
+    "answer": "b",
+    "correct_answer_text": "Daylighting and occupancy sensors"
+  },
+  {
+    "id": 294,
+    "question": "A room requires 30,000 lumens. If each lamp provides 3,000 lumens, how many lamps are needed (ignoring losses)?",
+    "options": {
+      "a": "5",
+      "b": "10",
+      "c": "15",
+      "d": "20"
+    },
+    "answer": "b",
+    "correct_answer_text": "10"
+  },
+  {
+    "id": 295,
+    "question": "Glare is caused by:",
+    "options": {
+      "a": "Excessive brightness in the field of vision",
+      "b": "Very low light levels",
+      "c": "Using high CRI lamps",
+      "d": "Using warm color temperatures"
+    },
+    "answer": "a",
+    "correct_answer_text": "Excessive brightness in the field of vision"
+  },
+  {
+    "id": 296,
+    "question": "The \"Lumen Method\" is used to calculate:",
+    "options": {
+      "a": "The voltage drop in a circuit",
+      "b": "The average maintained illuminance in a room",
+      "c": "The resistance of a filament",
+      "d": "The speed of light"
+    },
+    "answer": "b",
+    "correct_answer_text": "The average maintained illuminance in a room"
+  },
+  {
+    "id": 297,
+    "question": "Efficacy of a light source is expressed in:",
+    "options": {
+      "a": "Watts/Lumen",
+      "b": "Lumens/Watt",
+      "c": "Lux/Watt",
+      "d": "Candela/Watt"
+    },
+    "answer": "b",
+    "correct_answer_text": "Lumens/Watt"
+  },
+  {
+    "id": 298,
+    "question": "According to Lambert's Cosine Law, the illuminance (E) on a surface is proportional to the cosine of the angle between:",
+    "options": {
+      "a": "The light ray and the surface.",
+      "b": "The light ray and the normal to the surface.",
+      "c": "The light source and the observer.",
+      "d": "The luminous intensity and the flux."
+    },
+    "answer": "b",
+    "correct_answer_text": "The light ray and the normal to the surface."
+  },
+  {
+    "id": 299,
+    "question": "If the distance from a point source of light to a surface is doubled, what happens to the illuminance at that surface according to the Inverse Square Law?",
+    "options": {
+      "a": "It remains the same.",
+      "b": "It decreases to 50%.",
+      "c": "It decreases to 25% (1/4th)",
+      "d": "It doubles."
+    },
+    "answer": "c",
+    "correct_answer_text": "It decreases to 25% (1/4th)"
+  },
+  {
+    "id": 300,
+    "question": "Which photometric curve distribution shape is typically desired for roadway lighting to ensure uniform coverage between poles?",
+    "options": {
+      "a": "Circular",
+      "b": "Batwing",
+      "c": "Narrow Spot",
+      "d": "Lambertian Sphere"
+    },
+    "answer": "b",
+    "correct_answer_text": "Batwing"
+  },
+  {
+    "id": 301,
+    "question": "Under the PEC, luminaires installed in \"Clothes Closets\" have specific restrictions to prevent fire hazards. Which of the following is strictly PROHIBITED?",
+    "options": {
+      "a": "Surface-mounted fluorescent luminaires.",
+      "b": "Recessed LED luminaires with a completely enclosed lens.",
+      "c": "Pendant luminaires with incandescent lamps.",
+      "d": "Surface-mounted LED luminaires."
+    },
+    "answer": "c",
+    "correct_answer_text": "Pendant luminaires with incandescent lamps."
+  },
+  {
+    "id": 302,
+    "question": "According to PEC standards for luminaire support, an outlet box is generally permitted to support a luminaire directly only if the luminaire weighs no more than:",
+    "options": {
+      "a": "15 kg",
+      "b": "23 kg (50 lb)",
+      "c": "35 kg",
+      "d": "10 kg"
+    },
+    "answer": "b",
+    "correct_answer_text": "23 kg (50 lb)"
+  },
+  {
+    "id": 303,
+    "question": "When installing a luminaire in a \"Wet Location\" (e.g., car wash, open outdoor area), the fixture must be marked as:",
+    "options": {
+      "a": "Suitable for Damp Locations.",
+      "b": "Suitable for Wet Locations.",
+      "c": "Drip-proof.",
+      "d": "Weather-resistant."
+    },
+    "answer": "b",
+    "correct_answer_text": "Suitable for Wet Locations."
+  },
+  {
+    "id": 304,
+    "question": "For luminaires containing a metal halide lamp, the PEC requires a containment barrier (glass or plastic shield) primarily to:",
+    "options": {
+      "a": "Prevent UV radiation escape.",
+      "b": "Protect the lamp from moisture.",
+      "c": "Protect persons and combustible material if the lamp ruptures (non-passive failure).",
+      "d": "Enhance the color rendering."
+    },
+    "answer": "c",
+    "correct_answer_text": "Protect persons and combustible material if the lamp ruptures."
+  },
+  {
+    "id": 305,
+    "question": "In a suspended ceiling grid (drop ceiling), how must the luminaire be secured according to standard seismic/safety provisions referenced in the PEC?",
+    "options": {
+      "a": "It can rest solely on the ceiling grid rails.",
+      "b": "It must be mechanically fastened to the grid and often requires independent support wires to the building structure.",
+      "c": "It must be glued to the acoustic tiles.",
+      "d": "Gravity alone is sufficient if the fixture is heavy."
+    },
+    "answer": "b",
+    "correct_answer_text": "It must be mechanically fastened to the grid and often requires independent support wires to the building structure."
+  },
+  {
+    "id": 306,
+    "question": "An LED fixture rated \"L70 at 50,000 hours\" means:",
+    "options": {
+      "a": "The fixture will fail (burn out) after 50,000 hours.",
+      "b": "The fixture will produce 70% of its initial light output after 50,000 hours.",
+      "c": "The fixture operates at 70% efficiency.",
+      "d": "70% of the LEDs in the array will survive 50,000 hours."
+    },
+    "answer": "b",
+    "correct_answer_text": "The fixture will produce 70% of its initial light output after 50,000 hours."
+  },
+  {
+    "id": 307,
+    "question": "Thermal management (Heat Sinks) is critical in high-power LED luminaires because excessive junction temperature causes:",
+    "options": {
+      "a": "An increase in luminous flux.",
+      "b": "A decrease in lifespan and color shift.",
+      "c": "A decrease in voltage drop.",
+      "d": "An improvement in CRI."
+    },
+    "answer": "b",
+    "correct_answer_text": "A decrease in lifespan and color shift."
+  },
+  {
+    "id": 308,
+    "question": "Correlated Color Temperature (CCT) describes the color appearance of the light. Which CCT is generally considered \"Cool Daylight\"?",
+    "options": {
+      "a": "2700K",
+      "b": "3000K",
+      "c": "4000K",
+      "d": "6500K"
+    },
+    "answer": "d",
+    "correct_answer_text": "6500K"
+  },
+  {
+    "id": 309,
+    "question": "In an emergency lighting system design, what is the primary objective regarding illuminance?",
+    "options": {
+      "a": "To match the normal operation lighting levels.",
+      "b": "To provide 100 Lux everywhere.",
+      "c": "To provide a minimum illuminance (e.g., 1 Lux) along the path of egress for safety.",
+      "d": "To highlight architectural features."
+    },
+    "answer": "c",
+    "correct_answer_text": "To provide a minimum illuminance (e.g., 1 Lux) along the path of egress for safety."
+  },
+  {
+    "id": 310,
+    "question": "Which component in an LED circuit protects the LEDs from voltage spikes and surges?",
+    "options": {
+      "a": "The heat sink.",
+      "b": "The Metal Core PCB (MCPCB).",
+      "c": "The MOV (Metal Oxide Varistor) or surge protection device.",
+      "d": "The diffuser."
+    },
+    "answer": "c",
+    "correct_answer_text": "The MOV (Metal Oxide Varistor) or surge protection device."
+  }
+]
