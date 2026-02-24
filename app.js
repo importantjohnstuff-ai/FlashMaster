@@ -70,6 +70,8 @@ document.addEventListener('DOMContentLoaded', () => {
         fileSelect: document.getElementById('file-select'),
         fileListContainer: document.getElementById('file-list-container'), // New
         maxQuestionsInput: document.getElementById('max-questions'), // New
+        startIdContainer: document.getElementById('start-id-container'), // New
+        startFromIdInput: document.getElementById('start-from-id'), // New
         shuffleToggle: document.getElementById('shuffle-cards-toggle'),
         shuffleChoicesToggle: document.getElementById('shuffle-choices-toggle'),
         mobileToggle: document.getElementById('mobile-mode-toggle'),
@@ -206,6 +208,14 @@ document.addEventListener('DOMContentLoaded', () => {
             els.btnStartStudy.title = "";
         }
 
+        // Show "Start from ID" only if exactly 1 set is selected
+        if (checkedCount === 1) {
+            els.startIdContainer.style.display = 'flex';
+        } else {
+            els.startIdContainer.style.display = 'none';
+            els.startFromIdInput.value = ''; // Clear when hidden
+        }
+
         // Also update stats whenever button state might change (i.e. selection changed)
         updateDashboardGenericStats();
     }
@@ -256,6 +266,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const results = await Promise.all(promises);
             let combinedCards = results.flat();
+
+            // Handle "Start from ID" if only 1 file is selected
+            const startFromId = parseInt(els.startFromIdInput.value) || 0;
+            if (filenames.length === 1 && startFromId > 0) {
+                // Find index of first card with ID >= startFromId
+                const startIndex = combinedCards.findIndex(card => card.id >= startFromId);
+                if (startIndex !== -1) {
+                    combinedCards = combinedCards.slice(startIndex);
+                } else if (combinedCards.length > 0 && startFromId > combinedCards[combinedCards.length - 1].id) {
+                    // If ID is beyond all cards, clear the list
+                    combinedCards = [];
+                }
+            }
 
             // Do NOT shuffle combined pool by default (User Request)
             // combinedCards = shuffleArray(combinedCards);
