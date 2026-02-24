@@ -50,6 +50,13 @@ const fileNames = ['PEC1.json', 'PEC2.json', 'PEC3.json', 'PEC4.json', 'PEC5.jso
 
 Once pushed, GitHub Pages will automatically rebuild, and your new set will appear in the "Select Sets" section of the dashboard.
 
+## New Feature: Start from ID
+To make studying easier, you can now select a starting ID when a single set is selected.
+- This works automatically on GitHub Pages.
+- It relies on the `id` field within your JSON files.
+- If you enter an ID that doesn't exist (e.g., higher than any ID in the set), no cards will load for that session.
+
 ## Troubleshooting
 - **File not appearing:** Double-check the spelling of the filename in `app.js` and ensure it matches the actual file on disk (it is case-sensitive on most servers).
 - **Dashboard stuck on "Loading...":** This usually happens if the JSON file has a syntax error (like a missing comma). Open the browser console (F12) to see specific error messages.
+- **Start from ID skip incorrect:** Ensure your JSON cards have sequential `id` numbers. The app skips cards by finding the first card where `id >= your input`.

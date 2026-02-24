@@ -209,10 +209,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         // Show "Start from ID" only if exactly 1 set is selected
-        if (checkedCount === 1) {
-            els.startIdContainer.style.display = 'flex';
-        } else {
-            els.startIdContainer.style.display = 'none';
+        els.startIdContainer.classList.toggle('hidden', checkedCount !== 1);
+        if (checkedCount !== 1) {
             els.startFromIdInput.value = ''; // Clear when hidden
         }
 
