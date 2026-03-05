@@ -1,0 +1,3422 @@
+[
+  {
+    "id": 1,
+    "question": "Why is the core of a power transformer laminated?",
+    "options": {
+      "a": "To reduce hysteresis loss",
+      "b": "To reduce eddy current loss",
+      "c": "To increase magnetic permeability",
+      "d": "To reduce copper loss"
+    },
+    "answer": "b",
+    "correct_answer_text": "To reduce eddy current loss"
+  },
+  {
+    "id": 2,
+    "question": "Which material is typically used for transformer laminations to ensure high permeability and low hysteresis?",
+    "options": {
+      "a": "Cast Iron",
+      "b": "Cold Rolled Grain Oriented (CRGO) Steel",
+      "c": "Aluminum alloy",
+      "d": "High-carbon steel"
+    },
+    "answer": "b",
+    "correct_answer_text": "Cold Rolled Grain Oriented (CRGO) Steel"
+  },
+  {
+    "id": 3,
+    "question": "The primary purpose of a \"Conservator Tank\" in a transformer is to:",
+    "options": {
+      "a": "Store extra oil for emergencies",
+      "b": "Provide a space for oil expansion and contraction",
+      "c": "Cool the transformer during overloads",
+      "d": "Protect the bushings from rain"
+    },
+    "answer": "b",
+    "correct_answer_text": "Provide a space for oil expansion and contraction"
+  },
+  {
+    "id": 4,
+    "question": "In a transformer, what is the specific role of Silica Gel in a breather?",
+    "options": {
+      "a": "To filter out dust particles",
+      "b": "To absorb moisture from the air entering the tank",
+      "c": "To act as a catalyst for oil cooling",
+      "d": "To indicate the temperature of the oil"
+    },
+    "answer": "b",
+    "correct_answer_text": "To absorb moisture from the air entering the tank"
+  },
+  {
+    "id": 5,
+    "question": "What does a pink color in silica gel indicate?",
+    "options": {
+      "a": "It is dry and effective",
+      "b": "It is saturated with moisture",
+      "c": "The oil is overheating",
+      "d": "The transformer is underloaded"
+    },
+    "answer": "b",
+    "correct_answer_text": "It is saturated with moisture"
+  },
+  {
+    "id": 6,
+    "question": "The \"Bushings\" of a transformer are primarily used for:",
+    "options": {
+      "a": "Supporting the core",
+      "b": "Connecting internal windings to external circuits while insulating the tank",
+      "c": "Regulating the voltage levels",
+      "d": "Dissipating heat from the windings"
+    },
+    "answer": "b",
+    "correct_answer_text": "Connecting internal windings to external circuits while insulating the tank"
+  },
+  {
+    "id": 7,
+    "question": "Why is the LV (Low Voltage) winding usually placed closer to the core than the HV (High Voltage) winding?",
+    "options": {
+      "a": "To reduce copper requirements",
+      "b": "To simplify the insulation requirements between the core and windings",
+      "c": "To improve the cooling efficiency",
+      "d": "To increase the leakage reactance"
+    },
+    "answer": "b",
+    "correct_answer_text": "To simplify the insulation requirements between the core and windings"
+  },
+  {
+    "id": 8,
+    "question": "\"Stepped cores\" are used in transformer construction to:",
+    "options": {
+      "a": "Reduce the weight of the transformer",
+      "b": "Reduce the length of the mean turn and minimize copper use",
+      "c": "Increase the mechanical strength",
+      "d": "Eliminate harmonics"
+    },
+    "answer": "b",
+    "correct_answer_text": "Reduce the length of the mean turn and minimize copper use"
+  },
+  {
+    "id": 9,
+    "question": "Transformer oil serves two main purposes. What are they?",
+    "options": {
+      "a": "Lubrication and Insulation",
+      "b": "Cooling and Lubrication",
+      "c": "Insulation and Cooling",
+      "d": "Cleaning and Insulation"
+    },
+    "answer": "c",
+    "correct_answer_text": "Insulation and Cooling"
+  },
+  {
+    "id": 10,
+    "question": "What is the typical flash point of standard mineral transformer oil?",
+    "options": {
+      "a": "50°C",
+      "b": "100°C",
+      "c": "140°C",
+      "d": "250°C"
+    },
+    "answer": "c",
+    "correct_answer_text": "140°C"
+  },
+  {
+    "id": 11,
+    "question": "The yoke of a transformer core is designed to have a cross-section:",
+    "options": {
+      "a": "Equal to the limb",
+      "b": "Half of the limb",
+      "c": "Twice the limb",
+      "d": "Slightly larger than the limb to reduce reluctance"
+    },
+    "answer": "d",
+    "correct_answer_text": "Slightly larger than the limb to reduce reluctance"
+  },
+  {
+    "id": 12,
+    "question": "Which type of transformer construction has the magnetic circuit surrounding the windings?",
+    "options": {
+      "a": "Core Type",
+      "b": "Shell Type",
+      "c": "Berry Type",
+      "d": "Distribution Type"
+    },
+    "answer": "b",
+    "correct_answer_text": "Shell Type"
+  },
+  {
+    "id": 13,
+    "question": "In a dry-type transformer, what is the primary cooling medium?",
+    "options": {
+      "a": "SF6 gas",
+      "b": "Forced oil",
+      "c": "Air",
+      "d": "Distilled water"
+    },
+    "answer": "c",
+    "correct_answer_text": "Air"
+  },
+  {
+    "id": 14,
+    "question": "The \"Explosion Vent\" or \"Pressure Relief Device\" is designed to:",
+    "options": {
+      "a": "Release air during filling",
+      "b": "Prevent the tank from bursting during internal faults",
+      "c": "Allow the oil to circulate to the radiators",
+      "d": "Filter out sludge"
+    },
+    "answer": "b",
+    "correct_answer_text": "Prevent the tank from bursting during internal faults"
+  },
+  {
+    "id": 15,
+    "question": "Spiral windings are most commonly used for:",
+    "options": {
+      "a": "High voltage windings",
+      "b": "Low voltage, high current windings",
+      "c": "Instrument transformers",
+      "d": "Tertiary windings"
+    },
+    "answer": "b",
+    "correct_answer_text": "Low voltage, high current windings"
+  },
+  {
+    "id": 16,
+    "question": "The basic operating principle of a transformer is:",
+    "options": {
+      "a": "Self-induction",
+      "b": "Mutual induction",
+      "c": "Electrostatic induction",
+      "d": "Seebeck effect"
+    },
+    "answer": "b",
+    "correct_answer_text": "Mutual induction"
+  },
+  {
+    "id": 17,
+    "question": "A transformer works on DC if:",
+    "options": {
+      "a": "The voltage is high enough",
+      "b": "The current is low",
+      "c": "It will not work on DC; it may burn out the primary",
+      "d": "If the secondary is open-circuited"
+    },
+    "answer": "c",
+    "correct_answer_text": "It will not work on DC; it may burn out the primary"
+  },
+  {
+    "id": 18,
+    "question": "The EMF equation of a transformer is given by E = 4.44 f N Φ. What does f represent?",
+    "options": {
+      "a": "Flux density",
+      "b": "Frequency of the supply",
+      "c": "The maximum voltage the transformer can handle",
+      "d": "The ratio of primary to secondary turns"
+    },
+    "answer": "b",
+    "correct_answer_text": "Frequency of the supply"
+  },
+  {
+    "id": 19,
+    "question": "Under no-load conditions, the current drawn by the transformer lags the applied voltage by nearly:",
+    "options": {
+      "a": "0°",
+      "b": "45°",
+      "c": "75° to 80°",
+      "d": "90°"
+    },
+    "answer": "c",
+    "correct_answer_text": "75° to 80°"
+  },
+  {
+    "id": 20,
+    "question": "The \"Leakage Reactance\" of a transformer is caused by:",
+    "options": {
+      "a": "Imperfect coupling between primary and secondary",
+      "b": "The resistance of the copper windings",
+      "c": "The thickness of the laminations",
+      "d": "The acidity of the ail"
+    },
+    "answer": "a",
+    "correct_answer_text": "Imperfect coupling between primary and secondary"
+  },
+  {
+    "id": 21,
+    "question": "Efficiency of a transformer is maximum when:",
+    "options": {
+      "a": "Iron loss = Copper loss",
+      "b": "Iron loss > Copper loss",
+      "c": "Iron loss < Copper loss",
+      "d": "The transformer is at no-load"
+    },
+    "answer": "a",
+    "correct_answer_text": "Iron loss = Copper loss"
+  },
+  {
+    "id": 22,
+    "question": "In an Ideal Transformer, the windings have:",
+    "options": {
+      "a": "Infinite resistance",
+      "b": "Zero resistance and zero leakage reactance",
+      "c": "High hysteresis loss",
+      "d": "50% efficiency"
+    },
+    "answer": "b",
+    "correct_answer_text": "Zero resistance and zero leakage reactance"
+  },
+  {
+    "id": 23,
+    "question": "What is the main advantage of an Autotransformer over a two-winding transformer?",
+    "options": {
+      "a": "Higher isolation",
+      "b": "Saving in copper material",
+      "c": "Lower short-circuit current",
+      "d": "Better for high voltage ratios (e.g., 20:1)"
+    },
+    "answer": "b",
+    "correct_answer_text": "Saving in copper material"
+  },
+  {
+    "id": 24,
+    "question": "The \"Open Circuit Test\" on a transformer is performed to find:",
+    "options": {
+      "a": "Copper loss",
+      "b": "Core loss (Iron loss)",
+      "c": "Equivalent resistance",
+      "d": "Total impedance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Core loss (Iron loss)"
+  },
+  {
+    "id": 25,
+    "question": "The \"Short Circuit Test\" is usually performed on which side of the transformer?",
+    "options": {
+      "a": "Low Voltage (LV) side",
+      "b": "High Voltage (HV) side",
+      "c": "Either side",
+      "d": "Secondary side only"
+    },
+    "answer": "b",
+    "correct_answer_text": "High Voltage (HV) side"
+  },
+  {
+    "id": 26,
+    "question": "What does the \"Voltage Regulation\" of a transformer represent?",
+    "options": {
+      "a": "The ability to change the output voltage",
+      "b": "The variation in secondary terminal voltage between no-load and full-load",
+      "c": "The maximum voltage the transformer can handle",
+      "d": "The ratio of primary to secondary turns"
+    },
+    "answer": "b",
+    "correct_answer_text": "The variation in secondary terminal voltage between no-load and full-load"
+  },
+  {
+    "id": 27,
+    "question": "A Star-Delta (Y-Δ) transformer is commonly used to:",
+    "options": {
+      "a": "Step up voltage at the beginning of a transmission line",
+      "b": "Step down voltage at a substation",
+      "c": "Provide a neutral for a 3-wire system",
+      "d": "Filter out the 5th harmonic"
+    },
+    "answer": "b",
+    "correct_answer_text": "Step down voltage at a substation"
+  },
+  {
+    "id": 28,
+    "question": "If the frequency of a transformer is increased (keeping voltage constant), the core loss will:",
+    "options": {
+      "a": "Increase",
+      "b": "Decrease",
+      "c": "Remain constant",
+      "d": "Become zero"
+    },
+    "answer": "b",
+    "correct_answer_text": "Decrease"
+  },
+  {
+    "id": 29,
+    "question": "Which harmonic is most likely to cause \"Triplen\" issues in a Delta-connected transformer?",
+    "options": {
+      "a": "2nd",
+      "b": "3rd",
+      "c": "5th",
+      "d": "7th"
+    },
+    "answer": "b",
+    "correct_answer_text": "3rd"
+  },
+  {
+    "id": 30,
+    "question": "The \"Dot Convention\" in transformer theory is used to determine:",
+    "options": {
+      "a": "The magnitude of the voltage",
+      "b": "The polarity of the induced voltages",
+      "c": "The type of insulation used",
+      "d": "The direction of the physical winding"
+    },
+    "answer": "b",
+    "correct_answer_text": "The polarity of the induced voltages"
+  },
+  {
+    "id": 31,
+    "question": "A Buchholz relay is triggered. You find a high concentration of Acetylene (C2H2) in the gas sample. This indicates:",
+    "options": {
+      "a": "Normal aging",
+      "b": "Arcing or severe overheating",
+      "c": "Low oil level",
+      "d": "Moisture in the breather"
+    },
+    "answer": "b",
+    "correct_answer_text": "Arcing or severe overheating"
+  },
+  {
+    "id": 32,
+    "question": "A transformer is producing an unusually loud, \"growling\" hum. What is the most likely cause?",
+    "options": {
+      "a": "The load is too low",
+      "b": "Loose core laminations or over-excitation",
+      "c": "High ambient temperature",
+      "d": "Use of synthetic oil"
+    },
+    "answer": "b",
+    "correct_answer_text": "Loose core laminations or over-excitation"
+  },
+  {
+    "id": 33,
+    "question": "During a routine DGA (Dissolved Gas Analysis), you find significant Methane (CH4). This usually points toward:",
+    "options": {
+      "a": "Low energy sparking",
+      "b": "Thermal fault of low temperature (<300°C)",
+      "c": "Partial discharge",
+      "d": "Cellulose degradation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Thermal fault of low temperature (<300°C)"
+  },
+  {
+    "id": 34,
+    "question": "If two transformers are to be operated in parallel, which of these is the MOST critical requirement?",
+    "options": {
+      "a": "Same KVA rating",
+      "b": "Same manufacturer",
+      "c": "Same polarity and vector group",
+      "d": "Same cooling method"
+    },
+    "answer": "c",
+    "correct_answer_text": "Same polarity and vector group"
+  },
+  {
+    "id": 35,
+    "question": "While commissioning a new transformer, you realize the \"Vector Group\" does not match the existing bus. What happens if you close the breaker?",
+    "options": {
+      "a": "The transformer will run at half efficiency",
+      "b": "A dead short-circuit will occur",
+      "c": "The voltage will be slightly higher",
+      "d": "The secondary neutral will float"
+    },
+    "answer": "b",
+    "correct_answer_text": "A dead short-circuit will occur"
+  },
+  {
+    "id": 36,
+    "question": "The \"Dielectric Strength\" of transformer oil is measured using a:",
+    "options": {
+      "a": "Megger",
+      "b": "Oil Breakdown Voltage (BDV) tester",
+      "c": "Hydrometer",
+      "d": "Multimeter"
+    },
+    "answer": "b",
+    "correct_answer_text": "Oil Breakdown Voltage (BDV) tester"
+  },
+  {
+    "id": 37,
+    "question": "A transformer's temperature rise is excessive despite the load being within nameplate ratings. What should you check first?",
+    "options": {
+      "a": "The primary voltage",
+      "b": "The cooling fans/radiators for blockages",
+      "c": "The winding resistance",
+      "d": "The turns ratio"
+    },
+    "answer": "b",
+    "correct_answer_text": "The cooling fans/radiators for blockages"
+  },
+  {
+    "id": 38,
+    "question": "In a 3-phase transformer, \"Single Phasing\" on the primary side will:",
+    "options": {
+      "a": "Result in zero voltage on the secondary",
+      "b": "Cause unbalanced secondary voltages and possible overheating",
+      "c": "Have no effect on the secondary",
+      "d": "Increase the frequency"
+    },
+    "answer": "b",
+    "correct_answer_text": "Cause unbalanced secondary voltages and possible overheating"
+  },
+  {
+    "id": 39,
+    "question": "What is the \"Sludge\" in transformer oil?",
+    "options": {
+      "a": "A deliberate additive for cooling",
+      "b": "Products of oil oxidation and decomposition",
+      "c": "Melted insulation",
+      "d": "Metal filings from the core"
+    },
+    "answer": "b",
+    "correct_answer_text": "Products of oil oxidation and decomposition"
+  },
+  {
+    "id": 40,
+    "question": "If the secondary of a Current Transformer (CT) is opened while the primary is energized:",
+    "options": {
+      "a": "The CT will simply stop working",
+      "b": "High voltage will be induced, potentially exploding the CT",
+      "c": "The primary current will drop to zero",
+      "d": "The ammeter will show a maximum reading"
+    },
+    "answer": "b",
+    "correct_answer_text": "High voltage will be induced, potentially exploding the CT"
+  },
+  {
+    "id": 41,
+    "question": "A \"Hot Spot\" in a transformer is most likely to occur in the:",
+    "options": {
+      "a": "Bottom of the tank",
+      "b": "Top part of the windings",
+      "c": "Conservator tank",
+      "d": "Bushing terminals"
+    },
+    "answer": "b",
+    "correct_answer_text": "Top part of the windings"
+  },
+  {
+    "id": 42,
+    "question": "You notice the Silica Gel has turned from blue to pink in only a week. This suggests:",
+    "options": {
+      "a": "The silica gel is defective",
+      "b": "There is a leak in the transformer tank or gasket allowing air ingress",
+      "c": "The transformer is too cold",
+      "d": "High harmonic content"
+    },
+    "answer": "b",
+    "correct_answer_text": "There is a leak in the transformer tank or gasket allowing air ingress"
+  },
+  {
+    "id": 43,
+    "question": "When testing insulation resistance with a Megger, a \"Polarization Index\" (PI) of less than 1.0 generally indicates:",
+    "options": {
+      "a": "Excellent insulation",
+      "b": "Insulation is likely contaminated or moist",
+      "c": "The transformer is new",
+      "d": "The test was performed correctly"
+    },
+    "answer": "b",
+    "correct_answer_text": "Insulation is likely contaminated or moist"
+  },
+  {
+    "id": 44,
+    "question": "The \"Inrush Current\" of a transformer occurs because of:",
+    "options": {
+      "a": "Short circuits on the secondary",
+      "b": "Magnetic saturation of the core during switching",
+      "c": "High load demand",
+      "d": "Failure of the Buchholz relay"
+    },
+    "answer": "b",
+    "correct_answer_text": "Magnetic saturation of the core during switching"
+  },
+  {
+    "id": 45,
+    "question": "Which relay is used to protect the transformer from internal faults by sensing pressure/gas?",
+    "options": {
+      "a": "Differential Relay",
+      "b": "Buchholz Relay",
+      "c": "Overcurrent Relay",
+      "d": "Directional Relay"
+    },
+    "answer": "b",
+    "correct_answer_text": "Buchholz Relay"
+  },
+  {
+    "id": 46,
+    "question": "According to PEC Article 4.5, transformers over 600 V installed indoors must be placed in a:",
+    "options": {
+      "a": "Plastic enclosure",
+      "b": "Transformer vault of fire-resistant construction",
+      "c": "Open-air mezzanine",
+      "d": "Metal cabinet with no ventilation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Transformer vault of fire-resistant construction"
+  },
+  {
+    "id": 47,
+    "question": "According to PEC Article 4.5, What is the minimum fire rating for the walls of a transformer vault according to PEC?",
+    "options": {
+      "a": "1 hour",
+      "b": "2 hours",
+      "c": "3 hours",
+      "d": "4 hours"
+    },
+    "answer": "c",
+    "correct_answer_text": "3 hours"
+  },
+  {
+    "id": 48,
+    "question": "According to PEC Article 4.5, PEC states that a transformer must have a \"Disconnecting Means\" located:",
+    "options": {
+      "a": "Only on the secondary side",
+      "b": "Within sight of the transformer or in a remote location if lockable",
+      "c": "Under the transformer tank",
+      "d": "No disconnect is required for transformers"
+    },
+    "answer": "b",
+    "correct_answer_text": "Within sight of the transformer or in a remote location if lockable"
+  },
+  {
+    "id": 49,
+    "question": "According to PEC Article 4.5, for a transformer rated 600 V or less, the primary overcurrent protection (fuse/breaker) should generally not exceed ____ of the rated primary current if there is no secondary protection.",
+    "options": {
+      "a": "100%",
+      "b": "125%",
+      "c": "250%",
+      "d": "300%"
+    },
+    "answer": "b",
+    "correct_answer_text": "125%"
+  },
+  {
+    "id": 50,
+    "question": "The \"Secondary Ties\" in a transformer network system are protected by:",
+    "options": {
+      "a": "Limiters",
+      "b": "Ground rods",
+      "c": "Surge arresters",
+      "d": "Capacitors"
+    },
+    "answer": "a",
+    "correct_answer_text": "Limiters"
+  },
+  {
+    "id": 51,
+    "question": "Under PEC, \"Askarel-insulated\" transformers installed indoors require:",
+    "options": {
+      "a": "No special ventilation",
+      "b": "A pressure-relief vent and a means to absorb gases",
+      "c": "To be placed in a wooden box",
+      "d": "Constant water cooling"
+    },
+    "answer": "b",
+    "correct_answer_text": "A pressure-relief vent and a means to absorb gases"
+  },
+  {
+    "id": 52,
+    "question": "What is the minimum clearance for a transformer's ventilation openings according to the PEC?",
+    "options": {
+      "a": "150 mm",
+      "b": "300 mm",
+      "c": "600 mm",
+      "d": "Sufficient space to maintain required temperature rise"
+    },
+    "answer": "d",
+    "correct_answer_text": "Sufficient space to maintain required temperature rise"
+  },
+  {
+    "id": 53,
+    "question": "Dry-type transformers installed indoors and rated over ____ kVA shall be installed in a fire-resistant room.",
+    "options": {
+      "a": "37.5 KVA",
+      "b": "75 kVA",
+      "c": "112.5 KVA",
+      "d": "500 KVA"
+    },
+    "answer": "c",
+    "correct_answer_text": "112.5 KVA"
+  },
+  {
+    "id": 54,
+    "question": "PEC requires that the transformer tank must be:",
+    "options": {
+      "a": "Effectively grounded",
+      "b": "Painted red",
+      "c": "Insulated from the ground",
+      "d": "Made of stainless steel"
+    },
+    "answer": "a",
+    "correct_answer_text": "Effectively grounded"
+  },
+  {
+    "id": 55,
+    "question": "If a transformer vault is ventilated by natural draft, the total area of the ventilators shall not be less than ____ per kVA of transformer capacity.",
+    "options": {
+      "a": "10 square cm",
+      "b": "20 square cm",
+      "c": "100 square cm",
+      "d": "3 square cm"
+    },
+    "answer": "b",
+    "correct_answer_text": "20 square cm"
+  },
+  {
+    "id": 56,
+    "question": "Oil-insulated transformers installed outdoors must be spaced at least ____ from combustible buildings.",
+    "options": {
+      "a": "1 meter",
+      "b": "3 meters",
+      "c": "6 meters",
+      "d": "10 meters"
+    },
+    "answer": "c",
+    "correct_answer_text": "6 meters"
+  },
+  {
+    "id": 57,
+    "question": "Instrument transformers (CTs/PTs) under PEC Article 4.50 are:",
+    "options": {
+      "a": "Subject to the same rules as power transformers",
+      "b": "Exempt from Article 4.50 (covered under Article 3.0)",
+      "c": "Required to have 3-hour fire vaults",
+      "d": "Only allowed in outdoor substations"
+    },
+    "answer": "b",
+    "correct_answer_text": "Exempt from Article 4.50 (covered under Article 3.0)"
+  },
+  {
+    "id": 58,
+    "question": "The PEC requires that a transformer's Nameplate include:",
+    "options": {
+      "a": "Impedance (if 25 kVA or larger)",
+      "b": "Name of the engineer who designed it",
+      "c": "The price of the unit",
+      "d": "Color of the oil"
+    },
+    "answer": "a",
+    "correct_answer_text": "Impedance (if 25 kVA or larger)"
+  },
+  {
+    "id": 59,
+    "question": "Can a transformer vault be used for storage of other electrical equipment like spare motors?",
+    "options": {
+      "a": "Yes, if there is space",
+      "b": "No, the vault shall not be used for storage",
+      "c": "Only if the motors are grounded",
+      "d": "Only if the storage is for less than 30 days"
+    },
+    "answer": "b",
+    "correct_answer_text": "No, the vault shall not be used for storage"
+  },
+  {
+    "id": 60,
+    "question": "The door of a transformer vault must be:",
+    "options": {
+      "a": "Made of wood",
+      "b": "Kept open for ventilation",
+      "c": "Tight-fitting and equipped with a lock",
+      "d": "At least 3 meters wide"
+    },
+    "answer": "c",
+    "correct_answer_text": "Tight-fitting and equipped with a lock"
+  },
+  {
+    "id": 61,
+    "question": "Which of the following best describes the purpose of \"skewing\" the rotor slots in a squirrel-cage induction motor?",
+    "options": {
+      "a": "To increase the starting torque.",
+      "b": "To reduce magnetic hum and prevent \"cogging.\"",
+      "c": "To improve the cooling of the rotor bars.",
+      "d": "To increase the motor's power factor."
+    },
+    "answer": "b",
+    "correct_answer_text": "To reduce magnetic hum and prevent \"cogging.\""
+  },
+  {
+    "id": 62,
+    "question": "In a 3-phase induction motor, the speed of the rotating magnetic field (RMF) depends solely on:",
+    "options": {
+      "a": "The number of poles and the load torque.",
+      "b": "The supply voltage and frequency.",
+      "c": "The supply frequency and the number of poles.",
+      "d": "The rotor resistance and slip."
+    },
+    "answer": "c",
+    "correct_answer_text": "The supply frequency and the number of poles."
+  },
+  {
+    "id": 63,
+    "question": "What happens to the rotor current frequency (fr) as the motor accelerates from standstill to its rated speed?",
+    "options": {
+      "a": "It remains constant at the supply frequency.",
+      "b": "It increases linearly with speed.",
+      "c": "It decreases as the slip decreases.",
+      "d": "It becomes zero at synchronous speed."
+    },
+    "answer": "c",
+    "correct_answer_text": "It decreases as the slip decreases."
+  },
+  {
+    "id": 64,
+    "question": "If the air gap of an induction motor is increased, what is the most likely effect on its performance?",
+    "options": {
+      "a": "The power factor will improve.",
+      "b": "The magnetizing current will increase, lowering the power factor.",
+      "c": "The breakdown torque will double.",
+      "d": "The motor will run cooler due to better ventilation."
+    },
+    "answer": "b",
+    "correct_answer_text": "The magnetizing current will increase, lowering the power factor."
+  },
+  {
+    "id": 65,
+    "question": "A wound-rotor (slip-ring) induction motor is preferred over a squirrel-cage motor when the application requires:",
+    "options": {
+      "a": "Low maintenance and high speed.",
+      "b": "High starting torque with low starting current.",
+      "c": "Operation in a hazardous/explosive environment.",
+      "d": "The cheapest possible installation cost."
+    },
+    "answer": "b",
+    "correct_answer_text": "High starting torque with low starting current."
+  },
+  {
+    "id": 66,
+    "question": "The \"Crawling\" phenomenon in induction motors is primarily caused by:",
+    "options": {
+      "a": "Low supply voltage.",
+      "b": "High starting friction.",
+      "c": "Harmonics in the stator flux wave (specifically the 7th harmonic).",
+      "d": "Single-phasing during startup."
+    },
+    "answer": "c",
+    "correct_answer_text": "Harmonics in the stator flux wave (specifically the 7th harmonic)."
+  },
+  {
+    "id": 67,
+    "question": "At synchronous speed, the torque developed by a 3-phase induction motor is:",
+    "options": {
+      "a": "Maximum.",
+      "b": "Equal to the starting torque.",
+      "c": "Zero.",
+      "d": "Infinite."
+    },
+    "answer": "c",
+    "correct_answer_text": "Zero."
+  },
+  {
+    "id": 68,
+    "question": "What is the mathematical relationship for slip (s)?",
+    "options": {
+      "a": "s = (Nr - Ns) / Nt",
+      "b": "s = (Ns - Nr) / Ns",
+      "c": "s = Ns / Nr",
+      "d": "s = Ns - Nr"
+    },
+    "answer": "b",
+    "correct_answer_text": "s = (Ns - Nr) / Ns"
+  },
+  {
+    "id": 69,
+    "question": "In the equivalent circuit of an induction motor, the mechanical load is represented by a variable resistance of value:",
+    "options": {
+      "a": "R2 / s",
+      "b": "R2 (1 - s)",
+      "c": "R2 (1 - s) / s",
+      "d": "R2 / s"
+    },
+    "answer": "c",
+    "correct_answer_text": "R2 (1 - s) / s"
+  },
+  {
+    "id": 70,
+    "question": "If two phases of the supply to a 3-phase induction motor are interchanged:",
+    "options": {
+      "a": "The motor will stop.",
+      "b": "The motor will continue in the same direction but at lower speed.",
+      "c": "The direction of rotation will reverse.",
+      "d": "The motor will burn out immediately."
+    },
+    "answer": "c",
+    "correct_answer_text": "The direction of rotation will reverse."
+  },
+  {
+    "id": 71,
+    "question": "The \"Breakdown Torque\" of an induction motor varies with the supply voltage (V) in what way?",
+    "options": {
+      "a": "Directly proportional to V.",
+      "b": "Inversely proportional to V.",
+      "c": "Proportional to V².",
+      "d": "Proportional to √V."
+    },
+    "answer": "c",
+    "correct_answer_text": "Proportional to V²."
+  },
+  {
+    "id": 72,
+    "question": "Which test is used to determine the magnetizing reactance and core losses of an induction motor?",
+    "options": {
+      "a": "Blocked rotor test.",
+      "b": "No-load test.",
+      "c": "Retardation test.",
+      "d": "Insulation resistance test."
+    },
+    "answer": "b",
+    "correct_answer_text": "No-load test."
+  },
+  {
+    "id": 73,
+    "question": "Plugging an induction motor involves:",
+    "options": {
+      "a": "Adding external resistance to the rotor.",
+      "b": "Interchanging two supply phases to provide quick braking.",
+      "c": "Reducing the voltage to zero.",
+      "d": "Locking the rotor physically."
+    },
+    "answer": "b",
+    "correct_answer_text": "Interchanging two supply phases to provide quick braking."
+  },
+  {
+    "id": 74,
+    "question": "In a Circle Diagram of an induction motor, the diameter of the circle represents:",
+    "options": {
+      "a": "The rated current.",
+      "b": "The starting current.",
+      "c": "The ratio V / X_equivalent.",
+      "d": "The slip at maximum torque."
+    },
+    "answer": "c",
+    "correct_answer_text": "The ratio V / X_equivalent."
+  },
+  {
+    "id": 75,
+    "question": "What is the effect of increasing rotor resistance on the maximum torque (Tmax)?",
+    "options": {
+      "a": "Tmax increases.",
+      "b": "Tmax decreases.",
+      "c": "Tmax remains the same, but occurs at a higher slip.",
+      "d": "Tmax remains the same, but occurs at a lower slip."
+    },
+    "answer": "c",
+    "correct_answer_text": "Tmax remains the same, but occurs at a higher slip."
+  },
+  {
+    "id": 76,
+    "question": "Deep bar rotors are used in squirrel-cage motors to:",
+    "options": {
+      "a": "Increase the cooling surface.",
+      "b": "Utilize the skin effect to increase starting resistance.",
+      "c": "Reduce the weight of the rotor.",
+      "d": "Allow for easier winding repairs."
+    },
+    "answer": "b",
+    "correct_answer_text": "Utilize the skin effect to increase starting resistance."
+  },
+  {
+    "id": 77,
+    "question": "Which of the following is a disadvantage of a Star-Delta starter?",
+    "options": {
+      "a": "It is the most expensive starter.",
+      "b": "The starting torque is reduced to 1/3 of the direct-on-line starting torque.",
+      "c": "It cannot be used for motors above 5 HP.",
+      "d": "It increases the starting current significantly."
+    },
+    "answer": "b",
+    "correct_answer_text": "The starting torque is reduced to 1/3 of the direct-on-line starting torque."
+  },
+  {
+    "id": 78,
+    "question": "The frame of an induction motor is usually made of cast iron because it:",
+    "options": {
+      "a": "Is a highly conducting material.",
+      "b": "Is non-magnetic.",
+      "c": "Provides high mechanical strength and dampens vibrations.",
+      "d": "Is very cheap compared to plastic."
+    },
+    "answer": "c",
+    "correct_answer_text": "Provides high mechanical strength and dampens vibrations."
+  },
+  {
+    "id": 79,
+    "question": "If the supply frequency is reduced while maintaining a constant V/f ratio, the maximum torque will:",
+    "options": {
+      "a": "Decrease significantly.",
+      "b": "Increase significantly.",
+      "c": "Remain approximately constant.",
+      "d": "Double."
+    },
+    "answer": "c",
+    "correct_answer_text": "Remain approximately constant."
+  },
+  {
+    "id": 80,
+    "question": "Double squirrel-cage rotors provide:",
+    "options": {
+      "a": "High starting torque and high efficiency during running.",
+      "b": "Low starting torque and low efficiency.",
+      "c": "Constant speed regardless of load.",
+      "d": "Reduced noise only."
+    },
+    "answer": "a",
+    "correct_answer_text": "High starting torque and high efficiency during running."
+  },
+  {
+    "id": 81,
+    "question": "A 3-phase motor is running normally, then suddenly begins to produce a loud humming sound and the speed drops. The most likely cause is:",
+    "options": {
+      "a": "Overload.",
+      "b": "Single-phasing (one fuse blown).",
+      "c": "Bearing failure.",
+      "d": "Wrong frequency."
+    },
+    "answer": "b",
+    "correct_answer_text": "Single-phasing (one fuse blown)."
+  },
+  {
+    "id": 82,
+    "question": "While testing a motor, you find the insulation resistance is 0.5 MΩ. According to standard practice, you should:",
+    "options": {
+      "a": "Run the motor immediately to dry it out.",
+      "b": "Clean and dry the windings before applying power.",
+      "c": "Ignore it, as 0.5 MΩ is plenty for 460 V.",
+      "d": "Replace the motor immediately; it is unrepairable."
+    },
+    "answer": "b",
+    "correct_answer_text": "Clean and dry the windings before applying power."
+  },
+  {
+    "id": 83,
+    "question": "A motor vibrates excessively only when it is running. When the power is turned off and it coasts, the vibration stops. What does this suggest?",
+    "options": {
+      "a": "Mechanical unbalance of the rotor.",
+      "b": "Misalignment with the load.",
+      "c": "Electrical unbalance (e.g., unequal phase voltages or air gap eccentricity).",
+      "d": "Worn-out ball bearings."
+    },
+    "answer": "c",
+    "correct_answer_text": "Electrical unbalance (e.g., unequal phase voltages or air gap eccentricity)."
+  },
+  {
+    "id": 84,
+    "question": "A technician notices the motor is running hot. The current in all three phases is equal but 20% above the nameplate FLC. The cause is likely:",
+    "options": {
+      "a": "A ground fault.",
+      "b": "Mechanical overload.",
+      "c": "A shorted turn in the stator.",
+      "d": "Open rotor bars."
+    },
+    "answer": "b",
+    "correct_answer_text": "Mechanical overload."
+  },
+  {
+    "id": 85,
+    "question": "If a squirrel-cage motor takes a long time to accelerate and the rotor gets excessively hot, but the stator current is normal, the issue is likely:",
+    "options": {
+      "a": "Low supply voltage.",
+      "b": "Broken or cracked rotor bars.",
+      "c": "Over-lubricated bearings.",
+      "d": "Incorrect stator connection (Delta instead of Star)."
+    },
+    "answer": "b",
+    "correct_answer_text": "Broken or cracked rotor bars."
+  },
+  {
+    "id": 86,
+    "question": "What is the likely result of repeatedly \"jogging\" or \"inching\" a standard induction motor?",
+    "options": {
+      "a": "Increased motor life due to frequent starts.",
+      "b": "Overheating and insulation failure due to high inrush currents.",
+      "c": "Improved power factor.",
+      "d": "Polarization of the dielectric."
+    },
+    "answer": "b",
+    "correct_answer_text": "Overheating and insulation failure due to high inrush currents."
+  },
+  {
+    "id": 87,
+    "question": "You find \"pitting\" on the bearings of a motor driven by a Variable Frequency Drive (VFD). This is usually caused by:",
+    "options": {
+      "a": "Poor lubrication.",
+      "b": "Common-made shaft currents (EDM).",
+      "c": "Excessive belt tension.",
+      "d": "High ambient temperature."
+    },
+    "answer": "b",
+    "correct_answer_text": "Common-made shaft currents (EDM)."
+  },
+  {
+    "id": 88,
+    "question": "A 3-phase motor fails to start and makes no sound at all. The first thing to check is:",
+    "options": {
+      "a": "The rotor bars.",
+      "b": "The air gap.",
+      "c": "The control circuit fuses or the main disconnect.",
+      "d": "The motor's power factor."
+    },
+    "answer": "c",
+    "correct_answer_text": "The control circuit fuses or the main disconnect."
+  },
+  {
+    "id": 89,
+    "question": "Using a megohmmeter (Megger) on a VFD-controlled motor requires:",
+    "options": {
+      "a": "Setting the Megger to its highest voltage (5000 V).",
+      "b": "Disconnecting the motor from the VFD to avoid damaging the drive electronics.",
+      "c": "Testing while the motor is running.",
+      "d": "Measuring between phases only."
+    },
+    "answer": "b",
+    "correct_answer_text": "Disconnecting the motor from the VFD to avoid damaging the drive electronics."
+  },
+  {
+    "id": 90,
+    "question": "What does a \"soft starter\" do to protect the motor during startup?",
+    "options": {
+      "a": "It increases the frequency.",
+      "b": "It gradually increases the voltage to limit inrush current.",
+      "c": "It provides mechanical braking.",
+      "d": "It changes the number of poles."
+    },
+    "answer": "b",
+    "correct_answer_text": "It gradually increases the voltage to limit inrush current."
+  },
+  {
+    "id": 91,
+    "question": "According to PEC, the motor branch-circuit short-circuit and ground-fault protective device (like a circuit breaker) for a single induction motor shall generally not exceed ____ % of the motor full-load current (for Inverse Time Breakers).",
+    "options": {
+      "a": "125%",
+      "b": "150%",
+      "c": "250%",
+      "d": "300%"
+    },
+    "answer": "c",
+    "correct_answer_text": "250%"
+  },
+  {
+    "id": 92,
+    "question": "Under PEC, a motor disconnecting means must be:",
+    "options": {
+      "a": "Within sight from the motor and the driven machinery.",
+      "b": "Located in a separate locked room.",
+      "c": "Within 50 meters, regardless of visibility.",
+      "d": "Operable only by a licensed electrician."
+    },
+    "answer": "a",
+    "correct_answer_text": "Within sight from the motor and the driven machinery."
+  },
+  {
+    "id": 93,
+    "question": "For a continuous-duty motor, the branch-circuit conductors must have an ampacity of at least ____ % of the motor's full-load current rating.",
+    "options": {
+      "a": "100%",
+      "b": "115%",
+      "c": "125%",
+      "d": "150%"
+    },
+    "answer": "c",
+    "correct_answer_text": "125%"
+  },
+  {
+    "id": 94,
+    "question": "If a motor has a Service Factor (SF) of 1.15, the PEC allows the overload protection to be sized up to ____ % of the nameplate FLC.",
+    "options": {
+      "a": "115%",
+      "b": "125%",
+      "c": "140%",
+      "d": "100%"
+    },
+    "answer": "b",
+    "correct_answer_text": "125%"
+  },
+  {
+    "id": 95,
+    "question": "The PEC requires that a motor controller shall be capable of starting and stopping the motor and shall be capable of interrupting the ____ current of the motor.",
+    "options": {
+      "a": "Magnetizing",
+      "b": "Locked-rotor",
+      "c": "Rated",
+      "d": "Ground-fault"
+    },
+    "answer": "b",
+    "correct_answer_text": "Locked-rotor"
+  },
+  {
+    "id": 96,
+    "question": "Which PEC Article covers \"Motors, Motor Circuits, and Controllers\"?",
+    "options": {
+      "a": "Article 2.50",
+      "b": "Article 4.30",
+      "c": "Article 3.10",
+      "d": "Article 5.00"
+    },
+    "answer": "b",
+    "correct_answer_text": "Article 4.30"
+  },
+  {
+    "id": 97,
+    "question": "For several motors on a single branch circuit, the conductor size must be based on the sum of the FLC of all motors plus ____ % of the highest-rated motor.",
+    "options": {
+      "a": "10%",
+      "b": "25%",
+      "c": "50%",
+      "d": "125%"
+    },
+    "answer": "b",
+    "correct_answer_text": "25%"
+  },
+  {
+    "id": 98,
+    "question": "The PEC specifies that the disconnecting means for a motor must be a:",
+    "options": {
+      "a": "Horsepower-rated switch or circuit breaker.",
+      "b": "Simple toggle switch (for any size motor).",
+      "c": "Push button on a control station.",
+      "d": "Plug and receptacle for motors up to 50 HP."
+    },
+    "answer": "a",
+    "correct_answer_text": "Horsepower-rated switch or circuit breaker."
+  },
+  {
+    "id": 99,
+    "question": "In the PEC, \"Within Sight\" means the equipment is visible and not more than ____ meters distant.",
+    "options": {
+      "a": "5 meters",
+      "b": "15 meters",
+      "c": "30 meters",
+      "d": "50 meters"
+    },
+    "answer": "b",
+    "correct_answer_text": "15 meters"
+  },
+  {
+    "id": 100,
+    "question": "When using a Cord-and-Plug connection as a controller for a portable motor, the motor rating must not exceed:",
+    "options": {
+      "a": "1/3 HP",
+      "b": "1 HP",
+      "c": "5 HP",
+      "d": "10 HP"
+    },
+    "answer": "a",
+    "correct_answer_text": "1/3 HP"
+  },
+  {
+    "id": 101,
+    "question": "In a synchronous machine, why is the field system usually the rotating part?",
+    "options": {
+      "a": "To reduce the weight of the rotor.",
+      "b": "To allow better insulation of the high-voltage stationary armature.",
+      "c": "Because DC excitation is easier to handle on a rotor than AC.",
+      "d": "To eliminate the need for slip rings."
+    },
+    "answer": "b",
+    "correct_answer_text": "To allow better insulation of the high-voltage stationary armature."
+  },
+  {
+    "id": 102,
+    "question": "Which rotor construction is preferred for high-speed turbo-alternators?",
+    "options": {
+      "a": "Salient pole rotor.",
+      "b": "Squirrel cage rotor.",
+      "c": "Smooth cylindrical rotor.",
+      "d": "Wound rotor."
+    },
+    "answer": "c",
+    "correct_answer_text": "Smooth cylindrical rotor."
+  },
+  {
+    "id": 103,
+    "question": "The distribution factor (k_d) in an alternator accounts for:",
+    "options": {
+      "a": "The reduction in EMF because coils are not concentrated in one slot.",
+      "b": "The harmonics produced by the flux distribution.",
+      "c": "The shortening of the coil pitch.",
+      "d": "The leakage reactance of the winding."
+    },
+    "answer": "a",
+    "correct_answer_text": "The reduction in EMF because coils are not concentrated in one slot."
+  },
+  {
+    "id": 104,
+    "question": "A synchronous motor is \"over-excited\" when it operates at:",
+    "options": {
+      "a": "Unity power factor.",
+      "b": "Lagging power factor.",
+      "c": "Leading power factor.",
+      "d": "Zero power factor lagging."
+    },
+    "answer": "c",
+    "correct_answer_text": "Leading power factor."
+  },
+  {
+    "id": 105,
+    "question": "The \"V-curves\" of a synchronous motor represent the relationship between:",
+    "options": {
+      "a": "Armature current and Power factor.",
+      "b": "Armature current and Field current.",
+      "c": "Torque and Speed.",
+      "d": "Field current and Power factor."
+    },
+    "answer": "b",
+    "correct_answer_text": "Armature current and Field current."
+  },
+  {
+    "id": 106,
+    "question": "What is the primary purpose of damper windings in a synchronous motor?",
+    "options": {
+      "a": "To increase the starting torque.",
+      "b": "To reduce hunting and provide self-starting capability.",
+      "c": "To improve the power factor.",
+      "d": "To decrease the armature reaction."
+    },
+    "answer": "b",
+    "correct_answer_text": "To reduce hunting and provide self-starting capability."
+  },
+  {
+    "id": 107,
+    "question": "The synchronous reactance (X_s) of an alternator is defined as:",
+    "options": {
+      "a": "The sum of leakage reactance and armature reaction reactance.",
+      "b": "The ratio of open-circuit voltage to short-circuit current.",
+      "c": "The reactance due to the stator winding resistance.",
+      "d": "The impedance of the rotor."
+    },
+    "answer": "a",
+    "correct_answer_text": "The sum of leakage reactance and armature reaction reactance."
+  },
+  {
+    "id": 108,
+    "question": "If the load angle ( ) of a synchronous motor exceeds 90°, what happens?",
+    "options": {
+      "a": "The motor runs faster.",
+      "b": "The motor loses synchronism and stops (pull-out torque reached).",
+      "c": "The power factor becomes unity.",
+      "d": "The armature current drops to zero."
+    },
+    "answer": "b",
+    "correct_answer_text": "The motor loses synchronism and stops (pull-out torque reached)."
+  },
+  {
+    "id": 109,
+    "question": "In a salient pole machine, the direct-axis reactance (X_d) is:",
+    "options": {
+      "a": "Equal to the quadrature-axis reactance (X_q).",
+      "b": "Smaller than X_q.",
+      "c": "Larger than X_q.",
+      "d": "Always zero."
+    },
+    "answer": "c",
+    "correct_answer_text": "Larger than X_q."
+  },
+  {
+    "id": 110,
+    "question": "What is the effect of armature reaction on an alternator operating at a purely capacitive load (leading PF)?",
+    "options": {
+      "a": "Cross-magnetizing.",
+      "b": "Demagnetizing.",
+      "c": "Magnetizing (Strengthening the main flux).",
+      "d": "No effect."
+    },
+    "answer": "c",
+    "correct_answer_text": "Magnetizing (Strengthening the main flux)."
+  },
+  {
+    "id": 111,
+    "question": "A synchronous motor fails to start even though the stator is energized. What is the most likely cause?",
+    "options": {
+      "a": "Field excitation is too high.",
+      "b": "The load torque is higher than the starting torque.",
+      "c": "The damper windings are open-circuited.",
+      "d": "Both B and C."
+    },
+    "answer": "d",
+    "correct_answer_text": "Both B and C."
+  },
+  {
+    "id": 112,
+    "question": "During the parallel operation of two alternators, if the \"Dark Lamp\" method shows the lamps flickering rapidly, it indicates:",
+    "options": {
+      "a": "The phase sequences are different.",
+      "b": "The frequencies are not closely matched.",
+      "c": "The voltages are not equal.",
+      "d": "The machines are perfectly synchronized."
+    },
+    "answer": "b",
+    "correct_answer_text": "The frequencies are not closely matched."
+  },
+  {
+    "id": 113,
+    "question": "A synchronous motor is running with a heavy load. Suddenly, the field excitation is lost. What happens?",
+    "options": {
+      "a": "The motor continues to run as an induction motor if it has damper windings.",
+      "b": "The motor stops immediately.",
+      "c": "The motor speed increases.",
+      "d": "The motor explodes due to overcurrent."
+    },
+    "answer": "a",
+    "correct_answer_text": "The motor continues to run as an induction motor if it has damper windings."
+  },
+  {
+    "id": 114,
+    "question": "An alternator is overheating despite being within its KVA rating. What should you check first?",
+    "options": {
+      "a": "The power factor of the load.",
+      "b": "The cooling system/ventilation and ambient temperature.",
+      "c": "The field current (over-excitation).",
+      "d": "All of the above."
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above."
+  },
+  {
+    "id": 115,
+    "question": "You observe \"Hunting\" in a synchronous motor. Which of the following is a common cause?",
+    "options": {
+      "a": "Constant load.",
+      "b": "Cyclic variations in load torque.",
+      "c": "High inertia of the rotor.",
+      "d": "Stable supply frequency."
+    },
+    "answer": "b",
+    "correct_answer_text": "Cyclic variations in load torque."
+  },
+  {
+    "id": 116,
+    "question": "If an alternator's voltage regulation is negative, the load is:",
+    "options": {
+      "a": "Inductive.",
+      "b": "Resistive.",
+      "c": "Capacitive.",
+      "d": "Nonlinear."
+    },
+    "answer": "c",
+    "correct_answer_text": "Capacitive."
+  },
+  {
+    "id": 117,
+    "question": "A \"hunting\" alternator in a parallel system can be stabilized by:",
+    "options": {
+      "a": "Decreasing the field current.",
+      "b": "Using a flywheel or damper windings.",
+      "c": "Increasing the speed of the prime mover.",
+      "d": "Disconnecting the neutral."
+    },
+    "answer": "b",
+    "correct_answer_text": "Using a flywheel or damper windings."
+  },
+  {
+    "id": 118,
+    "question": "What happens if you try to synchronize an alternator with the busbars when its phase sequence is reversed?",
+    "options": {
+      "a": "The machine will run as a motor.",
+      "b": "There will be a massive short-circuit current and potential mechanical failure.",
+      "c": "The voltage will double.",
+      "d": "The frequency will drop."
+    },
+    "answer": "b",
+    "correct_answer_text": "There will be a massive short-circuit current and potential mechanical failure."
+  },
+  {
+    "id": 119,
+    "question": "A synchronous condenser is essentially a synchronous motor that is:",
+    "options": {
+      "a": "Under-excited and running with no mechanical load.",
+      "b": "Over-excited and running with no mechanical load.",
+      "c": "Over-excited and running at full load.",
+      "d": "Connected in series with the line."
+    },
+    "answer": "b",
+    "correct_answer_text": "Over-excited and running with no mechanical load."
+  },
+  {
+    "id": 120,
+    "question": "If the prime mover of an alternator operating in parallel with an infinite bus fails, the alternator will:",
+    "options": {
+      "a": "Stop immediately.",
+      "b": "Run as a synchronous motor in the same direction.",
+      "c": "Run as a synchronous motor in the opposite direction.",
+      "d": "Reverse its polarity."
+    },
+    "answer": "b",
+    "correct_answer_text": "Run as a synchronous motor in the same direction."
+  },
+  {
+    "id": 121,
+    "question": "According to PEC (Article 4.45), what is the minimum ampacity of the conductors from the generator terminals to the first overcurrent device?",
+    "options": {
+      "a": "100% of the nameplate current rating.",
+      "b": "115% of the nameplate current rating.",
+      "c": "125% of the nameplate current rating.",
+      "d": "150% of the nameplate current rating."
+    },
+    "answer": "b",
+    "correct_answer_text": "115% of the nameplate current rating."
+  },
+  {
+    "id": 122,
+    "question": "PEC requires that generators (except for cord-and-plug-connected portable ones) be provided with:",
+    "options": {
+      "a": "A nameplate.",
+      "b": "A disconnecting means.",
+      "c": "Overload protection.",
+      "d": "All of the above."
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above."
+  },
+  {
+    "id": 123,
+    "question": "For a synchronous motor, the PEC states that the controller must be capable of starting and stopping the motor and shall have an HP rating:",
+    "options": {
+      "a": "Equal to the motor's HP.",
+      "b": "Not less than the motor's HP.",
+      "c": "125% of the motor's HP.",
+      "d": "Based only on the voltage."
+    },
+    "answer": "b",
+    "correct_answer_text": "Not less than the motor's HP."
+  },
+  {
+    "id": 124,
+    "question": "Under PEC Article 4.30, a disconnecting means for a motor must be in sight from the controller and shall be no more than ____ away.",
+    "options": {
+      "a": "10 meters.",
+      "b": "15 meters.",
+      "c": "20 meters.",
+      "d": "50 meters."
+    },
+    "answer": "b",
+    "correct_answer_text": "15 meters."
+  },
+  {
+    "id": 125,
+    "question": "When sizing the branch circuit for a single motor, PEC requires a conductor ampacity of at least:",
+    "options": {
+      "a": "100% of the Full Load Current (FLC).",
+      "b": "115% of the FLC.",
+      "c": "125% of the FLC.",
+      "d": "150% of the FLC."
+    },
+    "answer": "c",
+    "correct_answer_text": "125% of the FLC."
+  },
+  {
+    "id": 126,
+    "question": "For a motor-generator set used for power factor correction, PEC mandates that the motor circuit be protected against:",
+    "options": {
+      "a": "Undervoltage.",
+      "b": "Overload.",
+      "c": "Short circuit.",
+      "d": "All of the above.."
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above.."
+  },
+  {
+    "id": 127,
+    "question": "In a generator installation, the PEC specifies that live parts operating at more than ____ to ground must be guarded against accidental contact.",
+    "options": {
+      "a": "30 V.",
+      "b": "50 V.",
+      "c": "100 V.",
+      "d": "230 V."
+    },
+    "answer": "b",
+    "correct_answer_text": "50 V."
+  },
+  {
+    "id": 128,
+    "question": "If a synchronous motor is used as a \"Synchronous Condenser,\" the PEC considers it a motor for the purpose of:",
+    "options": {
+      "a": "Branch circuit sizing.",
+      "b": "Disconnecting means.",
+      "c": "Grounding.",
+      "d": "All of the above.."
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above.."
+  },
+  {
+    "id": 129,
+    "question": "PEC Article 4.45 states that a generator's neutral conductor sizing for a 3-phase, 4-wire system shall not be less than ____ of the ampacity of the phase conductors.",
+    "options": {
+      "a": "12.5%.",
+      "b": "50%.",
+      "c": "100%.",
+      "d": "Sized based on the unbalanced load."
+    },
+    "answer": "d",
+    "correct_answer_text": "Sized based on the unbalanced load."
+  },
+  {
+    "id": 130,
+    "question": "Stationary generators shall be installed in a manner that ensures:",
+    "options": {
+      "a": "Sufficient ventilation.",
+      "b": "Protection from the elements.",
+      "c": "Combustible material is not nearby.",
+      "d": "All of the above."
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above."
+  },
+  {
+    "id": 131,
+    "question": "The EMF equation of an alternator is given by E = 4.44 f Φ T k_p k_d. What does k_p represent?",
+    "options": {
+      "a": "Distribution factor.",
+      "b": "Pitch factor.",
+      "c": "Power factor.",
+      "d": "Phase factor."
+    },
+    "answer": "b",
+    "correct_answer_text": "Pitch factor."
+  },
+  {
+    "id": 132,
+    "question": "A 6-pole alternator rotates at 1200 RPM. What is the frequency of the generated voltage?",
+    "options": {
+      "a": "50 Hz.",
+      "b": "60 Hz.",
+      "c": "100 Hz.",
+      "d": "120 Hz."
+    },
+    "answer": "b",
+    "correct_answer_text": "60 Hz."
+  },
+  {
+    "id": 133,
+    "question": "The \"Short Circuit Ratio\" (SCR) of a synchronous machine is:",
+    "options": {
+      "a": "The reciprocal of synchronous reactance in per-unit.",
+      "b": "The ratio of I sc to 1 fl.",
+      "c": "The ratio of field current for rated OC voltage to field current for rated SC armature current.",
+      "d": "Both A and C."
+    },
+    "answer": "d",
+    "correct_answer_text": "Both A and C."
+  },
+  {
+    "id": 134,
+    "question": "A machine with a high SCR generally has:",
+    "options": {
+      "a": "Better voltage regulation and higher stability.",
+      "b": "Poor voltage regulation and lower stability.",
+      "c": "Smaller size for the same KVA,",
+      "d": "High armature reaction."
+    },
+    "answer": "a",
+    "correct_answer_text": "Better voltage regulation and higher stability."
+  },
+  {
+    "id": 135,
+    "question": "In synchronous motors, the \"Pull-in torque\" is:",
+    "options": {
+      "a": "The torque developed at starting.",
+      "b": "The maximum torque the motor can develop without losing synchronism.",
+      "c": "The torque that pulls the motor into synchronism during starting.",
+      "d": "The torque at zero speed."
+    },
+    "answer": "c",
+    "correct_answer_text": "The torque that pulls the motor into synchronism during starting."
+  },
+  {
+    "id": 136,
+    "question": "The power developed by a cylindrical rotor synchronous motor is maximum when the load angle is:",
+    "options": {
+      "a": "0°.",
+      "b": "45°.",
+      "c": "90°.",
+      "d": "180°."
+    },
+    "answer": "c",
+    "correct_answer_text": "90°."
+  },
+  {
+    "id": 137,
+    "question": "For salient pole machines, the power equation includes a \"reluctance power\" term which depends on:",
+    "options": {
+      "a": "sin(20).",
+      "b": "sin( ).",
+      "c": "cos( ).",
+      "d": "tan( )."
+    },
+    "answer": "a",
+    "correct_answer_text": "sin(20)."
+  },
+  {
+    "id": 138,
+    "question": "Armature reaction in an alternator at unity power factor is primarily:",
+    "options": {
+      "a": "Magnetizing.",
+      "b": "Demagnetizing.",
+      "c": "Cross-magnetizing.",
+      "d": "Distorting."
+    },
+    "answer": "c",
+    "correct_answer_text": "Cross-magnetizing."
+  },
+  {
+    "id": 139,
+    "question": "To increase the real power (kW) output of an alternator operating in parallel, you must:",
+    "options": {
+      "a": "Increase the field excitation.",
+      "b": "Increase the prime mover's throttle/governor setting.",
+      "c": "Decrease the field excitation.",
+      "d": "Change the phase sequence."
+    },
+    "answer": "b",
+    "correct_answer_text": "Increase the prime mover's throttle/governor setting."
+  },
+  {
+    "id": 140,
+    "question": "To change the Reactive Power (kVAR) output of an alternator in parallel, you must:",
+    "options": {
+      "a": "Change the speed.",
+      "b": "Change the field excitation.",
+      "c": "Increase the steam input.",
+      "d": "Stop the machine."
+    },
+    "answer": "b",
+    "correct_answer_text": "Change the field excitation."
+  },
+  {
+    "id": 141,
+    "question": "When checking the insulation resistance of a synchronous machine, a \"Polarization Index\" (PI) of 1.0 or less indicates:",
+    "options": {
+      "a": "Good insulation.",
+      "b": "Dry and clean insulation.",
+      "c": "Potential moisture or contamination in the windings.",
+      "d": "Excellent condition."
+    },
+    "answer": "c",
+    "correct_answer_text": "Potential moisture or contamination in the windings."
+  },
+  {
+    "id": 142,
+    "question": "Which cooling method is common for very large utility-scale alternators (above 200 MW)?",
+    "options": {
+      "a": "Air cooling.",
+      "b": "Oil cooling.",
+      "c": "Hydrogen cooling.",
+      "d": "Water cooling of stator conductors."
+    },
+    "answer": "c",
+    "correct_answer_text": "Hydrogen cooling."
+  },
+  {
+    "id": 143,
+    "question": "A synchronous motor is acting as a \"Synchronous Condenser.\" If the line voltage drops, how should the field excitation be adjusted to maintain the same power factor correction?",
+    "options": {
+      "a": "Decreased.",
+      "b": "Increased.",
+      "c": "Kept constant.",
+      "d": "Turned off."
+    },
+    "answer": "b",
+    "correct_answer_text": "Increased."
+  },
+  {
+    "id": 144,
+    "question": "According to PEC, if a generator's nameplate is missing, you should:",
+    "options": {
+      "a": "Guess the rating based on size.",
+      "b": "Calculate rating using wire size.",
+      "c": "Not use the equipment until a proper nameplate is provided or the manufacturer confirms specs.",
+      "d": "Use a standard 100A breaker."
+    },
+    "answer": "c",
+    "correct_answer_text": "Not use the equipment until a proper nameplate is provided or the manufacturer confirms specs."
+  },
+  {
+    "id": 145,
+    "question": "What is the standard phase sequence in the Philippines (and generally)?",
+    "options": {
+      "a": "A-C-B.",
+      "b": "B-A-C.",
+      "c": "A-B-C.",
+      "d": "C-B-A."
+    },
+    "answer": "c",
+    "correct_answer_text": "A-B-C."
+  },
+  {
+    "id": 146,
+    "question": "In a \"Hot-Spot\" scenario in an alternator stator, what is likely failing?",
+    "options": {
+      "a": "The bearings.",
+      "b": "The core lamination insulation.",
+      "c": "The exciter.",
+      "d": "The slip rings."
+    },
+    "answer": "b",
+    "correct_answer_text": "The core lamination insulation."
+  },
+  {
+    "id": 147,
+    "question": "A synchronous motor is drawing a very high current but producing very little torque at start-up. What is a potential issue?",
+    "options": {
+      "a": "Wrong polarity of DC field.",
+      "b": "Open damper winding bars.",
+      "c": "Supply voltage is too high.",
+      "d": "Frequency is too low."
+    },
+    "answer": "b",
+    "correct_answer_text": "Open damper winding bars."
+  },
+  {
+    "id": 148,
+    "question": "The \"Torque Angle\" is the angle between:",
+    "options": {
+      "a": "Stator flux and Rotor flux.",
+      "b": "Terminal voltage and Induced EMF.",
+      "c": "Both A and B.",
+      "d": "Applied voltage and Line current."
+    },
+    "answer": "c",
+    "correct_answer_text": "Both A and B."
+  },
+  {
+    "id": 149,
+    "question": "PEC ruling: For generators, the overcurrent protection shall be allowed to be omitted if the generator is:",
+    "options": {
+      "a": "Less than 10 kW.",
+      "b": "Inherently limited (cannot exceed ampacity).",
+      "c": "Driven by a diesel engine.",
+      "d": "In a hospital."
+    },
+    "answer": "b",
+    "correct_answer_text": "Inherently limited (cannot exceed ampacity)."
+  },
+  {
+    "id": 150,
+    "question": "To reverse the direction of rotation of a 3-phase synchronous motor, you must:",
+    "options": {
+      "a": "Reverse the DC field polarity.",
+      "b": "Interchange any two of the three stator supply lines.",
+      "c": "Reverse the prime mover direction.",
+      "d": "It is not possible to reverse it."
+    },
+    "answer": "b",
+    "correct_answer_text": "Interchange any two of the three stator supply lines."
+  },
+  {
+    "id": 151,
+    "question": "What is the primary objective of performing a fault study in a power system?",
+    "options": {
+      "a": "To determine the maximum load current.",
+      "b": "To calculate the required ratings of protective devices.",
+      "c": "To improve the power factor of the system.",
+      "d": "To reduce the cost of energy."
+    },
+    "answer": "b",
+    "correct_answer_text": "To calculate the required ratings of protective devices."
+  },
+  {
+    "id": 152,
+    "question": "A \"bolted fault\" refers to a condition where:",
+    "options": {
+      "a": "The fault occurs through a high-resistance path.",
+      "b": "The fault impedance is zero.",
+      "c": "The circuit breaker fails to trip.",
+      "d": "Only one phase is disconnected."
+    },
+    "answer": "b",
+    "correct_answer_text": "The fault impedance is zero."
+  },
+  {
+    "id": 153,
+    "question": "Which of the following is an advantage of using the Per-Unit (pu) system?",
+    "options": {
+      "a": "It eliminates the need for complex numbers.",
+      "b": "It makes the calculation of transformers with different voltage ratios easier.",
+      "c": "It reduces the actual current in the system.",
+      "d": "It increases the accuracy of the frequency measurement."
+    },
+    "answer": "b",
+    "correct_answer_text": "It makes the calculation of transformers with different voltage ratios easier."
+  },
+  {
+    "id": 154,
+    "question": "In the per-unit system, if the base MVA is increased while the base kV remains constant, what happens to the per-unit impedance (Zpu)?",
+    "options": {
+      "a": "It decreases.",
+      "b": "It increases.",
+      "c": "It remains the same.",
+      "d": "It becomes zero."
+    },
+    "answer": "b",
+    "correct_answer_text": "It increases."
+  },
+  {
+    "id": 155,
+    "question": "Most faults in a power system are caused by:",
+    "options": {
+      "a": "Lightning and wind.",
+      "b": "Intentional tampering.",
+      "c": "Excessive load.",
+      "d": "Over-frequency."
+    },
+    "answer": "a",
+    "correct_answer_text": "Lightning and wind."
+  },
+  {
+    "id": 156,
+    "question": "Which type of fault is the most frequent in overhead transmission lines?",
+    "options": {
+      "a": "Symmetrical 3-phase fault.",
+      "b": "Line-to-Line fault.",
+      "c": "Single Line-to-Ground fault.",
+      "d": "Double Line-to-Ground fault."
+    },
+    "answer": "c",
+    "correct_answer_text": "Single Line-to-Ground fault."
+  },
+  {
+    "id": 157,
+    "question": "The \"transient period\" of a fault current is dominated by:",
+    "options": {
+      "a": "The resistance of the lines.",
+      "b": "The sub-transient reactance of the generator (X\"d).",
+      "c": "The steady-state synchronous reactance.",
+      "d": "The load's power factor."
+    },
+    "answer": "b",
+    "correct_answer_text": "The sub-transient reactance of the generator (X\"d)."
+  },
+  {
+    "id": 158,
+    "question": "Which quantity remains unchanged when moving from one side of a transformer to the other in a Per-Unit system?",
+    "options": {
+      "a": "Voltage.",
+      "b": "Current.",
+      "c": "Impedance.",
+      "d": "None of the above."
+    },
+    "answer": "c",
+    "correct_answer_text": "Impedance."
+  },
+  {
+    "id": 159,
+    "question": "Fault analysis is usually carried out assuming the system is initially at:",
+    "options": {
+      "a": "Maximum load.",
+      "b": "No load.",
+      "c": "Half load.",
+      "d": "Short circuit."
+    },
+    "answer": "b",
+    "correct_answer_text": "No load."
+  },
+  {
+    "id": 160,
+    "question": "The DC offset in a fault current is primarily dependent on:",
+    "options": {
+      "a": "The magnitude of the fault.",
+      "b": "The point on the voltage wave when the fault occurs.",
+      "c": "The type of circuit breaker used.",
+      "d": "The number of phases involved."
+    },
+    "answer": "b",
+    "correct_answer_text": "The point on the voltage wave when the fault occurs."
+  },
+  {
+    "id": 161,
+    "question": "A symmetrical 3-phase fault is unique because:",
+    "options": {
+      "a": "It is the most common fault.",
+      "b": "The system remains balanced.",
+      "c": "It only involves ground.",
+      "d": "It produces zero-sequence currents."
+    },
+    "answer": "b",
+    "correct_answer_text": "The system remains balanced."
+  },
+  {
+    "id": 162,
+    "question": "Why do we use the 3-phase fault current to determine the interrupting capacity of circuit breakers?",
+    "options": {
+      "a": "Because it is the most frequent.",
+      "b": "Because it usually results in the highest fault current magnitude.",
+      "c": "Because it involves the ground.",
+      "d": "Because it is the easiest to calculate."
+    },
+    "answer": "b",
+    "correct_answer_text": "Because it usually results in the highest fault current magnitude."
+  },
+  {
+    "id": 163,
+    "question": "In a 3-phase fault, the negative and zero sequence currents are:",
+    "options": {
+      "a": "Equal to the positive sequence.",
+      "b": "Maximum.",
+      "c": "Zero.",
+      "d": "Half of the positive sequence."
+    },
+    "answer": "c",
+    "correct_answer_text": "Zero."
+  },
+  {
+    "id": 164,
+    "question": "The sub-transient reactance X\"d is used to calculate:",
+    "options": {
+      "a": "The steady-state fault current.",
+      "b": "The initial symmetrical RMS fault current.",
+      "c": "The relay settings for long-term overloads.",
+      "d": "The voltage drop at the load end."
+    },
+    "answer": "b",
+    "correct_answer_text": "The initial symmetrical RMS fault current."
+  },
+  {
+    "id": 165,
+    "question": "If the distance to a fault increases from the source, the fault current:",
+    "options": {
+      "a": "Increases.",
+      "b": "Decreases.",
+      "c": "Stays constant.",
+      "d": "Becomes purely capacitive."
+    },
+    "answer": "b",
+    "correct_answer_text": "Decreases."
+  },
+  {
+    "id": 166,
+    "question": "Which component provides the most significant fault current contribution during the first few cycles of a fault?",
+    "options": {
+      "a": "Synchronous Motors.",
+      "b": "Induction Motors.",
+      "c": "Capacitors.",
+      "d": "Both A and B."
+    },
+    "answer": "d",
+    "correct_answer_text": "Both A and B."
+  },
+  {
+    "id": 167,
+    "question": "A 3-phase fault occurs at the terminals of a generator. What limits the current after several seconds?",
+    "options": {
+      "a": "Sub-transient reactance.",
+      "b": "Transient reactance.",
+      "c": "Synchronous reactance.",
+      "d": "Armature resistance only."
+    },
+    "answer": "c",
+    "correct_answer_text": "Synchronous reactance."
+  },
+  {
+    "id": 168,
+    "question": "In a balanced 3-phase fault, the fault current \"lags\" the voltage by nearly 90 degrees because:",
+    "options": {
+      "a": "The line is mostly resistive.",
+      "b": "The system is mostly inductive.",
+      "c": "The system is mostly capacitive.",
+      "d": "The generator speed drops."
+    },
+    "answer": "b",
+    "correct_answer_text": "The system is mostly inductive."
+  },
+  {
+    "id": 169,
+    "question": "What is the \"Short Circuit MVA\" formula?",
+    "options": {
+      "a": "MVAbase / Zpu",
+      "b": "MVAbase x Zpu",
+      "c": "Vbase x Ifault",
+      "d": "Ifault/ Zbase"
+    },
+    "answer": "a",
+    "correct_answer_text": "MVAbase / Zpu"
+  },
+  {
+    "id": 170,
+    "question": "Which device is specifically designed to limit the magnitude of a symmetrical fault current?",
+    "options": {
+      "a": "Capacitor.",
+      "b": "Current-limiting Reactor.",
+      "c": "Isolation Transformer.",
+      "d": "Lightning Arrester."
+    },
+    "answer": "b",
+    "correct_answer_text": "Current-limiting Reactor."
+  },
+  {
+    "id": 171,
+    "question": "The method of Symmetrical Components is used to:",
+    "options": {
+      "a": "Calculate balanced 3-phase loads.",
+      "b": "Solve unbalanced power system problems.",
+      "c": "Determine the power factor.",
+      "d": "Increase the generator's efficiency."
+    },
+    "answer": "b",
+    "correct_answer_text": "Solve unbalanced power system problems."
+  },
+  {
+    "id": 172,
+    "question": "In a Single Line-to-Ground (SLG) fault, the sequence networks are connected in:",
+    "options": {
+      "a": "Parallel.",
+      "b": "Series.",
+      "c": "Series-Parallel.",
+      "d": "Delta."
+    },
+    "answer": "b",
+    "correct_answer_text": "Series."
+  },
+  {
+    "id": 173,
+    "question": "Which sequence component exists only when there is a ground connection or a neutral path?",
+    "options": {
+      "a": "Positive Sequence.",
+      "b": "Negative Sequence.",
+      "c": "Zero Sequence.",
+      "d": "All of the above."
+    },
+    "answer": "c",
+    "correct_answer_text": "Zero Sequence."
+  },
+  {
+    "id": 174,
+    "question": "For a Line-to-Line (LL) fault, which sequence component is absent?",
+    "options": {
+      "a": "Positive.",
+      "b": "Negative.",
+      "c": "Zero.",
+      "d": "None of the above."
+    },
+    "answer": "c",
+    "correct_answer_text": "Zero."
+  },
+  {
+    "id": 175,
+    "question": "The operator \"a\" in symmetrical components represents a phasor rotation of:",
+    "options": {
+      "a": "90 degrees.",
+      "b": "120 degrees counter-clockwise.",
+      "c": "180 degrees.",
+      "d": "240 degrees counter-clockwise."
+    },
+    "answer": "b",
+    "correct_answer_text": "120 degrees counter-clockwise."
+  },
+  {
+    "id": 176,
+    "question": "In an LLG (Double Line-to-Ground) fault, how are the sequence networks connected?",
+    "options": {
+      "a": "All in series.",
+      "b": "Positive and negative in series, zero in parallel.",
+      "c": "All in parallel..",
+      "d": "Positive in series with the parallel combination of negative and zero."
+    },
+    "answer": "c",
+    "correct_answer_text": "All in parallel.."
+  },
+  {
+    "id": 177,
+    "question": "A Delta-connected transformer bank will:",
+    "options": {
+      "a": "Pass zero-sequence current to the other side..",
+      "b": "Block zero-sequence current from passing to the other side.",
+      "c": "Increase the zero-sequence current.",
+      "d": "Act as a short circuit for positive sequence."
+    },
+    "answer": "b",
+    "correct_answer_text": "Block zero-sequence current from passing to the other side."
+  },
+  {
+    "id": 178,
+    "question": "If the neutral of a Wye-connected generator is ungrounded, the zero-sequence impedance is:",
+    "options": {
+      "a": "Zero.",
+      "b": "Equal to the positive sequence impedance.",
+      "c": "Infinite.",
+      "d": "Negative."
+    },
+    "answer": "c",
+    "correct_answer_text": "Infinite."
+  },
+  {
+    "id": 179,
+    "question": "Which fault typically results in the highest \"Phase-to-Neutral\" voltage on the healthy phases?",
+    "options": {
+      "a": "3-phase fault.",
+      "b": "SLG fault.",
+      "c": "LL fault.",
+      "d": "Bolted 3-phase to ground."
+    },
+    "answer": "b",
+    "correct_answer_text": "SLG fault."
+  },
+  {
+    "id": 180,
+    "question": "Positive sequence currents are characterized by:",
+    "options": {
+      "a": "Having no phase displacement.",
+      "b": "Having the same phase sequence as the original system.",
+      "c": "Being 180 degrees out of phase with the negative sequence.",
+      "d": "Only appearing during ground faults."
+    },
+    "answer": "b",
+    "correct_answer_text": "Having the same phase sequence as the original system."
+  },
+  {
+    "id": 181,
+    "question": "Negative sequence components are produced primarily by:",
+    "options": {
+      "a": "Balanced loads.",
+      "b": "Unbalanced loads or asymmetrical faults.",
+      "c": "Lightning.",
+      "d": "Perfectly transposed transmission lines."
+    },
+    "answer": "b",
+    "correct_answer_text": "Unbalanced loads or asymmetrical faults."
+  },
+  {
+    "id": 182,
+    "question": "A \"Grounding Transformer\" (Zig-zag) is used to:",
+    "options": {
+      "a": "Provide a path for zero-sequence current in an ungrounded system.",
+      "b": "Reduce the positive sequence current.",
+      "c": "Step up the voltage for transmission.",
+      "d": "Filter out the 3rd harmonic only."
+    },
+    "answer": "a",
+    "correct_answer_text": "Provide a path for zero-sequence current in an ungrounded system."
+  },
+  {
+    "id": 183,
+    "question": "In a sequence network for a transmission line, Z1 is usually equal to:",
+    "options": {
+      "a": "ZO",
+      "b": "Z2",
+      "c": "3 x 20",
+      "d": "0.5 x ZO"
+    },
+    "answer": "b",
+    "correct_answer_text": "Z2"
+  },
+  {
+    "id": 184,
+    "question": "Which sequence network is most affected by the method of neutral grounding?",
+    "options": {
+      "a": "Positive sequence.",
+      "b": "Negative sequence.",
+      "c": "Zero sequence.",
+      "d": "All are affected equally."
+    },
+    "answer": "c",
+    "correct_answer_text": "Zero sequence."
+  },
+  {
+    "id": 185,
+    "question": "The fault current for an SLG fault is given by If = 3 x I0. Why the factor of 3?",
+    "options": {
+      "a": "Because there are three phases.",
+      "b": "Because 10, 11, 12 are all equal and sum up in the ground path.",
+      "c": "It's a safety factor.",
+      "d": "It accounts for the DC offset."
+    },
+    "answer": "b",
+    "correct_answer_text": "Because 10, 11, 12 are all equal and sum up in the ground path."
+  },
+  {
+    "id": 186,
+    "question": "The \"Interrupting Capacity\" of a circuit breaker is expressed in:",
+    "options": {
+      "a": "Amperes.",
+      "b": "MVA or kA.",
+      "c": "Volts.",
+      "d": "Ohms."
+    },
+    "answer": "b",
+    "correct_answer_text": "MVA or kA."
+  },
+  {
+    "id": 187,
+    "question": "What is the primary purpose of \"Arc Quenching\" in a circuit breaker?",
+    "options": {
+      "a": "To lubricate the contacts.",
+      "b": "To cool down the breaker's outer shell.",
+      "c": "To extinguish the plasma arc formed during contact separation.",
+      "d": "To increase the fault current."
+    },
+    "answer": "c",
+    "correct_answer_text": "To extinguish the plasma arc formed during contact separation."
+  },
+  {
+    "id": 188,
+    "question": "Which medium is known for having the best dielectric and arc-extinguishing properties for high-voltage breakers?",
+    "options": {
+      "a": "Air.",
+      "b": "Oil.",
+      "c": "SF6 (Sulfur Hexafluoride).",
+      "d": "Vacuum."
+    },
+    "answer": "c",
+    "correct_answer_text": "SF6 (Sulfur Hexafluoride)."
+  },
+  {
+    "id": 189,
+    "question": "A \"Recloser\" is primarily used on:",
+    "options": {
+      "a": "Underground cables.",
+      "b": "Overhead distribution lines.",
+      "c": "Large generators.",
+      "d": "Computer servers."
+    },
+    "answer": "b",
+    "correct_answer_text": "Overhead distribution lines."
+  },
+  {
+    "id": 190,
+    "question": "The \"Making Capacity\" of a breaker is higher than its \"Breaking Capacity\" because:",
+    "options": {
+      "a": "It includes the DC offset and the first peak of the fault current.",
+      "b": "The breaker is stronger when closing.",
+      "c": "It is rated for steady-state current.",
+      "d": "It's a marketing term."
+    },
+    "answer": "a",
+    "correct_answer_text": "It includes the DC offset and the first peak of the fault current."
+  },
+  {
+    "id": 191,
+    "question": "What does a \"Differential Relay\" protect against?",
+    "options": {
+      "a": "Over-frequency.",
+      "b": "Internal faults within a protected zone (like a transformer).",
+      "c": "Distance-related line faults.",
+      "d": "Under-voltage."
+    },
+    "answer": "b",
+    "correct_answer_text": "Internal faults within a protected zone (like a transformer)."
+  },
+  {
+    "id": 192,
+    "question": "In a VCB (Vacuum Circuit Breaker), the arc is quenched because:",
+    "options": {
+      "a": "Vacuum has no particles to support ionization.",
+      "b": "Vacuum is a conductor.",
+      "c": "Oil is injected into the vacuum.",
+      "d": "The contacts move very slowly."
+    },
+    "answer": "a",
+    "correct_answer_text": "Vacuum has no particles to support ionization."
+  },
+  {
+    "id": 193,
+    "question": "What is \"Relay Coordination\"?",
+    "options": {
+      "a": "Tuming all breakers off at once.",
+      "b": "Ensuring the breaker closest to the fault trips first.",
+      "c": "Making sure the generator speed matches the frequency.",
+      "d": "Connecting all relays to a single battery."
+    },
+    "answer": "b",
+    "correct_answer_text": "Ensuring the breaker closest to the fault trips first."
+  },
+  {
+    "id": 194,
+    "question": "An \"Instantaneous Trip\" function is designed to:",
+    "options": {
+      "a": "Protect against long-term overloads.",
+      "b": "Clear high-magnitude faults with no intentional time delay.",
+      "c": "Monitor the temperature of the cable.",
+      "d": "Reset the breaker automatically."
+    },
+    "answer": "b",
+    "correct_answer_text": "Clear high-magnitude faults with no intentional time delay."
+  },
+  {
+    "id": 195,
+    "question": "What is the \"Trip Free\" characteristic of a circuit breaker?",
+    "options": {
+      "a": "It can be tripped for free.",
+      "b": "It will trip during the closing operation if a fault exists, even if the handle is held in \"ON\".",
+      "c": "It doesn't require a power supply to trip.",
+      "d": "The contacts never wear out."
+    },
+    "answer": "b",
+    "correct_answer_text": "It will trip during the closing operation if a fault exists, even if the handle is held in \"ON\"."
+  },
+  {
+    "id": 196,
+    "question": "You observe a sudden voltage dip in all three phases, followed by a total blackout. This likely indicates:",
+    "options": {
+      "a": "A loose neutral.",
+      "b": "A major symmetrical 3-phase fault.",
+      "c": "A single burnt-out lightbulb.",
+      "d": "A capacitor bank switching on."
+    },
+    "answer": "b",
+    "correct_answer_text": "A major symmetrical 3-phase fault."
+  },
+  {
+    "id": 197,
+    "question": "A motor is running hot and making a humming sound; one fuse is blown. What is this condition called?",
+    "options": {
+      "a": "Double phasing.",
+      "b": "Single phasing.",
+      "c": "Ground fault.",
+      "d": "Over-voltage.."
+    },
+    "answer": "b",
+    "correct_answer_text": "Single phasing."
+  },
+  {
+    "id": 198,
+    "question": "If a ground fault occurs on an ungrounded system:",
+    "options": {
+      "a": "The system trips immediately.",
+      "b": "The fault current is very small, but healthy phase voltages to ground increase.",
+      "c": "The voltage on all phases drops to zero.",
+      "d": "The frequency doubles."
+    },
+    "answer": "b",
+    "correct_answer_text": "The fault current is very small, but healthy phase voltages to ground increase."
+  },
+  {
+    "id": 199,
+    "question": "During a \"Line-to-Line\" fault on a motor, the motor will:",
+    "options": {
+      "a": "Speed up.",
+      "b": "Produce a significant braking torque due to negative sequence currents.",
+      "c": "Act as a generator.",
+      "d": "Not be affected."
+    },
+    "answer": "b",
+    "correct_answer_text": "Produce a significant braking torque due to negative sequence currents."
+  },
+  {
+    "id": 200,
+    "question": "A \"High Impedance Fault\" (HIF) is difficult to detect because:",
+    "options": {
+      "a": "The fault current is too high.",
+      "b": "The fault current is very low, often below the setting of standard overcurrent relays.",
+      "c": "It only happens at night.",
+      "d": "It always clears itself."
+    },
+    "answer": "b",
+    "correct_answer_text": "The fault current is very low, often below the setting of standard overcurrent relays."
+  },
+  {
+    "id": 201,
+    "question": "If a circuit breaker \"nuisance trips\" when a large motor starts, the most likely cause is:",
+    "options": {
+      "a": "The motor is broken.",
+      "b": "The breaker's magnetic/instantaneous setting is too low for the motor's inrush current.",
+      "c": "The voltage is too high.",
+      "d": "The wires are too thick."
+    },
+    "answer": "b",
+    "correct_answer_text": "The breaker's magnetic/instantaneous setting is too low for the motor's inrush current."
+  },
+  {
+    "id": 202,
+    "question": "A transformer makes a loud \"bang\" and the differential relay trips. You should:",
+    "options": {
+      "a": "Reset the relay and try again.",
+      "b": "Perform an insulation resistance and dissolved gas analysis (DGA) before re-energizing.",
+      "c": "Replace the fuses only.",
+      "d": "Increase the relay setting."
+    },
+    "answer": "b",
+    "correct_answer_text": "Perform an insulation resistance and dissolved gas analysis (DGA) before re-energizing."
+  },
+  {
+    "id": 203,
+    "question": "When checking for a ground fault in a branch circuit, you should use a:",
+    "options": {
+      "a": "Voltmeter in series.",
+      "b": "Insulation Resistance Tester (Megger).",
+      "c": "Frequency meter.",
+      "d": "Thermometer."
+    },
+    "answer": "b",
+    "correct_answer_text": "Insulation Resistance Tester (Megger)."
+  },
+  {
+    "id": 204,
+    "question": "What is the effect of a large fault on a generator's stability?",
+    "options": {
+      "a": "It helps the generator run smoother.",
+      "b": "It causes the generator to accelerate or decelerate, potentially losing synchronism.",
+      "c": "It has no effect on stability.",
+      "d": "It increases the fuel efficiency."
+    },
+    "answer": "b",
+    "correct_answer_text": "It causes the generator to accelerate or decelerate, potentially losing synchronism."
+  },
+  {
+    "id": 205,
+    "question": "If the \"DC Control Voltage\" to a circuit breaker fails, the breaker:",
+    "options": {
+      "a": "Will still trip automatically on a fault.",
+      "b": "Will NOT be able to trip via the protective relay.",
+      "c": "Will explode.",
+      "d": "Will stay closed forever."
+    },
+    "answer": "b",
+    "correct_answer_text": "Will NOT be able to trip via the protective relay."
+  },
+  {
+    "id": 206,
+    "question": "According to PEC, what is the maximum voltage drop allowed for a combination of branch circuit and feeder?",
+    "options": {
+      "a": "3%",
+      "b": "5%",
+      "c": "10%",
+      "d": "2%"
+    },
+    "answer": "b",
+    "correct_answer_text": "5%"
+  },
+  {
+    "id": 207,
+    "question": "PEC requires that overcurrent protective devices be:",
+    "options": {
+      "a": "Installed in a hidden location.",
+      "b": "Readily accessible.",
+      "c": "Placed as high as possible.",
+      "d": "Made of copper only."
+    },
+    "answer": "b",
+    "correct_answer_text": "Readily accessible."
+  },
+  {
+    "id": 208,
+    "question": "Under PEC rules, the \"Interrupting Rating\" of a circuit breaker must be:",
+    "options": {
+      "a": "Less than the maximum calculated fault current.",
+      "b": "Equal to or greater than the maximum available fault current at its terminals.",
+      "c": "Exactly 10,000 Amperes for all residential units.",
+      "d": "Ignored if the fuse is present."
+    },
+    "answer": "b",
+    "correct_answer_text": "Equal to or greater than the maximum available fault current at its terminals."
+  },
+  {
+    "id": 209,
+    "question": "Which PEC article covers the requirements for \"Grounding and Bonding\"?",
+    "options": {
+      "a": "Article 100",
+      "b": "Article 250",
+      "c": "Article 430",
+      "d": "Article 300"
+    },
+    "answer": "b",
+    "correct_answer_text": "Article 250"
+  },
+  {
+    "id": 210,
+    "question": "What is the PEC standard for the color of the Grounding Electrode Conductor or Equipment Grounding Conductor?",
+    "options": {
+      "a": "Red.",
+      "b": "Blue.",
+      "c": "Green or Green with Yellow stripes.",
+      "d": "White or Gray."
+    },
+    "answer": "c",
+    "correct_answer_text": "Green or Green with Yellow stripes."
+  },
+  {
+    "id": 211,
+    "question": "Which parameter of a transmission line is entirely dependent on the magnetic field surrounding the conductors?",
+    "options": {
+      "a": "Resistance",
+      "b": "Inductance",
+      "c": "Capacitance",
+      "d": "Conductance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Inductance"
+  },
+  {
+    "id": 212,
+    "question": "The capacitance of a transmission line arises due to:",
+    "options": {
+      "a": "The magnetic field between conductors",
+      "b": "The potential difference between conductors",
+      "c": "The resistance of the conductors",
+      "d": "The length of the line only"
+    },
+    "answer": "b",
+    "correct_answer_text": "The potential difference between conductors"
+  },
+  {
+    "id": 213,
+    "question": "In a 3-phase system, if the conductors are not equilaterally spaced, what technique is used to balance the phases?",
+    "options": {
+      "a": "Bundling",
+      "b": "Transposition",
+      "c": "Grading",
+      "d": "Shunting"
+    },
+    "answer": "b",
+    "correct_answer_text": "Transposition"
+  },
+  {
+    "id": 214,
+    "question": "Bundled conductors are primarily used in high-voltage lines to:",
+    "options": {
+      "a": "Increase the mechanical strength",
+      "b": "Reduce the corona loss and reactance",
+      "c": "Decrease the weight of the line",
+      "d": "Increase the resistance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Reduce the corona loss and reactance"
+  },
+  {
+    "id": 215,
+    "question": "The GMR (Geometric Mean Radius) of a conductor is used in the calculation of:",
+    "options": {
+      "a": "Capacitance",
+      "b": "Inductance",
+      "c": "Resistance",
+      "d": "Leakage Current"
+    },
+    "answer": "b",
+    "correct_answer_text": "Inductance"
+  },
+  {
+    "id": 216,
+    "question": "If the spacing between conductors in a transmission line is increased, the inductance:",
+    "options": {
+      "a": "Decreases",
+      "b": "Increases",
+      "c": "Remains the same",
+      "d": "Becomes zero"
+    },
+    "answer": "b",
+    "correct_answer_text": "Increases"
+  },
+  {
+    "id": 217,
+    "question": "The \"Surge Impedance\" of a lossless line is defined as:",
+    "options": {
+      "a": "V(R/C)",
+      "b": "V(L/C)",
+      "c": "V(C/L)",
+      "d": "V(R/L)"
+    },
+    "answer": "b",
+    "correct_answer_text": "V(L/C)"
+  },
+  {
+    "id": 218,
+    "question": "For a \"Lossless Line,\" the propagation constant (y) is purely:",
+    "options": {
+      "a": "Real",
+      "b": "Imaginary",
+      "c": "Zero",
+      "d": "Infinite"
+    },
+    "answer": "b",
+    "correct_answer_text": "Imaginary"
+  },
+  {
+    "id": 219,
+    "question": "Which of the following materials has the highest conductivity for transmission?",
+    "options": {
+      "a": "ACSR",
+      "b": "Copper",
+      "c": "Aluminum",
+      "d": "Steel"
+    },
+    "answer": "b",
+    "correct_answer_text": "Copper"
+  },
+  {
+    "id": 220,
+    "question": "ACSR conductors have a central core of steel to:",
+    "options": {
+      "a": "Increase conductivity",
+      "b": "Reduce Skin Effect",
+      "c": "Increase tensile strength",
+      "d": "Reduce Corona"
+    },
+    "answer": "c",
+    "correct_answer_text": "Increase tensile strength"
+  },
+  {
+    "id": 221,
+    "question": "The Characteristic Impedance of a transmission line is independent of:",
+    "options": {
+      "a": "Length of the line",
+      "b": "Frequency",
+      "c": "Conductor size",
+      "d": "Spacing"
+    },
+    "answer": "a",
+    "correct_answer_text": "Length of the line"
+  },
+  {
+    "id": 222,
+    "question": "The \"Velocity of Propagation\" on an overhead line is approximately:",
+    "options": {
+      "a": "Velocity of sound",
+      "b": "3 x 10^8 m/s",
+      "c": "1 x 10^6 m/s",
+      "d": "150 x 10^3 m/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "3 x 10^8 m/s"
+  },
+  {
+    "id": 223,
+    "question": "In DC transmission, the inductance and capacitance are considered:",
+    "options": {
+      "a": "During steady state",
+      "b": "During switching/transients only",
+      "c": "Always",
+      "d": "Never"
+    },
+    "answer": "b",
+    "correct_answer_text": "During switching/transients only"
+  },
+  {
+    "id": 224,
+    "question": "Standard frequency in the Philippines for power distribution is:",
+    "options": {
+      "a": "50 Hz",
+      "b": "60 Hz",
+      "c": "120 Hz",
+      "d": "25 Hz"
+    },
+    "answer": "b",
+    "correct_answer_text": "60 Hz"
+  },
+  {
+    "id": 225,
+    "question": "The charging current in a transmission line is caused by:",
+    "options": {
+      "a": "Series Resistance",
+      "b": "Series Inductance",
+      "c": "Shunt Capacitance",
+      "d": "Shunt Conductance"
+    },
+    "answer": "c",
+    "correct_answer_text": "Shunt Capacitance"
+  },
+  {
+    "id": 226,
+    "question": "A \"Short Transmission Line\" is generally defined as having a length up to:",
+    "options": {
+      "a": "80 km",
+      "b": "250 km",
+      "c": "500 km",
+      "d": "1000 km"
+    },
+    "answer": "a",
+    "correct_answer_text": "80 km"
+  },
+  {
+    "id": 227,
+    "question": "In the analysis of a short transmission line, which parameter is neglected?",
+    "options": {
+      "a": "Resistance",
+      "b": "Inductance",
+      "c": "Capacitance",
+      "d": "Power Factor"
+    },
+    "answer": "c",
+    "correct_answer_text": "Capacitance"
+  },
+  {
+    "id": 228,
+    "question": "The \"Nominal-T\" and \"Nominal-n\" models are used for which type of lines?",
+    "options": {
+      "a": "Short Lines",
+      "b": "Medium Lines",
+      "c": "Long Lines",
+      "d": "DC Lines"
+    },
+    "answer": "b",
+    "correct_answer_text": "Medium Lines"
+  },
+  {
+    "id": 229,
+    "question": "In a Medium Transmission Line (Nominal-n model), the shunt capacitance is:",
+    "options": {
+      "a": "Placed at the sending end only",
+      "b": "Placed at the receiving end only",
+      "c": "Split equally at both ends",
+      "d": "Placed in the middle of the line"
+    },
+    "answer": "c",
+    "correct_answer_text": "Split equally at both ends"
+  },
+  {
+    "id": 230,
+    "question": "Voltage Regulation of a line is defined as:",
+    "options": {
+      "a": "(V_S-V_R) / V_S",
+      "b": "(V_S-V_R)/V_R",
+      "c": "(VR-VS)/V_S",
+      "d": "(VR-VS)/VR"
+    },
+    "answer": "b",
+    "correct_answer_text": "(V_S-V_R)/V_R"
+  },
+  {
+    "id": 231,
+    "question": "For a short line at leading power factor, the voltage regulation can be:",
+    "options": {
+      "a": "Zero",
+      "b": "Positive",
+      "c": "Negative",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "id": 232,
+    "question": "The A, B, C, D constants for a short transmission line are:",
+    "options": {
+      "a": "A=1, B=0, C=1, D=1",
+      "b": "A=1, B=Z, C=0, D=1",
+      "c": "A=Z, B=1, C=1, D=0",
+      "d": "A=1, B=1, C=0, D=0"
+    },
+    "answer": "b",
+    "correct_answer_text": "A=1, B=Z, C=0, D=1"
+  },
+  {
+    "id": 233,
+    "question": "Which relationship is always true for ABCD constants?",
+    "options": {
+      "a": "AD-BC=0",
+      "b": "AD-BC=1",
+      "c": "ABCD=1",
+      "d": "AC-BD=0"
+    },
+    "answer": "b",
+    "correct_answer_text": "AD-BC=1"
+  },
+  {
+    "id": 234,
+    "question": "In a Nominal-T model, the total resistance and inductance are:",
+    "options": {
+      "a": "Lumped at one end",
+      "b": "Divided into two equal parts",
+      "c": "Ignored",
+      "d": "Placed in parallel with capacitance"
+    },
+    "answer": "b",
+    "correct_answer_text": "Divided into two equal parts"
+  },
+  {
+    "id": 235,
+    "question": "Efficiency of a transmission line increases as:",
+    "options": {
+      "a": "Voltage decreases",
+      "b": "Power factor decreases",
+      "c": "Voltage and Power factor increase",
+      "d": "Load increases"
+    },
+    "answer": "c",
+    "correct_answer_text": "Voltage and Power factor increase"
+  },
+  {
+    "id": 236,
+    "question": "The power transmitted is maximum when the load impedance is equal to:",
+    "options": {
+      "a": "Zero",
+      "b": "Characteristic Impedance",
+      "c": "Twice the line resistance",
+      "d": "Infinite"
+    },
+    "answer": "b",
+    "correct_answer_text": "Characteristic Impedance"
+  },
+  {
+    "id": 237,
+    "question": "\"Medium Lines\" typically range from:",
+    "options": {
+      "a": "0-80 km",
+      "b": "80-250 km",
+      "c": "250-500 km",
+      "d": "Above 500 km"
+    },
+    "answer": "b",
+    "correct_answer_text": "80-250 km."
+  },
+  {
+    "id": 238,
+    "question": "Voltage drop in a short transmission line is mainly influenced by:",
+    "options": {
+      "a": "I^2R only",
+      "b": "Line reactance and resistance",
+      "c": "Shunt admittance",
+      "d": "Humidity"
+    },
+    "answer": "b",
+    "correct_answer_text": "Line reactance and resistance"
+  },
+  {
+    "id": 239,
+    "question": "What happens to the A constant if the line length increases?",
+    "options": {
+      "a": "Stays constant at 1",
+      "b": "Decreases",
+      "c": "Increases (in magnitude)",
+      "d": "Becomes zero"
+    },
+    "answer": "c",
+    "correct_answer_text": "Increases (in magnitude)"
+  },
+  {
+    "id": 240,
+    "question": "For a short line, if the load is removed (I_R=0), the sending end voltage (V_S) is:",
+    "options": {
+      "a": "Zero",
+      "b": "Equal to V_R",
+      "c": "Greater than V_R",
+      "d": "Less than VR"
+    },
+    "answer": "b",
+    "correct_answer_text": "Equal to V_R"
+  },
+  {
+    "id": 241,
+    "question": "Skin effect is a phenomenon where current tends to flow:",
+    "options": {
+      "a": "Through the center of the conductor",
+      "b": "On the outer surface of the conductor",
+      "c": "Uniformly through the cross-section",
+      "d": "In the opposite direction of voltage"
+    },
+    "answer": "b",
+    "correct_answer_text": "On the outer surface of the conductor"
+  },
+  {
+    "id": 242,
+    "question": "The Ferranti effect occurs when:",
+    "options": {
+      "a": "Receiving end voltage is less than sending end",
+      "b": "Receiving end voltage is greater than sending end",
+      "c": "The line is heavily loaded",
+      "d": "The power factor is lagging"
+    },
+    "answer": "b",
+    "correct_answer_text": "Receiving end voltage is greater than sending end"
+  },
+  {
+    "id": 243,
+    "question": "The Ferranti effect is primarily caused by:",
+    "options": {
+      "a": "Inductance of the line.",
+      "b": "Capacitive charging current",
+      "c": "High resistance",
+      "d": "Corona discharge"
+    },
+    "answer": "b",
+    "correct_answer_text": "Capacitive charging current"
+  },
+  {
+    "id": 244,
+    "question": "Skin effect increases with:",
+    "options": {
+      "a": "Decreasing frequency",
+      "b": "Increasing frequency and conductor diameter",
+      "c": "Decreasing conductor diameter",
+      "d": "Increasing DC voltage"
+    },
+    "answer": "b",
+    "correct_answer_text": "Increasing frequency and conductor diameter"
+  },
+  {
+    "id": 245,
+    "question": "The Corona Effect is accompanied by:",
+    "options": {
+      "a": "Violet glow",
+      "b": "Hissing sound",
+      "c": "Production of Ozone",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "id": 246,
+    "question": "Corona loss is higher in:",
+    "options": {
+      "a": "Fair weather",
+      "b": "Humid/Stormy weather",
+      "c": "Vacuum",
+      "d": "DC lines compared to AC"
+    },
+    "answer": "b",
+    "correct_answer_text": "Humid/Stormy weather"
+  },
+  {
+    "id": 247,
+    "question": "Proximity effect is the result of:",
+    "options": {
+      "a": "High voltage",
+      "b": "Magnetic fields of nearby conductors",
+      "c": "Lightning strikes",
+      "d": "Earth's magnetic field"
+    },
+    "answer": "b",
+    "correct_answer_text": "Magnetic fields of nearby conductors"
+  },
+  {
+    "id": 248,
+    "question": "Critical Disruptive Voltage is the voltage at which:",
+    "options": {
+      "a": "The line breaks physically",
+      "b": "Corona discharge just begins",
+      "c": "The transformer saturates",
+      "d": "The insulator punctures"
+    },
+    "answer": "b",
+    "correct_answer_text": "Corona discharge just begins"
+  },
+  {
+    "id": 249,
+    "question": "To reduce the Corona Effect, we should:",
+    "options": {
+      "a": "Decrease the conductor size",
+      "b": "Increase the conductor diameter/spacing",
+      "c": "Use solid copper wires",
+      "d": "Reduce the height of towers"
+    },
+    "answer": "b",
+    "correct_answer_text": "Increase the conductor diameter/spacing"
+  },
+  {
+    "id": 250,
+    "question": "The skin effect is negligible at:",
+    "options": {
+      "a": "60 Hz",
+      "b": "High frequencies",
+      "c": "Very low frequencies/DC",
+      "d": "400 Hz"
+    },
+    "answer": "c",
+    "correct_answer_text": "Very low frequencies/DC"
+  },
+  {
+    "id": 251,
+    "question": "The ratio of AC resistance to DC resistance is:",
+    "options": {
+      "a": "Always equal to 1",
+      "b": "Greater than 1",
+      "c": "Less than 1",
+      "d": "Zero"
+    },
+    "answer": "b",
+    "correct_answer_text": "Greater than 1"
+  },
+  {
+    "id": 252,
+    "question": "The Ferranti effect is most noticeable in:",
+    "options": {
+      "a": "Short lines",
+      "b": "Heavily loaded lines",
+      "c": "Long, unloaded lines",
+      "d": "Under-ground cables only"
+    },
+    "answer": "c",
+    "correct_answer_text": "Long, unloaded lines"
+  },
+  {
+    "id": 253,
+    "question": "The Power Loss due to Corona is proportional to:",
+    "options": {
+      "a": "f",
+      "b": "(f + 25)",
+      "c": "f^2",
+      "d": "1/f"
+    },
+    "answer": "b",
+    "correct_answer_text": "(f+25)"
+  },
+  {
+    "id": 254,
+    "question": "Which of the following reduces the Proximity Effect?",
+    "options": {
+      "a": "Increasing spacing between conductors",
+      "b": "Increasing frequency",
+      "c": "Decreasing spacing",
+      "d": "Using magnetic materials"
+    },
+    "answer": "a",
+    "correct_answer_text": "Increasing spacing between conductors"
+  },
+  {
+    "id": 255,
+    "question": "Which effect causes the effective resistance of the conductor to increase?",
+    "options": {
+      "a": "Ferranti Effect",
+      "b": "Skin Effect",
+      "c": "Corona Effect",
+      "d": "Thompson Effect"
+    },
+    "answer": "b",
+    "correct_answer_text": "Skin Effect"
+  },
+  {
+    "id": 256,
+    "question": "If a line insulator flashes over during a storm, the most likely cause is:",
+    "options": {
+      "a": "High load current",
+      "b": "Contamination and moisture",
+      "c": "Ferranti effect",
+      "d": "High frequency harmonics"
+    },
+    "answer": "b",
+    "correct_answer_text": "Contamination and moisture"
+  },
+  {
+    "id": 257,
+    "question": "A sudden drop in receiving end voltage while sending end remains constant usually indicates:",
+    "options": {
+      "a": "A short circuit fault",
+      "b": "A sudden increase in load",
+      "c": "Loss of a parallel line",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "id": 258,
+    "question": "If the \"sag\" of an overhead line increases significantly, what is the likely environmental cause?",
+    "options": {
+      "a": "Winter/Freezing temperatures",
+      "b": "High ambient temperature",
+      "c": "High wind speed",
+      "d": "Low humidity"
+    },
+    "answer": "b",
+    "correct_answer_text": "High ambient temperature"
+  },
+  {
+    "id": 259,
+    "question": "A \"Galloping\" conductor is usually caused by:",
+    "options": {
+      "a": "High voltage surges.",
+      "b": "Strong winds on ice-coated conductors",
+      "c": "Skin effect",
+      "d": "Loose bolts on the tower"
+    },
+    "answer": "b",
+    "correct_answer_text": "Strong winds on ice-coated conductors"
+  },
+  {
+    "id": 260,
+    "question": "In a 3-phase system, an \"Open Phase\" fault will cause:",
+    "options": {
+      "a": "Balanced currents",
+      "b": "Unbalanced currents and overheating of motors",
+      "c": "Zero voltage on all phases",
+      "d": "Increase in frequency"
+    },
+    "answer": "b",
+    "correct_answer_text": "Unbalanced currents and overheating of motors"
+  },
+  {
+    "id": 261,
+    "question": "A Buchholz relay is used to protect:",
+    "options": {
+      "a": "Transmission lines",
+      "b": "Oil-immersed transformers",
+      "c": "Generators",
+      "d": "Busbars"
+    },
+    "answer": "b",
+    "correct_answer_text": "Oil-immersed transformers"
+  },
+  {
+    "id": 262,
+    "question": "Distance relays are used for the protection of:",
+    "options": {
+      "a": "Alternators",
+      "b": "Transformers",
+      "c": "Transmission lines",
+      "d": "Feeders"
+    },
+    "answer": "c",
+    "correct_answer_text": "Transmission lines"
+  },
+  {
+    "id": 263,
+    "question": "When a fault occurs on a line, the \"Fault Current\" is limited by:",
+    "options": {
+      "a": "Load resistance",
+      "b": "Short circuit impedance of the system",
+      "c": "Capacitance of the line",
+      "d": "The utility bill"
+    },
+    "answer": "b",
+    "correct_answer_text": "Short circuit impedance of the system"
+  },
+  {
+    "id": 264,
+    "question": "\"Arcing Grounds\" are a problem in:",
+    "options": {
+      "a": "Grounded neutral systems",
+      "b": "Ungrounded neutral systems",
+      "c": "DC systems",
+      "d": "3-wire systems"
+    },
+    "answer": "b",
+    "correct_answer_text": "Ungrounded neutral systems"
+  },
+  {
+    "id": 265,
+    "question": "If a fuse blows frequently on a distribution transformer, you should first:",
+    "options": {
+      "a": "Replace it with a larger fuse",
+      "b": "Check for overloaded circuits or downstream faults",
+      "c": "Bypass the fuse",
+      "d": "Change the transformer"
+    },
+    "answer": "b",
+    "correct_answer_text": "Check for overloaded circuits or downstream faults"
+  },
+  {
+    "id": 266,
+    "question": "The use of \"Arcing Horns\" on insulators is to protect against:",
+    "options": {
+      "a": "Birds",
+      "b": "Power-frequency arcs caused by surges",
+      "c": "Wind",
+      "d": "Rain"
+    },
+    "answer": "b",
+    "correct_answer_text": "Power-frequency arcs caused by surges"
+  },
+  {
+    "id": 267,
+    "question": "A \"Hot Spot\" on a conductor joint is best detected using:",
+    "options": {
+      "a": "Ammeter",
+      "b": "Infrared/Thermal Camera",
+      "c": "Megger",
+      "d": "Voltmeter"
+    },
+    "answer": "b",
+    "correct_answer_text": "Infrared/Thermal Camera"
+  },
+  {
+    "id": 268,
+    "question": "If the receiving end power factor is unity, the voltage regulation is:",
+    "options": {
+      "a": "Always zero",
+      "b": "Usually positive",
+      "c": "Always negative",
+      "d": "100%"
+    },
+    "answer": "b",
+    "correct_answer_text": "Usually positive"
+  },
+  {
+    "id": 269,
+    "question": "Transposition of lines reduces:",
+    "options": {
+      "a": "Resistance",
+      "b": "Radio interference and unbalanced impedance",
+      "c": "Tensile stress",
+      "d": "Line length"
+    },
+    "answer": "b",
+    "correct_answer_text": "Radio interference and unbalanced impedance"
+  },
+  {
+    "id": 270,
+    "question": "\"Step Potential\" is a concern during:",
+    "options": {
+      "a": "Normal operation",
+      "b": "Ground fault conditions",
+      "c": "No-load conditions",
+      "d": "Ferranti effect"
+    },
+    "answer": "b",
+    "correct_answer_text": "Ground fault conditions"
+  },
+  {
+    "id": 271,
+    "question": "According to the PEC, what is the maximum voltage drop allowed from the service point to the farthest outlet?",
+    "options": {
+      "a": "2%",
+      "b": "3%",
+      "c": "5%",
+      "d": "10%"
+    },
+    "answer": "c",
+    "correct_answer_text": "5%"
+  },
+  {
+    "id": 272,
+    "question": "The PEC requires that the minimum clearance for service drop conductors over a residential sidewalk is:",
+    "options": {
+      "a": "2500 mm",
+      "b": "3100 mm",
+      "c": "3700 mm",
+      "d": "4500 mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "3100 mm"
+  },
+  {
+    "id": 273,
+    "question": "What color is reserved for the Equipment Grounding Conductor in PEC?",
+    "options": {
+      "a": "White",
+      "b": "Green or Green with Yellow stripes",
+      "c": "Black",
+      "d": "Red"
+    },
+    "answer": "b",
+    "correct_answer_text": "Green or Green with Yellow stripes"
+  },
+  {
+    "id": 274,
+    "question": "For a 230 V system, the PEC requires that the \"Neutral\" conductor color be:",
+    "options": {
+      "a": "Green",
+      "b": "White or Natural Gray",
+      "c": "Blue",
+      "d": "Yellow"
+    },
+    "answer": "b",
+    "correct_answer_text": "White or Natural Gray"
+  },
+  {
+    "id": 275,
+    "question": "The minimum size of copper service-entrance conductors allowed by PEC for a single-family dwelling is:",
+    "options": {
+      "a": "5.5 mm^2",
+      "b": "8.0 mm^2",
+      "c": "14.0 mm^2",
+      "d": "22.0 mm^2"
+    },
+    "answer": "b",
+    "correct_answer_text": "8.0 mm^2"
+  },
+  {
+    "id": 276,
+    "question": "Which PEC article covers \"Overground Line Design\" (specifically for outside branch circuits and feeders)?",
+    "options": {
+      "a": "Article 2.10",
+      "b": "Article 2.25",
+      "c": "Article 2.30",
+      "d": "Article 2.50"
+    },
+    "answer": "b",
+    "correct_answer_text": "Article 2.25"
+  },
+  {
+    "id": 277,
+    "question": "According to PEC, the \"Service Disconnecting Means\" must be installed at a readily accessible location:",
+    "options": {
+      "a": "Inside the bathroom",
+      "b": "Inside the attic",
+      "c": "Nearest the point of entrance of service conductors",
+      "d": "On the roof"
+    },
+    "answer": "c",
+    "correct_answer_text": "Nearest the point of entrance of service conductors"
+  },
+  {
+    "id": 278,
+    "question": "PEC states that the minimum size of a \"Grounding Electrode Conductor\" depends on:",
+    "options": {
+      "a": "The length of the line",
+      "b": "The size of the largest service-entrance conductor",
+      "c": "The transformer kVA rating",
+      "d": "The height of the pole"
+    },
+    "answer": "b",
+    "correct_answer_text": "The size of the largest service-entrance conductor"
+  },
+  {
+    "id": 279,
+    "question": "A \"Qualified Person\" under PEC is one who:",
+    "options": {
+      "a": "Has a college degree in any field",
+      "b": "Has skills and knowledge related to the construction and operation of electrical equipment and has received safety training",
+      "c": "Owns the building",
+      "d": "Can read a circuit diagram"
+    },
+    "answer": "b",
+    "correct_answer_text": "Has skills and knowledge related to the construction and operation of electrical equipment and has received safety training"
+  },
+  {
+    "id": 280,
+    "question": "Vertical clearance of overhead conductors over driveways for residential properties is:",
+    "options": {
+      "a": "3.7 m",
+      "b": "4.6 m",
+      "c": "5.5 m",
+      "d": "6.1 m"
+    },
+    "answer": "b",
+    "correct_answer_text": "4.6 m"
+  },
+  {
+    "id": 281,
+    "question": "The ampacity of a conductor is defined as:",
+    "options": {
+      "a": "The voltage it can withstand",
+      "b": "The maximum current it can carry continuously without exceeding its temperature rating",
+      "c": "The resistance per kilometer",
+      "d": "The current during a short circuit"
+    },
+    "answer": "b",
+    "correct_answer_text": "The maximum current it can carry continuously without exceeding its temperature rating"
+  },
+  {
+    "id": 282,
+    "question": "What is the PEC \"Rule of Thumb\" for the number of outlets in a 20 A branch circuit?",
+    "options": {
+      "a": "10",
+      "b": "12",
+      "c": "15",
+      "d": "20"
+    },
+    "answer": "b",
+    "correct_answer_text": "12"
+  },
+  {
+    "id": 283,
+    "question": "PEC Article 2.50 deals with:",
+    "options": {
+      "a": "Wiring Methods",
+      "b": "Grounding and Bonding",
+      "c": "Motors",
+      "d": "Lighting"
+    },
+    "answer": "b",
+    "correct_answer_text": "Grounding and Bonding"
+  },
+  {
+    "id": 284,
+    "question": "In distribution systems, the \"Neutral Conductor\" is typically:",
+    "options": {
+      "a": "Fused",
+      "b": "Not fused and solid",
+      "c": "Connected to the phase line",
+      "d": "Red in color"
+    },
+    "answer": "b",
+    "correct_answer_text": "Not fused and solid"
+  },
+  {
+    "id": 285,
+    "question": "Surge Arresters should be connected ____ the equipment they are protecting.",
+    "options": {
+      "a": "In series with",
+      "b": "In parallel/shunt with",
+      "c": "After",
+      "d": "Under"
+    },
+    "answer": "b",
+    "correct_answer_text": "In parallel/shunt with"
+  }
+]

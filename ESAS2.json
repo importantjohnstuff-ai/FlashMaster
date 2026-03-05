@@ -1,0 +1,1610 @@
+[
+  {
+    "id": 1,
+    "question": "The mass number is equal to",
+    "options": {
+      "a": "the sum of the number of the electrons and protons.",
+      "b": "the sum of the number of the neutrons and electrons.",
+      "c": "the sum of the number of protons, neutrons, and electrons.",
+      "d": "the sum of the number of protons and neutrons."
+    },
+    "answer": "d",
+    "correct_answer_text": "the sum of the number of protons and neutrons."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following corresponds to the meaning of annuity?",
+    "options": {
+      "a": "A lump sum at the end of the year",
+      "b": "An annual repayment of the loan",
+      "c": "A series of uniform amounts over a period of time",
+      "d": "The future worth of a present amount"
+    },
+    "answer": "c",
+    "correct_answer_text": "A series of uniform amounts over a period of time"
+  },
+  {
+    "id": 3,
+    "question": "RA 9136 is",
+    "options": {
+      "a": "Electric Power Installation Reform Act",
+      "b": "Energy Power Isolation Reform Act",
+      "c": "Electric Power Industry Reform Act",
+      "d": "Energy Power Institution Reliability Act"
+    },
+    "answer": "c",
+    "correct_answer_text": "Electric Power Industry Reform Act"
+  },
+  {
+    "id": 4,
+    "question": "The ability to convert assets to cash quickly is known as",
+    "options": {
+      "a": "Solvency",
+      "b": "Liquidity",
+      "c": "Leverage",
+      "d": "Insolvency"
+    },
+    "answer": "b",
+    "correct_answer_text": "Liquidity"
+  },
+  {
+    "id": 5,
+    "question": "Who is the current chairman of the Board of EE?",
+    "options": {
+      "a": "Jaime V. Mendoza",
+      "b": "Francis V. Mapile",
+      "c": "Gregorio T. Cayetano",
+      "d": "Rodolfo B. Penalosa"
+    },
+    "answer": "b",
+    "correct_answer_text": "Francis V. Mapile"
+  },
+  {
+    "id": 6,
+    "question": "Protection of workers from impact penetration from falling and flying objects, blows, and from limited electric shock and burns shall be provided where there is reasonable probability of exposure to such hazards.",
+    "options": {
+      "a": "Hard Hat",
+      "b": "Toe Board",
+      "c": "Harness",
+      "d": "Belt"
+    },
+    "answer": "a",
+    "correct_answer_text": "Hard Hat"
+  },
+  {
+    "id": 7,
+    "question": "Also known as PRC Renewal Law",
+    "options": {
+      "a": "RA 8189",
+      "b": "RA 8981",
+      "c": "RA 7920",
+      "d": "RA 184"
+    },
+    "answer": "b",
+    "correct_answer_text": "RA 8981"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following does NOT affect owner's equity?",
+    "options": {
+      "a": "Dividends Paid",
+      "b": "Invested Capital",
+      "c": "Expense to get license of start business",
+      "d": "License to start business"
+    },
+    "answer": "d",
+    "correct_answer_text": "License to start business"
+  },
+  {
+    "id": 9,
+    "question": "In Boyle's Law,",
+    "options": {
+      "a": "volume is inversely proportional to pressure",
+      "b": "volume is proportional to pressure",
+      "c": "pressure is inversely proportional to temperature",
+      "d": "volume is proportional to temperature"
+    },
+    "answer": "a",
+    "correct_answer_text": "volume is inversely proportional to pressure"
+  },
+  {
+    "id": 10,
+    "question": "What is the metal used to recover copper from a solution of copper sulphate?",
+    "options": {
+      "a": "Na",
+      "b": "Ag",
+      "c": "Hg",
+      "d": "Fe"
+    },
+    "answer": "d",
+    "correct_answer_text": "Fe"
+  },
+  {
+    "id": 11,
+    "question": "Combination of laminar and turbulent flow.",
+    "options": {
+      "a": "Critical",
+      "b": "Continuous",
+      "c": "Laminar",
+      "d": "Turbulent"
+    },
+    "answer": "a",
+    "correct_answer_text": "Critical"
+  },
+  {
+    "id": 12,
+    "question": "A byte is composed of how many bits?",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "d",
+    "correct_answer_text": "8"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is the Ideal Gas Law?",
+    "options": {
+      "a": "V/T=k",
+      "b": "P1/T1=P2/T2",
+      "c": "PV=nRT",
+      "d": "V=k*1/P"
+    },
+    "answer": "c",
+    "correct_answer_text": "PV=nRT"
+  },
+  {
+    "id": 14,
+    "question": "In molecules of the same composition, what are the variations of atomic arrangements is known as?",
+    "options": {
+      "a": "Polymers",
+      "b": "Monomers",
+      "c": "Isomers",
+      "d": "Crystal Systems"
+    },
+    "answer": "c",
+    "correct_answer_text": "Isomers"
+  },
+  {
+    "id": 15,
+    "question": "The vector which represents the sum of a group of force vectors is called the",
+    "options": {
+      "a": "Magnitude",
+      "b": "Resultant",
+      "c": "Sum",
+      "d": "Force Polygon"
+    },
+    "answer": "b",
+    "correct_answer_text": "Resultant"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following statements about work for a quasi-equilibrium process is incorrect?",
+    "options": {
+      "a": "The differential of work is inexact",
+      "b": "Work is the area under a P-T diagram",
+      "c": "Work is a path function",
+      "d": "Work is always zero for a constant-volume process"
+    },
+    "answer": "b",
+    "correct_answer_text": "Work is the area under a P-T diagram"
+  },
+  {
+    "id": 17,
+    "question": "What is BASIC stands for?",
+    "options": {
+      "a": "Basic All-Purpose Symbolic Instruction Code",
+      "b": "Basic All-Purpose System Instruction Code",
+      "c": "Beginner's All-Purpose Symbolic Instruction Code",
+      "d": "Beginner's All-Purpose System Instruction Code"
+    },
+    "answer": "c",
+    "correct_answer_text": "Beginner's All-Purpose Symbolic Instruction Code"
+  },
+  {
+    "id": 18,
+    "question": "What does PRBEE stands for?",
+    "options": {
+      "a": "Philippine Regulating Board of Electrical Engineering",
+      "b": "Professional Regulatory Board of Electrical Engineering",
+      "c": "Philippine Regulatory Board of Electrical Engineering",
+      "d": "Professional Regulating Board of Electrical Engineering"
+    },
+    "answer": "b",
+    "correct_answer_text": "Professional Regulatory Board of Electrical Engineering"
+  },
+  {
+    "id": 19,
+    "question": "Which are NOT included in duties and responsibilities of PRBEE",
+    "options": {
+      "a": "Supervise and regulate the practice of electrical engineering in the Philippines",
+      "b": "Issue special permits to individual foreign electrical engineers and electricians for specific projects",
+      "c": "All of these",
+      "d": "Perform such other functions and duties as may be necessary to implement effectivity of this act"
+    },
+    "answer": "c",
+    "correct_answer_text": "All of these"
+  },
+  {
+    "id": 20,
+    "question": "What color is used designated caution, limited to warning against stating, use of, or movement of equipment which is under repair or being worked upon?",
+    "options": {
+      "a": "Blue",
+      "b": "Orange",
+      "c": "Red",
+      "d": "Yellow"
+    },
+    "answer": "a",
+    "correct_answer_text": "Blue"
+  },
+  {
+    "id": 21,
+    "question": "The passing general weighted average rating for the licensure examination for Registered Electrical Engineers must be 70% with NO GRADE below ______ in any subjects in Mathematics, ESAS, and Electrical Engineering as required under Section 19(b) of RA 7920.",
+    "options": {
+      "a": "55%",
+      "b": "65%",
+      "c": "60%",
+      "d": "50%"
+    },
+    "answer": "d",
+    "correct_answer_text": "50%"
+  },
+  {
+    "id": 22,
+    "question": "Recognizable as suitable for the specific purpose, function, use, environment application, where described in a particular code requirement.",
+    "options": {
+      "a": "listed",
+      "b": "labeled",
+      "c": "approved",
+      "d": "identified"
+    },
+    "answer": "d",
+    "correct_answer_text": "identified"
+  },
+  {
+    "id": 23,
+    "question": "Commercially used pressure measuring device today is",
+    "options": {
+      "a": "Bourdon tube gauge",
+      "b": "Manometer",
+      "c": "Kelvin gauge",
+      "d": "Barometer"
+    },
+    "answer": "a",
+    "correct_answer_text": "Bourdon tube gauge"
+  },
+  {
+    "id": 24,
+    "question": "What does FTTH mean?",
+    "options": {
+      "a": "Flexible to the House",
+      "b": "Flexible to the Home",
+      "c": "Fiber to the Home",
+      "d": "Fiber to the House"
+    },
+    "answer": "c",
+    "correct_answer_text": "Fiber to the Home"
+  },
+  {
+    "id": 25,
+    "question": "Which permits American engineers to practice their profession in the Philippines?",
+    "options": {
+      "a": "Foreign Reciprocity",
+      "b": "Certificate of Specialty",
+      "c": "Professional license",
+      "d": "Certificate of Registration"
+    },
+    "answer": "a",
+    "correct_answer_text": "Foreign Reciprocity"
+  },
+  {
+    "id": 26,
+    "question": "What is the octal equivalent of the hexadecimal number EE?",
+    "options": {
+      "a": "356",
+      "b": "365",
+      "c": "653",
+      "d": "635"
+    },
+    "answer": "a",
+    "correct_answer_text": "356"
+  },
+  {
+    "id": 27,
+    "question": "The disconnecting means for motor circuits shall have an ampere rating of at least 115% of the full load current rating of the motor.",
+    "options": {
+      "a": "Manufacturing rule",
+      "b": "Construction rule",
+      "c": "Wiring design rule",
+      "d": "Installation rule"
+    },
+    "answer": "c",
+    "correct_answer_text": "Wiring design rule"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following metals has the highest specific heat capacity at 100 deg C?",
+    "options": {
+      "a": "Aluminum",
+      "b": "Silver",
+      "c": "Copper",
+      "d": "Iron"
+    },
+    "answer": "a",
+    "correct_answer_text": "Aluminum"
+  },
+  {
+    "id": 29,
+    "question": "A force causing a rise in liquid in tubes of small diameter.",
+    "options": {
+      "a": "Cohesion",
+      "b": "Surface tension",
+      "c": "Capillarity",
+      "d": "Adhesion"
+    },
+    "answer": "c",
+    "correct_answer_text": "Capillarity"
+  },
+  {
+    "id": 30,
+    "question": "Under very slow deformation and at high temperature, it is possible to have some plastic flow in a crystal at a sheer stress lower than the critical shear stress. What is the phenomenon called?",
+    "options": {
+      "a": "Slip",
+      "b": "Twinning",
+      "c": "Creep",
+      "d": "Bending"
+    },
+    "answer": "c",
+    "correct_answer_text": "Creep"
+  },
+  {
+    "id": 31,
+    "question": "A canonball is fired from the top of a tower 78 m high at 120 m/s, 15 degrees from the horizontal. Determine the range on the ground at which the ball will land? Neglect air resistance.",
+    "options": {
+      "a": "762 m",
+      "b": "1083 m",
+      "c": "957 m",
+      "d": "210 m"
+    },
+    "answer": "c",
+    "correct_answer_text": "957 m"
+  },
+  {
+    "id": 32,
+    "question": "Determine the speed of sound in oil with which a pressure increase of 30 kPa causes a volume decrease by 0.018%. The specific gravity of oil is 0.85.",
+    "options": {
+      "a": "593 m/s",
+      "b": "443 m/s",
+      "c": "291 m/s",
+      "d": "328 m/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "443 m/s"
+  },
+  {
+    "id": 33,
+    "question": "Determine the discharge coefficient of an orifice that is 60 mm in diameter installed under a head of 3 meters? The volume released from the orifice is 835.58 Li in one minute:",
+    "options": {
+      "a": "0.605",
+      "b": "0.701",
+      "c": "0.642",
+      "d": "0.667"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.642"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following does not threaten the operation of a computer?",
+    "options": {
+      "a": "Trojan horse",
+      "b": "Worm",
+      "c": "Firewall",
+      "d": "Hacking"
+    },
+    "answer": "c",
+    "correct_answer_text": "Firewall"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is NOT an extensive property?",
+    "options": {
+      "a": "Kinetic energy",
+      "b": "Momentum",
+      "c": "Mass",
+      "d": "Density"
+    },
+    "answer": "d",
+    "correct_answer_text": "Density"
+  },
+  {
+    "id": 36,
+    "question": "If your clothes catch fire:",
+    "options": {
+      "a": "call a 911 for help immediately and ask the officer to come by",
+      "b": "take off all your clothes including underwear and trousers",
+      "c": "Stop, drop, and roll",
+      "d": "shout 'sunog!'"
+    },
+    "answer": "c",
+    "correct_answer_text": "Stop, drop, and roll"
+  },
+  {
+    "id": 37,
+    "question": "The standard OSHA safety helmet for engineers, supervisors and managers:",
+    "options": {
+      "a": "orange",
+      "b": "blue",
+      "c": "white",
+      "d": "gold"
+    },
+    "answer": "c",
+    "correct_answer_text": "white"
+  },
+  {
+    "id": 38,
+    "question": "A car negotiates a curved road with super-elevation of 10 degrees and radius of 120 feet. Determine the speed limit on the road:",
+    "options": {
+      "a": "26 ft/s",
+      "b": "35 ft/s",
+      "c": "13 ft/s",
+      "d": "10 ft/s"
+    },
+    "answer": "a",
+    "correct_answer_text": "26 ft/s"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is NOT an intensive property?",
+    "options": {
+      "a": "Kinetic energy",
+      "b": "Momentum",
+      "c": "Mass",
+      "d": "All of these"
+    },
+    "answer": "d",
+    "correct_answer_text": "All of these"
+  },
+  {
+    "id": 40,
+    "question": "Defects seen by optical or electron microscope",
+    "options": {
+      "a": "Alteration",
+      "b": "Aberration",
+      "c": "Atomization",
+      "d": "Deformation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Aberration"
+  },
+  {
+    "id": 41,
+    "question": "NGCP warns alert if tropical disturbance is expected to make a landfall within 24 hours.",
+    "options": {
+      "a": "yellow",
+      "b": "blue",
+      "c": "red",
+      "d": "Weather disturbance"
+    },
+    "answer": "b",
+    "correct_answer_text": "blue"
+  },
+  {
+    "id": 42,
+    "question": "What is work-in-progress classified as?",
+    "options": {
+      "a": "An asset",
+      "b": "A liability",
+      "c": "An expense",
+      "d": "Owner's equity"
+    },
+    "answer": "a",
+    "correct_answer_text": "An asset"
+  },
+  {
+    "id": 43,
+    "question": "It states that if two bodies are in thermal equilibrium with a third body, they are also in equilibrium with each other.",
+    "options": {
+      "a": "First law of thermodynamics",
+      "b": "Zeroth law of thermodynamics",
+      "c": "Third law of thermodynamics",
+      "d": "Second law of thermodynamics"
+    },
+    "answer": "b",
+    "correct_answer_text": "Zeroth law of thermodynamics"
+  },
+  {
+    "id": 44,
+    "question": "The circuit conductors between the final overcurrent device protecting the circuit and the outlet(s).",
+    "options": {
+      "a": "Feeder",
+      "b": "Service lateral",
+      "c": "Branch circuit",
+      "d": "Service conductor"
+    },
+    "answer": "c",
+    "correct_answer_text": "Branch circuit"
+  },
+  {
+    "id": 45,
+    "question": "The term 'Thermodynamics' comes from Greek words 'Therme' and 'Dynamis' which means",
+    "options": {
+      "a": "heat, power",
+      "b": "heat, motion",
+      "c": "heat, transfer",
+      "d": "heat, energy"
+    },
+    "answer": "a",
+    "correct_answer_text": "heat, power"
+  },
+  {
+    "id": 46,
+    "question": "A conducting connections, whether intentional or accidental, between an electric circuit or equipment and the earth, or to some conducting body that serves in place of the earth.",
+    "options": {
+      "a": "Grounded",
+      "b": "Ground",
+      "c": "Short",
+      "d": "Fault"
+    },
+    "answer": "b",
+    "correct_answer_text": "Ground"
+  },
+  {
+    "id": 47,
+    "question": "An essential part of a large dam and provides an efficient and safe means of releasing flow of water that exceeds the design capacity of the reservoir.",
+    "options": {
+      "a": "Spillway",
+      "b": "Weir",
+      "c": "Culverts",
+      "d": "Standpipe"
+    },
+    "answer": "a",
+    "correct_answer_text": "Spillway"
+  },
+  {
+    "id": 48,
+    "question": "MS-DOS is a type of?",
+    "options": {
+      "a": "system software",
+      "b": "operating system",
+      "c": "application software",
+      "d": "system architecture"
+    },
+    "answer": "b",
+    "correct_answer_text": "operating system"
+  },
+  {
+    "id": 49,
+    "question": "(1111) base 2 + (1111) base 2 = () base 2",
+    "options": {
+      "a": "11011",
+      "b": "11101",
+      "c": "11110",
+      "d": "11100"
+    },
+    "answer": "c",
+    "correct_answer_text": "11110"
+  },
+  {
+    "id": 50,
+    "question": "The ampacity of the fuse should be 125% of the continuous load current is covered by",
+    "options": {
+      "a": "Installation design",
+      "b": "Wiring design",
+      "c": "Manufacturing design",
+      "d": "Construction design"
+    },
+    "answer": "b",
+    "correct_answer_text": "Wiring design"
+  },
+  {
+    "id": 51,
+    "question": "Determine the mass rate of water along a pipeline with I.D. of 30 cm and that the water runs at 5 m/s:",
+    "options": {
+      "a": "383 kg/s",
+      "b": "1209 kg/s",
+      "c": "454 kg/s",
+      "d": "353 kg/s"
+    },
+    "answer": "d",
+    "correct_answer_text": "353 kg/s"
+  },
+  {
+    "id": 52,
+    "question": "A hollow steel ball of diameter 10 cm barely floats in water. If the ball's mass is 1200 grams, what % of ball is exposed?.",
+    "options": {
+      "a": "71.4%",
+      "b": "37.9%",
+      "c": "13.3%",
+      "d": "79.8%"
+    },
+    "answer": "c",
+    "correct_answer_text": "13.3% jk idk why this is here, this is mathematically impossible"
+  },
+  {
+    "id": 53,
+    "question": "A wood weighs 54 lbs in air weighs 45 lbs in oil (sg = 0.8). Determine the specific gravity of the wood:",
+    "options": {
+      "a": "5.66",
+      "b": "2.61",
+      "c": "0.638",
+      "d": "4.8"
+    },
+    "answer": "d",
+    "correct_answer_text": "4.8"
+  },
+  {
+    "id": 54,
+    "question": "Steels that are used for axles, gears and similar parts requiring medium to high hardness and high strength are known as",
+    "options": {
+      "a": "Low-carbon steels",
+      "b": "Medium-carbon steels",
+      "c": "High-carbon steels",
+      "d": "Very high-carbon steels"
+    },
+    "answer": "b",
+    "correct_answer_text": "Medium-carbon steels"
+  },
+  {
+    "id": 55,
+    "question": "What will you do when you install a new heat sink?",
+    "options": {
+      "a": "Insert thermal compound between processor and system board",
+      "b": "Apply isopropyl alcohol between processor and heat sink",
+      "c": "Insert thermal compound between processor and heat sink",
+      "d": "Apply isopropyl alcohol between processor and system board"
+    },
+    "answer": "c",
+    "correct_answer_text": "Insert thermal compound between processor and heat sink"
+  },
+  {
+    "id": 56,
+    "question": "Assuming i = annual rate of return, n = number of years, F = future worth, and P = present worth, what is the future worth of a present amount P(F/P, i, n).",
+    "options": {
+      "a": "P(1 + i)^n",
+      "b": "P(1 + i)^(n-1)",
+      "c": "P(1 + i)^-1",
+      "d": "P(1 + ni)"
+    },
+    "answer": "a",
+    "correct_answer_text": "P(1 + i)^n"
+  },
+  {
+    "id": 57,
+    "question": "Which of the following statement is not correct?",
+    "options": {
+      "a": "A nominal rate of 12% per annum compounded quarterly is the same as (12%) / 4 = 3% per quarter",
+      "b": "One dollar compounded quarterly at 3% for n years has a worth of 1.03^4n dollars",
+      "c": "Compounding quarterly at a nominal rate of 12% per year is equivalent to compounding annually at a rate of 12.55%",
+      "d": "Effective rate of return in choices (A) through (C) is the difference between 12.55% and 12%"
+    },
+    "answer": "d",
+    "correct_answer_text": "Effective rate of return in choices (A) through (C) is the difference between 12.55% and 12%"
+  },
+  {
+    "id": 58,
+    "question": "The ideal, reversible Carnot cycle involve four basic processes. What type of processes are they?",
+    "options": {
+      "a": "All isothermal",
+      "b": "All adiabatic",
+      "c": "Two adiabatic and two isentropic",
+      "d": "Two isothermal and two isentropic"
+    },
+    "answer": "d",
+    "correct_answer_text": "Two isothermal and two isentropic"
+  },
+  {
+    "id": 59,
+    "question": "Formula for calcium chloride.",
+    "options": {
+      "a": "CaCl2",
+      "b": "Ca2Cl",
+      "c": "CaCl",
+      "d": "CaCl3"
+    },
+    "answer": "a",
+    "correct_answer_text": "CaCl2"
+  },
+  {
+    "id": 60,
+    "question": "Sec. 18(b) of Art. III of RA 7920: Qualifications of Applicants for Registered Master Electricians, states that an applicant is at least be ____ years of age.",
+    "options": {
+      "a": "23",
+      "b": "22",
+      "c": "21",
+      "d": "18"
+    },
+    "answer": "d",
+    "correct_answer_text": "18"
+  },
+  {
+    "id": 61,
+    "question": "Sec. 18(b) of Art. III of RA 7920: Qualifications of Applicants for Registered Electrical Engineers, states that an applicant is at least be ____ years of age.",
+    "options": {
+      "a": "21",
+      "b": "23",
+      "c": "24",
+      "d": "25"
+    },
+    "answer": "a",
+    "correct_answer_text": "21"
+  },
+  {
+    "id": 62,
+    "question": "Find the MW of HNO3 in g/mole.",
+    "options": {
+      "a": "72",
+      "b": "61",
+      "c": "73",
+      "d": "63"
+    },
+    "answer": "d",
+    "correct_answer_text": "63"
+  },
+  {
+    "id": 63,
+    "question": "What is the chemical formula of Sulfuric acid?",
+    "options": {
+      "a": "HSO4",
+      "b": "H2SO4",
+      "c": "H3SO2",
+      "d": "HSO2"
+    },
+    "answer": "b",
+    "correct_answer_text": "H2SO4"
+  },
+  {
+    "id": 64,
+    "question": "A water jet is produced from the penstock of hydropower plant that is 25 cm in diameter and releases 67 cubic feet/sec of water. Determine the velocity of water in m/sec:",
+    "options": {
+      "a": "45.3 m/s",
+      "b": "38.6 m/s",
+      "c": "78.3 m/s",
+      "d": "11.90 m/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "38.6 m/s"
+  },
+  {
+    "id": 65,
+    "question": "The atmospheric pressure in meters of ammonia (NH3) with density of 600 kg/cu.m is nearest to",
+    "options": {
+      "a": "10",
+      "b": "15",
+      "c": "17",
+      "d": "12"
+    },
+    "answer": "c",
+    "correct_answer_text": "17"
+  },
+  {
+    "id": 66,
+    "question": "A cylinder weighs 150 lbf. Its cross sectional area is 40 squares inches. When the cylinder stands vertically on one end, what pressure does the cylinder exert on the floor?",
+    "options": {
+      "a": "14.1 kPa",
+      "b": "25.8 kPa",
+      "c": "63.2 kPa",
+      "d": "89.7 kPa"
+    },
+    "answer": "b",
+    "correct_answer_text": "25.8 kPa"
+  },
+  {
+    "id": 67,
+    "question": "What height in meters of water is equivalent to 51m of oil with specific gravity of 0.8 in nearest to?",
+    "options": {
+      "a": "35",
+      "b": "41",
+      "c": "45",
+      "d": "38"
+    },
+    "answer": "b",
+    "correct_answer_text": "41"
+  },
+  {
+    "id": 68,
+    "question": "A circular window with a radius of 0.25m has its center 3m below the water surface. Find the force acting on the window if the window is vertical.",
+    "options": {
+      "a": "2.9 kN",
+      "b": "5.8 kN",
+      "c": "17.7 kN",
+      "d": "29.4 kN"
+    },
+    "answer": "b",
+    "correct_answer_text": "5.8 kN"
+  },
+  {
+    "id": 69,
+    "question": "The principle stating that when a body is completely or partially immersed in a fluid, the fluid exerts an upward force on the body equal to the weight of the fluid displaced by the body is",
+    "options": {
+      "a": "Archimedes",
+      "b": "Pascal",
+      "c": "Bernoulli",
+      "d": "Torricelli"
+    },
+    "answer": "a",
+    "correct_answer_text": "Archimedes"
+  },
+  {
+    "id": 70,
+    "question": "An ice with a mass of 0.9 kg is freely floating in water. The buoyant force exerted by water in Newton is nearest to",
+    "options": {
+      "a": "10.2",
+      "b": "9.64",
+      "c": "8.82",
+      "d": "7.8"
+    },
+    "answer": "c",
+    "correct_answer_text": "8.82"
+  },
+  {
+    "id": 71,
+    "question": "The average density of a human body is 980 kg/cu.m. What percent of the human body will float in fresh water?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "98",
+      "d": "10"
+    },
+    "answer": "b",
+    "correct_answer_text": "2"
+  },
+  {
+    "id": 72,
+    "question": "A pipe has a diameter of 100 mm at section AA and a diameter of 50 mm at section BB. The velocity of an incompressible fluid is 0.3 m/s at section AA. What is the flow velocity at section BB?",
+    "options": {
+      "a": "0.95 m/s",
+      "b": "1.2 m/s",
+      "c": "2.1 m/s",
+      "d": "3.5 m/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "1.2 m/s"
+  },
+  {
+    "id": 73,
+    "question": "What is the hydraulic radius of the semi-circular channel with a radius of 4m?",
+    "options": {
+      "a": "2m",
+      "b": "3m",
+      "c": "4m",
+      "d": "6m"
+    },
+    "answer": "a",
+    "correct_answer_text": "2m"
+  },
+  {
+    "id": 74,
+    "question": "Determine the velocity of the liquid which is 1.5m deep at the exit orifice on the side of a tank which is 0.3m above the base.",
+    "options": {
+      "a": "1.9 m/s",
+      "b": "2.9 m/s",
+      "c": "3.9 m/s",
+      "d": "4.9 m/s"
+    },
+    "answer": "d",
+    "correct_answer_text": "4.9 m/s"
+  },
+  {
+    "id": 75,
+    "question": "Given is an orifice with coefficient of velocity Cv = 0.6. If the head above the orifice is 4m, the actual velocity of the jet issuing from the orifice in m/s is nearest to",
+    "options": {
+      "a": "9.81",
+      "b": "6.98",
+      "c": "5.32",
+      "d": "3.22"
+    },
+    "answer": "c",
+    "correct_answer_text": "5.32"
+  },
+  {
+    "id": 76,
+    "question": "A stream of water 1 inch in diameter (density = 62.27 lb/cu.ft) impinges on a bathroom scale which measures a force of 250 lbs. What is the velocity of the stream in ft/s?",
+    "options": {
+      "a": "153.7",
+      "b": "24.3",
+      "c": "190.6",
+      "d": "24.9"
+    },
+    "answer": "a",
+    "correct_answer_text": "153.7"
+  },
+  {
+    "id": 77,
+    "question": "What is the unit of strain?",
+    "options": {
+      "a": "Pa",
+      "b": "Unitless",
+      "c": "N-m",
+      "d": "N-m/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "Unitless"
+  },
+  {
+    "id": 78,
+    "question": "Which of the following is an example of an integrity violation of e-commerce security?",
+    "options": {
+      "a": "A website is not actually operated by the entity the customer behaves it to be",
+      "b": "A merchant uses customer information in a manner not intended by the customer",
+      "c": "A customer denies that he or she is the person who placed the order",
+      "d": "An unauthorized person intercepts an online communication and changes the content"
+    },
+    "answer": "d",
+    "correct_answer_text": "An unauthorized person intercepts an online communication and changes the content"
+  },
+  {
+    "id": 79,
+    "question": "What is the physical appearance of sodium chloride?",
+    "options": {
+      "a": "Silver metal",
+      "b": "White crystal",
+      "c": "Yellowish gas",
+      "d": "White metal"
+    },
+    "answer": "b",
+    "correct_answer_text": "White crystal"
+  },
+  {
+    "id": 80,
+    "question": "A software that is commonly known as firmware.",
+    "options": {
+      "a": "OS",
+      "b": "Cache Memory",
+      "c": "BIOS",
+      "d": "IO"
+    },
+    "answer": "c",
+    "correct_answer_text": "BIOS"
+  },
+  {
+    "id": 81,
+    "question": "Pulverized fuel is used for",
+    "options": {
+      "a": "better burning",
+      "b": "more calorific value",
+      "c": "less radiation loss",
+      "d": "medium sized units"
+    },
+    "answer": "a",
+    "correct_answer_text": "better burning"
+  },
+  {
+    "id": 82,
+    "question": "An unknown fuel has a mass density of 805 kg/m3. Find its specific gravity.",
+    "options": {
+      "a": "0.805",
+      "b": "1.242",
+      "c": "1.610",
+      "d": "0.621"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.805"
+  },
+  {
+    "id": 83,
+    "question": "Which of the following is a variable renewable source of energy?",
+    "options": {
+      "a": "Hydro-power",
+      "b": "Biomass energy",
+      "c": "Geothermal energy",
+      "d": "Solar energy"
+    },
+    "answer": "d",
+    "correct_answer_text": "Solar energy"
+  },
+  {
+    "id": 84,
+    "question": "Which of the following is a conventional source of energy?",
+    "options": {
+      "a": "Coal",
+      "b": "Solar",
+      "c": "Wind",
+      "d": "Tidal"
+    },
+    "answer": "a",
+    "correct_answer_text": "Coal"
+  },
+  {
+    "id": 85,
+    "question": "In cold working of metals",
+    "options": {
+      "a": "close dimensional tolerance cannot be maintained",
+      "b": "poor surface finish is obtained",
+      "c": "recrystallization temperature for steel is reduced",
+      "d": "strength and hardness of steel is increased"
+    },
+    "answer": "d",
+    "correct_answer_text": "strength and hardness of steel is increased"
+  },
+  {
+    "id": 86,
+    "question": "Which of the following are NOT examples of nonvolatile memory in the computer system?",
+    "options": {
+      "a": "Flash drives",
+      "b": "RAMs",
+      "c": "Optical disk",
+      "d": "Hard drives"
+    },
+    "answer": "b",
+    "correct_answer_text": "RAMs"
+  },
+  {
+    "id": 87,
+    "question": "Which of the following classes of mass memory devices used a laser beam to write and read onto a specified coated disk?",
+    "options": {
+      "a": "Non-volatile memory",
+      "b": "RAM",
+      "c": "ROM",
+      "d": "Optical disk memory"
+    },
+    "answer": "d",
+    "correct_answer_text": "Optical disk memory"
+  },
+  {
+    "id": 88,
+    "question": "The three moment equation may be used to analyze .",
+    "options": {
+      "a": "an axially end-loaded beam",
+      "b": "a beam loaded at the third points",
+      "c": "a continuous beam",
+      "d": "a step tapered column"
+    },
+    "answer": "c",
+    "correct_answer_text": "a continuous beam"
+  },
+  {
+    "id": 89,
+    "question": "A liquid pesticide has a density of 1.67 g/mL. Find the mass of the liquid in kg for a full 20-L container.",
+    "options": {
+      "a": "35.7",
+      "b": "34.5",
+      "c": "32.6",
+      "d": "33.4"
+    },
+    "answer": "d",
+    "correct_answer_text": "33.4"
+  },
+  {
+    "id": 90,
+    "question": "What is a protective device designated to protect an individual against electric shock?",
+    "options": {
+      "a": "Circuit breaker",
+      "b": "AFCI",
+      "c": "Differential relay",
+      "d": "GFCI"
+    },
+    "answer": "d",
+    "correct_answer_text": "GFCI"
+  },
+  {
+    "id": 91,
+    "question": "How is 'molality' defined?",
+    "options": {
+      "a": "The number of moles of solute in 1 L of solution",
+      "b": "The number of grams-equivalent weights of solute in L of solution",
+      "c": "The number of moles of solute in 1000 g of solvent",
+      "d": "The number of gram-formula weights of solute per liter"
+    },
+    "answer": "c",
+    "correct_answer_text": "The number of moles of solute in 1000 g of solvent"
+  },
+  {
+    "id": 92,
+    "question": "How many electrons flow through a light LED bulb each second if the current through the light bulb is 0.75 A?",
+    "options": {
+      "a": "5.6 x 10^18",
+      "b": "6.5 x 10^18",
+      "c": "4.7 x 10^18",
+      "d": "4.7 x 10^18"
+    },
+    "answer": "c",
+    "correct_answer_text": "4.7 x 10^18"
+  },
+  {
+    "id": 93,
+    "question": "Which of the following relationship defines enthalpy?",
+    "options": {
+      "a": "h = pv + T",
+      "b": "h = u + pv",
+      "c": "h = u + p/v",
+      "d": "h = u + p/T"
+    },
+    "answer": "b",
+    "correct_answer_text": "h = u + pv"
+  },
+  {
+    "id": 94,
+    "question": "A motor shall be marked with the following information: manufacturer’s name, rated volts, full-load current, rated frequency, and number of phases. This is a/an rule in the Philippine Electrical Code Part I.",
+    "options": {
+      "a": "construction",
+      "b": "wiring design",
+      "c": "installation",
+      "d": "manufacturing"
+    },
+    "answer": "d",
+    "correct_answer_text": "manufacturing"
+  },
+  {
+    "id": 95,
+    "question": "Calculate the kinetic energy in Joules of car driving 60 mi/hr and the weight of the car is 1500 kg.",
+    "options": {
+      "a": "6.34 x 10^5",
+      "b": "5.95 x 10^5",
+      "c": "6.54 x 10^5",
+      "d": "5.40 x 10^5"
+    },
+    "answer": "d",
+    "correct_answer_text": "5.40 x 10^5"
+  },
+  {
+    "id": 96,
+    "question": "What type of fire extinguisher is most suitable for electrical fires?",
+    "options": {
+      "a": "Water",
+      "b": "Foam",
+      "c": "CO2",
+      "d": "Wet Chemical"
+    },
+    "answer": "c",
+    "correct_answer_text": "CO2"
+  },
+  {
+    "id": 97,
+    "question": "Which of the following is NOT part of the fire triangle?",
+    "options": {
+      "a": "Oxygen",
+      "b": "Fuel",
+      "c": "Heat",
+      "d": "Carbon dioxide"
+    },
+    "answer": "d",
+    "correct_answer_text": "Carbon dioxide"
+  },
+  {
+    "id": 98,
+    "question": "How is the material purchase price variance defined?",
+    "options": {
+      "a": "(quantity purchased)(actual price) – (quantity purchased)(standard price)",
+      "b": "(quantity issued – standard quantity)(standard price)",
+      "c": "(actual price – standard price)(quantity used)",
+      "d": "(quantity purchased – quantity used)(actual price)"
+    },
+    "answer": "a",
+    "correct_answer_text": "(quantity purchased)(actual price) – (quantity purchased)(standard price)"
+  },
+  {
+    "id": 99,
+    "question": "When using the net present worth calculations to compare two project which of the following could invalidate the calculation?",
+    "options": {
+      "a": "evaluating over different time period",
+      "b": "mutually exclusive projects",
+      "c": "non conventional cash flows",
+      "d": "difference in the magnitude of the project"
+    },
+    "answer": "a",
+    "correct_answer_text": "evaluating over different time period"
+  },
+  {
+    "id": 100,
+    "question": "What most investments with the same present worth and unequal lives have?",
+    "options": {
+      "a": "different uniform annual cash flows",
+      "b": "identical savage values",
+      "c": "different salvage values",
+      "d": "identical equivalent uniform annual cash flows"
+    },
+    "answer": "a",
+    "correct_answer_text": "different uniform annual cash flows"
+  },
+  {
+    "id": 101,
+    "question": "What is acid test ratio?",
+    "options": {
+      "a": "the ratio of current assets (exclusive of inventory) to the total current liabilities",
+      "b": "the ratio of owner`s equity to total current liabilities",
+      "c": "the ratio of assets to total liabilities",
+      "d": "the ratio of profit after taxes to equity"
+    },
+    "answer": "a",
+    "correct_answer_text": "the ratio of current assets (exclusive of inventory) to the total current liabilities"
+  },
+  {
+    "id": 102,
+    "question": "It is responsible for the procurement and administration of funds with the view of achieving the objective of business.",
+    "options": {
+      "a": "finance",
+      "b": "capital",
+      "c": "budget",
+      "d": "funds"
+    },
+    "answer": "a",
+    "correct_answer_text": "finance"
+  },
+  {
+    "id": 103,
+    "question": "Funds supplied and used by owners of an enterprise in the expectations that a profit will be earned.",
+    "options": {
+      "a": "equity capital",
+      "b": "credit",
+      "c": "savings",
+      "d": "investment"
+    },
+    "answer": "a",
+    "correct_answer_text": "equity capital"
+  },
+  {
+    "id": 104,
+    "question": "Funds that are required to make the enterprises or project a going concern.",
+    "options": {
+      "a": "working capital",
+      "b": "accumulated amount",
+      "c": "present worth",
+      "d": "banking"
+    },
+    "answer": "a",
+    "correct_answer_text": "working capital"
+  },
+  {
+    "id": 105,
+    "question": "The length of time usually in years, for the cumulative annual profit to equalized the initial investment is.",
+    "options": {
+      "a": "payback period",
+      "b": "receivable turnover",
+      "c": "return on investment",
+      "d": "useful life"
+    },
+    "answer": "a",
+    "correct_answer_text": "payback period"
+  },
+  {
+    "id": 106,
+    "question": "The unrecovered depreciation resulted from which poor estimate of the life of equipment.",
+    "options": {
+      "a": "sunk cost",
+      "b": "in-place value",
+      "c": "economic life",
+      "d": "annuity"
+    },
+    "answer": "a",
+    "correct_answer_text": "sunk cost"
+  },
+  {
+    "id": 107,
+    "question": "What factor must be considered by investor before he invests?",
+    "options": {
+      "a": "rate of return",
+      "b": "return on investment",
+      "c": "hurdle rate",
+      "d": "return of capital"
+    },
+    "answer": "a",
+    "correct_answer_text": "rate of return"
+  },
+  {
+    "id": 108,
+    "question": "A market situation with only one buyer of an item and no goods substitute.",
+    "options": {
+      "a": "monopsony",
+      "b": "monopoly",
+      "c": "oligopoly",
+      "d": "duopsony"
+    },
+    "answer": "a",
+    "correct_answer_text": "monopsony"
+  },
+  {
+    "id": 109,
+    "question": "A market situation with few sellers and many buyers.",
+    "options": {
+      "a": "oligopoly",
+      "b": "monopoly",
+      "c": "monopsony",
+      "d": "duopsony"
+    },
+    "answer": "a",
+    "correct_answer_text": "oligopoly"
+  },
+  {
+    "id": 110,
+    "question": "It is an aggregation of individuals formed for the purpose of conducting a business and recognized by law as fictitious person.",
+    "options": {
+      "a": "corporation",
+      "b": "investors",
+      "c": "partnership",
+      "d": "stockholders"
+    },
+    "answer": "a",
+    "correct_answer_text": "corporation"
+  },
+  {
+    "id": 111,
+    "question": "It is the secondary book of accounts of an enterprise where the credit and debit of an enterprise were written.",
+    "options": {
+      "a": "ledger",
+      "b": "journal",
+      "c": "work sheet",
+      "d": "balance sheet"
+    },
+    "answer": "a",
+    "correct_answer_text": "ledger"
+  },
+  {
+    "id": 112,
+    "question": "It is the original book of accounts of an enterprise.",
+    "options": {
+      "a": "journal",
+      "b": "ledger",
+      "c": "balance sheet",
+      "d": "work sheet"
+    },
+    "answer": "a",
+    "correct_answer_text": "journal"
+  },
+  {
+    "id": 113,
+    "question": "It is the reduction in the level of national income and output usually accompanied by the fall in general price level.",
+    "options": {
+      "a": "deflation",
+      "b": "inflation",
+      "c": "devaluation",
+      "d": "depreciation"
+    },
+    "answer": "a",
+    "correct_answer_text": "deflation"
+  },
+  {
+    "id": 114,
+    "question": "It is the decrease in money`s purchasing power due to increase in material cost and services.",
+    "options": {
+      "a": "inflation",
+      "b": "deflation",
+      "c": "devaluation",
+      "d": "depreciation"
+    },
+    "answer": "a",
+    "correct_answer_text": "inflation"
+  },
+  {
+    "id": 115,
+    "question": "It is the decrease in worth of the property due to passage of time.",
+    "options": {
+      "a": "depreciation",
+      "b": "inflation",
+      "c": "deflation",
+      "d": "devaluation"
+    },
+    "answer": "a",
+    "correct_answer_text": "depreciation"
+  },
+  {
+    "id": 116,
+    "question": "It is the difference between the present worth and the future worth of negotiable paper.",
+    "options": {
+      "a": "discount",
+      "b": "interest",
+      "c": "rate of interest",
+      "d": "rate of discount"
+    },
+    "answer": "a",
+    "correct_answer_text": "discount"
+  },
+  {
+    "id": 117,
+    "question": "It is amount earned by one unit of principal during a unit of time.",
+    "options": {
+      "a": "rate of interest",
+      "b": "interest",
+      "c": "discount",
+      "d": "rate of discount"
+    },
+    "answer": "a",
+    "correct_answer_text": "rate of interest"
+  },
+  {
+    "id": 118,
+    "question": "It pertains to the series of equal payments occurring at equal period of interval of time.",
+    "options": {
+      "a": "annuity",
+      "b": "amortization",
+      "c": "depreciation",
+      "d": "depletion"
+    },
+    "answer": "a",
+    "correct_answer_text": "annuity"
+  },
+  {
+    "id": 119,
+    "question": "It is a method of paying debt including the principal and interest which is usually done in a series of equal payments occurring at equal period of interval of time.",
+    "options": {
+      "a": "amortization",
+      "b": "depreciation",
+      "c": "depletion",
+      "d": "annuity"
+    },
+    "answer": "a",
+    "correct_answer_text": "amortization"
+  },
+  {
+    "id": 120,
+    "question": "It is type of annuity where payments are made indefinitely or forever.",
+    "options": {
+      "a": "perpetuity",
+      "b": "ordinary annuity",
+      "c": "annuity due",
+      "d": "deferred annuity"
+    },
+    "answer": "a",
+    "correct_answer_text": "perpetuity"
+  },
+  {
+    "id": 121,
+    "question": "It pertains series of payments on equal interval of time with common difference.",
+    "options": {
+      "a": "arithmetic gradient",
+      "b": "annuity",
+      "c": "depreciation",
+      "d": "geometric gradient"
+    },
+    "answer": "a",
+    "correct_answer_text": "arithmetic gradient"
+  },
+  {
+    "id": 122,
+    "question": "It pertains series of payments on equal interval of time with common ratio.",
+    "options": {
+      "a": "geometric gradient",
+      "b": "annuity",
+      "c": "arithmetic gradient",
+      "d": "depreciation"
+    },
+    "answer": "a",
+    "correct_answer_text": "geometric gradient"
+  },
+  {
+    "id": 123,
+    "question": "It is the sum of the first cost and the present worth of annual costs of repair and maintenance and the operational costs, renewal costs.",
+    "options": {
+      "a": "capitalized cost",
+      "b": "annual cost",
+      "c": "marginal cost",
+      "d": "future worth cost"
+    },
+    "answer": "a",
+    "correct_answer_text": "capitalized cost"
+  },
+  {
+    "id": 124,
+    "question": "It is the measure of the effectiveness of an investment.",
+    "options": {
+      "a": "rate of return",
+      "b": "profit",
+      "c": "dividends",
+      "d": "revenue"
+    },
+    "answer": "a",
+    "correct_answer_text": "rate of return"
+  },
+  {
+    "id": 125,
+    "question": "The difference between capital recovery factor (CRF) and the sinking fund factor (SFF) is equal to",
+    "options": {
+      "a": "rate of interest",
+      "b": "discount",
+      "c": "depreciation",
+      "d": "profit"
+    },
+    "answer": "a",
+    "correct_answer_text": "rate of interest"
+  },
+  {
+    "id": 126,
+    "question": "The quantity (1 + i) exponent n represents which one of the following?",
+    "options": {
+      "a": "future value factor",
+      "b": "present value factor",
+      "c": "capital recovery factor",
+      "d": "compound amount factor"
+    },
+    "answer": "d",
+    "correct_answer_text": "compound amount factor"
+  },
+  {
+    "id": 127,
+    "question": "The quantity (1 +i) negative n exponent represents which one of the following?",
+    "options": {
+      "a": "present value factor",
+      "b": "capital recovery factor",
+      "c": "compound amount factor",
+      "d": "future value factor"
+    },
+    "answer": "a",
+    "correct_answer_text": "present value factor"
+  },
+  {
+    "id": 128,
+    "question": "The quantity (F/A, i%, n) represents which one of the following?",
+    "options": {
+      "a": "compound amount factor",
+      "b": "present value factor",
+      "c": "capital recovery factor",
+      "d": "future value factor"
+    },
+    "answer": "a",
+    "correct_answer_text": "compound amount factor"
+  },
+  {
+    "id": 129,
+    "question": "The quantity (A/P,i%,n) represents which one of the following?",
+    "options": {
+      "a": "capital recovery factor",
+      "b": "compound amount factor",
+      "c": "present value factor",
+      "d": "future value factor"
+    },
+    "answer": "a",
+    "correct_answer_text": "capital recovery factor"
+  },
+  {
+    "id": 130,
+    "question": "The quantity (A/F,i%,n) represents which one of the following?",
+    "options": {
+      "a": "sinking fund factor",
+      "b": "compound amount factor",
+      "c": "present value factor",
+      "d": "future value factor"
+    },
+    "answer": "a",
+    "correct_answer_text": "sinking fund factor"
+  },
+  {
+    "id": 131,
+    "question": "When the net torque acting on the body is zero, the body is in",
+    "options": {
+      "a": "rotational equilibrium",
+      "b": "unstable equilibrium",
+      "c": "stable equilibrium",
+      "d": "translational equilibrium"
+    },
+    "answer": "a",
+    "correct_answer_text": "rotational equilibrium"
+  },
+  {
+    "id": 132,
+    "question": "When the force that act on an object is have a vector sum of zero, the object is said to be in",
+    "options": {
+      "a": "translational equilibrium",
+      "b": "rotational equilibrium",
+      "c": "unstable equilibrium",
+      "d": "stable equilibrium"
+    },
+    "answer": "a",
+    "correct_answer_text": "translational equilibrium"
+  },
+  {
+    "id": 133,
+    "question": "If a cone is balanced on its apex, it illustrates what type of equilibrium?",
+    "options": {
+      "a": "unstable equilibrium",
+      "b": "translational equilibrium",
+      "c": "rotational equilibrium",
+      "d": "stable equilibrium"
+    },
+    "answer": "a",
+    "correct_answer_text": "unstable equilibrium"
+  },
+  {
+    "id": 134,
+    "question": "What principle states that for a horizontal flow of a fluid through a pipe the sum of pressure and kinetic energy per unit volume of fluid is constant?",
+    "options": {
+      "a": "Bernoulli’s principle",
+      "b": "Pascal’s principle",
+      "c": "Archimedes’ principle",
+      "d": "Torricelli’s principle"
+    },
+    "answer": "a",
+    "correct_answer_text": "Bernoulli’s principle"
+  }
+]

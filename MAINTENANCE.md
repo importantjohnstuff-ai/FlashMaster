@@ -1,62 +1,99 @@
-# Guide: Adding New Card Sets for Static Hosting (GitHub Pages)
+# HOSTEDFLASHER — Maintenance & Update Guide
 
-Because GitHub Pages environment is static, it cannot perform server-side directory scanning (like PHP's `glob` or `scandir`). To make new study sets (JSON files) available on the dashboard when hosted on GitHub, you must manually register them in the application logic.
+`HOSTEDFLASHER/` is the static GitHub Pages version of `flasher/`. Because GitHub Pages cannot run PHP, all JSON data files must be manually copied and the file list in `app.js` must be kept updated by hand.
 
-## Prerequisites
-- Ensure your JSON file follows the required schema:
-  ```json
-  [
-    {
-      "id": 1,
-      "question": "Your question here?",
-      "options": {
-        "a": "Option A",
-        "b": "Option B",
-        "c": "Option C",
-        "d": "Option D"
-      },
-      "answer": "a",
-      "correct_answer_text": "Option A"
-    }
-  ]
-  ```
-- Make sure the JSON file is placed in the root directory of the project (alongside `index.html`).
+---
 
-## Steps to Register a New Set
+## Architecture
 
-### 1. Open `app.js`
-Locate the `app.js` file in your repository.
+| | `flasher/` (Source of Truth) | `HOSTEDFLASHER/` (GitHub Pages) |
+|---|---|---|
+| **File discovery** | `list_files.php` scans directory dynamically | Hardcoded array in `app.js` |
+| **Answer saving** | `update_answer.php` writes to JSON files | Not supported (read-only) |
+| **JSON files** | Edited/added here first | Manually copied from `flasher/` |
 
-### 2. Find the Hardcoded File List
-Search for the `loadFileList` function. Inside that function, you will see a constant named `fileNames`. It looks like this:
+---
 
-```javascript
-// Located around line 131
-const fileNames = ['PEC1.json', 'PEC2.json', 'PEC3.json', 'PEC4.json', 'PEC5.json'];
+## Full Update Procedure
+
+Run these steps whenever a new JSON set is added or an existing one is updated in `flasher/`.
+
+### Step 1: Copy JSON files from `flasher/`
+
+Copy all JSON card sets from `flasher/` into `HOSTEDFLASHER/`:
+
+```powershell
+Copy-Item -Path "flasher\*.json" -Destination "HOSTEDFLASHER\" -Force
 ```
 
-### 3. Add Your New File
-Add your new filename (including the `.json` extension) to the array. Ensure it is wrapped in single quotes and separated by a comma.
-
-**Example (adding PEC6.json):**
-```javascript
-const fileNames = ['PEC1.json', 'PEC2.json', 'PEC3.json', 'PEC4.json', 'PEC5.json', 'PEC6.json'];
+**Verify counts match:**
+```powershell
+(Get-ChildItem "flasher\*.json").Count
+(Get-ChildItem "HOSTEDFLASHER\*.json").Count
 ```
 
-### 4. Save and Deploy
-1. **Save** the `app.js` file.
-2. **Commit** the changes to your local Git repository.
-3. **Push** the changes to GitHub.
+### Step 2: Update the hardcoded file list in `app.js`
 
-Once pushed, GitHub Pages will automatically rebuild, and your new set will appear in the "Select Sets" section of the dashboard.
+Open `HOSTEDFLASHER\app.js` and find the `loadFileList` function (around line 131). Update the `fileNames` array to match every `.json` file now in the folder.
+
+**Current file list (as of 2026-03-05):**
+```javascript
+const fileNames = ['PEC1.json', 'PEC2.json', 'PEC3.json', 'PEC4.json', 'PEC5.json', 'PEC6.json', 'ESAS1.json', 'ESAS2.json'];
+```
+
+> **Rule:** Every `.json` file in `HOSTEDFLASHER/` must appear in this array, or it will not show up on the dashboard. Conversely, any name in the array that has no matching file will cause a loading error.
+
+### Step 3: Commit and push to GitHub
+
+```bash
+cd HOSTEDFLASHER
+git add .
+git commit -m "Sync JSON sets from flasher"
+git push
+```
+
+GitHub Pages will rebuild automatically within ~30 seconds.
+
+---
+
+## Adding a Brand-New Card Set
+
+1. **Create the JSON file in `flasher/`** (the source of truth — never create it directly in `HOSTEDFLASHER/`).
+2. Ensure the JSON follows the required schema:
+   ```json
+   [
+     {
+       "id": 1,
+       "question": "Your question here?",
+       "options": {
+         "a": "Option A",
+         "b": "Option B",
+         "c": "Option C",
+         "d": "Option D"
+       },
+       "answer": "a",
+       "correct_answer_text": "Option A"
+     }
+   ]
+   ```
+3. Follow the **Full Update Procedure** above (copy file → update `fileNames` array → push).
+
+---
 
 ## New Feature: Start from ID
-To make studying easier, you can now select a starting ID when a single set is selected.
-- This works automatically on GitHub Pages.
-- It relies on the `id` field within your JSON files.
-- If you enter an ID that doesn't exist (e.g., higher than any ID in the set), no cards will load for that session.
+
+When a single set is selected, you can enter a starting card ID to skip ahead.
+- Relies on the `id` field in each JSON card.
+- If the entered ID exceeds all IDs in the set, no cards will load.
+- Works automatically on GitHub Pages (no server needed).
+
+---
 
 ## Troubleshooting
-- **File not appearing:** Double-check the spelling of the filename in `app.js` and ensure it matches the actual file on disk (it is case-sensitive on most servers).
-- **Dashboard stuck on "Loading...":** This usually happens if the JSON file has a syntax error (like a missing comma). Open the browser console (F12) to see specific error messages.
-- **Start from ID skip incorrect:** Ensure your JSON cards have sequential `id` numbers. The app skips cards by finding the first card where `id >= your input`.
+
+| Problem | Fix |
+|---|---|
+| **File not appearing on dashboard** | Check spelling in `fileNames` array in `app.js`; filenames are case-sensitive |
+| **"Loading..." forever** | JSON syntax error — open browser console (F12) to see the exact error |
+| **Start from ID skips wrong card** | Ensure `id` fields are sequential integers in your JSON |
+| **File count mismatch** | Re-run the copy command from Step 1 and recount |
