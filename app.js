@@ -43,6 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const state = {
         originalCards: [], // Store original order
         cards: [], // Current working set
+        starredCards: [], // Starred problem list
         currentIndex: 0,
         isFlipped: false,
         isRandom: false,
@@ -62,6 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const els = {
         navDashboard: document.getElementById('nav-dashboard'),
         navStudy: document.getElementById('nav-study'),
+        navSearch: document.getElementById('nav-search'),
         viewDashboard: document.getElementById('view-dashboard'),
         viewStudy: document.getElementById('view-study'),
         totalCardsCount: document.getElementById('total-cards-count'),
@@ -70,8 +72,8 @@ document.addEventListener('DOMContentLoaded', () => {
         fileSelect: document.getElementById('file-select'),
         fileListContainer: document.getElementById('file-list-container'), // New
         maxQuestionsInput: document.getElementById('max-questions'), // New
-        startIdContainer: document.getElementById('start-id-container'), // New
-        startFromIdInput: document.getElementById('start-from-id'), // New
+        startFromGroup: document.getElementById('start-from-group'), // New
+        startFromInput: document.getElementById('start-from-id'), // New
         shuffleToggle: document.getElementById('shuffle-cards-toggle'),
         shuffleChoicesToggle: document.getElementById('shuffle-choices-toggle'),
         mobileToggle: document.getElementById('mobile-mode-toggle'),
@@ -93,6 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
         btnPrev: document.getElementById('btn-prev'),
         btnNext: document.getElementById('btn-next'),
         btnFlip: document.getElementById('btn-flip'),
+        btnStar: document.getElementById('btn-star'), // New
         btnEditAnswer: document.getElementById('btn-edit-answer'), // New
 
         // Modal Elements
@@ -110,7 +113,13 @@ document.addEventListener('DOMContentLoaded', () => {
         testModeOptionsModal: document.getElementById('test-mode-options-modal'),
         btnModeContinuous: document.getElementById('btn-mode-continuous'),
         btnModeRecycle: document.getElementById('btn-mode-recycle'),
-        btnCancelTestMode: document.getElementById('btn-cancel-test-mode')
+        btnCancelTestMode: document.getElementById('btn-cancel-test-mode'),
+
+        // Search Modal Elements
+        searchModal: document.getElementById('search-modal'),
+        modalSearchInput: document.getElementById('modal-search-input'),
+        searchResultsList: document.getElementById('search-results-list'),
+        btnCloseSearch: document.getElementById('btn-close-search')
     };
 
     // Initialization
@@ -118,6 +127,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function init() {
         try {
+            const stored = localStorage.getItem('flashmaster_starred');
+            if (stored) {
+                state.starredCards = JSON.parse(stored);
+            }
             await loadFileList();
             setupEventListeners();
         } catch (error) {
@@ -128,35 +141,29 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function loadFileList() {
         try {
-            // Static File List for GitHub Pages compatibility
-            // Since we can't scan directories with JS in browser, we hardcode the known files.
+            // Hardcoded list of JSON files for HostedFlasher
             const fileNames = ['PEC1.json', 'PEC2.json', 'PEC3.json', 'PEC4.json', 'PEC5.json', 'PEC6.json', 'ESAS1.json', 'ESAS2.json'];
 
+            // Clear loading text
             els.fileListContainer.innerHTML = '';
 
-            // We'll fetch each file to get its correct count dynamically
-            const fileDataPromises = fileNames.map(async (name) => {
-                try {
-                    const res = await fetch(name);
-                    if (!res.ok) return { name, count: '?' };
-                    const json = await res.json();
-                    return { name, count: json.length };
-                } catch (e) {
-                    console.error(`Error loading info for ${name}`, e);
-                    return { name, count: 'Err' };
-                }
-            });
-
-            const files = await Promise.all(fileDataPromises);
-
-            if (files.length === 0) {
+            if (fileNames.length === 0) {
                 els.fileListContainer.innerHTML = '<div class="loading-text">No JSON files found</div>';
                 return;
             }
 
-            files.forEach(fileData => {
-                const fileName = fileData.name;
-                const fileCount = fileData.count;
+            for (const fileName of fileNames) {
+                let fileCount = 0;
+                try {
+                    // Try to fetch to get the count, but non-blocking error if it fails
+                    const resp = await fetch(fileName);
+                    if (resp.ok) {
+                        const data = await resp.json();
+                        fileCount = data.length;
+                    }
+                } catch (e) {
+                    console.warn("Could not preview count for " + fileName);
+                }
 
                 const label = document.createElement('label');
                 label.className = 'file-checkbox-item';
@@ -165,7 +172,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 checkbox.type = 'checkbox';
                 checkbox.value = fileName;
                 checkbox.dataset.count = fileCount; // Store count
-                checkbox.checked = false; // Default select none
+                checkbox.checked = false; // Default select none (User Request)
 
                 const span = document.createElement('span');
                 span.textContent = `${fileName} (${fileCount} cards)`;
@@ -173,15 +180,35 @@ document.addEventListener('DOMContentLoaded', () => {
                 label.appendChild(checkbox);
                 label.appendChild(span);
                 els.fileListContainer.appendChild(label);
-            });
+            }
+
+            appendStarredSetOption();
 
             updateStartButtonState(); // Set initial button state
             updateDashboardGenericStats(); // Update stats based on selection
 
         } catch (error) {
-            console.error('Static list load failed:', error);
-            showUserError('Failed to load file list.');
+            console.error('Failed to load static file list.', error);
+            els.fileListContainer.innerHTML = '<div class="loading-text">Error loading sets. Check console.</div>';
         }
+    }
+
+    function appendStarredSetOption() {
+        const starLabel = document.createElement('label');
+        starLabel.className = 'file-checkbox-item';
+
+        const starCheckbox = document.createElement('input');
+        starCheckbox.type = 'checkbox';
+        starCheckbox.value = 'STARRED_SET';
+        starCheckbox.dataset.count = state.starredCards.length;
+        starCheckbox.checked = false;
+
+        const starSpan = document.createElement('span');
+        starSpan.textContent = `⭐ Starred Problems (${state.starredCards.length} cards)`;
+
+        starLabel.appendChild(starCheckbox);
+        starLabel.appendChild(starSpan);
+        els.fileListContainer.appendChild(starLabel);
     }
 
     // Update Dashboard Stats (Total Cards) based on selection
@@ -208,10 +235,12 @@ document.addEventListener('DOMContentLoaded', () => {
             els.btnStartStudy.title = "";
         }
 
-        // Show "Start from ID" only if exactly 1 set is selected
-        els.startIdContainer.classList.toggle('hidden', checkedCount !== 1);
-        if (checkedCount !== 1) {
-            els.startFromIdInput.value = ''; // Clear when hidden
+        // Show "Start From ID" field ONLY if exactly 1 set is selected
+        if (checkedCount === 1) {
+            els.startFromGroup.style.display = 'flex'; // Use flex to match control-group styling naturally
+        } else {
+            els.startFromGroup.style.display = 'none';
+            els.startFromInput.value = ''; // Clear value if hidden
         }
 
         // Also update stats whenever button state might change (i.e. selection changed)
@@ -227,6 +256,18 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!response.ok) throw new Error('Network response was not ok');
 
             const data = await response.json();
+
+            // Apply LocalStorage Overrides
+            const storedEdits = JSON.parse(localStorage.getItem('flashmaster_edits')) || {};
+            if (storedEdits[filename]) {
+                data.forEach(card => {
+                    if (storedEdits[filename][card.id]) {
+                        card.answer = storedEdits[filename][card.id].answer;
+                        card.correct_answer_text = storedEdits[filename][card.id].correct_answer_text;
+                    }
+                });
+            }
+
             state.originalCards = data;
             state.currentFilename = filename; // Update filename tracking
 
@@ -249,37 +290,65 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    async function loadMultipleFiles(filenames, maxCount) {
+    async function loadMultipleFiles(filenames, maxCount, startFromId) {
         try {
             els.btnStartStudy.textContent = 'Loading...';
             els.btnStartStudy.disabled = true;
 
-            const promises = filenames.map(async (filename) => {
-                const response = await fetch(filename);
-                if (!response.ok) throw new Error(`Failed to load ${filename}`);
-                const data = await response.json();
-                // Tag each card with source
-                return data.map(card => ({ ...card, _sourceFile: filename }));
-            });
+            const actualFiles = filenames.filter(f => f !== 'STARRED_SET');
+            const includesStarred = filenames.includes('STARRED_SET');
 
-            const results = await Promise.all(promises);
-            let combinedCards = results.flat();
+            let combinedCards = [];
 
-            // Handle "Start from ID" if only 1 file is selected
-            const startFromId = parseInt(els.startFromIdInput.value) || 0;
-            if (filenames.length === 1 && startFromId > 0) {
-                // Find index of first card with ID >= startFromId
-                const startIndex = combinedCards.findIndex(card => card.id >= startFromId);
-                if (startIndex !== -1) {
-                    combinedCards = combinedCards.slice(startIndex);
-                } else if (combinedCards.length > 0 && startFromId > combinedCards[combinedCards.length - 1].id) {
-                    // If ID is beyond all cards, clear the list
-                    combinedCards = [];
-                }
+            if (actualFiles.length > 0) {
+                const promises = actualFiles.map(async (filename) => {
+                    const response = await fetch(filename);
+                    if (!response.ok) throw new Error(`Failed to load ${filename}`);
+                    const data = await response.json();
+                    // Tag each card with source
+                    return data.map(card => ({ ...card, _sourceFile: filename }));
+                });
+
+                const results = await Promise.all(promises);
+                combinedCards = results.flat();
+
+                // Apply LocalStorage Overrides
+                const storedEdits = JSON.parse(localStorage.getItem('flashmaster_edits')) || {};
+                combinedCards.forEach(card => {
+                    const fileKey = card._sourceFile;
+                    if (fileKey && storedEdits[fileKey] && storedEdits[fileKey][card.id]) {
+                        card.answer = storedEdits[fileKey][card.id].answer;
+                        card.correct_answer_text = storedEdits[fileKey][card.id].correct_answer_text;
+                    }
+                });
+            }
+
+            if (includesStarred) {
+                const existingIds = new Set(combinedCards.map(c => c.id));
+                state.starredCards.forEach(sc => {
+                    if (!existingIds.has(sc.id)) {
+                        combinedCards.push(sc);
+                    }
+                });
             }
 
             // Do NOT shuffle combined pool by default (User Request)
             // combinedCards = shuffleArray(combinedCards);
+
+            // Handle "Start From ID" feature
+            if (startFromId && startFromId > 0 && filenames.length === 1) {
+                // Find the index of the requested start ID
+                // Note: using loose equality == to handle both string and int IDs just in case
+                const startIndex = combinedCards.findIndex(card => card.id == startFromId);
+
+                if (startIndex !== -1) {
+                    combinedCards = combinedCards.slice(startIndex);
+                } else {
+                    // ID not found, alert the user but continue with the full set
+                    console.warn(`ID ${startFromId} not found in the selected set. Starting from the beginning.`);
+                    showUserError(`ID ${startFromId} not found. Starting from beginning.`);
+                }
+            }
 
             // Limit if maxCount is specified
             if (maxCount && maxCount > 0 && maxCount < combinedCards.length) {
@@ -333,8 +402,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const filenames = Array.from(checkboxes).map(cb => cb.value);
             const maxCount = parseInt(els.maxQuestionsInput.value) || 0;
+            const startFromId = parseInt(els.startFromInput.value) || null;
 
-            loadMultipleFiles(filenames, maxCount);
+            loadMultipleFiles(filenames, maxCount, startFromId);
         });
 
         // File Selection Change Listener for Button State
@@ -387,6 +457,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
         }
+
+        // Search Modal Events
+        if (els.navSearch) els.navSearch.addEventListener('click', openSearchModal);
+        if (els.btnCloseSearch) els.btnCloseSearch.addEventListener('click', closeSearchModal);
+        if (els.modalSearchInput) els.modalSearchInput.addEventListener('input', handleSearchInput);
+        if (els.searchModal) els.searchModal.addEventListener('click', (e) => {
+            if (e.target === els.searchModal) closeSearchModal();
+        });
 
         /* --- Test Mode Logic --- */
         /* --- Test Mode Logic --- */
@@ -510,6 +588,13 @@ document.addEventListener('DOMContentLoaded', () => {
             toggleFlip();
         });
 
+        if (els.btnStar) {
+            els.btnStar.addEventListener('click', (e) => {
+                e.stopPropagation();
+                toggleStarCurrentCard();
+            });
+        }
+
         // Pagination
         els.btnPrev.addEventListener('click', prevCard);
         els.btnNext.addEventListener('click', nextCard);
@@ -584,6 +669,134 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    /* --- Search Modal Logic --- */
+    let currentSearchPool = [];
+
+    async function openSearchModal() {
+        els.searchModal.classList.remove('hidden');
+        els.modalSearchInput.value = '';
+        els.searchResultsList.innerHTML = '<div class="loading-text">Loading selected sets...</div>';
+
+        setTimeout(() => els.modalSearchInput.focus(), 100);
+
+        const checkboxes = els.fileListContainer.querySelectorAll('input[type="checkbox"]:checked');
+        if (checkboxes.length === 0) {
+            els.searchResultsList.innerHTML = '<div class="loading-text">Please select at least one set on the Dashboard first.</div>';
+            currentSearchPool = [];
+            return;
+        }
+
+        const filenames = Array.from(checkboxes).map(cb => cb.value);
+
+        try {
+            const actualFiles = filenames.filter(f => f !== 'STARRED_SET');
+            const includesStarred = filenames.includes('STARRED_SET');
+
+            let combinedCards = [];
+
+            if (actualFiles.length > 0) {
+                const promises = actualFiles.map(async (filename) => {
+                    const response = await fetch(filename);
+                    if (!response.ok) throw new Error(`Failed to load ${filename}`);
+                    const data = await response.json();
+                    return data.map(card => ({ ...card, _sourceFile: filename }));
+                });
+
+                const results = await Promise.all(promises);
+                combinedCards = results.flat();
+
+                // Apply LocalStorage Overrides for Search Pool
+                const storedEdits = JSON.parse(localStorage.getItem('flashmaster_edits')) || {};
+                combinedCards.forEach(card => {
+                    const fileKey = card._sourceFile;
+                    if (fileKey && storedEdits[fileKey] && storedEdits[fileKey][card.id]) {
+                        card.answer = storedEdits[fileKey][card.id].answer;
+                        card.correct_answer_text = storedEdits[fileKey][card.id].correct_answer_text;
+                    }
+                });
+            }
+
+            if (includesStarred) {
+                const existingIds = new Set(combinedCards.map(c => c.id));
+                state.starredCards.forEach(sc => {
+                    if (!existingIds.has(sc.id)) {
+                        combinedCards.push(sc);
+                    }
+                });
+            }
+
+            currentSearchPool = combinedCards;
+            els.searchResultsList.innerHTML = `<div class="loading-text">Type above to search across ${currentSearchPool.length} questions.</div>`;
+
+        } catch (error) {
+            console.error('Search pool load error:', error);
+            els.searchResultsList.innerHTML = '<div class="loading-text">Error loading sets for search.</div>';
+        }
+    }
+
+    function closeSearchModal() {
+        els.searchModal.classList.add('hidden');
+    }
+
+    function handleSearchInput() {
+        const query = els.modalSearchInput.value.toLowerCase().trim();
+
+        if (!query) {
+            els.searchResultsList.innerHTML = `<div class="loading-text">Type above to search across ${currentSearchPool.length} questions.</div>`;
+            return;
+        }
+
+        const results = currentSearchPool.filter(card => {
+            const q = (card.question || '').toLowerCase();
+            const a = (card.correct_answer_text || '').toLowerCase();
+            return q.includes(query) || a.includes(query);
+        });
+
+        renderSearchResults(results);
+    }
+
+    function renderSearchResults(results) {
+        els.searchResultsList.innerHTML = '';
+
+        if (results.length === 0) {
+            els.searchResultsList.innerHTML = '<div class="loading-text">No matches found.</div>';
+            return;
+        }
+
+        results.forEach((card, index) => {
+            const div = document.createElement('div');
+            div.className = 'search-result-item';
+
+            const questionText = card.question ? card.question.substring(0, 100) + (card.question.length > 100 ? '...' : '') : 'No question text';
+            const sourceText = card._sourceFile ? card._sourceFile : (card.deck || 'Starred');
+
+            div.innerHTML = `
+                <div class="search-result-question">${questionText}</div>
+                <div class="search-result-meta">Source: ${sourceText} | ID: ${card.id}</div>
+            `;
+
+            div.onclick = () => {
+                // Set the current study session to the search results
+                state.originalCards = [...results];
+                state.cards = [...results];
+                state.currentIndex = index;
+                // state.currentFilename is used for edit answer
+                state.currentFilename = card._sourceFile || 'STARRED_SET';
+
+                updateDashboard();
+                closeSearchModal();
+                switchView('study');
+
+                // Ensure the card is rendered properly after switching views
+                if (typeof renderCard === 'function') {
+                    renderCard();
+                }
+            };
+
+            els.searchResultsList.appendChild(div);
+        });
+    }
+
     /* --- Edit Modal Logic --- */
     function openEditModal() {
         const card = state.cards[state.currentIndex];
@@ -626,8 +839,55 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function saveCorrectAnswer() {
-        alert("Saving is disabled in this static version (GitHub Pages Demo).");
-        return;
+        const card = state.cards[state.currentIndex];
+        const newAnswer = state.selectedAnswerForEdit;
+
+        if (!newAnswer) return;
+
+        els.btnSaveEdit.textContent = 'Saving locally...';
+        els.btnSaveEdit.disabled = true;
+
+        try {
+            // Save to LocalStorage instead of PHP
+            const storageKey = 'flashmaster_edits';
+            let storedEdits = JSON.parse(localStorage.getItem(storageKey)) || {};
+
+            const fileKey = card._sourceFile || state.currentFilename;
+            if (!storedEdits[fileKey]) storedEdits[fileKey] = {};
+
+            // Get the new text based on the choice
+            const newAnswerText = card.options[newAnswer];
+
+            storedEdits[fileKey][card.id] = {
+                answer: newAnswer,
+                correct_answer_text: newAnswerText
+            };
+
+            localStorage.setItem(storageKey, JSON.stringify(storedEdits));
+
+            // Success! Update local state
+            // 1. Update in current working set
+            card.answer = newAnswer;
+            card.correct_answer_text = newAnswerText;
+
+            // 2. Update in original set to persist if we reshuffle
+            const originalCard = state.originalCards.find(c => c.id == card.id);
+            if (originalCard) {
+                originalCard.answer = newAnswer;
+                originalCard.correct_answer_text = newAnswerText;
+            }
+
+            // 3. Re-render card to show new answer if flipped
+            renderCard();
+            closeEditModal();
+
+        } catch (error) {
+            console.error('Local save failed:', error);
+            showUserError('Failed to save answer locally: ' + error.message);
+        } finally {
+            els.btnSaveEdit.textContent = 'Save Changes';
+            els.btnSaveEdit.disabled = false;
+        }
     }
 
     /* --- View Management --- */
@@ -700,6 +960,17 @@ document.addEventListener('DOMContentLoaded', () => {
         // But we disabled the button.
 
         state.hasAnsweredCurrent = false; // Reset answer state for new card
+
+        if (els.btnStar) {
+            const isStarred = state.starredCards.some(sc => sc.id === card.id);
+            if (isStarred) {
+                els.btnStar.classList.add('starred');
+                els.btnStar.textContent = '⭐';
+            } else {
+                els.btnStar.classList.remove('starred');
+                els.btnStar.textContent = '☆';
+            }
+        }
 
         // Update Content
         els.cardQuestion.textContent = card.question;
@@ -808,6 +1079,39 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Update Buttons State
         updateNavigationButtons();
+    }
+
+    function toggleStarCurrentCard() {
+        if (state.cards.length === 0) return;
+        const card = state.cards[state.currentIndex];
+        const isStarred = state.starredCards.some(sc => sc.id === card.id);
+
+        if (isStarred) {
+            state.starredCards = state.starredCards.filter(sc => sc.id !== card.id);
+            els.btnStar.classList.remove('starred');
+            els.btnStar.textContent = '☆';
+        } else {
+            state.starredCards.push(card);
+            els.btnStar.classList.add('starred');
+            els.btnStar.textContent = '⭐';
+        }
+
+        // Save to localStorage
+        localStorage.setItem('flashmaster_starred', JSON.stringify(state.starredCards));
+
+        // Update checkbox label text if on dashboard (optional but good for syncing)
+        const starItems = Array.from(els.fileListContainer.querySelectorAll('.file-checkbox-item span'));
+        const starSpan = starItems.find(span => span.textContent.includes('Starred Problems'));
+        if (starSpan) {
+            starSpan.textContent = `⭐ Starred Problems (${state.starredCards.length} cards)`;
+        }
+
+        // Also update the hidden checkbox count
+        const starCheckbox = els.fileListContainer.querySelector('input[value="STARRED_SET"]');
+        if (starCheckbox) {
+            starCheckbox.dataset.count = state.starredCards.length;
+            updateDashboardGenericStats();
+        }
     }
 
     function toggleFlip() {

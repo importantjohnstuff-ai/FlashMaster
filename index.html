@@ -21,6 +21,7 @@
             <div class="nav-links">
                 <button id="nav-dashboard" class="nav-item active">Dashboard</button>
                 <button id="nav-study" class="nav-item">Study</button>
+                <button id="nav-search" class="nav-item">Search</button>
             </div>
         </nav>
 
@@ -48,10 +49,10 @@
                         <span class="small-text">(Leave empty for all)</span>
                     </div>
 
-                    <div id="start-id-container" class="control-group hidden">
-                        <label for="start-from-id" class="control-label">Start from ID:</label>
+                    <div class="control-group" id="start-from-group" style="display: none;">
+                        <label for="start-from-id" class="control-label">Start From ID:</label>
                         <input type="number" id="start-from-id" class="number-input" min="1">
-                        <span class="small-text">(Skip cards before this ID)</span>
+                        <span class="small-text">(Valid for single set only)</span>
                     </div>
 
                     <div class="control-group toggle-group">
@@ -123,7 +124,11 @@
                         <div class="flashcard-inner">
                             <div class="flashcard-front">
                                 <div class="card-content">
-                                    <span class="card-label">Question</span>
+                                    <div class="card-header-row">
+                                        <span class="card-label">Question</span>
+                                        <button id="btn-star" class="btn-star" aria-label="Star question"
+                                            title="Star this question">☆</button>
+                                    </div>
                                     <h2 id="card-question">Loading question...</h2>
                                     <div id="card-options" class="options-list">
                                         <!-- Options will be injected here -->
@@ -156,8 +161,7 @@
                 </div>
 
                 <div class="edit-controls">
-                    <button id="btn-edit-answer" class="btn-text small-btn" style="display: none;">Change Correct
-                        Answer</button>
+                    <button id="btn-edit-answer" class="btn-text small-btn">Change Correct Answer</button>
                 </div>
             </section>
         </main>
@@ -200,6 +204,21 @@
                 <button id="btn-mode-continuous" class="btn btn-primary">Continuous (No Feedback Modal)</button>
                 <button id="btn-mode-recycle" class="btn btn-primary">Recyclable (Recycle Incorrect)</button>
                 <button id="btn-cancel-test-mode" class="btn btn-text">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Search Modal -->
+    <div id="search-modal" class="modal hidden">
+        <div class="modal-content search-modal-content">
+            <div class="search-header">
+                <h3>Search Questions</h3>
+                <button id="btn-close-search" class="btn btn-text close-btn">&times;</button>
+            </div>
+            <input type="text" id="modal-search-input" class="text-input full-width"
+                placeholder="Type to search in selected sets...">
+            <div id="search-results-list" class="search-results-list">
+                <div class="loading-text">Select sets and type to search...</div>
             </div>
         </div>
     </div>
