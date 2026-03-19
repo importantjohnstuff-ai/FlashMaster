@@ -1,0 +1,7322 @@
+[
+  {
+    "id": 1,
+    "question": "The minimum size of copper equipment grounding conductor required for equipment connected to a 40 A branch circuit is",
+    "options": {
+      "a": "2.0 sq. mm",
+      "b": "3.5 sq. mm",
+      "c": "5.5 sq. mm",
+      "d": "8.0 sq. mm"
+    },
+    "answer": "c",
+    "correct_answer_text": "5.5 sq. mm"
+  },
+  {
+    "id": 2,
+    "question": "A single grounding electrode is permitted when the resistance to ground as stated in the PEC is",
+    "options": {
+      "a": "25 ohms or less",
+      "b": "30 ohms or less",
+      "c": "50 ohms or less",
+      "d": "100 ohms or less"
+    },
+    "answer": "a",
+    "correct_answer_text": "25 ohms or less"
+  },
+  {
+    "id": 3,
+    "question": "This principle states that 'where the velocity is high, the pressure is low, and where the velocity is low, the pressure is high'.",
+    "options": {
+      "a": "Pascal's principle",
+      "b": "Bernoulli's principle",
+      "c": "Archimedes' principle",
+      "d": "Torricelli's theorem"
+    },
+    "answer": "b",
+    "correct_answer_text": "Bernoulli's principle"
+  },
+  {
+    "id": 4,
+    "question": "Chemical formula for sulfur trioxide.",
+    "options": {
+      "a": "SO",
+      "b": "SO2",
+      "c": "SO3",
+      "d": "S2O3"
+    },
+    "answer": "c",
+    "correct_answer_text": "SO3"
+  },
+  {
+    "id": 5,
+    "question": "What is CPE in RA 7920 stands for?",
+    "options": {
+      "a": "Certified Professional Engineer",
+      "b": "Continuing Professional Education",
+      "c": "Continuing Professional Engineering",
+      "d": "Council for Professional Education"
+    },
+    "answer": "b",
+    "correct_answer_text": "Continuing Professional Education"
+  },
+  {
+    "id": 6,
+    "question": "PSALM in EPIRA stands for?",
+    "options": {
+      "a": "Power Sectors Assets and Liabilities Management",
+      "b": "Private Sectors Assets and Liabilities Management",
+      "c": "Power System Assets and Liabilities Management",
+      "d": "Philippine Sectors Assets and Liabilities Management"
+    },
+    "answer": "a",
+    "correct_answer_text": "Power Sectors Assets and Liabilities Management"
+  },
+  {
+    "id": 7,
+    "question": "It is the sum of the internal energy and PV.",
+    "options": {
+      "a": "Entropy",
+      "b": "Enthalpy",
+      "c": "Free energy",
+      "d": "Specific heat"
+    },
+    "answer": "b",
+    "correct_answer_text": "Enthalpy"
+  },
+  {
+    "id": 8,
+    "question": "Which of the ff is non-renewable energy?",
+    "options": {
+      "a": "Nuclear",
+      "b": "Wind",
+      "c": "Solar",
+      "d": "Geothermal"
+    },
+    "answer": "a",
+    "correct_answer_text": "Nuclear"
+  },
+  {
+    "id": 9,
+    "question": "What is JCPC in EPIRA stands for?",
+    "options": {
+      "a": "Joint Congressional Power Commission",
+      "b": "Joint Committee on Power Control",
+      "c": "Joint Congressional Power Committee",
+      "d": "Joint Council for Power Commission"
+    },
+    "answer": "a",
+    "correct_answer_text": "Joint Congressional Power Commission"
+  },
+  {
+    "id": 10,
+    "question": "What is PEMC in EPIRA stands for?",
+    "options": {
+      "a": "Philippine Energy Market Corporation",
+      "b": "Philippine Electricity Market Commission",
+      "c": "Philippine Electricity Market Corporation",
+      "d": "Private Electricity Market Corporation"
+    },
+    "answer": "c",
+    "correct_answer_text": "Philippine Electricity Market Corporation"
+  },
+  {
+    "id": 11,
+    "question": "What is TSC in EPIRA stands for?",
+    "options": {
+      "a": "Transmission Supply Contract",
+      "b": "Transition Supply Contract",
+      "c": "Transition System Contract",
+      "d": "Total Supply Contract"
+    },
+    "answer": "b",
+    "correct_answer_text": "Transition Supply Contract"
+  },
+  {
+    "id": 12,
+    "question": "The rate of change of shear strain in a fluid is",
+    "options": {
+      "a": "shear stress",
+      "b": "strain rate",
+      "c": "viscosity",
+      "d": "velocity gradient"
+    },
+    "answer": "b",
+    "correct_answer_text": "strain rate"
+  },
+  {
+    "id": 13,
+    "question": "In RA 7920, under the Penalty Clause, the fine shall be",
+    "options": {
+      "a": "not less than P10,000",
+      "b": "not more than P10,000",
+      "c": "not less than P5,000",
+      "d": "not more than P50,000"
+    },
+    "answer": "a",
+    "correct_answer_text": "not less than P10,000"
+  },
+  {
+    "id": 14,
+    "question": "In thermodynamics our attention is focused on which form of energy?",
+    "options": {
+      "a": "Kinetic energy",
+      "b": "Potential energy",
+      "c": "Internal energy",
+      "d": "Total energy"
+    },
+    "answer": "c",
+    "correct_answer_text": "internal energy"
+  },
+  {
+    "id": 15,
+    "question": "The length of free conductors at outlets and switch point for splices and connection of fixture and devices must be at least",
+    "options": {
+      "a": "100 mm",
+      "b": "125 mm",
+      "c": "150 mm",
+      "d": "200 mm"
+    },
+    "answer": "c",
+    "correct_answer_text": "150 mm"
+  },
+  {
+    "id": 16,
+    "question": "A boy and his sledge weighs m, on an inclined surface with angle of inclination of phi, and coefficient of friction µ. What is the frictional force?",
+    "options": {
+      "a": "µmgsinphi",
+      "b": "µmgcosphi",
+      "c": "mgcosphi",
+      "d": "µmg"
+    },
+    "answer": "b",
+    "correct_answer_text": "µmgcosphi"
+  },
+  {
+    "id": 17,
+    "question": "Two sky divers jump at the same time and want to play catch. Where should one aim if he wants the other to catch it?",
+    "options": {
+      "a": "Slightly above",
+      "b": "Slightly below",
+      "c": "Straight because there's no air resistance",
+      "d": "To the side"
+    },
+    "answer": "c",
+    "correct_answer_text": "Straight because there's no air resistance"
+  },
+  {
+    "id": 18,
+    "question": "Which of the ff is not part of the requirements to take RME?",
+    "options": {
+      "a": "Taken 1 year electrician course and 3 years apprenticeship",
+      "b": "Taken 2 years electricians course and 2 years apprenticeship",
+      "c": "Taken 3 years of BSEE with apprenticeship",
+      "d": "Graduate of BSEE"
+    },
+    "answer": "d",
+    "correct_answer_text": "Graduate of BSEE"
+  },
+  {
+    "id": 19,
+    "question": "It is the process of determining the value or worth of a physical property for specific reason.",
+    "options": {
+      "a": "estimation",
+      "b": "valuation",
+      "c": "appraisal",
+      "d": "depreciation"
+    },
+    "answer": "b",
+    "correct_answer_text": "valuation"
+  },
+  {
+    "id": 20,
+    "question": "An annuity where the payments are made at the beginning of each period.",
+    "options": {
+      "a": "ordinary annuity",
+      "b": "annuity due",
+      "c": "deferred annuity",
+      "d": "perpetuity"
+    },
+    "answer": "b",
+    "correct_answer_text": "annuity due"
+  },
+  {
+    "id": 21,
+    "question": "Sec. 17 (b) of Art. III: Examination and Registration, Qualifications of Applicants for Registered Electrical Engineer, states that an applicant is at least how many years of age?",
+    "options": {
+      "a": "18",
+      "b": "20",
+      "c": "21",
+      "d": "25"
+    },
+    "answer": "c",
+    "correct_answer_text": "21"
+  },
+  {
+    "id": 22,
+    "question": "The machine that is employed for converting the energy of flow in a pipeline into mechanical work is called",
+    "options": {
+      "a": "pump",
+      "b": "turbine",
+      "c": "compressor",
+      "d": "nozzle"
+    },
+    "answer": "b",
+    "correct_answer_text": "turbine"
+  },
+  {
+    "id": 23,
+    "question": "The equipment grounding conductor of a branch circuit shall be identified by what color?",
+    "options": {
+      "a": "white",
+      "b": "black",
+      "c": "green and yellow",
+      "d": "red"
+    },
+    "answer": "c",
+    "correct_answer_text": "green and yellow"
+  },
+  {
+    "id": 24,
+    "question": "The most important element that controls the physical properties of steel.",
+    "options": {
+      "a": "silicon",
+      "b": "manganese",
+      "c": "carbon",
+      "d": "sulfur"
+    },
+    "answer": "c",
+    "correct_answer_text": "carbon"
+  },
+  {
+    "id": 25,
+    "question": "Spark plug makes use of what material for insulation?",
+    "options": {
+      "a": "Glass",
+      "b": "Bakelite",
+      "c": "Porcelain",
+      "d": "Rubber"
+    },
+    "answer": "c",
+    "correct_answer_text": "Porcelain"
+  },
+  {
+    "id": 26,
+    "question": "In electrochemistry, oxidation is loss of",
+    "options": {
+      "a": "proton",
+      "b": "neutron",
+      "c": "electron",
+      "d": "atom"
+    },
+    "answer": "c",
+    "correct_answer_text": "electron"
+  },
+  {
+    "id": 27,
+    "question": "Maximum operating temperature of type THWN conductor?",
+    "options": {
+      "a": "60 deg C",
+      "b": "75 deg C",
+      "c": "90 deg C",
+      "d": "110 deg C"
+    },
+    "answer": "b",
+    "correct_answer_text": "75 deg C"
+  },
+  {
+    "id": 28,
+    "question": "Cash money and credit necessary to establish and operate on enterprise.",
+    "options": {
+      "a": "assets",
+      "b": "capital",
+      "c": "funds",
+      "d": "liabilities"
+    },
+    "answer": "b",
+    "correct_answer_text": "capital"
+  },
+  {
+    "id": 29,
+    "question": "What is the form of moment diagram of a beam supported at both ends and carrying a uniform distributed load?",
+    "options": {
+      "a": "triangle",
+      "b": "rectangle",
+      "c": "parabola",
+      "d": "cubic curve"
+    },
+    "answer": "c",
+    "correct_answer_text": "parabola"
+  },
+  {
+    "id": 30,
+    "question": "Every object continues in its state of rest, or of uniform velocity in a straight line, as long as no net force acts on it. This statement is in accordance to",
+    "options": {
+      "a": "Newton's First Law of Motion",
+      "b": "Newton's Second Law of Motion",
+      "c": "Newton's Third Law of Motion",
+      "d": "Law of Universal Gravitation"
+    },
+    "answer": "a",
+    "correct_answer_text": "Newton's First Law of Motion"
+  },
+  {
+    "id": 31,
+    "question": "The first period contains how many elements?",
+    "options": {
+      "a": "2",
+      "b": "8",
+      "c": "18",
+      "d": "32"
+    },
+    "answer": "a",
+    "correct_answer_text": "2"
+  },
+  {
+    "id": 32,
+    "question": "Any equipment which produces, modifies, regulate or controls the supply of electric energy is the",
+    "options": {
+      "a": "Electric Supply Equipment",
+      "b": "Utilization Equipment",
+      "c": "Service Equipment",
+      "d": "Control Equipment"
+    },
+    "answer": "a",
+    "correct_answer_text": "Electric Supply Equipment"
+  },
+  {
+    "id": 33,
+    "question": "The minimum size of conductors to be used for lighting purpose is",
+    "options": {
+      "a": "1.25 sq. mm",
+      "b": "2.0 sq. mm",
+      "c": "3.5 sq. mm",
+      "d": "5.5 sq. mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "2.0 sq. mm"
+  },
+  {
+    "id": 34,
+    "question": "LED represents",
+    "options": {
+      "a": "Light Emitting Device",
+      "b": "Light Emitting Diode",
+      "c": "Low Energy Diode",
+      "d": "Luminescent Emitting Diode"
+    },
+    "answer": "b",
+    "correct_answer_text": "Light Emitting Diode"
+  },
+  {
+    "id": 35,
+    "question": "What is the chemical formula for ammonia?",
+    "options": {
+      "a": "NH2",
+      "b": "NH3",
+      "c": "NH4",
+      "d": "N2H4"
+    },
+    "answer": "b",
+    "correct_answer_text": "NH3"
+  },
+  {
+    "id": 36,
+    "question": "Empirical formula for C2H6?",
+    "options": {
+      "a": "CH",
+      "b": "CH2",
+      "c": "CH3",
+      "d": "C2H3"
+    },
+    "answer": "c",
+    "correct_answer_text": "CH3"
+  },
+  {
+    "id": 37,
+    "question": "Maximum distance for support of rigid metallic conduit.",
+    "options": {
+      "a": "1500 mm",
+      "b": "2000 mm",
+      "c": "3000 mm",
+      "d": "4500 mm"
+    },
+    "answer": "c",
+    "correct_answer_text": "3000 mm"
+  },
+  {
+    "id": 38,
+    "question": "The minimum diameter of a steel ground electrode is",
+    "options": {
+      "a": "10 mm",
+      "b": "12 mm",
+      "c": "16 mm",
+      "d": "20 mm"
+    },
+    "answer": "c",
+    "correct_answer_text": "16 mm"
+  },
+  {
+    "id": 39,
+    "question": "What is a substance that speeds up a chemical reaction without itself undergoing a chemical change?",
+    "options": {
+      "a": "solvent",
+      "b": "reactant",
+      "c": "catalyst",
+      "d": "inhibitor"
+    },
+    "answer": "c",
+    "correct_answer_text": "catalyst"
+  },
+  {
+    "id": 40,
+    "question": "In EPIRA, what does OARC stands for?",
+    "options": {
+      "a": "Open Access and Retail Control",
+      "b": "Open Access and Retail Competition",
+      "c": "Operational Access and Retail Competition",
+      "d": "Open Access and Retail Commission"
+    },
+    "answer": "b",
+    "correct_answer_text": "Open Access and Retail Competition"
+  },
+  {
+    "id": 41,
+    "question": "A software that is commonly known as firmware.",
+    "options": {
+      "a": "OS",
+      "b": "BIOS",
+      "c": "RAM",
+      "d": "Cache"
+    },
+    "answer": "b",
+    "correct_answer_text": "BIOS"
+  },
+  {
+    "id": 42,
+    "question": "What is the factor name for the formula (1+i)^-n?",
+    "options": {
+      "a": "single payment compound amount",
+      "b": "single payment present worth",
+      "c": "capital recovery",
+      "d": "sinking fund"
+    },
+    "answer": "b",
+    "correct_answer_text": "single payment present worth"
+  },
+  {
+    "id": 43,
+    "question": "At what point is the applied force minimal in opening a hinge door?",
+    "options": {
+      "a": "near the hinge",
+      "b": "at the middle",
+      "c": "farthest the hinge",
+      "d": "at the top"
+    },
+    "answer": "c",
+    "correct_answer_text": "farthest the hinge"
+  },
+  {
+    "id": 44,
+    "question": "What do you call negative gage pressure?",
+    "options": {
+      "a": "absolute pressure",
+      "b": "atmospheric pressure",
+      "c": "vacuum",
+      "d": "fluid pressure"
+    },
+    "answer": "c",
+    "correct_answer_text": "vacuum"
+  },
+  {
+    "id": 45,
+    "question": "Common cause of failure of termination of cable.",
+    "options": {
+      "a": "overheating",
+      "b": "moisture",
+      "c": "penciling of insulation",
+      "d": "vibration"
+    },
+    "answer": "c",
+    "correct_answer_text": "penciling of insulation"
+  },
+  {
+    "id": 46,
+    "question": "The amount of lateral strain in a tension member can be calculated using",
+    "options": {
+      "a": "Hooke's Law",
+      "b": "Poisson's ratio",
+      "c": "Young's modulus",
+      "d": "Bulk modulus"
+    },
+    "answer": "b",
+    "correct_answer_text": "Poisson's ratio"
+  },
+  {
+    "id": 47,
+    "question": "It is the price a buyer is willing to pay a willing seller for the stock.",
+    "options": {
+      "a": "book value",
+      "b": "par value",
+      "c": "market value",
+      "d": "salvage value"
+    },
+    "answer": "c",
+    "correct_answer_text": "market value"
+  },
+  {
+    "id": 48,
+    "question": "A single grounding electrode is permitted when the resistance to ground does not exceed.",
+    "options": {
+      "a": "10 ohms",
+      "b": "20 ohms",
+      "c": "25 ohms",
+      "d": "50 ohms"
+    },
+    "answer": "c",
+    "correct_answer_text": "25 ohms"
+  },
+  {
+    "id": 49,
+    "question": "Gross profit, sales less cost of goods sold, as a percentage of sales is called",
+    "options": {
+      "a": "return on investment",
+      "b": "profit margin",
+      "c": "net income",
+      "d": "operating ratio"
+    },
+    "answer": "b",
+    "correct_answer_text": "profit margin"
+  },
+  {
+    "id": 50,
+    "question": "Who is regarded as father of computers?",
+    "options": {
+      "a": "Bill Gates",
+      "b": "Steve Jobs",
+      "c": "Charles Babbage",
+      "d": "Alan Turing"
+    },
+    "answer": "c",
+    "correct_answer_text": "Charles Babbage"
+  },
+  {
+    "id": 51,
+    "question": "At what angle above the horizontal must the sun be in order that sunlight reflected from the surface of a calm body of water shall be completely polarized?",
+    "options": {
+      "a": "30 deg",
+      "b": "37 deg",
+      "c": "45 deg",
+      "d": "53 deg"
+    },
+    "answer": "b",
+    "correct_answer_text": "37 deg"
+  },
+  {
+    "id": 52,
+    "question": "If a disturbance is parallel to the direction of travel of a wave, the wave is classified as",
+    "options": {
+      "a": "transverse",
+      "b": "longitudinal",
+      "c": "electromagnetic",
+      "d": "standing"
+    },
+    "answer": "b",
+    "correct_answer_text": "longitudinal"
+  },
+  {
+    "id": 53,
+    "question": "Correct formula for aluminum sulfate.",
+    "options": {
+      "a": "AlSO4",
+      "b": "Al2SO4",
+      "c": "Al2(SO4)3",
+      "d": "Al(SO4)2"
+    },
+    "answer": "c",
+    "correct_answer_text": "Al2(SO4)3"
+  },
+  {
+    "id": 54,
+    "question": "The viscosity of fluid varies with",
+    "options": {
+      "a": "pressure",
+      "b": "temperature",
+      "c": "density",
+      "d": "volume"
+    },
+    "answer": "b",
+    "correct_answer_text": "temperature"
+  },
+  {
+    "id": 55,
+    "question": "Which of the ff is NOT a vector quantity?",
+    "options": {
+      "a": "Displacement",
+      "b": "Acceleration",
+      "c": "Speed",
+      "d": "Momentum"
+    },
+    "answer": "c",
+    "correct_answer_text": "Speed"
+  },
+  {
+    "id": 56,
+    "question": "A device used to keep moisture from passing through the system is called",
+    "options": {
+      "a": "evaporator",
+      "b": "condenser",
+      "c": "dehydrator",
+      "d": "purifier"
+    },
+    "answer": "c",
+    "correct_answer_text": "dehydrator"
+  },
+  {
+    "id": 57,
+    "question": "It is a process of mixing water with air either by spraying water or diffusing air through it.",
+    "options": {
+      "a": "Filtration",
+      "b": "Aeration",
+      "c": "Chlorination",
+      "d": "Sedimentation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Aeration"
+  },
+  {
+    "id": 58,
+    "question": "A written acknowledgement by a carrier that he has received the goods for shipment.",
+    "options": {
+      "a": "Invoice",
+      "b": "Purchase order",
+      "c": "Bill of lading",
+      "d": "Receipt"
+    },
+    "answer": "c",
+    "correct_answer_text": "Bill of lading"
+  },
+  {
+    "id": 59,
+    "question": "Car A has a mass of 1000 kg and a speed of 60 km/hr and car B has a mass of 2000 kg and a speed of 30 km/hr. The kinetic energy of car A is",
+    "options": {
+      "a": "equal to car B",
+      "b": "twice that of car B",
+      "c": "half that of car B",
+      "d": "four times that of car B"
+    },
+    "answer": "b",
+    "correct_answer_text": "twice that of car B"
+  },
+  {
+    "id": 60,
+    "question": "Battery acid is the common name for",
+    "options": {
+      "a": "hydrochloric acid",
+      "b": "nitric acid",
+      "c": "sulfuric acid",
+      "d": "acetic acid"
+    },
+    "answer": "c",
+    "correct_answer_text": "sulfuric acid"
+  },
+  {
+    "id": 61,
+    "question": "What engine is normally the least efficient?",
+    "options": {
+      "a": "diesel engine",
+      "b": "gasoline engine",
+      "c": "steam engine",
+      "d": "gas turbine"
+    },
+    "answer": "b",
+    "correct_answer_text": "gasoline engine"
+  },
+  {
+    "id": 62,
+    "question": "Electrical symbol represented by a broken line.",
+    "options": {
+      "a": "conduit",
+      "b": "exposed wiring",
+      "c": "open wiring",
+      "d": "ground"
+    },
+    "answer": "c",
+    "correct_answer_text": "open wiring"
+  },
+  {
+    "id": 63,
+    "question": "Which of the ff is not a unit of power?",
+    "options": {
+      "a": "Joule-second",
+      "b": "Watt",
+      "c": "newton-m/s",
+      "d": "horsepower"
+    },
+    "answer": "a",
+    "correct_answer_text": "Joule-second"
+  },
+  {
+    "id": 64,
+    "question": "RA 7920, rule 2 (d) defining?",
+    "options": {
+      "a": "Board of EE",
+      "b": "Commission",
+      "c": "CPE",
+      "d": "TESDA"
+    },
+    "answer": "a",
+    "correct_answer_text": "Board of EE"
+  },
+  {
+    "id": 65,
+    "question": "Which of the ff sizes of fuse is NOT standard?",
+    "options": {
+      "a": "80 A",
+      "b": "45 A",
+      "c": "125 A",
+      "d": "75 A"
+    },
+    "answer": "d",
+    "correct_answer_text": "75 A"
+  },
+  {
+    "id": 66,
+    "question": "What is the temperature rating of THHN insulation?",
+    "options": {
+      "a": "60 deg C",
+      "b": "75 deg C",
+      "c": "90 deg C",
+      "d": "110 deg C"
+    },
+    "answer": "c",
+    "correct_answer_text": "90 deg C"
+  },
+  {
+    "id": 67,
+    "question": "A type of annuity where the payments are made at the start of each period, beginning from the first period.",
+    "options": {
+      "a": "ordinary annuity",
+      "b": "annuity due",
+      "c": "deferred annuity",
+      "d": "perpetuity"
+    },
+    "answer": "b",
+    "correct_answer_text": "annuity due"
+  },
+  {
+    "id": 68,
+    "question": "The product of force and the time during which it acts is known as",
+    "options": {
+      "a": "momentum",
+      "b": "impulse",
+      "c": "work",
+      "d": "energy"
+    },
+    "answer": "b",
+    "correct_answer_text": "impulse"
+  },
+  {
+    "id": 69,
+    "question": "Formula for calcium chloride.",
+    "options": {
+      "a": "CaCl",
+      "b": "CaCl2",
+      "c": "Ca2Cl",
+      "d": "CaCl3"
+    },
+    "answer": "b",
+    "correct_answer_text": "CaCl2"
+  },
+  {
+    "id": 70,
+    "question": "An elevator is pulled by a cable at constant speed. The tension in the cable is equal to",
+    "options": {
+      "a": "less than the weight",
+      "b": "greater than the weight",
+      "c": "the weight",
+      "d": "zero"
+    },
+    "answer": "c",
+    "correct_answer_text": "the weight"
+  },
+  {
+    "id": 71,
+    "question": "Branch circuit larger than 50 A shall supply only",
+    "options": {
+      "a": "lighting loads",
+      "b": "non-lighting outlet load",
+      "c": "appliance loads",
+      "d": "motor loads"
+    },
+    "answer": "b",
+    "correct_answer_text": "non-lighting outlet load"
+  },
+  {
+    "id": 72,
+    "question": "The standard atmospheric pressure in meters of ammonia is (rho=600 kg/cu.m) is",
+    "options": {
+      "a": "10.3 m",
+      "b": "13.6 m",
+      "c": "17 m",
+      "d": "20 m"
+    },
+    "answer": "c",
+    "correct_answer_text": "17 m"
+  },
+  {
+    "id": 73,
+    "question": "Prefix 10^15 is",
+    "options": {
+      "a": "tera",
+      "b": "peta",
+      "c": "exa",
+      "d": "femto"
+    },
+    "answer": "b",
+    "correct_answer_text": "peta"
+  },
+  {
+    "id": 74,
+    "question": "What refers to the diffusion of a solvent into a stronger solution in an attempt to equalize the two concentrations?",
+    "options": {
+      "a": "osmosis",
+      "b": "dialysis",
+      "c": "distillation",
+      "d": "evaporation"
+    },
+    "answer": "a",
+    "correct_answer_text": "osmosis"
+  },
+  {
+    "id": 75,
+    "question": "A measure of how it emits radiant energy in comparison with a blackbody at the same temperature.",
+    "options": {
+      "a": "reflectivity",
+      "b": "absorptivity",
+      "c": "emissitivity",
+      "d": "transmissivity"
+    },
+    "answer": "c",
+    "correct_answer_text": "emissitivity"
+  },
+  {
+    "id": 76,
+    "question": "What is the temperature of a TW insulated conductor?",
+    "options": {
+      "a": "60 deg C",
+      "b": "75 deg C",
+      "c": "90 deg C",
+      "d": "105 deg C"
+    },
+    "answer": "a",
+    "correct_answer_text": "60 deg C"
+  },
+  {
+    "id": 77,
+    "question": "A graphical device used to convert a truth table to its corresponding logic circuit in a simple, orderly process.",
+    "options": {
+      "a": "Venn diagram",
+      "b": "Karnaugh map",
+      "c": "Flowchart",
+      "d": "Timing diagram"
+    },
+    "answer": "b",
+    "correct_answer_text": "Karnaugh map"
+  },
+  {
+    "id": 78,
+    "question": "The members of the board shall hold the office for a term of how many years from the date of appointment?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "6"
+    },
+    "answer": "b",
+    "correct_answer_text": "3"
+  },
+  {
+    "id": 79,
+    "question": "Define WESM?",
+    "options": {
+      "a": "Western Electricity Spot Market",
+      "b": "Wholesale Electricity Spot Market",
+      "c": "World Electricity System Market",
+      "d": "Wholesale Electricity Supply Market"
+    },
+    "answer": "b",
+    "correct_answer_text": "Wholesale Electricity Spot Market"
+  },
+  {
+    "id": 80,
+    "question": "All the powers of the TRANSCO shall be vested in and exercised by a board of directors. Who will be the ex-officio Chairman of the Board?",
+    "options": {
+      "a": "Secretary of the Department of Energy",
+      "b": "Secretary of the Department of Finance",
+      "c": "President of the Philippines",
+      "d": "Chairman of ERC"
+    },
+    "answer": "b",
+    "correct_answer_text": "Secretary of the Department of Finance"
+  },
+  {
+    "id": 81,
+    "question": "At least how many receptacle outlets shall be installed in the bathroom?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "0"
+    },
+    "answer": "a",
+    "correct_answer_text": "1"
+  },
+  {
+    "id": 82,
+    "question": "When an object exerts a force on another object, the second object exerts on the first a force of the same magnitude but in opposite direction. This statement is in accordance to",
+    "options": {
+      "a": "Newton's First Law of Motion",
+      "b": "Newton's Second Law of Motion",
+      "c": "Newton's Third Law of Motion",
+      "d": "Hooke's Law"
+    },
+    "answer": "c",
+    "correct_answer_text": "Newton's Third Law of Motion"
+  },
+  {
+    "id": 83,
+    "question": "The moody diagram is used in fluid mechanics to obtain",
+    "options": {
+      "a": "velocity",
+      "b": "pressure drop",
+      "c": "friction factor",
+      "d": "viscosity"
+    },
+    "answer": "c",
+    "correct_answer_text": "friction factor"
+  },
+  {
+    "id": 84,
+    "question": "The coils of dc motor starter are wound with wire of",
+    "options": {
+      "a": "copper",
+      "b": "aluminum",
+      "c": "manganin",
+      "d": "nichrome"
+    },
+    "answer": "c",
+    "correct_answer_text": "manganin"
+  },
+  {
+    "id": 85,
+    "question": "The chemical shorthand for molybdenum is",
+    "options": {
+      "a": "M",
+      "b": "Mo",
+      "c": "Ml",
+      "d": "My"
+    },
+    "answer": "b",
+    "correct_answer_text": "Mo"
+  },
+  {
+    "id": 86,
+    "question": "What two metals combine to give galvanized metal?",
+    "options": {
+      "a": "zinc and copper",
+      "b": "zinc and iron",
+      "c": "iron and copper",
+      "d": "lead and iron"
+    },
+    "answer": "b",
+    "correct_answer_text": "zinc and iron"
+  },
+  {
+    "id": 87,
+    "question": "The pressure of a gas is directly proportional to the Kelvin temperature in",
+    "options": {
+      "a": "Boyle's law",
+      "b": "Charles's law",
+      "c": "Gay-Lussac's law",
+      "d": "Dalton's law"
+    },
+    "answer": "c",
+    "correct_answer_text": "Gay-Lussac's law"
+  },
+  {
+    "id": 88,
+    "question": "The external pressure applied to a confined fluid increases the pressure of every point in the fluid by an amount equal to the external pressure. This is known as",
+    "options": {
+      "a": "Bernoulli's Principle",
+      "b": "Archimedes' Principle",
+      "c": "Pascal's Principle",
+      "d": "Torricelli's Law"
+    },
+    "answer": "c",
+    "correct_answer_text": "Pascal's Principle"
+  },
+  {
+    "id": 89,
+    "question": "Maximum distance between busway support.",
+    "options": {
+      "a": "1000 mm",
+      "b": "1500 mm",
+      "c": "2000 mm",
+      "d": "3000 mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "1500 mm"
+  },
+  {
+    "id": 90,
+    "question": "Which of the ff holds true for any given material?",
+    "options": {
+      "a": "1/3 >= G/E >= 1/2",
+      "b": "1/2 > G/E > 1/3",
+      "c": "1/3 > G/E >= 1/2",
+      "d": "1/2 >= G/E >= 1/3"
+    },
+    "answer": "b",
+    "correct_answer_text": "1/2 > G/E > 1/3"
+  },
+  {
+    "id": 91,
+    "question": "What does UPS mean?",
+    "options": {
+      "a": "United Power System",
+      "b": "Uninterruptible Power Supply",
+      "c": "Universal Power Supply",
+      "d": "Underground Power Service"
+    },
+    "answer": "b",
+    "correct_answer_text": "Uninterruptible Power Supply"
+  },
+  {
+    "id": 92,
+    "question": "What device could be used to determine whether the substance is radioactive?",
+    "options": {
+      "a": "Manometer",
+      "b": "Geiger Counter",
+      "c": "Barometer",
+      "d": "Pyrometer"
+    },
+    "answer": "b",
+    "correct_answer_text": "Geiger Counter"
+  },
+  {
+    "id": 93,
+    "question": "Which is not a standard device protection rating?",
+    "options": {
+      "a": "50",
+      "b": "1500",
+      "c": "110",
+      "d": "225"
+    },
+    "answer": "b",
+    "correct_answer_text": "1500"
+  },
+  {
+    "id": 94,
+    "question": "It is responsible for the procurement and administration of funds with the view of achieving the objectives of business.",
+    "options": {
+      "a": "accounting",
+      "b": "management",
+      "c": "finance",
+      "d": "marketing"
+    },
+    "answer": "c",
+    "correct_answer_text": "finance"
+  },
+  {
+    "id": 95,
+    "question": "A device used to measure atmospheric pressure is called",
+    "options": {
+      "a": "manometer",
+      "b": "barometer",
+      "c": "pycnometer",
+      "d": "hydrometer"
+    },
+    "answer": "b",
+    "correct_answer_text": "barometer"
+  },
+  {
+    "id": 96,
+    "question": "What is RES stands for in EPIRA?",
+    "options": {
+      "a": "Retail Electricity Systems",
+      "b": "Retail Electricity Suppliers",
+      "c": "Renewable Energy Sources",
+      "d": "Retail Energy Suppliers"
+    },
+    "answer": "b",
+    "correct_answer_text": "Retail Electricity Suppliers"
+  },
+  {
+    "id": 97,
+    "question": "The path of a projectile is",
+    "options": {
+      "a": "linear",
+      "b": "circular",
+      "c": "parabola",
+      "d": "hyperbola"
+    },
+    "answer": "c",
+    "correct_answer_text": "parabola"
+  },
+  {
+    "id": 98,
+    "question": "During an isentropic process, which of the ff is true?",
+    "options": {
+      "a": "The temperature increases as the pressure decreases.",
+      "b": "The temperature increases as the volume increases.",
+      "c": "The heat transfer equals the enthalpy change.",
+      "d": "The heat transfer is zero."
+    },
+    "answer": "d",
+    "correct_answer_text": "The heat transfer is zero."
+  },
+  {
+    "id": 99,
+    "question": "Which one of the ff elements has the largest atomic radius?",
+    "options": {
+      "a": "Lithium",
+      "b": "Sodium",
+      "c": "Beryllium",
+      "d": "Magnesium"
+    },
+    "answer": "b",
+    "correct_answer_text": "Sodium"
+  },
+  {
+    "id": 100,
+    "question": "Minimum size of service drop copper conductors allowed by the PEC.",
+    "options": {
+      "a": "3.5 sq. mm",
+      "b": "5.5 sq. mm",
+      "c": "8.0 sq. mm",
+      "d": "14.0 sq. mm"
+    },
+    "answer": "c",
+    "correct_answer_text": "8.0 sq. mm"
+  },
+  {
+    "id": 101,
+    "question": "Varignon's theorem is used to determine the",
+    "options": {
+      "a": "moment of inertia",
+      "b": "location of centroid",
+      "c": "stress-strain relationship",
+      "d": "mass moment"
+    },
+    "answer": "b",
+    "correct_answer_text": "location of centroid"
+  },
+  {
+    "id": 102,
+    "question": "Which is not a unit of power?",
+    "options": {
+      "a": "Joules/second",
+      "b": "Newton-seconds",
+      "c": "Watts",
+      "d": "Calories/second"
+    },
+    "answer": "b",
+    "correct_answer_text": "Newton-seconds"
+  },
+  {
+    "id": 103,
+    "question": "What wave requires medium for transmission?",
+    "options": {
+      "a": "light",
+      "b": "radio",
+      "c": "sound",
+      "d": "x-ray"
+    },
+    "answer": "c",
+    "correct_answer_text": "sound"
+  },
+  {
+    "id": 104,
+    "question": "A substance formed by the union of two or more chemical elements in a definite proportion that can be only be separated by chemical means.",
+    "options": {
+      "a": "mixture",
+      "b": "compound",
+      "c": "solution",
+      "d": "alloy"
+    },
+    "answer": "b",
+    "correct_answer_text": "compound"
+  },
+  {
+    "id": 105,
+    "question": "The viscosity of fluid varies with",
+    "options": {
+      "a": "pressure",
+      "b": "temperature",
+      "c": "density",
+      "d": "volume"
+    },
+    "answer": "b",
+    "correct_answer_text": "temperature"
+  },
+  {
+    "id": 106,
+    "question": "What is the strong bond between hydrogen atoms known as?",
+    "options": {
+      "a": "ionic bond",
+      "b": "metallic bond",
+      "c": "covalent bond",
+      "d": "hydrogen bond"
+    },
+    "answer": "c",
+    "correct_answer_text": "covalent bond"
+  },
+  {
+    "id": 107,
+    "question": "Galvanized iron is a term referring to iron coated with",
+    "options": {
+      "a": "Aluminum",
+      "b": "Tin",
+      "c": "Zinc",
+      "d": "Manganese"
+    },
+    "answer": "c",
+    "correct_answer_text": "Zinc"
+  },
+  {
+    "id": 108,
+    "question": "Article III of Code of Ethics for Electrical Engineers contains",
+    "options": {
+      "a": "SEC 1 to 5",
+      "b": "SEC 1 to 7",
+      "c": "SEC 1 to 10",
+      "d": "SEC 1 to 15"
+    },
+    "answer": "b",
+    "correct_answer_text": "SEC 1 to 7"
+  },
+  {
+    "id": 109,
+    "question": "What metal is protected by a layer of its own oxide?",
+    "options": {
+      "a": "iron",
+      "b": "copper",
+      "c": "aluminum",
+      "d": "silver"
+    },
+    "answer": "c",
+    "correct_answer_text": "aluminum"
+  },
+  {
+    "id": 110,
+    "question": "A voltage level exceeding 1 kV up to 34.5 kV.",
+    "options": {
+      "a": "Low Voltage",
+      "b": "Medium Voltage",
+      "c": "High Voltage",
+      "d": "Extra High Voltage"
+    },
+    "answer": "b",
+    "correct_answer_text": "Medium Voltage"
+  },
+  {
+    "id": 111,
+    "question": "A force causing a rise of a liquid in tubes of smaller diameter.",
+    "options": {
+      "a": "viscosity",
+      "b": "surface tension",
+      "c": "capillarity",
+      "d": "buoyancy"
+    },
+    "answer": "c",
+    "correct_answer_text": "capillarity"
+  },
+  {
+    "id": 112,
+    "question": "Accounting book in which are recorded the credits and debts of commercial transactions.",
+    "options": {
+      "a": "Journal",
+      "b": "Ledger",
+      "c": "Balance sheet",
+      "d": "Invoice"
+    },
+    "answer": "b",
+    "correct_answer_text": "ledger"
+  },
+  {
+    "id": 113,
+    "question": "RA 7920 contains how many sections all in all?",
+    "options": {
+      "a": "40",
+      "b": "45",
+      "c": "50",
+      "d": "55"
+    },
+    "answer": "b",
+    "correct_answer_text": "45"
+  },
+  {
+    "id": 114,
+    "question": "Work is measured in the same units as",
+    "options": {
+      "a": "force",
+      "b": "power",
+      "c": "energy",
+      "d": "momentum"
+    },
+    "answer": "c",
+    "correct_answer_text": "energy"
+  },
+  {
+    "id": 115,
+    "question": "The critical angle is the angle of incidence that produces an angle of refraction of",
+    "options": {
+      "a": "0 deg",
+      "b": "45 deg",
+      "c": "90 deg",
+      "d": "180 deg"
+    },
+    "answer": "c",
+    "correct_answer_text": "90 deg"
+  },
+  {
+    "id": 116,
+    "question": "The most important element that controls the physical properties of steel.",
+    "options": {
+      "a": "silicon",
+      "b": "manganese",
+      "c": "carbon",
+      "d": "nickel"
+    },
+    "answer": "c",
+    "correct_answer_text": "carbon"
+  },
+  {
+    "id": 117,
+    "question": "If an object is going north, the direction of the frictional force is",
+    "options": {
+      "a": "north",
+      "b": "south",
+      "c": "east",
+      "d": "west"
+    },
+    "answer": "b",
+    "correct_answer_text": "south"
+  },
+  {
+    "id": 118,
+    "question": "Which is a scalar quantity?",
+    "options": {
+      "a": "Force",
+      "b": "Energy",
+      "c": "Displacement",
+      "d": "Velocity"
+    },
+    "answer": "b",
+    "correct_answer_text": "Energy"
+  },
+  {
+    "id": 119,
+    "question": "The overall energy program formulated and updated yearly by the DOE and submitted to Congress pursuant to RA 7638.",
+    "options": {
+      "a": "Philippine Energy Plan (PEP)",
+      "b": "Electric Power Reform Act",
+      "c": "National Energy Program",
+      "d": "Sustainable Energy Plan"
+    },
+    "answer": "a",
+    "correct_answer_text": "Philippine Energy Plan (PEP)"
+  },
+  {
+    "id": 120,
+    "question": "A fluid property which refers to the intermolecular attraction by which the separate particles of the fluid are held together.",
+    "options": {
+      "a": "adhesion",
+      "b": "cohesion",
+      "c": "surface tension",
+      "d": "viscosity"
+    },
+    "answer": "b",
+    "correct_answer_text": "cohesion"
+  },
+  {
+    "id": 121,
+    "question": "When the velocity of an object is tripled, another quantity which is tripled at the same time is the objects",
+    "options": {
+      "a": "kinetic energy",
+      "b": "potential energy",
+      "c": "momentum",
+      "d": "acceleration"
+    },
+    "answer": "c",
+    "correct_answer_text": "momentum"
+  },
+  {
+    "id": 122,
+    "question": "The electric power industry is divided into how many sectors?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "answer": "c",
+    "correct_answer_text": "4"
+  },
+  {
+    "id": 123,
+    "question": "A substance existing the gaseous phase but relatively near its saturation temperature is known as",
+    "options": {
+      "a": "gas",
+      "b": "vapor",
+      "c": "plasma",
+      "d": "steam"
+    },
+    "answer": "b",
+    "correct_answer_text": "vapor"
+  },
+  {
+    "id": 124,
+    "question": "How many atoms are there per unit cell for a face centered cubic structure?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "4",
+      "d": "8"
+    },
+    "answer": "c",
+    "correct_answer_text": "4"
+  },
+  {
+    "id": 125,
+    "question": "Funds supplied and used by owners of an enterprise in the expectation that a profit will be earned.",
+    "options": {
+      "a": "borrowed capital",
+      "b": "equity capital",
+      "c": "working capital",
+      "d": "sunk cost"
+    },
+    "answer": "b",
+    "correct_answer_text": "equity capital"
+  },
+  {
+    "id": 126,
+    "question": "What is the distance between two consecutive points in phase on a wave called?",
+    "options": {
+      "a": "amplitude",
+      "b": "frequency",
+      "c": "wavelength",
+      "d": "period"
+    },
+    "answer": "c",
+    "correct_answer_text": "wavelength"
+  },
+  {
+    "id": 127,
+    "question": "What is the temperature when water and vapor are in equilibrium with the atmospheric pressure?",
+    "options": {
+      "a": "ice point",
+      "b": "boiling point",
+      "c": "steam point",
+      "d": "triple point"
+    },
+    "answer": "c",
+    "correct_answer_text": "steam point"
+  },
+  {
+    "id": 128,
+    "question": "The engines on a commercial jet aircraft operate on which of the basic cycles?",
+    "options": {
+      "a": "Otto",
+      "b": "Diesel",
+      "c": "Brayton",
+      "d": "Rankine"
+    },
+    "answer": "c",
+    "correct_answer_text": "Brayton"
+  },
+  {
+    "id": 129,
+    "question": "In RA 9136, what do you call a market that there is no choice to select a supplier of electrical energy?",
+    "options": {
+      "a": "Open Market",
+      "b": "Competitive Market",
+      "c": "Captive Market",
+      "d": "Retail Market"
+    },
+    "answer": "c",
+    "correct_answer_text": "Captive Market"
+  },
+  {
+    "id": 130,
+    "question": "Type TW conductors have a maximum operating temperature of",
+    "options": {
+      "a": "60 deg C",
+      "b": "75 deg C",
+      "c": "90 deg C",
+      "d": "110 deg C"
+    },
+    "answer": "a",
+    "correct_answer_text": "60 deg C"
+  },
+  {
+    "id": 131,
+    "question": "What is produced when calcium carbide is mixed with water?",
+    "options": {
+      "a": "Methane",
+      "b": "Ethane",
+      "c": "Acetylene",
+      "d": "Propane"
+    },
+    "answer": "c",
+    "correct_answer_text": "Acetylene"
+  },
+  {
+    "id": 132,
+    "question": "The minimum size of conductors for lighting purposes is",
+    "options": {
+      "a": "1.25 sq. mm",
+      "b": "2.0 sq. mm",
+      "c": "3.5 sq. mm",
+      "d": "5.5 sq. mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "2.0 sq. mm"
+  },
+  {
+    "id": 133,
+    "question": "RA 9136 has four sectors, which of the ff is not included?",
+    "options": {
+      "a": "Supply",
+      "b": "Distribution",
+      "c": "Generation",
+      "d": "System Operation"
+    },
+    "answer": "d",
+    "correct_answer_text": "System Operation"
+  },
+  {
+    "id": 134,
+    "question": "What is the atomic packing factor for a simple cubic crystal?",
+    "options": {
+      "a": "0.52",
+      "b": "0.68",
+      "c": "0.74",
+      "d": "0.48"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.52"
+  },
+  {
+    "id": 135,
+    "question": "Formula for Calcium Hydroxide.",
+    "options": {
+      "a": "CaO",
+      "b": "CaOH",
+      "c": "Ca(OH)2",
+      "d": "Ca2OH"
+    },
+    "answer": "c",
+    "correct_answer_text": "Ca(OH)2"
+  },
+  {
+    "id": 136,
+    "question": "Those funds that are required to make the enterprise or project a going concern.",
+    "options": {
+      "a": "equity capital",
+      "b": "working capital",
+      "c": "sunk cost",
+      "d": "fixed capital"
+    },
+    "answer": "b",
+    "correct_answer_text": "working capital"
+  },
+  {
+    "id": 137,
+    "question": "The materials with the highest heat conductivities are the",
+    "options": {
+      "a": "gases",
+      "b": "liquids",
+      "c": "metals",
+      "d": "non-metals"
+    },
+    "answer": "c",
+    "correct_answer_text": "metals"
+  },
+  {
+    "id": 138,
+    "question": "It is defined as a measure of the amount of negative ions in the water.",
+    "options": {
+      "a": "acidity",
+      "b": "alkalinity",
+      "c": "hardness",
+      "d": "turbidity"
+    },
+    "answer": "b",
+    "correct_answer_text": "alkalinity"
+  },
+  {
+    "id": 139,
+    "question": "Which of the ff is usually assumed to be reversible?",
+    "options": {
+      "a": "Paddle wheel",
+      "b": "Compressing a gas",
+      "c": "Melting an ice cube",
+      "d": "A burst membrane"
+    },
+    "answer": "b",
+    "correct_answer_text": "Compressing a gas"
+  },
+  {
+    "id": 140,
+    "question": "Formula for Sulfuric acid.",
+    "options": {
+      "a": "HCl",
+      "b": "HNO3",
+      "c": "H2SO4",
+      "d": "H2SO3"
+    },
+    "answer": "c",
+    "correct_answer_text": "H2SO4"
+  },
+  {
+    "id": 141,
+    "question": "Which of the ff is not a unit of power?",
+    "options": {
+      "a": "Joule-second",
+      "b": "Watt",
+      "c": "Horsepower",
+      "d": "Newton-m/sec"
+    },
+    "answer": "a",
+    "correct_answer_text": "Joule-second"
+  },
+  {
+    "id": 142,
+    "question": "Hydrogen reacts with what element to form ammonia?",
+    "options": {
+      "a": "oxygen",
+      "b": "nitrogen",
+      "c": "carbon",
+      "d": "sulfur"
+    },
+    "answer": "b",
+    "correct_answer_text": "nitrogen"
+  },
+  {
+    "id": 143,
+    "question": "The length of time, usually in years for the cumulative net annual profit to equal the initial investment is called",
+    "options": {
+      "a": "useful life",
+      "b": "payback period",
+      "c": "physical life",
+      "d": "economic life"
+    },
+    "answer": "b",
+    "correct_answer_text": "payback period"
+  },
+  {
+    "id": 144,
+    "question": "What do you call the horizontal arrangement of elements of increasing atomic number in the periodic table?",
+    "options": {
+      "a": "group",
+      "b": "period",
+      "c": "family",
+      "d": "column"
+    },
+    "answer": "b",
+    "correct_answer_text": "period"
+  },
+  {
+    "id": 145,
+    "question": "Formula for aluminum oxide.",
+    "options": {
+      "a": "AlO",
+      "b": "Al2O",
+      "c": "Al2O3",
+      "d": "AlO2"
+    },
+    "answer": "c",
+    "correct_answer_text": "Al2O3"
+  },
+  {
+    "id": 146,
+    "question": "The unrecovered depreciation results due to poor estimate as the life of equipment.",
+    "options": {
+      "a": "sunk cost",
+      "b": "marginal cost",
+      "c": "fixed cost",
+      "d": "variable cost"
+    },
+    "answer": "a",
+    "correct_answer_text": "sunk cost"
+  },
+  {
+    "id": 147,
+    "question": "Maximum distance between two outlets in a dwelling unit.",
+    "options": {
+      "a": "1200 mm",
+      "b": "1500 mm",
+      "c": "1800 mm",
+      "d": "2000 mm"
+    },
+    "answer": "c",
+    "correct_answer_text": "1800 mm"
+  },
+  {
+    "id": 148,
+    "question": "How many atoms are there in the unit cell of a BCC structure?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "4",
+      "d": "9"
+    },
+    "answer": "b",
+    "correct_answer_text": "2"
+  },
+  {
+    "id": 149,
+    "question": "Maximum voltage allowed in dwelling units.",
+    "options": {
+      "a": "115 V",
+      "b": "230 V",
+      "c": "250 V",
+      "d": "460 V"
+    },
+    "answer": "b",
+    "correct_answer_text": "230 V"
+  },
+  {
+    "id": 150,
+    "question": "The minimum diameter of a steel ground electrode is",
+    "options": {
+      "a": "10 mm",
+      "b": "12 mm",
+      "c": "16 mm",
+      "d": "20 mm"
+    },
+    "answer": "c",
+    "correct_answer_text": "16 mm"
+  },
+  {
+    "id": 151,
+    "question": "The shorthand chemical name for bismuth is",
+    "options": {
+      "a": "B",
+      "b": "Bi",
+      "c": "Bs",
+      "d": "Bt"
+    },
+    "answer": "b",
+    "correct_answer_text": "Bi"
+  },
+  {
+    "id": 152,
+    "question": "What factor must be considered by the investor before he makes investment?",
+    "options": {
+      "a": "payback period",
+      "b": "rate of return",
+      "c": "initial cost",
+      "d": "salvage value"
+    },
+    "answer": "b",
+    "correct_answer_text": "rate of return"
+  },
+  {
+    "id": 153,
+    "question": "The fastest method to transfer data.",
+    "options": {
+      "a": "802.11",
+      "b": "802.3",
+      "c": "Bluetooth",
+      "d": "Infrared"
+    },
+    "answer": "a",
+    "correct_answer_text": "802.11"
+  },
+  {
+    "id": 154,
+    "question": "The amount of lateral strain in a tension member can be calculated using",
+    "options": {
+      "a": "Hooke's Law",
+      "b": "Poisson's ratio",
+      "c": "Young's modulus",
+      "d": "Bulk modulus"
+    },
+    "answer": "b",
+    "correct_answer_text": "Poisson's ratio"
+  },
+  {
+    "id": 155,
+    "question": "What element is present in all organic compounds?",
+    "options": {
+      "a": "Oxygen",
+      "b": "Nitrogen",
+      "c": "Carbon",
+      "d": "Hydrogen"
+    },
+    "answer": "c",
+    "correct_answer_text": "carbon"
+  },
+  {
+    "id": 156,
+    "question": "In a single phase, 3 wire electrical system, the middle conductor must be",
+    "options": {
+      "a": "hot",
+      "b": "grounded",
+      "c": "fused",
+      "d": "insulated"
+    },
+    "answer": "b",
+    "correct_answer_text": "grounded"
+  },
+  {
+    "id": 157,
+    "question": "Formula for Magnesium nitrite.",
+    "options": {
+      "a": "MgNO2",
+      "b": "Mg2NO2",
+      "c": "Mg(NO2)2",
+      "d": "Mg2(NO2)3"
+    },
+    "answer": "c",
+    "correct_answer_text": "Mg(NO2)2"
+  },
+  {
+    "id": 158,
+    "question": "Formula for sodium oxide.",
+    "options": {
+      "a": "NaO",
+      "b": "Na2O",
+      "c": "NaO2",
+      "d": "Na2O3"
+    },
+    "answer": "b",
+    "correct_answer_text": "Na2O"
+  },
+  {
+    "id": 159,
+    "question": "Prefix 10-15 is",
+    "options": {
+      "a": "pico",
+      "b": "femto",
+      "c": "atto",
+      "d": "nano"
+    },
+    "answer": "b",
+    "correct_answer_text": "femto"
+  },
+  {
+    "id": 160,
+    "question": "Medium voltage cable insulations is rated how many volts or higher?",
+    "options": {
+      "a": "600",
+      "b": "1000",
+      "c": "2001",
+      "d": "5000"
+    },
+    "answer": "c",
+    "correct_answer_text": "2001"
+  },
+  {
+    "id": 161,
+    "question": "When oxygen combines with an element to form a compound, the resulting compound is called",
+    "options": {
+      "a": "a base",
+      "b": "an acid",
+      "c": "an oxide",
+      "d": "a salt"
+    },
+    "answer": "c",
+    "correct_answer_text": "an oxide"
+  },
+  {
+    "id": 162,
+    "question": "When gases expand and mix with other gases to fill available space, it is called",
+    "options": {
+      "a": "compression",
+      "b": "diffusion",
+      "c": "evaporation",
+      "d": "condensation"
+    },
+    "answer": "b",
+    "correct_answer_text": "diffusion"
+  },
+  {
+    "id": 163,
+    "question": "The speed with which a liquid escapes from a vessel through an orifice is given by",
+    "options": {
+      "a": "Bernoulli's Principle",
+      "b": "Torricelli's Theorem",
+      "c": "Pascal's Law",
+      "d": "Archimedes' Principle"
+    },
+    "answer": "b",
+    "correct_answer_text": "Torricelli's Theorem"
+  },
+  {
+    "id": 164,
+    "question": "The element that provides the electrical power to the components in the computer box is",
+    "options": {
+      "a": "CPU",
+      "b": "battery",
+      "c": "power supply",
+      "d": "UPS"
+    },
+    "answer": "c",
+    "correct_answer_text": "power supply"
+  },
+  {
+    "id": 165,
+    "question": "What law deals with the mixture of gases?",
+    "options": {
+      "a": "Boyle's law",
+      "b": "Charles's law",
+      "c": "Dalton's law",
+      "d": "Gay-Lussac's law"
+    },
+    "answer": "c",
+    "correct_answer_text": "Dalton's law"
+  },
+  {
+    "id": 166,
+    "question": "If the number of molecules in an ideal gas is double and the volume is doubled, by how much does the pressure change if the temperature is held constant?",
+    "options": {
+      "a": "doubled",
+      "b": "halved",
+      "c": "no change",
+      "d": "quadrupled"
+    },
+    "answer": "c",
+    "correct_answer_text": "no change"
+  },
+  {
+    "id": 167,
+    "question": "If a fluid 'fails' in a piping system, the 'failure' is related to which of the ff properties?",
+    "options": {
+      "a": "density",
+      "b": "viscosity",
+      "c": "vapor pressure",
+      "d": "specific gravity"
+    },
+    "answer": "c",
+    "correct_answer_text": "vapor pressure"
+  },
+  {
+    "id": 168,
+    "question": "Formula for Aluminum nitride.",
+    "options": {
+      "a": "AlN",
+      "b": "Al2N",
+      "c": "AlN2",
+      "d": "Al2N3"
+    },
+    "answer": "a",
+    "correct_answer_text": "AlN"
+  },
+  {
+    "id": 169,
+    "question": "The prefix 10-12 is",
+    "options": {
+      "a": "nano",
+      "b": "pico",
+      "c": "femto",
+      "d": "atto"
+    },
+    "answer": "b",
+    "correct_answer_text": "pico"
+  },
+  {
+    "id": 170,
+    "question": "The 'lead' in a lead pencil is",
+    "options": {
+      "a": "lead",
+      "b": "graphite and clay",
+      "c": "carbon",
+      "d": "charcoal"
+    },
+    "answer": "b",
+    "correct_answer_text": "graphite and clay"
+  },
+  {
+    "id": 171,
+    "question": "A conduit bend needed if the conduit end is running through an outlet box for connection of lighting fixture, convenience outlet etc.",
+    "options": {
+      "a": "elbow",
+      "b": "offset bend",
+      "c": "saddle bend",
+      "d": "knuckle bend"
+    },
+    "answer": "b",
+    "correct_answer_text": "offset bend"
+  },
+  {
+    "id": 172,
+    "question": "Bernoulli's law for fluid is based on principle of",
+    "options": {
+      "a": "conservation of mass",
+      "b": "conservation of momentum",
+      "c": "conservation of energy",
+      "d": "Pascal's principle"
+    },
+    "answer": "c",
+    "correct_answer_text": "conservation of energy"
+  },
+  {
+    "id": 173,
+    "question": "A method of identifying the location of a given data record by its name.",
+    "options": {
+      "a": "Indexing",
+      "b": "Hashing",
+      "c": "Sorting",
+      "d": "Merging"
+    },
+    "answer": "b",
+    "correct_answer_text": "Hashing"
+  },
+  {
+    "id": 174,
+    "question": "Falling drops of water become spherical due to",
+    "options": {
+      "a": "viscosity",
+      "b": "surface tension",
+      "c": "gravity",
+      "d": "air resistance"
+    },
+    "answer": "b",
+    "correct_answer_text": "surface tension"
+  },
+  {
+    "id": 175,
+    "question": "In tool steels, what does the prefix letter P stand for?",
+    "options": {
+      "a": "Plastic",
+      "b": "Mold",
+      "c": "Punch",
+      "d": "Precision"
+    },
+    "answer": "b",
+    "correct_answer_text": "Mold"
+  },
+  {
+    "id": 176,
+    "question": "The ability of the surface of material to reflect light is called",
+    "options": {
+      "a": "Color",
+      "b": "Lustre",
+      "c": "Opacity",
+      "d": "Hardness"
+    },
+    "answer": "b",
+    "correct_answer_text": "Lustre"
+  },
+  {
+    "id": 177,
+    "question": "The elements in the present Periodic Table are arranged according to their",
+    "options": {
+      "a": "atomic weights",
+      "b": "atomic numbers",
+      "c": "mass numbers",
+      "d": "density"
+    },
+    "answer": "b",
+    "correct_answer_text": "atomic numbers"
+  },
+  {
+    "id": 178,
+    "question": "Charle's law relates to",
+    "options": {
+      "a": "constant temperature",
+      "b": "constant pressure",
+      "c": "constant volume",
+      "d": "constant density"
+    },
+    "answer": "b",
+    "correct_answer_text": "constant pressure"
+  },
+  {
+    "id": 179,
+    "question": "Which is a vector quantity?",
+    "options": {
+      "a": "Time",
+      "b": "Work",
+      "c": "Displacement",
+      "d": "Distance"
+    },
+    "answer": "c",
+    "correct_answer_text": "Displacement"
+  },
+  {
+    "id": 180,
+    "question": "RA 7920, Rule 2 (o) defining?",
+    "options": {
+      "a": "DECS",
+      "b": "CHED",
+      "c": "TESDA",
+      "d": "PRC"
+    },
+    "answer": "b",
+    "correct_answer_text": "CHED"
+  },
+  {
+    "id": 181,
+    "question": "It is a general name to a wide range of alloys containing iron, carbon and silicon and to a lesser extent, manganese, phosphorous and sulfur.",
+    "options": {
+      "a": "Steel",
+      "b": "Cast Iron",
+      "c": "Brass",
+      "d": "Bronze"
+    },
+    "answer": "b",
+    "correct_answer_text": "Cast Iron"
+  },
+  {
+    "id": 182,
+    "question": "What refers to the diffusion of a solvent into a stronger solution in an attempt to equalize the two concentrations?",
+    "options": {
+      "a": "osmosis",
+      "b": "dialysis",
+      "c": "distillation",
+      "d": "Osmosis"
+    },
+    "answer": "d",
+    "correct_answer_text": "Osmosis"
+  },
+  {
+    "id": 183,
+    "question": "The term 'brass' is very commonly used to designate any alloy primarily",
+    "options": {
+      "a": "copper and tin",
+      "b": "copper and zinc",
+      "c": "copper and lead",
+      "d": "copper and nickel"
+    },
+    "answer": "b",
+    "correct_answer_text": "copper and zinc"
+  },
+  {
+    "id": 184,
+    "question": "Article IV, Rule 16 contains requirements for examination as",
+    "options": {
+      "a": "PEE",
+      "b": "REE",
+      "c": "RME",
+      "d": "Asst EE"
+    },
+    "answer": "b",
+    "correct_answer_text": "REE"
+  },
+  {
+    "id": 185,
+    "question": "When a close coiled helical spring is subjected to an axial load, it is said to be under",
+    "options": {
+      "a": "tension",
+      "b": "compression",
+      "c": "torsion",
+      "d": "bending"
+    },
+    "answer": "c",
+    "correct_answer_text": "torsion"
+  },
+  {
+    "id": 186,
+    "question": "RA 7920, Rule 2 (n) defining?",
+    "options": {
+      "a": "CHED",
+      "b": "DECS",
+      "c": "TESDA",
+      "d": "PRC"
+    },
+    "answer": "b",
+    "correct_answer_text": "DECS"
+  },
+  {
+    "id": 187,
+    "question": "Is the present worth of all future profits that are to be received through ownership of the property.",
+    "options": {
+      "a": "cost",
+      "b": "price",
+      "c": "value",
+      "d": "worth"
+    },
+    "answer": "c",
+    "correct_answer_text": "value"
+  },
+  {
+    "id": 188,
+    "question": "Section 7, Article II states that an electrical engineer shall not divulge confidential matters concerning affairs of his clients or employers without their consent.",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Depends",
+      "d": "Not stated"
+    },
+    "answer": "a",
+    "correct_answer_text": "True"
+  },
+  {
+    "id": 189,
+    "question": "What is the temperature when water and vapor are in equilibrium with the atmospheric pressure?",
+    "options": {
+      "a": "ice point",
+      "b": "boiling point",
+      "c": "steam point",
+      "d": "triple point"
+    },
+    "answer": "c",
+    "correct_answer_text": "steam point"
+  },
+  {
+    "id": 190,
+    "question": "When a source of sound or a listener or both are in motion relative to the air, the pitch of the sound heard by the listener is not the same as when source and listener are at rest. This phenomenon refers to",
+    "options": {
+      "a": "Resonance",
+      "b": "Doppler Effect",
+      "c": "Interference",
+      "d": "Diffraction"
+    },
+    "answer": "b",
+    "correct_answer_text": "Doppler Effect"
+  },
+  {
+    "id": 191,
+    "question": "Bronze is an alloy of",
+    "options": {
+      "a": "Cu and Zn",
+      "b": "Cu and Sn",
+      "c": "Cu and Pb",
+      "d": "Cu and Ni"
+    },
+    "answer": "b",
+    "correct_answer_text": "Cu and Sn"
+  },
+  {
+    "id": 192,
+    "question": "What is the emissivity of white body?",
+    "options": {
+      "a": "0",
+      "b": "0.5",
+      "c": "1.0",
+      "d": "0.8"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.5"
+  },
+  {
+    "id": 193,
+    "question": "What is widely used as light metal?",
+    "options": {
+      "a": "Iron",
+      "b": "Copper",
+      "c": "Aluminum",
+      "d": "Lead"
+    },
+    "answer": "c",
+    "correct_answer_text": "Aluminum"
+  },
+  {
+    "id": 194,
+    "question": "What is the busiest bus and the one that carries that actual data?",
+    "options": {
+      "a": "Address Bus",
+      "b": "Control Bus",
+      "c": "Data Bus",
+      "d": "Expansion Bus"
+    },
+    "answer": "c",
+    "correct_answer_text": "Data Bus"
+  },
+  {
+    "id": 195,
+    "question": "Newtonian fluid is that fluid which",
+    "options": {
+      "a": "is incompressible",
+      "b": "obeys Newton's law of viscosity",
+      "c": "has zero viscosity",
+      "d": "is at rest"
+    },
+    "answer": "b",
+    "correct_answer_text": "obeys Newton's law of viscosity"
+  },
+  {
+    "id": 196,
+    "question": "Section 35 of Article IV states that the practice of electrical engineering is not allowed for",
+    "options": {
+      "a": "individuals",
+      "b": "firms and corporations",
+      "c": "government employees",
+      "d": "foreigners"
+    },
+    "answer": "b",
+    "correct_answer_text": "practice not allowed for firms and corporations"
+  },
+  {
+    "id": 197,
+    "question": "Section 14 (a) (iii) of Article III states that prior to commencing of work, the foreign professional shall secure permit from the",
+    "options": {
+      "a": "Board",
+      "b": "Commission",
+      "c": "Department of Labor",
+      "d": "President"
+    },
+    "answer": "b",
+    "correct_answer_text": "Commission"
+  },
+  {
+    "id": 198,
+    "question": "Section 17 (c) of Article III states that a REE applicant must be",
+    "options": {
+      "a": "a citizen of the Philippines",
+      "b": "of good reputation with high moral values",
+      "c": "a graduate of BSEE",
+      "d": "21 years of age"
+    },
+    "answer": "b",
+    "correct_answer_text": "He is of good reputation with high moral values"
+  },
+  {
+    "id": 199,
+    "question": "Heat is generated by electrical arcs from the three electrodes extending through furnace wall into the change space in a/an",
+    "options": {
+      "a": "Induction furnace",
+      "b": "Electric arc furnace",
+      "c": "Resistance furnace",
+      "d": "Blast furnace"
+    },
+    "answer": "b",
+    "correct_answer_text": "Electric arc fumace"
+  },
+  {
+    "id": 200,
+    "question": "The pitch of a note is dependent upon",
+    "options": {
+      "a": "amplitude",
+      "b": "frequency",
+      "c": "wavelength",
+      "d": "velocity"
+    },
+    "answer": "b",
+    "correct_answer_text": "frequency"
+  },
+  {
+    "id": 201,
+    "question": "The techniques of finding the intensity and phase of light at any point, only when a portion of wave front is exposed.",
+    "options": {
+      "a": "Newton's rings",
+      "b": "Huygen's principle",
+      "c": "Brewster's law",
+      "d": "Snell's law"
+    },
+    "answer": "b",
+    "correct_answer_text": "Huygen's principle"
+  },
+  {
+    "id": 202,
+    "question": "What is the present worth of cost associated with an asset for an infinite period of time?",
+    "options": {
+      "a": "annual cost",
+      "b": "capitalized cost",
+      "c": "sunk cost",
+      "d": "book value"
+    },
+    "answer": "b",
+    "correct_answer_text": "capitalized cost"
+  },
+  {
+    "id": 203,
+    "question": "Part of a program that makes decisions about the data, whether it is valid or should be sent to the database.",
+    "options": {
+      "a": "user interface",
+      "b": "application logic",
+      "c": "operating system",
+      "d": "hardware"
+    },
+    "answer": "b",
+    "correct_answer_text": "application logic"
+  },
+  {
+    "id": 204,
+    "question": "What is the measure of the quantity of an element or a compound?",
+    "options": {
+      "a": "mass",
+      "b": "mole",
+      "c": "volume",
+      "d": "density"
+    },
+    "answer": "b",
+    "correct_answer_text": "mole"
+  },
+  {
+    "id": 205,
+    "question": "In RA 7920, what rule is the date and place of exam?",
+    "options": {
+      "a": "Rule 10",
+      "b": "Rule 11",
+      "c": "Rule 12",
+      "d": "Rule 15"
+    },
+    "answer": "b",
+    "correct_answer_text": "11"
+  },
+  {
+    "id": 206,
+    "question": "If a disturbance is parallel to the direction of travel of a wave, the wave is classified as",
+    "options": {
+      "a": "transverse",
+      "b": "longitudinal",
+      "c": "electromagnetic",
+      "d": "standing"
+    },
+    "answer": "b",
+    "correct_answer_text": "longitudinal"
+  },
+  {
+    "id": 207,
+    "question": "An object that has momentum must also have",
+    "options": {
+      "a": "potential energy",
+      "b": "kinetic energy",
+      "c": "acceleration",
+      "d": "force"
+    },
+    "answer": "b",
+    "correct_answer_text": "kinetic energy"
+  },
+  {
+    "id": 208,
+    "question": "What particles are formed in the nucleus of an atom?",
+    "options": {
+      "a": "electrons and protons",
+      "b": "protons and neutrons",
+      "c": "electrons and neutrons",
+      "d": "neutrons and positrons"
+    },
+    "answer": "b",
+    "correct_answer_text": "protons and neutrons"
+  },
+  {
+    "id": 209,
+    "question": "In electrochemistry, oxidation is a loss of",
+    "options": {
+      "a": "proton",
+      "b": "neutron",
+      "c": "electron",
+      "d": "ion"
+    },
+    "answer": "c",
+    "correct_answer_text": "electron"
+  },
+  {
+    "id": 210,
+    "question": "In a manometer the pressure is measured by balancing it by",
+    "options": {
+      "a": "weights",
+      "b": "column of liquid",
+      "c": "spring force",
+      "d": "diaphragm"
+    },
+    "answer": "b",
+    "correct_answer_text": "column of liquid"
+  },
+  {
+    "id": 211,
+    "question": "Work or energy can be a function of all the ff except:",
+    "options": {
+      "a": "Force and distance",
+      "b": "Torque and angular rotation",
+      "c": "Power and time",
+      "d": "Force and time"
+    },
+    "answer": "d",
+    "correct_answer_text": "Force and time"
+  },
+  {
+    "id": 212,
+    "question": "What metal is the best heat conductor?",
+    "options": {
+      "a": "copper",
+      "b": "gold",
+      "c": "silver",
+      "d": "aluminum"
+    },
+    "answer": "c",
+    "correct_answer_text": "silver"
+  },
+  {
+    "id": 213,
+    "question": "What color has the shortest wavelength of light?",
+    "options": {
+      "a": "Red",
+      "b": "Yellow",
+      "c": "Blue",
+      "d": "Green"
+    },
+    "answer": "c",
+    "correct_answer_text": "Blue"
+  },
+  {
+    "id": 214,
+    "question": "Pycnometer is used to determine",
+    "options": {
+      "a": "pressure",
+      "b": "viscosity",
+      "c": "water content and specific gravity",
+      "d": "turbidity"
+    },
+    "answer": "c",
+    "correct_answer_text": "water content and specific gravity"
+  },
+  {
+    "id": 215,
+    "question": "Which gas law states that the total volume occupied by a mixture of gases is equal to the sum of their pure component volume at constant temperature and pressure?",
+    "options": {
+      "a": "Dalton",
+      "b": "Amagat",
+      "c": "Boyle",
+      "d": "Charles"
+    },
+    "answer": "b",
+    "correct_answer_text": "Amagat"
+  },
+  {
+    "id": 216,
+    "question": "The temperature at which vapor pressure of a liquid equal to the atmospheric pressure is",
+    "options": {
+      "a": "critical point",
+      "b": "boiling point",
+      "c": "melting point",
+      "d": "triple point"
+    },
+    "answer": "b",
+    "correct_answer_text": "boiling point"
+  },
+  {
+    "id": 217,
+    "question": "How many members does the Board composed of?",
+    "options": {
+      "a": "three members and a chairman",
+      "b": "two members and a chairman",
+      "c": "five members",
+      "d": "ten members"
+    },
+    "answer": "b",
+    "correct_answer_text": "two members and a chairman"
+  },
+  {
+    "id": 218,
+    "question": "What is the temperature when water and vapor are in equilibrium with the atmospheric pressure?",
+    "options": {
+      "a": "ice point",
+      "b": "steam point",
+      "c": "boiling point",
+      "d": "critical point"
+    },
+    "answer": "b",
+    "correct_answer_text": "Steam point"
+  },
+  {
+    "id": 219,
+    "question": "What metallic element has meaning 'heavy stone'?",
+    "options": {
+      "a": "Lead",
+      "b": "Gold",
+      "c": "Tungsten",
+      "d": "Uranium"
+    },
+    "answer": "c",
+    "correct_answer_text": "Tungsten"
+  },
+  {
+    "id": 220,
+    "question": "Relationship between temperature and pressure at constant volume.",
+    "options": {
+      "a": "Boyle's Law",
+      "b": "Charles's Law",
+      "c": "Gay-Lussac's Law",
+      "d": "Dalton's Law"
+    },
+    "answer": "b",
+    "correct_answer_text": "Charles's Law"
+  },
+  {
+    "id": 221,
+    "question": "What are compound of carbon in hydrogen containing only carbon-carbon single bonds?",
+    "options": {
+      "a": "Alkanes",
+      "b": "Alkenes",
+      "c": "Alkynes",
+      "d": "Aromatics"
+    },
+    "answer": "a",
+    "correct_answer_text": "Alkanes"
+  },
+  {
+    "id": 222,
+    "question": "How are elements numbered 90 to 103 in the periodic table called?",
+    "options": {
+      "a": "Lantanons",
+      "b": "Actinons",
+      "c": "Halogens",
+      "d": "Noble gases"
+    },
+    "answer": "b",
+    "correct_answer_text": "Actinons"
+  },
+  {
+    "id": 223,
+    "question": "It refers to the fractional change in the volume of a fluid per unit change in pressure at constant temperature process.",
+    "options": {
+      "a": "Viscosity",
+      "b": "Compressibility",
+      "c": "Density",
+      "d": "Bulk Modulus"
+    },
+    "answer": "b",
+    "correct_answer_text": "Compressibility"
+  },
+  {
+    "id": 224,
+    "question": "What refers to a physical blend of two or more substances?",
+    "options": {
+      "a": "Mixture",
+      "b": "Compound",
+      "c": "Element",
+      "d": "Solution"
+    },
+    "answer": "a",
+    "correct_answer_text": "Mixture"
+  },
+  {
+    "id": 225,
+    "question": "It is a claim of anyone to ownership.",
+    "options": {
+      "a": "asset",
+      "b": "liability",
+      "c": "equity",
+      "d": "capital"
+    },
+    "answer": "c",
+    "correct_answer_text": "equity"
+  },
+  {
+    "id": 226,
+    "question": "The heat transfer due to motion of matter caused by a change in density is called",
+    "options": {
+      "a": "Conduction",
+      "b": "Convection",
+      "c": "Radiation",
+      "d": "Evaporation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Convection"
+  },
+  {
+    "id": 227,
+    "question": "Spark plug makes use of what material for insulation?",
+    "options": {
+      "a": "Glass",
+      "b": "Porcelain",
+      "c": "Mica",
+      "d": "Rubber"
+    },
+    "answer": "b",
+    "correct_answer_text": "porcelain"
+  },
+  {
+    "id": 228,
+    "question": "RA 7920, Rule 2 (q) is",
+    "options": {
+      "a": "Board Number",
+      "b": "S.O Number",
+      "c": "PRC Number",
+      "d": "CPE Number"
+    },
+    "answer": "b",
+    "correct_answer_text": "S.O Number"
+  },
+  {
+    "id": 229,
+    "question": "What is a step by step drawing that will represent a specific procedure of algorithm?",
+    "options": {
+      "a": "Logic diagram",
+      "b": "Assembler diagram",
+      "c": "Flowchart",
+      "d": "Circuit diagram"
+    },
+    "answer": "b",
+    "correct_answer_text": "Assembler diagram"
+  },
+  {
+    "id": 230,
+    "question": "Files of data and programs are located in many places in your hard disk. What keeps track of where they are?",
+    "options": {
+      "a": "FAT",
+      "b": "references",
+      "c": "indices",
+      "d": "pointers"
+    },
+    "answer": "b",
+    "correct_answer_text": "references"
+  },
+  {
+    "id": 231,
+    "question": "The most effective alloying ingredient in increasing hardness is known as",
+    "options": {
+      "a": "manganese",
+      "b": "silicon",
+      "c": "nickel",
+      "d": "chromium"
+    },
+    "answer": "b",
+    "correct_answer_text": "silicon"
+  },
+  {
+    "id": 232,
+    "question": "Section 14 (a) (IV) of Article III: Examination and Registration states that",
+    "options": {
+      "a": "foreign professional shall engage in private practice",
+      "b": "said foreign professional shall not engage in private practice on their own account",
+      "c": "foreigners are not allowed to practice",
+      "d": "foreign professional must be a citizen"
+    },
+    "answer": "b",
+    "correct_answer_text": "that said foreign professional shall not engage in private practice on their own account"
+  },
+  {
+    "id": 233,
+    "question": "Article II, Section 5 - Code of Ethics states that an electrical engineer shall honestly advise his clients or employer if specialized work is called for to engage the",
+    "options": {
+      "a": "help",
+      "b": "services",
+      "c": "assistance",
+      "d": "contract"
+    },
+    "answer": "b",
+    "correct_answer_text": "services"
+  },
+  {
+    "id": 234,
+    "question": "Section 16 (c) of Article III: Examination and Registration, Qualifications of Applicants for Professional Electrical Engineer states that",
+    "options": {
+      "a": "he is a Filipino citizen",
+      "b": "he has not been finally convicted by the court of an offense involving moral turpitude",
+      "c": "he is 21 years old",
+      "d": "he is of good moral character"
+    },
+    "answer": "b",
+    "correct_answer_text": "he has not been finally convicted by the court of an offense involving moral turpitude"
+  },
+  {
+    "id": 235,
+    "question": "An establishment or a system for the production and modification of electric energy is an",
+    "options": {
+      "a": "Electric Substation",
+      "b": "Electric Plant",
+      "c": "Electric Network",
+      "d": "Electric Grid"
+    },
+    "answer": "b",
+    "correct_answer_text": "Electric Plant"
+  },
+  {
+    "id": 236,
+    "question": "The mass of proton is approximately how many times greater than the mass of an electron?",
+    "options": {
+      "a": "1836",
+      "b": "1839",
+      "c": "2000",
+      "d": "1000"
+    },
+    "answer": "a",
+    "correct_answer_text": "1836"
+  },
+  {
+    "id": 237,
+    "question": "What materials is used for making coils of standard resistances?",
+    "options": {
+      "a": "Copper",
+      "b": "Aluminum",
+      "c": "Manganin",
+      "d": "Nichrome"
+    },
+    "answer": "c",
+    "correct_answer_text": "Manganin"
+  },
+  {
+    "id": 238,
+    "question": "It has the characteristics of both metals and non-metals?",
+    "options": {
+      "a": "Alloys",
+      "b": "Metalloids",
+      "c": "Isotopes",
+      "d": "Halogens"
+    },
+    "answer": "b",
+    "correct_answer_text": "Metalloids"
+  },
+  {
+    "id": 239,
+    "question": "What band of light wavelengths are too short to be seen by the human eye?",
+    "options": {
+      "a": "infrared",
+      "b": "ultraviolet",
+      "c": "visible",
+      "d": "microwave"
+    },
+    "answer": "b",
+    "correct_answer_text": "ultraviolet"
+  },
+  {
+    "id": 240,
+    "question": "Heat is absorbed by the refrigerant in a refrigerator when it",
+    "options": {
+      "a": "condenses",
+      "b": "vaporizes",
+      "c": "compresses",
+      "d": "expands"
+    },
+    "answer": "b",
+    "correct_answer_text": "vaporizes"
+  },
+  {
+    "id": 241,
+    "question": "When an entrainment agent is introduced into a concrete mix",
+    "options": {
+      "a": "the strength will increase",
+      "b": "the strength will decrease",
+      "c": "no effect on strength",
+      "d": "it will set faster"
+    },
+    "answer": "b",
+    "correct_answer_text": "the strength will decrease"
+  },
+  {
+    "id": 242,
+    "question": "The mass moment of inertia of a cylinder about its central axis perpendicular to a circular cross section is",
+    "options": {
+      "a": "directly proportional to its length",
+      "b": "inversely proportional to its length",
+      "c": "independent of its length",
+      "d": "proportional to square of length"
+    },
+    "answer": "a",
+    "correct_answer_text": "directly proportional to its length"
+  },
+  {
+    "id": 243,
+    "question": "If a disturbance is parallel to the direction of a travel of a wave, the wave is classified as",
+    "options": {
+      "a": "transverse",
+      "b": "longitudinal",
+      "c": "standing",
+      "d": "electromagnetic"
+    },
+    "answer": "b",
+    "correct_answer_text": "longitudinal"
+  },
+  {
+    "id": 244,
+    "question": "A crystal of solute is added to a solution, and the crystal remains undissolved. The solution is best classified as",
+    "options": {
+      "a": "unsaturated",
+      "b": "saturated",
+      "c": "supersaturated",
+      "d": "diluted"
+    },
+    "answer": "b",
+    "correct_answer_text": "saturated"
+  },
+  {
+    "id": 245,
+    "question": "What rules are included in Article V of RA 7920?",
+    "options": {
+      "a": "Rule 1 to 10",
+      "b": "Rule 11 to 20",
+      "c": "Rule 21 to 27",
+      "d": "Rule 30 to 40"
+    },
+    "answer": "c",
+    "correct_answer_text": "Rule 21 to 27"
+  },
+  {
+    "id": 246,
+    "question": "Part of the computer responsible for executing programs, doing arithmetic and exercising general control.",
+    "options": {
+      "a": "RAM",
+      "b": "CPU",
+      "c": "Hard Disk",
+      "d": "ROM"
+    },
+    "answer": "b",
+    "correct_answer_text": "CPU"
+  },
+  {
+    "id": 247,
+    "question": "The states that in a given atom, no two electrons can have exactly the same set of quantum numbers.",
+    "options": {
+      "a": "Bohr model",
+      "b": "Pauli Exclusion Principle",
+      "c": "Hund's rule",
+      "d": "Heisenberg principle"
+    },
+    "answer": "b",
+    "correct_answer_text": "Pauli Exclusion Principle"
+  },
+  {
+    "id": 248,
+    "question": "The implementing Rules and Regulations (IRR) of RA 7920 was approved under Board Resolution No. series of 1995.",
+    "options": {
+      "a": "10",
+      "b": "15",
+      "c": "18",
+      "d": "22"
+    },
+    "answer": "c",
+    "correct_answer_text": "18"
+  },
+  {
+    "id": 249,
+    "question": "The of a property is the amount in which a willing buyer will pay to a willing seller for the property neither one is under compulsion to buy or sell.",
+    "options": {
+      "a": "book value",
+      "b": "market value",
+      "c": "salvage value",
+      "d": "par value"
+    },
+    "answer": "b",
+    "correct_answer_text": "market value"
+  },
+  {
+    "id": 250,
+    "question": "Also known as the loudness of sound. It is proportional to the square of the pressure amplitude.",
+    "options": {
+      "a": "pitch",
+      "b": "intensity",
+      "c": "frequency",
+      "d": "timbre"
+    },
+    "answer": "b",
+    "correct_answer_text": "intensity"
+  },
+  {
+    "id": 251,
+    "question": "During a complete or partial neutralization of acids, what is the ionic compound formed?",
+    "options": {
+      "a": "base",
+      "b": "water",
+      "c": "salt",
+      "d": "oxide"
+    },
+    "answer": "c",
+    "correct_answer_text": "salt"
+  },
+  {
+    "id": 252,
+    "question": "What refers to negotiable claim issued by a bank in lieu of term deposit?",
+    "options": {
+      "a": "Cheque",
+      "b": "Bond",
+      "c": "Certificate of deposit",
+      "d": "Coupon"
+    },
+    "answer": "c",
+    "correct_answer_text": "Certificate of deposit"
+  },
+  {
+    "id": 253,
+    "question": "Section 35 of Article IV: states that the practice of electrical engineering is a professional service admission to which is based on and personal qualifications.",
+    "options": {
+      "a": "corporate",
+      "b": "individual",
+      "c": "group",
+      "d": "firm"
+    },
+    "answer": "b",
+    "correct_answer_text": "individual"
+  },
+  {
+    "id": 254,
+    "question": "What refers to a document that shows proof of legal ownership of a financial security?",
+    "options": {
+      "a": "Bond",
+      "b": "Stock",
+      "c": "Coupon",
+      "d": "Certificate"
+    },
+    "answer": "c",
+    "correct_answer_text": "Coupon"
+  },
+  {
+    "id": 255,
+    "question": "Hydraulic gradient of a pipeline represents is",
+    "options": {
+      "a": "velocity head",
+      "b": "pressure head",
+      "c": "potential head",
+      "d": "total head"
+    },
+    "answer": "b",
+    "correct_answer_text": "pressure head"
+  },
+  {
+    "id": 256,
+    "question": "The mass of neutron is approximately how many times greater than the mass of electron?",
+    "options": {
+      "a": "1836",
+      "b": "1839",
+      "c": "2000",
+      "d": "1000"
+    },
+    "answer": "b",
+    "correct_answer_text": "1839"
+  },
+  {
+    "id": 257,
+    "question": "A process where a physical mixture of carbide and powdered metal is heated in order to solidify the powder into a single piece.",
+    "options": {
+      "a": "Forging",
+      "b": "Casting",
+      "c": "Sintering",
+      "d": "Welding"
+    },
+    "answer": "c",
+    "correct_answer_text": "Sintering"
+  },
+  {
+    "id": 258,
+    "question": "A language originally designed for telescope process control.",
+    "options": {
+      "a": "BASIC",
+      "b": "FORTRAN",
+      "c": "FORTH",
+      "d": "PASCAL"
+    },
+    "answer": "c",
+    "correct_answer_text": "FORTH"
+  },
+  {
+    "id": 259,
+    "question": "The ratio of the density of the substance to the density of water is",
+    "options": {
+      "a": "specific volume",
+      "b": "specific gravity",
+      "c": "viscosity",
+      "d": "buoyancy"
+    },
+    "answer": "b",
+    "correct_answer_text": "specific gravity"
+  },
+  {
+    "id": 260,
+    "question": "The electrical engineer shall observe moral principles to guide his conduct. It is his to practice his profession according to this Code of Ethics.",
+    "options": {
+      "a": "option",
+      "b": "duty",
+      "c": "right",
+      "d": "will"
+    },
+    "answer": "b",
+    "correct_answer_text": "duty"
+  },
+  {
+    "id": 261,
+    "question": "What is used to capture real and moving objects and displays it into a computer?",
+    "options": {
+      "a": "Scanner",
+      "b": "Digital camera",
+      "c": "Printer",
+      "d": "Monitor"
+    },
+    "answer": "b",
+    "correct_answer_text": "Digital camera"
+  },
+  {
+    "id": 262,
+    "question": "What is the Article V of Code of Ethics for Electrical Engineers?",
+    "options": {
+      "a": "Definition of terms",
+      "b": "Effectivity",
+      "c": "Relations with Client",
+      "d": "Penal provisions"
+    },
+    "answer": "b",
+    "correct_answer_text": "Effectivity"
+  },
+  {
+    "id": 263,
+    "question": "Rule 2 (d), Article I defines",
+    "options": {
+      "a": "Commission",
+      "b": "Board",
+      "c": "CPE",
+      "d": "TESDA"
+    },
+    "answer": "b",
+    "correct_answer_text": "Board"
+  },
+  {
+    "id": 264,
+    "question": "The three moment diagram equation may be used to analyze",
+    "options": {
+      "a": "simply supported beam",
+      "b": "a continuous beam",
+      "c": "cantilever beam",
+      "d": "fixed beam"
+    },
+    "answer": "b",
+    "correct_answer_text": "a continuous beam"
+  },
+  {
+    "id": 265,
+    "question": "Which of the ff in NOT a method of non-destructive testing of steel castings and forgings?",
+    "options": {
+      "a": "Radiography",
+      "b": "Ultrasonic",
+      "c": "Magnetic particle",
+      "d": "Chemical analysis"
+    },
+    "answer": "d",
+    "correct_answer_text": "d"
+  },
+  {
+    "id": 266,
+    "question": "What term is used to describe retrieval of data from a memory?",
+    "options": {
+      "a": "Writing",
+      "b": "Reading",
+      "c": "Saving",
+      "d": "Deleting"
+    },
+    "answer": "b",
+    "correct_answer_text": "Reading"
+  },
+  {
+    "id": 267,
+    "question": "Which of the ff is NOT a vector quantity?",
+    "options": {
+      "a": "Displacement",
+      "b": "Acceleration",
+      "c": "Speed",
+      "d": "Momentum"
+    },
+    "answer": "c",
+    "correct_answer_text": "c"
+  },
+  {
+    "id": 268,
+    "question": "The mass of a certain object is 10 gm. Is the expression F=(W/g)a valid on mars?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Maybe",
+      "d": "Only if g is Earth's g"
+    },
+    "answer": "b",
+    "correct_answer_text": "No"
+  },
+  {
+    "id": 269,
+    "question": "What combinations of elements has high electrical resistance, high corrosion resistance and high strength at red heat temperatures?",
+    "options": {
+      "a": "brass",
+      "b": "bronze",
+      "c": "nichrome",
+      "d": "manganin"
+    },
+    "answer": "c",
+    "correct_answer_text": "nichrome"
+  },
+  {
+    "id": 270,
+    "question": "RA 7920, Rule 5 is",
+    "options": {
+      "a": "Election of Officers",
+      "b": "Promulgation of Decisions, Rules, etc.",
+      "c": "Meetings",
+      "d": "Official Seal"
+    },
+    "answer": "b",
+    "correct_answer_text": "Promulgation of Decisions, Rules, etc."
+  },
+  {
+    "id": 271,
+    "question": "Refers to loss of electrons by an atom, which is the case when the metallic elements reacts with oxygen.",
+    "options": {
+      "a": "reduction",
+      "b": "oxidation",
+      "c": "ionization",
+      "d": "electrolysis"
+    },
+    "answer": "b",
+    "correct_answer_text": "oxidation"
+  },
+  {
+    "id": 272,
+    "question": "Octal coding involves grouping the bits in",
+    "options": {
+      "a": "2's",
+      "b": "3's",
+      "c": "4's",
+      "d": "8's"
+    },
+    "answer": "b",
+    "correct_answer_text": "3's"
+  },
+  {
+    "id": 273,
+    "question": "The term of office of every Board members including the Chairman is how many years?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "answer": "b",
+    "correct_answer_text": "3"
+  },
+  {
+    "id": 274,
+    "question": "What is the smallest unit of information handled by a computer?",
+    "options": {
+      "a": "Bit",
+      "b": "Byte",
+      "c": "Word",
+      "d": "Nibble"
+    },
+    "answer": "b",
+    "correct_answer_text": "Byte"
+  },
+  {
+    "id": 275,
+    "question": "What is the standard method of coding data on 80-column, 12-row card?",
+    "options": {
+      "a": "ASCII",
+      "b": "Hollerith Code",
+      "c": "EBCDIC",
+      "d": "Binary"
+    },
+    "answer": "b",
+    "correct_answer_text": "Hollerith Code"
+  },
+  {
+    "id": 276,
+    "question": "Hooke's law for an isotropic homogeneous medium expressing one-dimensional stress is",
+    "options": {
+      "a": "Stress = Strain / E",
+      "b": "Stress = E (strain)",
+      "c": "Stress = E / Strain",
+      "d": "Stress = E + Strain"
+    },
+    "answer": "b",
+    "correct_answer_text": "Stress = E (strain)"
+  },
+  {
+    "id": 277,
+    "question": "RA 7920 rule m defining?",
+    "options": {
+      "a": "PEE",
+      "b": "REE",
+      "c": "IIEE",
+      "d": "CPE"
+    },
+    "answer": "c",
+    "correct_answer_text": "IIEE"
+  },
+  {
+    "id": 278,
+    "question": "The purpose of iron sulfide in steel alloying is to increase",
+    "options": {
+      "a": "ductility",
+      "b": "hardness",
+      "c": "brittleness",
+      "d": "strength"
+    },
+    "answer": "c",
+    "correct_answer_text": "brittleness"
+  },
+  {
+    "id": 279,
+    "question": "The bounded (cables) or unbounded (air) mechanism for connecting the transmitter to the receiver.",
+    "options": {
+      "a": "channel",
+      "b": "medium",
+      "c": "protocol",
+      "d": "interface"
+    },
+    "answer": "b",
+    "correct_answer_text": "medium"
+  },
+  {
+    "id": 280,
+    "question": "90 elements are known to occur in nature, and how many more have been artificial?",
+    "options": {
+      "a": "10",
+      "b": "15",
+      "c": "22",
+      "d": "30"
+    },
+    "answer": "c",
+    "correct_answer_text": "22"
+  },
+  {
+    "id": 281,
+    "question": "The moment of inertia of any plane figure can be expressed in units of length to the",
+    "options": {
+      "a": "Second power",
+      "b": "Third power",
+      "c": "Fourth power",
+      "d": "Fifth power"
+    },
+    "answer": "c",
+    "correct_answer_text": "Fourth power"
+  },
+  {
+    "id": 282,
+    "question": "A is a group of bits that may be manipulated or stored at one time by the CPU.",
+    "options": {
+      "a": "byte",
+      "b": "nibble",
+      "c": "word",
+      "d": "record"
+    },
+    "answer": "c",
+    "correct_answer_text": "word"
+  },
+  {
+    "id": 283,
+    "question": "What large molecules is in the form of a long chain of repeating units?",
+    "options": {
+      "a": "Crystals",
+      "b": "Alloys",
+      "c": "Polymers",
+      "d": "Metals"
+    },
+    "answer": "c",
+    "correct_answer_text": "Polymers"
+  },
+  {
+    "id": 284,
+    "question": "Specifies a definite portion of ownership of the capital of the corporation, all each being alike in value.",
+    "options": {
+      "a": "Bond",
+      "b": "Preferred Stock",
+      "c": "Common Stock",
+      "d": "Cheque"
+    },
+    "answer": "c",
+    "correct_answer_text": "Common Stock"
+  },
+  {
+    "id": 285,
+    "question": "When exposed to the atmosphere, which of the ff liquids is the coldest?",
+    "options": {
+      "a": "Oxygen",
+      "b": "Argon",
+      "c": "Nitrogen",
+      "d": "Helium"
+    },
+    "answer": "d",
+    "correct_answer_text": "d"
+  },
+  {
+    "id": 286,
+    "question": "What is the most undesirable of all elements commonly found in steels?",
+    "options": {
+      "a": "Sulfur",
+      "b": "Phosphorous",
+      "c": "Silicon",
+      "d": "Manganese"
+    },
+    "answer": "b",
+    "correct_answer_text": "Phosphorous"
+  },
+  {
+    "id": 287,
+    "question": "The loss of zinc in the presence of certain corrosive media or at a high the temperature is known as",
+    "options": {
+      "a": "corrosion",
+      "b": "oxidation",
+      "c": "dezincification",
+      "d": "erosion"
+    },
+    "answer": "c",
+    "correct_answer_text": "dezincification"
+  },
+  {
+    "id": 288,
+    "question": "A species of atom characterized by the number of neutrons and protons in the nucleus.",
+    "options": {
+      "a": "Isotope",
+      "b": "Nuclide",
+      "c": "Ion",
+      "d": "Molecule"
+    },
+    "answer": "b",
+    "correct_answer_text": "Nuclide"
+  },
+  {
+    "id": 289,
+    "question": "The basic repeating unit in a polymer is called",
+    "options": {
+      "a": "monomer or mer",
+      "b": "isomer",
+      "c": "atom",
+      "d": "chain"
+    },
+    "answer": "a",
+    "correct_answer_text": "monomer or mer"
+  },
+  {
+    "id": 290,
+    "question": "The temperature when water vapor of the air begins to condense.",
+    "options": {
+      "a": "boiling point",
+      "b": "melting point",
+      "c": "dew point",
+      "d": "critical point"
+    },
+    "answer": "c",
+    "correct_answer_text": "dew point"
+  },
+  {
+    "id": 291,
+    "question": "What is the term used to describe the moving of software from another computer to your own computer?",
+    "options": {
+      "a": "Uploading",
+      "b": "Downloading",
+      "c": "Browsing",
+      "d": "Streaming"
+    },
+    "answer": "b",
+    "correct_answer_text": "Downloading"
+  },
+  {
+    "id": 292,
+    "question": "Any equipment which produces, modifies, regulates or controls the supply of electric energy is the",
+    "options": {
+      "a": "Utilization equipment",
+      "b": "Electric supply equipment",
+      "c": "Service equipment",
+      "d": "Control equipment"
+    },
+    "answer": "b",
+    "correct_answer_text": "Electric supply equipment"
+  },
+  {
+    "id": 293,
+    "question": "The purpose of boron in steel alloying is to increase",
+    "options": {
+      "a": "ductility",
+      "b": "hardness",
+      "c": "toughness",
+      "d": "corrosion resistance"
+    },
+    "answer": "b",
+    "correct_answer_text": "hardness"
+  },
+  {
+    "id": 294,
+    "question": "Section 16 (a) of Article III states that PEE applicant is a",
+    "options": {
+      "a": "natural born citizen",
+      "b": "citizen of the Philippines",
+      "c": "permanent resident",
+      "d": "voter"
+    },
+    "answer": "b",
+    "correct_answer_text": "he is a citizen of the Philippines"
+  },
+  {
+    "id": 295,
+    "question": "Section 16 (b) of Article III: Qualifications of Applicant for Professional Electrical Engineer states that",
+    "options": {
+      "a": "he is 21 years old",
+      "b": "he is of good reputation with high moral values",
+      "c": "he has 4 years experience",
+      "d": "he passed the REE"
+    },
+    "answer": "b",
+    "correct_answer_text": "he is of good reputation with high moral values"
+  },
+  {
+    "id": 296,
+    "question": "What is used in thermal power plant?",
+    "options": {
+      "a": "Otto cycle",
+      "b": "Diesel cycle",
+      "c": "Rankine cycle",
+      "d": "Carnot cycle"
+    },
+    "answer": "c",
+    "correct_answer_text": "Rankine cycle"
+  },
+  {
+    "id": 297,
+    "question": "The ratio of the velocity of light in vacuum to its velocity of another material.",
+    "options": {
+      "a": "Refraction index",
+      "b": "Refractive index",
+      "c": "Reflection index",
+      "d": "Diffraction index"
+    },
+    "answer": "b",
+    "correct_answer_text": "Refractive index"
+  },
+  {
+    "id": 298,
+    "question": "Section 4 (h) Powers and Duties of the Board of Art. II is to",
+    "options": {
+      "a": "inspect electrical plants",
+      "b": "Promulgate rules and regulations including a code of ethics",
+      "c": "issue licenses",
+      "d": "conduct examinations"
+    },
+    "answer": "b",
+    "correct_answer_text": "Promulgate rules and regulations including a code of ethics, administrative policies, orders and issuances to carry out the provisions of this act."
+  },
+  {
+    "id": 299,
+    "question": "For shear stress, what is the constant of proportionality?",
+    "options": {
+      "a": "Young's modulus",
+      "b": "shear modulus",
+      "c": "Bulk modulus",
+      "d": "Poisson's ratio"
+    },
+    "answer": "b",
+    "correct_answer_text": "shear modulus"
+  },
+  {
+    "id": 300,
+    "question": "Is the worth of property as an operating unit.",
+    "options": {
+      "a": "Book Value",
+      "b": "Salvage Value",
+      "c": "Use Value",
+      "d": "Market Value"
+    },
+    "answer": "c",
+    "correct_answer_text": "Use Value"
+  },
+  {
+    "id": 301,
+    "question": "A secondary book of accounts, the information of which is obtained from the journal.",
+    "options": {
+      "a": "Balance sheet",
+      "b": "Ledger",
+      "c": "Receipt",
+      "d": "Invoice"
+    },
+    "answer": "b",
+    "correct_answer_text": "Ledger"
+  },
+  {
+    "id": 302,
+    "question": "In the periodic table of elements, which one of the ff is a light metal?",
+    "options": {
+      "a": "Gold",
+      "b": "Mercury",
+      "c": "Potassium",
+      "d": "Silver"
+    },
+    "answer": "c",
+    "correct_answer_text": "Potassium"
+  },
+  {
+    "id": 303,
+    "question": "What is Article II of Code of Ethics for Electrical Engineers?",
+    "options": {
+      "a": "Professional Life",
+      "b": "Relations with Client and Employer",
+      "c": "Relations with Fellow Engineers",
+      "d": "Penal Provisions"
+    },
+    "answer": "b",
+    "correct_answer_text": "Relations with Client and Employer"
+  },
+  {
+    "id": 304,
+    "question": "With a neutral atom, which of the following is true?",
+    "options": {
+      "a": "the number of protons = the atomic number",
+      "b": "the number of electrons = the atomic weight",
+      "c": "the number of neutrons = the atomic number",
+      "d": "the number of protons = the atomic weight"
+    },
+    "answer": "a",
+    "correct_answer_text": "the number of protons = the atomic number"
+  },
+  {
+    "id": 305,
+    "question": "What do you call a framework composed of members joined at their ends to form a rigid structure?",
+    "options": {
+      "a": "Beam",
+      "b": "Column",
+      "c": "Truss",
+      "d": "Joist"
+    },
+    "answer": "c",
+    "correct_answer_text": "Truss"
+  },
+  {
+    "id": 306,
+    "question": "What do you call the treating of an ore with aqueous reagent to dissolve component selectively?",
+    "options": {
+      "a": "Smelting",
+      "b": "Leaching",
+      "c": "Roasting",
+      "d": "Calcination"
+    },
+    "answer": "b",
+    "correct_answer_text": "Leaching"
+  },
+  {
+    "id": 307,
+    "question": "The ______ when heated decompose to yield water and any hydrous salt.",
+    "options": {
+      "a": "Oxides",
+      "b": "Hydrates",
+      "c": "Sulfates",
+      "d": "Chlorides"
+    },
+    "answer": "b",
+    "correct_answer_text": "Hydrates"
+  },
+  {
+    "id": 308,
+    "question": "During chemical reaction, bonds between atoms are broken and new bonds are usually formed. What do you call the starting substance?",
+    "options": {
+      "a": "Products",
+      "b": "Reactants",
+      "c": "Catalysts",
+      "d": "Solvents"
+    },
+    "answer": "b",
+    "correct_answer_text": "Reactants"
+  },
+  {
+    "id": 309,
+    "question": "Silicate mineral having the characteristic properties of fibrous structure and fire resistance.",
+    "options": {
+      "a": "Mica",
+      "b": "Asbestos",
+      "c": "Quartz",
+      "d": "Silica"
+    },
+    "answer": "b",
+    "correct_answer_text": "Asbestos"
+  },
+  {
+    "id": 310,
+    "question": "Following the production of condensation of a region are formed in which the pressure are lower than the equilibrium value. What will this be?",
+    "options": {
+      "a": "Compression",
+      "b": "Rarefaction",
+      "c": "Reflection",
+      "d": "Diffraction"
+    },
+    "answer": "b",
+    "correct_answer_text": "Rarefaction"
+  },
+  {
+    "id": 311,
+    "question": "Metal that contains both cementite and graphite and is between the gray and white irons in composition and performance.",
+    "options": {
+      "a": "Ductile iron",
+      "b": "Mottled iron",
+      "c": "Malleable iron",
+      "d": "Pig iron"
+    },
+    "answer": "b",
+    "correct_answer_text": "Mottled iron"
+  },
+  {
+    "id": 312,
+    "question": "Relation between volume and temperature at constant pressure.",
+    "options": {
+      "a": "Boyle's Law",
+      "b": "Charles's Law",
+      "c": "Gay-Lussac's Law",
+      "d": "Dalton's Law"
+    },
+    "answer": "b",
+    "correct_answer_text": "Charles's Law"
+  },
+  {
+    "id": 313,
+    "question": "A ______ is a programmable multi-use machine that accepts data-raw facts and figures, and processes or manipulates it into information.",
+    "options": {
+      "a": "Calculator",
+      "b": "computer",
+      "c": "Processor",
+      "d": "Server"
+    },
+    "answer": "b",
+    "correct_answer_text": "computer"
+  },
+  {
+    "id": 314,
+    "question": "A ______ is one in which all microcomputers and other communication devices are connected in a continuous loop.",
+    "options": {
+      "a": "Star Network",
+      "b": "Ring Network",
+      "c": "Bus Network",
+      "d": "Mesh Network"
+    },
+    "answer": "b",
+    "correct_answer_text": "Ring Network"
+  },
+  {
+    "id": 315,
+    "question": "______ is a technology consists of electromagnetic devices and system for communicating over long distances.",
+    "options": {
+      "a": "Broadcasting",
+      "b": "Telecommunication",
+      "c": "Networking",
+      "d": "Computing"
+    },
+    "answer": "b",
+    "correct_answer_text": "Telecommunication"
+  },
+  {
+    "id": 316,
+    "question": "What is the term used to describe hydrocarbons containing single covalent bonds between carbon atoms.",
+    "options": {
+      "a": "Alkanes",
+      "b": "Alkenes",
+      "c": "Alkynes",
+      "d": "Aromatics"
+    },
+    "answer": "a",
+    "correct_answer_text": "Alkanes"
+  },
+  {
+    "id": 317,
+    "question": "Deviation edge from edge straightness. It is usually the maximum deviation of an edge from a straight line of given length.",
+    "options": {
+      "a": "Bow",
+      "b": "Camber",
+      "c": "Warp",
+      "d": "Twist"
+    },
+    "answer": "b",
+    "correct_answer_text": "Camber"
+  },
+  {
+    "id": 318,
+    "question": "Adding more solute to an already saturated solution will cause the excess solute to settle down to the bottom. What is this called?",
+    "options": {
+      "a": "Crystallization",
+      "b": "Precipitation",
+      "c": "Dissolution",
+      "d": "Sedimentation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Precipitation"
+  },
+  {
+    "id": 319,
+    "question": "The distance between two successive maxima or between any two successive points in the same phase is",
+    "options": {
+      "a": "amplitude",
+      "b": "wave length",
+      "c": "frequency",
+      "d": "period"
+    },
+    "answer": "b",
+    "correct_answer_text": "wave length"
+  },
+  {
+    "id": 320,
+    "question": "The maximum potential gradient that the material can withstand without rupture.",
+    "options": {
+      "a": "Potential strength",
+      "b": "Dielectric strength",
+      "c": "Breakdown voltage",
+      "d": "Insulation level"
+    },
+    "answer": "b",
+    "correct_answer_text": "Dielectric strength"
+  },
+  {
+    "id": 321,
+    "question": "Carbon or alloy steel are capable of being hardened and tempered are used for",
+    "options": {
+      "a": "Structural steel",
+      "b": "Tool steel",
+      "c": "Mild steel",
+      "d": "Stainless steel"
+    },
+    "answer": "b",
+    "correct_answer_text": "Tool steel"
+  },
+  {
+    "id": 322,
+    "question": "Whenever a body capable of oscillating is acted on by a periodic series of impulses having frequency equal to the natural frequency, the vibration amplitude is large. This refers to",
+    "options": {
+      "a": "Interference",
+      "b": "Resonance",
+      "c": "Diffraction",
+      "d": "Polarization"
+    },
+    "answer": "b",
+    "correct_answer_text": "Resonance"
+  },
+  {
+    "id": 323,
+    "question": "Waves that travel through some material medium as it displayed from an equilibrium state is?",
+    "options": {
+      "a": "Electromagnetic wave",
+      "b": "Mechanical wave",
+      "c": "Radio wave",
+      "d": "Light wave"
+    },
+    "answer": "b",
+    "correct_answer_text": "Mechanical wave"
+  },
+  {
+    "id": 324,
+    "question": "______ is a way of writing the operating coder so they may be easily translated into machine coded or direct computer instruction.",
+    "options": {
+      "a": "High-level language",
+      "b": "Assembly language",
+      "c": "Binary code",
+      "d": "Scripting language"
+    },
+    "answer": "b",
+    "correct_answer_text": "Assembly language"
+  },
+  {
+    "id": 325,
+    "question": "Maximum amount by which pressure differ from an atmospheric pressure is",
+    "options": {
+      "a": "Gauge pressure",
+      "b": "Pressure amplitude",
+      "c": "Absolute pressure",
+      "d": "Vacuum pressure"
+    },
+    "answer": "b",
+    "correct_answer_text": "Pressure amplitude"
+  },
+  {
+    "id": 326,
+    "question": "Waterglass is a mixture of",
+    "options": {
+      "a": "Sodium carbonate",
+      "b": "Sodium silicate",
+      "c": "Calcium silicate",
+      "d": "Potassium silicate"
+    },
+    "answer": "b",
+    "correct_answer_text": "Sodium silicate"
+  },
+  {
+    "id": 327,
+    "question": "Network particle allow two or more pc to communicate unto network with the same language then commercially accepted standard.",
+    "options": {
+      "a": "TCP/IP",
+      "b": "OSI",
+      "c": "HTTP",
+      "d": "FTP"
+    },
+    "answer": "b",
+    "correct_answer_text": "OSI"
+  },
+  {
+    "id": 328,
+    "question": "What is the reason why Styrofoam is a good insulating material?",
+    "options": {
+      "a": "it is a solid",
+      "b": "it contains many tiny pockets of air.",
+      "c": "it reflects heat",
+      "d": "it has high density"
+    },
+    "answer": "b",
+    "correct_answer_text": "it contains many tiny pockets of air."
+  },
+  {
+    "id": 329,
+    "question": "Which of the ff statements about entropy is FALSE?",
+    "options": {
+      "a": "An irreversible process increases entropy of the universe.",
+      "b": "Entropy of a crystal at 0 deg F is zero.",
+      "c": "Net entropy change in any closed cycle is zero.",
+      "d": "Entropy has the units of heat capacity."
+    },
+    "answer": "b",
+    "correct_answer_text": "b"
+  },
+  {
+    "id": 330,
+    "question": "A ______ is formed when a pair of electrons are shared between atoms.",
+    "options": {
+      "a": "ionic bond",
+      "b": "covalent bond",
+      "c": "metallic bond",
+      "d": "hydrogen bond"
+    },
+    "answer": "b",
+    "correct_answer_text": "covalent bond"
+  },
+  {
+    "id": 331,
+    "question": "Binary system uses a power of ______ for positional value.",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "8",
+      "d": "10"
+    },
+    "answer": "b",
+    "correct_answer_text": "2"
+  },
+  {
+    "id": 332,
+    "question": "What does the prefix peta refer to?",
+    "options": {
+      "a": "10^12",
+      "b": "10^15",
+      "c": "10^18",
+      "d": "10^9"
+    },
+    "answer": "b",
+    "correct_answer_text": "10^15"
+  },
+  {
+    "id": 333,
+    "question": "The moment of inertia of any plane figure can be expressed in units of length to the",
+    "options": {
+      "a": "Second power",
+      "b": "Third power",
+      "c": "Fourth power",
+      "d": "Fifth power"
+    },
+    "answer": "c",
+    "correct_answer_text": "Fourth power"
+  },
+  {
+    "id": 334,
+    "question": "This refers to energy-consuming equipment including motors, heaters, and other devices which utilize electric energy.",
+    "options": {
+      "a": "Supply equipment",
+      "b": "Utilization equipment",
+      "c": "Service equipment",
+      "d": "Control equipment"
+    },
+    "answer": "b",
+    "correct_answer_text": "Utilization equipment"
+  },
+  {
+    "id": 335,
+    "question": "When exposed to the atmosphere, what liquid is coldest?",
+    "options": {
+      "a": "Nitrogen",
+      "b": "Oxygen",
+      "c": "helium",
+      "d": "Hydrogen"
+    },
+    "answer": "c",
+    "correct_answer_text": "helium"
+  },
+  {
+    "id": 336,
+    "question": "Aluminum is hardened by",
+    "options": {
+      "a": "quenching",
+      "b": "precipitation hardening (age-hardening) process",
+      "c": "annealing",
+      "d": "tempering"
+    },
+    "answer": "b",
+    "correct_answer_text": "precipitation hardening (age-hardening) process"
+  },
+  {
+    "id": 337,
+    "question": "A flexible chain of weight W hangs between two hooks at the same height. At the end, it makes an angle phi with horizontal. What is the force F exerted on the hook?",
+    "options": {
+      "a": "W/sinphi",
+      "b": "W/2sinphi",
+      "c": "W/cosphi",
+      "d": "W/2cosphi"
+    },
+    "answer": "b",
+    "correct_answer_text": "W/2sinphi"
+  },
+  {
+    "id": 338,
+    "question": "The binary coding scheme most commonly used in microcomputers is",
+    "options": {
+      "a": "EBCDIC",
+      "b": "ASCII",
+      "c": "BCD",
+      "d": "Gray code"
+    },
+    "answer": "b",
+    "correct_answer_text": "ASCII"
+  },
+  {
+    "id": 339,
+    "question": "A ______ is a device that merges several low speed transmission into high speed transmission.",
+    "options": {
+      "a": "modem",
+      "b": "multiplexer",
+      "c": "router",
+      "d": "bridge"
+    },
+    "answer": "b",
+    "correct_answer_text": "multiplexer"
+  },
+  {
+    "id": 340,
+    "question": "Rule 2 (e) of Article I defining?",
+    "options": {
+      "a": "CPE Continuing Professional Education",
+      "b": "CPE Continuing Education Program",
+      "c": "CPE Certified Professional Education",
+      "d": "CPE Career Professional Education"
+    },
+    "answer": "b",
+    "correct_answer_text": "CPE Continuing Education Program"
+  },
+  {
+    "id": 341,
+    "question": "What is the term used to describe the heating of an ore to bring about its decomposition and the elimination of a volatile product?",
+    "options": {
+      "a": "Smelting",
+      "b": "Calcination",
+      "c": "Roasting",
+      "d": "Sintering"
+    },
+    "answer": "b",
+    "correct_answer_text": "Calcination"
+  },
+  {
+    "id": 342,
+    "question": "The Code of Ethics for Electrical Engineers was approved under Board Resolution No. ______ series of 1995.",
+    "options": {
+      "a": "10",
+      "b": "18",
+      "c": "22",
+      "d": "30"
+    },
+    "answer": "c",
+    "correct_answer_text": "22"
+  },
+  {
+    "id": 343,
+    "question": "Section 18 (4) of Article III: Registered Master Electrician requires completion of 4 year high school and record of at least how many years of electrical practice?",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "1",
+      "d": "2"
+    },
+    "answer": "b",
+    "correct_answer_text": "5"
+  },
+  {
+    "id": 344,
+    "question": "The ratio of the moment of inertia of the cross section of a beam to the section modulus is",
+    "options": {
+      "a": "a measure of force",
+      "b": "a measure of distance",
+      "c": "a measure of stress",
+      "d": "a measure of area"
+    },
+    "answer": "b",
+    "correct_answer_text": "a measure of distance"
+  },
+  {
+    "id": 345,
+    "question": "RA 7920 Rule 2 (k) is defining?",
+    "options": {
+      "a": "PEE",
+      "b": "ME-Master Electrician -Those who were registered such as under RA 7920",
+      "c": "REE",
+      "d": "Asst EE"
+    },
+    "answer": "b",
+    "correct_answer_text": "ME-Master Electrician -Those who were registered such as under RA 7920"
+  },
+  {
+    "id": 346,
+    "question": "RA 7920 Rule 2 (l) defining?",
+    "options": {
+      "a": "PEE",
+      "b": "RME - Registered Master Electrician",
+      "c": "REE",
+      "d": "ME"
+    },
+    "answer": "b",
+    "correct_answer_text": "RME - Registered Master Electrician"
+  },
+  {
+    "id": 347,
+    "question": "Rule 4 mandate the duties and responsibilities of the board performance of its own powers, duties, functions and responsibilities set forth.",
+    "options": {
+      "a": "Inspection and Audit",
+      "b": "Enforcement and Execution",
+      "c": "Rule-making",
+      "d": "Quasi-judicial"
+    },
+    "answer": "b",
+    "correct_answer_text": "Enforcement and Execution"
+  },
+  {
+    "id": 348,
+    "question": "A thin walled pressurized vessel consists of a right circular cylinder. Midway between the ends the stress is greatest in what direction?",
+    "options": {
+      "a": "Longitudinal",
+      "b": "Circumferential",
+      "c": "Radial",
+      "d": "Axial"
+    },
+    "answer": "b",
+    "correct_answer_text": "Circumferential"
+  },
+  {
+    "id": 349,
+    "question": "Poisson's ratio is principally used in",
+    "options": {
+      "a": "one-dimensional stress",
+      "b": "stress-strain relationships where stresses are applied in more than one direction",
+      "c": "thermal expansion",
+      "d": "fluid flow"
+    },
+    "answer": "b",
+    "correct_answer_text": "stress-strain relationships where stresses are applied in more than one direction"
+  },
+  {
+    "id": 350,
+    "question": "______ is an operating system for multiple users, with built-in networking capability to run multiple task at one time.",
+    "options": {
+      "a": "DOS",
+      "b": "UNIX",
+      "c": "Windows",
+      "d": "MacOS"
+    },
+    "answer": "b",
+    "correct_answer_text": "UNIX"
+  },
+  {
+    "id": 351,
+    "question": "The executive officer of the Board of Electrical Engineering is",
+    "options": {
+      "a": "DOE Secretary",
+      "b": "PRC Commissioner",
+      "c": "IIEE President",
+      "d": "Board Chairman"
+    },
+    "answer": "b",
+    "correct_answer_text": "PRC Commissioner"
+  },
+  {
+    "id": 352,
+    "question": "Entropy is the measure of",
+    "options": {
+      "a": "heat capacity",
+      "b": "randomness or disorder",
+      "c": "available energy",
+      "d": "internal energy"
+    },
+    "answer": "b",
+    "correct_answer_text": "randomness or disorder"
+  },
+  {
+    "id": 353,
+    "question": "Fluids like oil, gasoline, water, alcohol are Newtonian fluids.",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Only at high pressure",
+      "d": "Only at low temperature"
+    },
+    "answer": "a",
+    "correct_answer_text": "True"
+  },
+  {
+    "id": 354,
+    "question": "Structural steel elements subjected to torsion develop",
+    "options": {
+      "a": "compressive stress",
+      "b": "shearing stress",
+      "c": "tensile stress",
+      "d": "bending stress"
+    },
+    "answer": "b",
+    "correct_answer_text": "shearing stress"
+  },
+  {
+    "id": 355,
+    "question": "RA 7920, Rule 2 (i) defining?",
+    "options": {
+      "a": "PEE",
+      "b": "ASST. EE",
+      "c": "REE",
+      "d": "RME"
+    },
+    "answer": "b",
+    "correct_answer_text": "ASST. EE"
+  },
+  {
+    "id": 356,
+    "question": "Enthalpy of an ideal gas is a function of",
+    "options": {
+      "a": "pressure",
+      "b": "temperature",
+      "c": "volume",
+      "d": "mass"
+    },
+    "answer": "b",
+    "correct_answer_text": "temperature"
+  },
+  {
+    "id": 357,
+    "question": "If Fahrenheit and Celsius thermometers show identical numerical readings, what is the temperature in Kelvin?",
+    "options": {
+      "a": "273",
+      "b": "233",
+      "c": "0",
+      "d": "40"
+    },
+    "answer": "b",
+    "correct_answer_text": "233"
+  },
+  {
+    "id": 358,
+    "question": "Compared to gases and liquids, solids are ______ reactive.",
+    "options": {
+      "a": "more",
+      "b": "less",
+      "c": "equally",
+      "d": "not"
+    },
+    "answer": "b",
+    "correct_answer_text": "less"
+  },
+  {
+    "id": 359,
+    "question": "The linear portion of the stress-strain diagram of steel is known as the",
+    "options": {
+      "a": "plastic range",
+      "b": "elastic range",
+      "c": "yield point",
+      "d": "ultimate strength"
+    },
+    "answer": "b",
+    "correct_answer_text": "elastic range"
+  },
+  {
+    "id": 360,
+    "question": "The state of a thermodynamic system is always defined by its",
+    "options": {
+      "a": "process",
+      "b": "properties",
+      "c": "surroundings",
+      "d": "path"
+    },
+    "answer": "b",
+    "correct_answer_text": "properties"
+  },
+  {
+    "id": 361,
+    "question": "Article IV, Rule Requirements for examination as a REE.",
+    "options": {
+      "a": "14",
+      "b": "16",
+      "c": "17",
+      "d": "18"
+    },
+    "answer": "b",
+    "correct_answer_text": "16"
+  },
+  {
+    "id": 362,
+    "question": "Which of the ff is a member of the halogen family?",
+    "options": {
+      "a": "Sodium",
+      "b": "Fluorine",
+      "c": "Phosphorous",
+      "d": "Hydrogen"
+    },
+    "answer": "b",
+    "correct_answer_text": "b"
+  },
+  {
+    "id": 363,
+    "question": "In fluid flow, if the fluid travels parallel to the adjacent layers and paths do not cross, the flow is",
+    "options": {
+      "a": "turbulent",
+      "b": "laminar",
+      "c": "steady",
+      "d": "uniform"
+    },
+    "answer": "b",
+    "correct_answer_text": "laminar"
+  },
+  {
+    "id": 364,
+    "question": "What allow to choose command from menu?",
+    "options": {
+      "a": "Command line interface",
+      "b": "Menu driven interface",
+      "c": "Graphical user interface",
+      "d": "Physical interface"
+    },
+    "answer": "b",
+    "correct_answer_text": "Menu driven interface"
+  },
+  {
+    "id": 365,
+    "question": "Computers in a network connected to a central hub is",
+    "options": {
+      "a": "Ring Network",
+      "b": "Star Network",
+      "c": "Bus Network",
+      "d": "Mesh Network"
+    },
+    "answer": "b",
+    "correct_answer_text": "Star Network"
+  },
+  {
+    "id": 366,
+    "question": "It is the most prevalent engineering metal due to abundance, low cost, and predictable performance.",
+    "options": {
+      "a": "copper",
+      "b": "steel",
+      "c": "aluminum",
+      "d": "iron"
+    },
+    "answer": "b",
+    "correct_answer_text": "steel"
+  },
+  {
+    "id": 367,
+    "question": "A processing system is a processor limiter when sorting of small tables in memory would speed up computations?",
+    "options": {
+      "a": "Increasing RAM",
+      "b": "Adding cache memory",
+      "c": "Faster CPU",
+      "d": "SSD upgrade"
+    },
+    "answer": "b",
+    "correct_answer_text": "Adding cache memory"
+  },
+  {
+    "id": 368,
+    "question": "An airtight closed box of weight P is suspended from a spring balance. A bird of weight W flies inside without accelerating. What is the reading?",
+    "options": {
+      "a": "P",
+      "b": "P+W",
+      "c": "P-W",
+      "d": "W"
+    },
+    "answer": "b",
+    "correct_answer_text": "P+W"
+  },
+  {
+    "id": 369,
+    "question": "What group of steels are high-carbon, high-chromium tool steels suitable for cold working applications?",
+    "options": {
+      "a": "Group A",
+      "b": "Group D",
+      "c": "Group H",
+      "d": "Group T"
+    },
+    "answer": "b",
+    "correct_answer_text": "Group D"
+  },
+  {
+    "id": 370,
+    "question": "Rule 4, Article III states that the Board shall rely on review, approval, and advice of the ______ through the latter's offices.",
+    "options": {
+      "a": "Commission",
+      "b": "President",
+      "c": "Secretary",
+      "d": "Congress"
+    },
+    "answer": "a",
+    "correct_answer_text": "Commission"
+  },
+  {
+    "id": 371,
+    "question": "In Rule I of Article I defining?",
+    "options": {
+      "a": "the code of ethics",
+      "b": "the new rules and regulations of the REE",
+      "c": "the definitions of terms",
+      "d": "the powers of the board"
+    },
+    "answer": "b",
+    "correct_answer_text": "the new rules and regulations of the REE"
+  },
+  {
+    "id": 372,
+    "question": "Article II contains",
+    "options": {
+      "a": "SEC 1 to 2",
+      "b": "SEC 3 to 9",
+      "c": "SEC 10 to 30",
+      "d": "SEC 31 to 45"
+    },
+    "answer": "b",
+    "correct_answer_text": "SEC 3 to 9"
+  },
+  {
+    "id": 373,
+    "question": "Article III contains",
+    "options": {
+      "a": "SEC 3 to 9",
+      "b": "SEC 10 to 30",
+      "c": "SEC 31 to 40",
+      "d": "SEC 41 to 45"
+    },
+    "answer": "b",
+    "correct_answer_text": "SEC 10 to 30"
+  },
+  {
+    "id": 374,
+    "question": "Under the Penalty Clause of RA 7920: The fine shall be",
+    "options": {
+      "a": "not less than P10,000",
+      "b": "not more than P50,000",
+      "c": "not less than P5,000",
+      "d": "exactly P100,000"
+    },
+    "answer": "b",
+    "correct_answer_text": "not more than P50,000"
+  },
+  {
+    "id": 375,
+    "question": "An Electrical Engineer should avoid situation in which he has financial interest to avoid",
+    "options": {
+      "a": "overcharging",
+      "b": "conflict of interest",
+      "c": "bribery",
+      "d": "tax evasion"
+    },
+    "answer": "b",
+    "correct_answer_text": "conflict of interest"
+  },
+  {
+    "id": 376,
+    "question": "Section 6 of Article III states: An Electrical Engineer shall have due regard at all ______ for the safety of the life and property.",
+    "options": {
+      "a": "costs",
+      "b": "times",
+      "c": "places",
+      "d": "work"
+    },
+    "answer": "b",
+    "correct_answer_text": "times"
+  },
+  {
+    "id": 377,
+    "question": "A Carnot cycle operates at maximum thermal efficiency. This is one of the useful statement in the second law of thermodynamics.",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Only for ideal gases",
+      "d": "Only for steam"
+    },
+    "answer": "a",
+    "correct_answer_text": "True"
+  },
+  {
+    "id": 378,
+    "question": "RISC means?",
+    "options": {
+      "a": "Reduced Information Set Computing",
+      "b": "Reduce Instruction Set Computing",
+      "c": "Rapid Instruction Set Computer",
+      "d": "Reliable Integrated System Core"
+    },
+    "answer": "b",
+    "correct_answer_text": "Reduce Instruction Set Computing"
+  },
+  {
+    "id": 379,
+    "question": "Salt, water, rubber, iron rust are called",
+    "options": {
+      "a": "elements",
+      "b": "chemical compound",
+      "c": "mixtures",
+      "d": "alloys"
+    },
+    "answer": "b",
+    "correct_answer_text": "chemical compound"
+  },
+  {
+    "id": 380,
+    "question": "Is the worth of the property which is equal to the original cost less the amount which has been charged to depreciation.",
+    "options": {
+      "a": "Market Value",
+      "b": "Book Value",
+      "c": "Salvage Value",
+      "d": "Use Value"
+    },
+    "answer": "b",
+    "correct_answer_text": "Book Value"
+  },
+  {
+    "id": 381,
+    "question": "What is the ideal gas law?",
+    "options": {
+      "a": "P/V=RT",
+      "b": "PV=nRT",
+      "c": "V/T=PR",
+      "d": "PT=nRV"
+    },
+    "answer": "b",
+    "correct_answer_text": "PV=nRT"
+  },
+  {
+    "id": 382,
+    "question": "What is a substance that cannot be decomposed into simpler substances during ordinary chemical reactions?",
+    "options": {
+      "a": "Compound",
+      "b": "Element",
+      "c": "Mixture",
+      "d": "Alloy"
+    },
+    "answer": "b",
+    "correct_answer_text": "Element"
+  },
+  {
+    "id": 383,
+    "question": "Is a secondary storage medium, generally non-removable disk made out of metal and covered with a magnetic recording surface.",
+    "options": {
+      "a": "RAM",
+      "b": "Hard Disk",
+      "c": "Flash Drive",
+      "d": "CD-ROM"
+    },
+    "answer": "b",
+    "correct_answer_text": "Hard Disk"
+  },
+  {
+    "id": 384,
+    "question": "Section 18 (1) of Article III states that RME applicant requires at least 3 years of 5 year BSEE program and how many years of practice?",
+    "options": {
+      "a": "2",
+      "b": "1",
+      "c": "3",
+      "d": "5"
+    },
+    "answer": "b",
+    "correct_answer_text": "1"
+  },
+  {
+    "id": 385,
+    "question": "The purpose of nickel in steel alloying is to increase",
+    "options": {
+      "a": "ductility and softness",
+      "b": "toughness, hardness, corrosion resistance and reduce thermal expansion",
+      "c": "brittleness",
+      "d": "conductivity"
+    },
+    "answer": "b",
+    "correct_answer_text": "toughness, hardness, corrosion resistance and reduce thermal expansion"
+  },
+  {
+    "id": 386,
+    "question": "The purpose of phosphorous in steel alloying is to",
+    "options": {
+      "a": "increase ductility",
+      "b": "increase hardness and corrosion resistance",
+      "c": "decrease strength",
+      "d": "increase conductivity"
+    },
+    "answer": "b",
+    "correct_answer_text": "increase hardness and corrosion resistance"
+  },
+  {
+    "id": 387,
+    "question": "The purpose of vanadium in steel alloying is to",
+    "options": {
+      "a": "decrease hardness",
+      "b": "increase strength",
+      "c": "increase weight",
+      "d": "increase ductility"
+    },
+    "answer": "b",
+    "correct_answer_text": "increase strength"
+  },
+  {
+    "id": 388,
+    "question": "An instrument use to measure pressure by using the height-pressure relationships.",
+    "options": {
+      "a": "Barometer",
+      "b": "manometer",
+      "c": "Pyrometer",
+      "d": "Hygrometer"
+    },
+    "answer": "b",
+    "correct_answer_text": "manometer"
+  },
+  {
+    "id": 389,
+    "question": "Acid solution turns litmus paper into",
+    "options": {
+      "a": "blue",
+      "b": "red",
+      "c": "yellow",
+      "d": "green"
+    },
+    "answer": "b",
+    "correct_answer_text": "red"
+  },
+  {
+    "id": 390,
+    "question": "Desktop Publishing combines digital text and images to produce a high quality output. What is used?",
+    "options": {
+      "a": "Mainframe",
+      "b": "Desktop Publishing",
+      "c": "Spreadsheet",
+      "d": "Database"
+    },
+    "answer": "b",
+    "correct_answer_text": "Desktop Publishing"
+  },
+  {
+    "id": 391,
+    "question": "What does the prefix atto refer to?",
+    "options": {
+      "a": "10^-12",
+      "b": "10^-18",
+      "c": "10^-15",
+      "d": "10^-9"
+    },
+    "answer": "b",
+    "correct_answer_text": "10^-18"
+  },
+  {
+    "id": 392,
+    "question": "Rule 2 (P), Article I defines",
+    "options": {
+      "a": "CHED",
+      "b": "TESDA",
+      "c": "DECS",
+      "d": "PRC"
+    },
+    "answer": "b",
+    "correct_answer_text": "TESDA"
+  },
+  {
+    "id": 393,
+    "question": "RA 7920, Rule 3 defines:",
+    "options": {
+      "a": "Code of Ethics",
+      "b": "PEE Official Seal",
+      "c": "Examination Syllabus",
+      "d": "Licensing Fees"
+    },
+    "answer": "b",
+    "correct_answer_text": "PEE Official Seal"
+  },
+  {
+    "id": 394,
+    "question": "What sections are included in Article V, Transitory Provisions?",
+    "options": {
+      "a": "31 to 40",
+      "b": "41 to 42",
+      "c": "43 to 45",
+      "d": "1 to 5"
+    },
+    "answer": "b",
+    "correct_answer_text": "41 to 42"
+  },
+  {
+    "id": 395,
+    "question": "Vacancies of the Board seat shall be filled by the ______ from the list of recommendees.",
+    "options": {
+      "a": "PRC Commissioner",
+      "b": "President of the Philippines",
+      "c": "IIEE Board",
+      "d": "Senate President"
+    },
+    "answer": "b",
+    "correct_answer_text": "President of the Philippines"
+  },
+  {
+    "id": 396,
+    "question": "Article III, Section 6 states: An electrical engineer shall not alter or improve electrical plans signed by another PEE without the latter's ______.",
+    "options": {
+      "a": "knowledge",
+      "b": "written consent",
+      "c": "verbal permission",
+      "d": "payment"
+    },
+    "answer": "b",
+    "correct_answer_text": "written consent or permission"
+  },
+  {
+    "id": 397,
+    "question": "Section 5 (b) of Article II: Qualifications of Members of the Board requires an age of at least",
+    "options": {
+      "a": "21",
+      "b": "35",
+      "c": "40",
+      "d": "50"
+    },
+    "answer": "b",
+    "correct_answer_text": "be at least 35 years of age"
+  },
+  {
+    "id": 398,
+    "question": "Section 18 (2) of Article III states that RME applicant graduated from 2 year electricians course needs record of how many years of apprenticeship?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "5"
+    },
+    "answer": "b",
+    "correct_answer_text": "2"
+  },
+  {
+    "id": 399,
+    "question": "A tiny electrically operated switch that can alternate between on and off many million of times per second.",
+    "options": {
+      "a": "Diode",
+      "b": "Transistor",
+      "c": "Capacitor",
+      "d": "Resistor"
+    },
+    "answer": "b",
+    "correct_answer_text": "Transistor"
+  },
+  {
+    "id": 400,
+    "question": "On personal computers the data storage device with the largest capacity is most likely to be",
+    "options": {
+      "a": "RAM",
+      "b": "Hard Disk",
+      "c": "Cache",
+      "d": "ROM"
+    },
+    "answer": "b",
+    "correct_answer_text": "Hard Disk"
+  },
+  {
+    "id": 401,
+    "question": "What is the subject that encompasses the procurement and production of metals?",
+    "options": {
+      "a": "Geology",
+      "b": "Metallurgy",
+      "c": "Mineralogy",
+      "d": "Mining"
+    },
+    "answer": "b",
+    "correct_answer_text": "Metallurgy"
+  },
+  {
+    "id": 402,
+    "question": "The refined molten steel batch is known as",
+    "options": {
+      "a": "ingot",
+      "b": "heat of steel",
+      "c": "molten charge",
+      "d": "slag"
+    },
+    "answer": "b",
+    "correct_answer_text": "heat of steel"
+  },
+  {
+    "id": 403,
+    "question": "What group of steels are tungsten high-speed tools steels that maintain a sharp hard cutting edge at temperatures in excess of 1000 deg F?",
+    "options": {
+      "a": "Group M",
+      "b": "Group T",
+      "c": "Group W",
+      "d": "Group S"
+    },
+    "answer": "b",
+    "correct_answer_text": "Group T"
+  },
+  {
+    "id": 404,
+    "question": "Which one of the ff elements is NOT radioactive?",
+    "options": {
+      "a": "Californium",
+      "b": "Cobalt",
+      "c": "Plutonium",
+      "d": "Uranium"
+    },
+    "answer": "b",
+    "correct_answer_text": "b"
+  },
+  {
+    "id": 405,
+    "question": "What do the prefix pico refer to?",
+    "options": {
+      "a": "10^-9",
+      "b": "10^-12",
+      "c": "10^-15",
+      "d": "10^-18"
+    },
+    "answer": "b",
+    "correct_answer_text": "10^-12"
+  },
+  {
+    "id": 406,
+    "question": "Resides the main memory while the computer is on and directs other application.",
+    "options": {
+      "a": "Records",
+      "b": "Files",
+      "c": "Drivers",
+      "d": "Folders"
+    },
+    "answer": "b",
+    "correct_answer_text": "Files"
+  },
+  {
+    "id": 407,
+    "question": "Communication channel that can communicate in 2 directions but 1 direction at a time.",
+    "options": {
+      "a": "simplex communication",
+      "b": "duplex communication",
+      "c": "half-duplex communication",
+      "d": "full-duplex communication"
+    },
+    "answer": "b",
+    "correct_answer_text": "duplex communication"
+  },
+  {
+    "id": 408,
+    "question": "How does an adiabatic process compare to an isentropic process?",
+    "options": {
+      "a": "both: heat transfer = 0; isentropic: reversible",
+      "b": "both: reversible; isentropic: heat transfer = 0",
+      "c": "both: work = 0; isentropic: constant pressure",
+      "d": "both: constant temperature; isentropic: adiabatic"
+    },
+    "answer": "a",
+    "correct_answer_text": "both heat transfer = 0; isentropic: reversible"
+  },
+  {
+    "id": 409,
+    "question": "An oil with kinematic viscosity of 0.005 ft^2/sec flows at 10 ft/sec through a 3-inch pipe. Is the flow laminar or turbulent?",
+    "options": {
+      "a": "the flow is turbulent",
+      "b": "the flow is laminar",
+      "c": "the flow is transitional",
+      "d": "the flow is sonic"
+    },
+    "answer": "b",
+    "correct_answer_text": "the flow is laminar"
+  },
+  {
+    "id": 410,
+    "question": "The mass of a certain object is 10 gm. What would its mass be if taken to the planet mars?",
+    "options": {
+      "a": "3.8 gm",
+      "b": "10 gm",
+      "c": "38 gm",
+      "d": "0 gm"
+    },
+    "answer": "b",
+    "correct_answer_text": "10 gm"
+  },
+  {
+    "id": 411,
+    "question": "What group of steels are air-hardened, medium alloy cold work tool steels?",
+    "options": {
+      "a": "Group D",
+      "b": "Group A",
+      "c": "Group O",
+      "d": "Group S"
+    },
+    "answer": "b",
+    "correct_answer_text": "Group A"
+  },
+  {
+    "id": 412,
+    "question": "All isotopes of the same element have",
+    "options": {
+      "a": "equal number of neutrons",
+      "b": "equal number of protons",
+      "c": "equal atomic mass",
+      "d": "equal number of nucleons"
+    },
+    "answer": "b",
+    "correct_answer_text": "equal number of protons"
+  },
+  {
+    "id": 413,
+    "question": "Is the worth of the property as shown in the accounting records.",
+    "options": {
+      "a": "Market Value",
+      "b": "Book Value",
+      "c": "Salvage Value",
+      "d": "Appraised Value"
+    },
+    "answer": "b",
+    "correct_answer_text": "Book Value"
+  },
+  {
+    "id": 414,
+    "question": "Who is the chairman of the Board of Electrical Engineering when RA 7920 was approved?",
+    "options": {
+      "a": "Engr. Rafael F. Florentino",
+      "b": "Engr. Paul J. Joseph",
+      "c": "Engr. Roy F. Gil",
+      "d": "Engr. Jose B. Blanco"
+    },
+    "answer": "a",
+    "correct_answer_text": "Engr. Rafael F. Florentino"
+  },
+  {
+    "id": 415,
+    "question": "All papers, communications, certificates, decisions or other documents shall be solely and exclusively acted upon by the Board within the premises of the",
+    "options": {
+      "a": "IIEE",
+      "b": "Commission",
+      "c": "Department of Energy",
+      "d": "Senate"
+    },
+    "answer": "b",
+    "correct_answer_text": "Commission"
+  },
+  {
+    "id": 416,
+    "question": "The Board of Electrical Engineering is empowered to maintain high professional, technical and ______ standards.",
+    "options": {
+      "a": "social",
+      "b": "ethical",
+      "c": "legal",
+      "d": "cultural"
+    },
+    "answer": "b",
+    "correct_answer_text": "ethical"
+  },
+  {
+    "id": 417,
+    "question": "In Rule 2 (c) defining?",
+    "options": {
+      "a": "Board",
+      "b": "Commissioner the Chairman of the Professional Regulation Commission",
+      "c": "CPE",
+      "d": "TESDA"
+    },
+    "answer": "b",
+    "correct_answer_text": "Commissioner the Chairman of the Professional Regulation Commission"
+  },
+  {
+    "id": 418,
+    "question": "______ is a microscopic piece of silicon that contains thousands of micro-miniature electronic circuit components, mainly transistor.",
+    "options": {
+      "a": "Capacitor",
+      "b": "Microchip",
+      "c": "Resistor",
+      "d": "Inductor"
+    },
+    "answer": "b",
+    "correct_answer_text": "Microchip"
+  },
+  {
+    "id": 419,
+    "question": "The total income equals the operating cost is",
+    "options": {
+      "a": "Profit margin",
+      "b": "Break-even-no-gain-no-loss",
+      "c": "Net income",
+      "d": "Gross revenue"
+    },
+    "answer": "b",
+    "correct_answer_text": "Break-even-no-gain-no-loss"
+  },
+  {
+    "id": 420,
+    "question": "______ is a piece of silicon that contains thousands of micro-miniature electronic circuit components.",
+    "options": {
+      "a": "board",
+      "b": "chip",
+      "c": "processor",
+      "d": "memory"
+    },
+    "answer": "b",
+    "correct_answer_text": "chip"
+  },
+  {
+    "id": 421,
+    "question": "In the periodic table of elements, which of the ff is NOT a transition metals?",
+    "options": {
+      "a": "Copper",
+      "b": "Sodium",
+      "c": "Silver",
+      "d": "Nickel"
+    },
+    "answer": "b",
+    "correct_answer_text": "b"
+  },
+  {
+    "id": 422,
+    "question": "Section 17 (b) of Article III: Qualifications of Applicants for Registered Electrical Engineer, states that an applicant is at least ______ years of age.",
+    "options": {
+      "a": "18",
+      "b": "21",
+      "c": "25",
+      "d": "30"
+    },
+    "answer": "b",
+    "correct_answer_text": "21"
+  },
+  {
+    "id": 423,
+    "question": "Heating of an ore to bring its reaction with furnace atmosphere.",
+    "options": {
+      "a": "Smelting",
+      "b": "Roasting",
+      "c": "Calcination",
+      "d": "Leaching"
+    },
+    "answer": "b",
+    "correct_answer_text": "Roasting"
+  },
+  {
+    "id": 424,
+    "question": "What group of steels are molybdenum high-speed steels?",
+    "options": {
+      "a": "Group T",
+      "b": "Group M",
+      "c": "Group W",
+      "d": "Group S"
+    },
+    "answer": "b",
+    "correct_answer_text": "Group M"
+  },
+  {
+    "id": 425,
+    "question": "No heat can be produced without any losses of heat. This is one of the useful statement of the second law of thermodynamics.",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Depends on the gas",
+      "d": "Only for steam"
+    },
+    "answer": "a",
+    "correct_answer_text": "True"
+  },
+  {
+    "id": 426,
+    "question": "What is H1 in aluminum treatment conditions?",
+    "options": {
+      "a": "annealed",
+      "b": "strain hardened by working to desired dimensions",
+      "c": "solution heat treated",
+      "d": "artificially aged"
+    },
+    "answer": "b",
+    "correct_answer_text": "strain hardened by working to desired dimensions"
+  },
+  {
+    "id": 427,
+    "question": "In the periodic table of elements, which one of the ff elements does NOT belong to group IIA?",
+    "options": {
+      "a": "Calcium",
+      "b": "Sodium",
+      "c": "Radium",
+      "d": "Magnesium"
+    },
+    "answer": "b",
+    "correct_answer_text": "b"
+  },
+  {
+    "id": 428,
+    "question": "What does the prefix tera - refer to?",
+    "options": {
+      "a": "10^9",
+      "b": "10^12",
+      "c": "10^15",
+      "d": "10^18"
+    },
+    "answer": "b",
+    "correct_answer_text": "10^12"
+  },
+  {
+    "id": 429,
+    "question": "For what type of process does the equation dQ = TdS hold?",
+    "options": {
+      "a": "irreversible",
+      "b": "reversible",
+      "c": "isobaric",
+      "d": "isothermal"
+    },
+    "answer": "b",
+    "correct_answer_text": "reversible"
+  },
+  {
+    "id": 430,
+    "question": "What do you add to compensate for the remaining high iron oxide content of the steel?",
+    "options": {
+      "a": "Flux",
+      "b": "Deoxidizers",
+      "c": "Carbon",
+      "d": "Slag"
+    },
+    "answer": "b",
+    "correct_answer_text": "Deoxidizers"
+  },
+  {
+    "id": 431,
+    "question": "What process does not belong to Carnot cycle process?",
+    "options": {
+      "a": "Isothermal expansion",
+      "b": "Irreversible adiabatic compression",
+      "c": "Isothermal compression",
+      "d": "Reversible adiabatic expansion"
+    },
+    "answer": "b",
+    "correct_answer_text": "Irreversible adiabatic comprassion"
+  },
+  {
+    "id": 432,
+    "question": "A parity is also called ______ to check accuracy.",
+    "options": {
+      "a": "data bit",
+      "b": "check bit",
+      "c": "stop bit",
+      "d": "start bit"
+    },
+    "answer": "b",
+    "correct_answer_text": "check bit"
+  },
+  {
+    "id": 433,
+    "question": "A two-way parallel paths which connects the processor and memory containing addresses.",
+    "options": {
+      "a": "data bus",
+      "b": "address bus",
+      "c": "control bus",
+      "d": "I/O bus"
+    },
+    "answer": "b",
+    "correct_answer_text": "address bus"
+  },
+  {
+    "id": 434,
+    "question": "A non-impact printer that forms images with little dots and produce high quality images.",
+    "options": {
+      "a": "dot matrix printer",
+      "b": "ink-jet printer",
+      "c": "laser printer",
+      "d": "thermal printer"
+    },
+    "answer": "b",
+    "correct_answer_text": "ink-jet printer"
+  },
+  {
+    "id": 435,
+    "question": "A software that allows users to have fast and flexible access to large information and documents.",
+    "options": {
+      "a": "spreadsheet",
+      "b": "hypertext",
+      "c": "database",
+      "d": "compiler"
+    },
+    "answer": "b",
+    "correct_answer_text": "hypertext"
+  },
+  {
+    "id": 436,
+    "question": "The effect of Manganese in cast iron is to",
+    "options": {
+      "a": "increase ductility",
+      "b": "reduce hardness by combining with sulfur below 0.5 % and increase hardness above 0.5%",
+      "c": "increase corrosion resistance",
+      "d": "decrease strength"
+    },
+    "answer": "b",
+    "correct_answer_text": "reduce hardness by combining with sulfur below 0.5 % and increase hardness above 0.5%"
+  },
+  {
+    "id": 437,
+    "question": "Section 4 (r) Powers and Duties of the Board of Article II is to coordinate with the Commission and ______ in prescribing courses.",
+    "options": {
+      "a": "DOE",
+      "b": "DECS",
+      "c": "IIEE",
+      "d": "TESDA"
+    },
+    "answer": "b",
+    "correct_answer_text": "Department of Education, Culture and Sports (DECS)"
+  },
+  {
+    "id": 438,
+    "question": "What group of steels are water-hardened tool steels?",
+    "options": {
+      "a": "Group A",
+      "b": "Group W",
+      "c": "Group O",
+      "d": "Group S"
+    },
+    "answer": "b",
+    "correct_answer_text": "Group W"
+  },
+  {
+    "id": 439,
+    "question": "______ is a device converting computer digital signals to analog signals for transmission over copper telephone wires.",
+    "options": {
+      "a": "Router",
+      "b": "Modem",
+      "c": "Switch",
+      "d": "Multiplexer"
+    },
+    "answer": "b",
+    "correct_answer_text": "Modem"
+  },
+  {
+    "id": 440,
+    "question": "It refers to the installed capacity of an AC electric plant or supply equipment expressed in",
+    "options": {
+      "a": "kW",
+      "b": "kVA",
+      "c": "hp",
+      "d": "VAR"
+    },
+    "answer": "b",
+    "correct_answer_text": "kVA"
+  },
+  {
+    "id": 441,
+    "question": "Is a measure of the effectiveness of an investment of a capital.",
+    "options": {
+      "a": "payback period",
+      "b": "Rate of Return",
+      "c": "book value",
+      "d": "net present worth"
+    },
+    "answer": "b",
+    "correct_answer_text": "Rate of Return"
+  },
+  {
+    "id": 442,
+    "question": "A watertight, cubical box 12 inches outside dimensions is made from 1/4 inch plate. If SG=7.7 for the iron, will the box float?",
+    "options": {
+      "a": "the box will sink",
+      "b": "the box will float",
+      "c": "it will be submerged",
+      "d": "it depends on the fluid"
+    },
+    "answer": "b",
+    "correct_answer_text": "the box will float"
+  },
+  {
+    "id": 443,
+    "question": "Section 23 of Article III: Professional license renewal is required every ______ years.",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "5",
+      "d": "1"
+    },
+    "answer": "b",
+    "correct_answer_text": "3"
+  },
+  {
+    "id": 444,
+    "question": "Section 33 of Article IV: Sundry Provisions Relative to Practice of Electrical Engineering states that",
+    "options": {
+      "a": "Prohibitions",
+      "b": "Personnel required",
+      "c": "Fees",
+      "d": "Ethics"
+    },
+    "answer": "b",
+    "correct_answer_text": "Personnel required"
+  },
+  {
+    "id": 445,
+    "question": "______ is any building room or separate place which houses or encloses electric supply equipment and accessible only to qualified persons.",
+    "options": {
+      "a": "Electric Plant",
+      "b": "Substation",
+      "c": "Switchyard",
+      "d": "Control room"
+    },
+    "answer": "b",
+    "correct_answer_text": "Substation"
+  },
+  {
+    "id": 446,
+    "question": "Section 18 (b) of Article III: Qualifications of Applicants for Registered Master Electricians states that he is at least ______ years of age.",
+    "options": {
+      "a": "21",
+      "b": "18",
+      "c": "25",
+      "d": "30"
+    },
+    "answer": "b",
+    "correct_answer_text": "18"
+  },
+  {
+    "id": 447,
+    "question": "Steels that are used for axles, gears and similar parts requiring medium to high hardness and high strength are known as",
+    "options": {
+      "a": "Low-carbon steels",
+      "b": "Medium-carbon steels",
+      "c": "High-carbon steels",
+      "d": "Alloy steels"
+    },
+    "answer": "b",
+    "correct_answer_text": "Medium-carbon steels"
+  },
+  {
+    "id": 448,
+    "question": "The effect of aluminum in cast iron is to",
+    "options": {
+      "a": "harden iron",
+      "b": "deoxidize molten cast iron",
+      "c": "increase ductility",
+      "d": "increase sulfur"
+    },
+    "answer": "b",
+    "correct_answer_text": "deoxidize molten cast iron"
+  },
+  {
+    "id": 449,
+    "question": "The effect of silicon in cast iron is to",
+    "options": {
+      "a": "harden iron below 3%",
+      "b": "softens iron and increases ductility below 3.25%",
+      "c": "increase carbon content",
+      "d": "decrease acid resistance"
+    },
+    "answer": "b",
+    "correct_answer_text": "softens iron and increases ductility below 3.25%, hardens iron above 3.25% and increases acid and corrosion resistance above 13%."
+  },
+  {
+    "id": 450,
+    "question": "What radioactive decay is described by the capture of electron from the inner shells?",
+    "options": {
+      "a": "Alpha decay",
+      "b": "Beta decay",
+      "c": "Gamma decay",
+      "d": "Fission"
+    },
+    "answer": "b",
+    "correct_answer_text": "Beta decay"
+  },
+  {
+    "id": 451,
+    "question": "In digital codes, how do you identify codes running from 0 to 77?",
+    "options": {
+      "a": "Binary",
+      "b": "Gray",
+      "c": "Octal",
+      "d": "Hexadecimal"
+    },
+    "answer": "b",
+    "correct_answer_text": "Gray"
+  },
+  {
+    "id": 452,
+    "question": "What group of steels are hot-work steels, capable of being used in the 1100 deg F-2000 deg F range?",
+    "options": {
+      "a": "Group D",
+      "b": "Group H",
+      "c": "Group T",
+      "d": "Group S"
+    },
+    "answer": "b",
+    "correct_answer_text": "Group H"
+  },
+  {
+    "id": 453,
+    "question": "What element is largely hardened by precipitation hardening?",
+    "options": {
+      "a": "Iron",
+      "b": "Nickel",
+      "c": "Copper",
+      "d": "Aluminum"
+    },
+    "answer": "b",
+    "correct_answer_text": "Nickel"
+  },
+  {
+    "id": 454,
+    "question": "Are hydrocarbons containing 1 or more carbon-carbon triple bonds?",
+    "options": {
+      "a": "Alkanes",
+      "b": "Alkenes",
+      "c": "Alkynes",
+      "d": "Aromatics"
+    },
+    "answer": "c",
+    "correct_answer_text": "Alkynes"
+  },
+  {
+    "id": 455,
+    "question": "Cost of things that are NEITHER labor NOR material.",
+    "options": {
+      "a": "Assets",
+      "b": "Expenses",
+      "c": "Capital",
+      "d": "Liability"
+    },
+    "answer": "b",
+    "correct_answer_text": "Expenses"
+  },
+  {
+    "id": 456,
+    "question": "An aggregation of individual formed for the purpose of conducting a business and recognized by law as a fictitious person is called",
+    "options": {
+      "a": "Partnership",
+      "b": "Corporations",
+      "c": "Cooperative",
+      "d": "Sole proprietorship"
+    },
+    "answer": "b",
+    "correct_answer_text": "Corporations"
+  },
+  {
+    "id": 457,
+    "question": "The sum of the strains in the three coordinate directions is known as",
+    "options": {
+      "a": "Stress",
+      "b": "Dilation",
+      "c": "Compression",
+      "d": "Extension"
+    },
+    "answer": "b",
+    "correct_answer_text": "Dilation"
+  },
+  {
+    "id": 458,
+    "question": "1 kw-hr is equivalent to how many BTU?",
+    "options": {
+      "a": "2545",
+      "b": "3412",
+      "c": "778",
+      "d": "860"
+    },
+    "answer": "b",
+    "correct_answer_text": "3412"
+  },
+  {
+    "id": 459,
+    "question": "The simple mathematical statement where stress is proportional to strain.",
+    "options": {
+      "a": "Pascal's Law",
+      "b": "Hooke's Law",
+      "c": "Boyle's Law",
+      "d": "Charles's Law"
+    },
+    "answer": "b",
+    "correct_answer_text": "Hooke's Law"
+  },
+  {
+    "id": 460,
+    "question": "What is the overload condition that occurs near large concentration loads?",
+    "options": {
+      "a": "Yielding",
+      "b": "Local Buckling",
+      "c": "Fracture",
+      "d": "Creep"
+    },
+    "answer": "b",
+    "correct_answer_text": "Local Buckling"
+  },
+  {
+    "id": 461,
+    "question": "What are the electrostatic forces that exists between ions?",
+    "options": {
+      "a": "Covalent bond",
+      "b": "Ionic bond",
+      "c": "Metallic bond",
+      "d": "Van der Waals bond"
+    },
+    "answer": "b",
+    "correct_answer_text": "Ionic bond"
+  },
+  {
+    "id": 462,
+    "question": "What is the subject which covers the refinement of pure metals from their ores?",
+    "options": {
+      "a": "Physical Metallurgy",
+      "b": "Extractive Metallurgy",
+      "c": "Mechanical Metallurgy",
+      "d": "Mineralogy"
+    },
+    "answer": "b",
+    "correct_answer_text": "Extractive Metallurgy"
+  },
+  {
+    "id": 463,
+    "question": "The profit earned by a corporation are periodically distributed to the stockholders in the form of",
+    "options": {
+      "a": "Interest",
+      "b": "Dividends",
+      "c": "Bonus",
+      "d": "Assets"
+    },
+    "answer": "b",
+    "correct_answer_text": "Dividends"
+  },
+  {
+    "id": 464,
+    "question": "Shows only timing but also relationships among the task of a project.",
+    "options": {
+      "a": "Gantt Chart",
+      "b": "Pert Chart",
+      "c": "Flow Chart",
+      "d": "Bar Chart"
+    },
+    "answer": "b",
+    "correct_answer_text": "Pert Chart"
+  },
+  {
+    "id": 465,
+    "question": "For normal stress, what is the constant of proportionality?",
+    "options": {
+      "a": "Shear Modulus",
+      "b": "Modulus of Elasticity",
+      "c": "Bulk Modulus",
+      "d": "Poisson's Ratio"
+    },
+    "answer": "b",
+    "correct_answer_text": "Modulus of Elasticity"
+  },
+  {
+    "id": 466,
+    "question": "What is the basic material used in ceramic magnets?",
+    "options": {
+      "a": "aluminum oxide",
+      "b": "iron oxide",
+      "c": "silicon carbide",
+      "d": "magnesium oxide"
+    },
+    "answer": "b",
+    "correct_answer_text": "iron axide"
+  },
+  {
+    "id": 467,
+    "question": "Which of the ff is not an octal number?",
+    "options": {
+      "a": "19",
+      "b": "105",
+      "c": "77",
+      "d": "15"
+    },
+    "answer": "a",
+    "correct_answer_text": "a"
+  },
+  {
+    "id": 468,
+    "question": "Estimated value at the end of the useful life.",
+    "options": {
+      "a": "Book value",
+      "b": "Salvage value",
+      "c": "Market value",
+      "d": "Par value"
+    },
+    "answer": "b",
+    "correct_answer_text": "Salvage value"
+  },
+  {
+    "id": 469,
+    "question": "Aluminum is produced from",
+    "options": {
+      "a": "hematite ore",
+      "b": "baucite ore",
+      "c": "galena ore",
+      "d": "sphalerite ore"
+    },
+    "answer": "b",
+    "correct_answer_text": "bacite ore"
+  },
+  {
+    "id": 470,
+    "question": "What type of hardening will work to some extent in all metals?",
+    "options": {
+      "a": "Heat hardening",
+      "b": "Work hardening",
+      "c": "Case hardening",
+      "d": "Surface hardening"
+    },
+    "answer": "b",
+    "correct_answer_text": "Work hardening"
+  },
+  {
+    "id": 471,
+    "question": "A quantity of air at 180 deg F compressed reversibly and adiabatically. What is the heat flow?",
+    "options": {
+      "a": "positive",
+      "b": "0",
+      "c": "negative",
+      "d": "infinite"
+    },
+    "answer": "b",
+    "correct_answer_text": "0"
+  },
+  {
+    "id": 472,
+    "question": "What is accomplished by heating raw rubber with a small amount of sulfur?",
+    "options": {
+      "a": "annealing",
+      "b": "vulcanization",
+      "c": "polymerization",
+      "d": "tempering"
+    },
+    "answer": "b",
+    "correct_answer_text": "vulcanization"
+  },
+  {
+    "id": 473,
+    "question": "Time value of money.",
+    "options": {
+      "a": "Capital",
+      "b": "Interest",
+      "c": "Profit",
+      "d": "Equity"
+    },
+    "answer": "b",
+    "correct_answer_text": "Interest"
+  },
+  {
+    "id": 474,
+    "question": "What is the most frequently used materials in engineering industry?",
+    "options": {
+      "a": "Ceramics",
+      "b": "Metals",
+      "c": "Polymers",
+      "d": "Composites"
+    },
+    "answer": "b",
+    "correct_answer_text": "Metals"
+  },
+  {
+    "id": 475,
+    "question": "The greatest stress which material is capable of withstanding without deviation from acceptable stress to strain is called",
+    "options": {
+      "a": "yield point",
+      "b": "proportional limit",
+      "c": "ultimate strength",
+      "d": "elastic limit"
+    },
+    "answer": "b",
+    "correct_answer_text": "proportional limit"
+  },
+  {
+    "id": 476,
+    "question": "The New Electrical Engineering Law 7920 originated from House Bill No. ______ and Senate Bill No. ______.",
+    "options": {
+      "a": "1000 and 1500",
+      "b": "11063 and 1766",
+      "c": "5000 and 2000",
+      "d": "8000 and 1000"
+    },
+    "answer": "b",
+    "correct_answer_text": "11063 and 1766"
+  },
+  {
+    "id": 477,
+    "question": "An adiabatic process with no work done is",
+    "options": {
+      "a": "isothermal",
+      "b": "throttling",
+      "c": "isobaric",
+      "d": "isometric"
+    },
+    "answer": "b",
+    "correct_answer_text": "throttling"
+  },
+  {
+    "id": 478,
+    "question": "Hazardous location because of the presence of combustible dust.",
+    "options": {
+      "a": "Class I",
+      "b": "Class II",
+      "c": "Class III",
+      "d": "Class IV"
+    },
+    "answer": "b",
+    "correct_answer_text": "Class II"
+  },
+  {
+    "id": 479,
+    "question": "Bonds which have no security behind them other than the assets of a corporation issuing them are known as",
+    "options": {
+      "a": "mortgage bonds",
+      "b": "debenture bonds",
+      "c": "joint bonds",
+      "d": "coupon bonds"
+    },
+    "answer": "b",
+    "correct_answer_text": "debenture bonds"
+  },
+  {
+    "id": 480,
+    "question": "Form of summary of assets, liabilities and net worth.",
+    "options": {
+      "a": "Income statement",
+      "b": "Balance sheet",
+      "c": "Cash flow",
+      "d": "Journal"
+    },
+    "answer": "b",
+    "correct_answer_text": "Balance sheet"
+  },
+  {
+    "id": 481,
+    "question": "A substance which changes the speed of a chemical action without itself being changed is called",
+    "options": {
+      "a": "reactant",
+      "b": "catalyst",
+      "c": "solvent",
+      "d": "product"
+    },
+    "answer": "b",
+    "correct_answer_text": "catalyst"
+  },
+  {
+    "id": 482,
+    "question": "What group does the element hydrogen belong?",
+    "options": {
+      "a": "noble gases",
+      "b": "light metals",
+      "c": "halogens",
+      "d": "alkali metals"
+    },
+    "answer": "b",
+    "correct_answer_text": "light metals"
+  },
+  {
+    "id": 483,
+    "question": "Why is it that the electrical system of aircraft is not under the jurisdiction of Electrical Engineers?",
+    "options": {
+      "a": "It is low voltage",
+      "b": "Frequency is under the scope of Avionics.",
+      "c": "It uses DC",
+      "d": "It is mobile"
+    },
+    "answer": "b",
+    "correct_answer_text": "Frequency is under the scope of Avionics."
+  },
+  {
+    "id": 484,
+    "question": "One angstrom is equal to how many meters?",
+    "options": {
+      "a": "10^-8 m",
+      "b": "10^-10 m",
+      "c": "10^-12 m",
+      "d": "10^-9 m"
+    },
+    "answer": "b",
+    "correct_answer_text": "10-10 m"
+  },
+  {
+    "id": 485,
+    "question": "In refrigerator, the quantity 288, 000 BTU/day is called",
+    "options": {
+      "a": "BTU",
+      "b": "Ton",
+      "c": "Horsepower",
+      "d": "Watt"
+    },
+    "answer": "b",
+    "correct_answer_text": "Ton"
+  },
+  {
+    "id": 486,
+    "question": "For PC to PC communications, a Data Terminal Equipment is directly converted to",
+    "options": {
+      "a": "DTE Equipment",
+      "b": "DCE Equipment",
+      "c": "Modem",
+      "d": "Server"
+    },
+    "answer": "b",
+    "correct_answer_text": "DCE Equipment"
+  },
+  {
+    "id": 487,
+    "question": "The element that is practically insoluble in solid copper is known as",
+    "options": {
+      "a": "Zinc",
+      "b": "Lead",
+      "c": "Tin",
+      "d": "Nickel"
+    },
+    "answer": "b",
+    "correct_answer_text": "Lead"
+  },
+  {
+    "id": 488,
+    "question": "A network of networks where people can retrieve information, communicate, etc. is called",
+    "options": {
+      "a": "Intranet",
+      "b": "Internet",
+      "c": "LAN",
+      "d": "WAN"
+    },
+    "answer": "b",
+    "correct_answer_text": "Internet"
+  },
+  {
+    "id": 489,
+    "question": "In rigid metal wiring conduit, the minimum electrical trade size is",
+    "options": {
+      "a": "10 mm",
+      "b": "15 mm",
+      "c": "20 mm",
+      "d": "25 mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "15 mm"
+  },
+  {
+    "id": 490,
+    "question": "An instrument for measuring high temperature gases.",
+    "options": {
+      "a": "thermometer",
+      "b": "pyrometer",
+      "c": "barometer",
+      "d": "manometer"
+    },
+    "answer": "b",
+    "correct_answer_text": "pyrometer"
+  },
+  {
+    "id": 491,
+    "question": "The unit lighting for a dwelling unit expressed in watts/sq. m shall be",
+    "options": {
+      "a": "12 watts",
+      "b": "24 watts",
+      "c": "30 watts",
+      "d": "50 watts"
+    },
+    "answer": "b",
+    "correct_answer_text": "24 watts"
+  },
+  {
+    "id": 492,
+    "question": "In general, what are the effects of cold working a metal?",
+    "options": {
+      "a": "decreased strength",
+      "b": "increased strength, decreased ductility",
+      "c": "increased ductility",
+      "d": "no change"
+    },
+    "answer": "b",
+    "correct_answer_text": "increased strength, decreased ductility"
+  },
+  {
+    "id": 493,
+    "question": "Large discrepancy between actual and theoretical strengths of metals is mainly attributed to",
+    "options": {
+      "a": "Density",
+      "b": "Dislocations",
+      "c": "Temperature",
+      "d": "Grain size"
+    },
+    "answer": "b",
+    "correct_answer_text": "b"
+  },
+  {
+    "id": 494,
+    "question": "Water boils when",
+    "options": {
+      "a": "temperature is 100 C",
+      "b": "its saturated vapor pressure equals the atmospheric pressure",
+      "c": "it is heated",
+      "d": "pressure is high"
+    },
+    "answer": "b",
+    "correct_answer_text": "its saturated vapor pressure equals the atmospheric pressure"
+  },
+  {
+    "id": 495,
+    "question": "What can possibly happen in a battery room where there are hot spots or sparking?",
+    "options": {
+      "a": "acid leak",
+      "b": "an explosion might occur",
+      "c": "short circuit",
+      "d": "overheating"
+    },
+    "answer": "b",
+    "correct_answer_text": "an explosion might occur"
+  },
+  {
+    "id": 496,
+    "question": "The transfer of energy from molecule to molecule is known as",
+    "options": {
+      "a": "convection",
+      "b": "conduction",
+      "c": "radiation",
+      "d": "induction"
+    },
+    "answer": "b",
+    "correct_answer_text": "conduction"
+  },
+  {
+    "id": 497,
+    "question": "What type of valve allows flow in only one direction?",
+    "options": {
+      "a": "Gate valve",
+      "b": "Check valve",
+      "c": "Globe valve",
+      "d": "Butterfly valve"
+    },
+    "answer": "b",
+    "correct_answer_text": "Check valve"
+  },
+  {
+    "id": 498,
+    "question": "A megabyte is a computer term which means",
+    "options": {
+      "a": "100 kilobytes",
+      "b": "a thousand kilobytes",
+      "c": "a million bits",
+      "d": "1024 bits"
+    },
+    "answer": "b",
+    "correct_answer_text": "a thousand kilobytes"
+  },
+  {
+    "id": 499,
+    "question": "Communication cables and wires shall have a voltage rating not less than",
+    "options": {
+      "a": "150 V",
+      "b": "300 V",
+      "c": "600 V",
+      "d": "1000 V"
+    },
+    "answer": "b",
+    "correct_answer_text": "300 V"
+  },
+  {
+    "id": 500,
+    "question": "In an ideal gas mixture, what is the mole fraction x equal to?",
+    "options": {
+      "a": "pi/pj",
+      "b": "pi/(pi+pj)",
+      "c": "pj/pi",
+      "d": "pi+pj"
+    },
+    "answer": "b",
+    "correct_answer_text": "p_d/p_i+p_j"
+  },
+  {
+    "id": 501,
+    "question": "Given a linear programming maximization problem, as the simplex algorithm progresses from one solution to the next, what will happen to the value of the objective function?",
+    "options": {
+      "a": "it will decrease",
+      "b": "it will stay the same",
+      "c": "it will increase or stay the same",
+      "d": "it will become zero"
+    },
+    "answer": "c",
+    "correct_answer_text": "it will increase or stay the same"
+  },
+  {
+    "id": 502,
+    "question": "Which of the ff raceways is not suitable for installation in wet locations?",
+    "options": {
+      "a": "Rigid non-metallic conduit",
+      "b": "Rigid metal conduit",
+      "c": "Flexible metal conduit",
+      "d": "Intermediate metal conduit"
+    },
+    "answer": "c",
+    "correct_answer_text": "Flexible metal conduit"
+  },
+  {
+    "id": 503,
+    "question": "How is the sensitivity of a feedback system defined?",
+    "options": {
+      "a": "the ratio of the percentage change in the loop transfer function to the percentage change in the forward transfer function.",
+      "b": "the ratio of output to input",
+      "c": "the time it takes to reach steady state",
+      "d": "the maximum overshoot"
+    },
+    "answer": "a",
+    "correct_answer_text": "the ratio of the percentage change in the loop transfer function to the percentage change in the forward transfer function."
+  },
+  {
+    "id": 504,
+    "question": "Reinforcing steel is usually shaped on the job.",
+    "options": {
+      "a": "using a blowtorch",
+      "b": "on a bar bending table",
+      "c": "by hand",
+      "d": "with a hammer"
+    },
+    "answer": "b",
+    "correct_answer_text": "on a bar bending table"
+  },
+  {
+    "id": 505,
+    "question": "Viscosity for a fluid, is defined as the constant of proportionality between shear stress and what other variable?",
+    "options": {
+      "a": "temperature",
+      "b": "pressure",
+      "c": "spatial derivative of velocity",
+      "d": "density"
+    },
+    "answer": "c",
+    "correct_answer_text": "spatial derivative of velocity"
+  },
+  {
+    "id": 506,
+    "question": "What property of a metal is insensitive to the microstructure?",
+    "options": {
+      "a": "ductility",
+      "b": "hardness",
+      "c": "tensile strengths",
+      "d": "yield strength"
+    },
+    "answer": "c",
+    "correct_answer_text": "tensile strengths"
+  },
+  {
+    "id": 507,
+    "question": "How does a CPU know whether it is executing instruction from a commercial database management program or from a program executing from an on line computer?",
+    "options": {
+      "a": "by the file extension",
+      "b": "by the memory address",
+      "c": "the CPU doesn't know where the instructions originate",
+      "d": "by the user login"
+    },
+    "answer": "c",
+    "correct_answer_text": "the CPU doesn't know where the instructions originate"
+  },
+  {
+    "id": 508,
+    "question": "Which of the ff statements is FALSE regarding low-alloy steels?",
+    "options": {
+      "a": "Low-alloy steels are a minor group and are rarely used.",
+      "b": "Low-alloy steels are used in the heat-treated condition.",
+      "c": "The last two digits define the carbon content in weight percent.",
+      "d": "Low-alloy steels contain small amounts of nickel and chromium."
+    },
+    "answer": "a",
+    "correct_answer_text": "Low-alloy steels are a minor group and are rarely used."
+  },
+  {
+    "id": 509,
+    "question": "What are the oxidizing and reducing agents in the reaction: 2CCl4 + K2CrO4 -> 2Cl2CO + CrO2Cl2 + 2KCl?",
+    "options": {
+      "a": "CCl4 is oxidizing",
+      "b": "K2CrO4 is reducing",
+      "c": "There are no oxidizing and reducing agents in the reaction",
+      "d": "KCl is reducing"
+    },
+    "answer": "c",
+    "correct_answer_text": "There are no oxidizing and reducing agents in the reaction"
+  },
+  {
+    "id": 510,
+    "question": "Which of the ff reactions relates to the softening procedure in water purification?",
+    "options": {
+      "a": "2H2O + O2 -> 2H2O2",
+      "b": "Ca(HCO3)2 + Ca(OH)2 -> 2CaCO3 + 2H2O",
+      "c": "NaOH + HCl -> NaCl + H2O",
+      "d": "CO2 + H2O -> H2CO3"
+    },
+    "answer": "b",
+    "correct_answer_text": "Ca(HCO3)2 + Ca(OH)2  2CaCO3 + 2H2O"
+  },
+  {
+    "id": 511,
+    "question": "Actual or compensatory damages may be recovered for the ff, except:",
+    "options": {
+      "a": "For injury to one's business standing",
+      "b": "Defective construction of an approved design.",
+      "c": "Loss of earning capacity",
+      "d": "For death caused by crime"
+    },
+    "answer": "b",
+    "correct_answer_text": "Defective construction of an approved design."
+  },
+  {
+    "id": 512,
+    "question": "Which of the ff statements is FALSE regarding obligations?",
+    "options": {
+      "a": "Rights are transmissible if there is no stipulation to the contrary.",
+      "b": "Usurious transactions are governed by special laws.",
+      "c": "If a person fails to do something per contract, it may not be executed at his cost.",
+      "d": "Those guilty of fraud or negligence are liable for damages."
+    },
+    "answer": "c",
+    "correct_answer_text": "If a person obliged to do something fails to do it according to his contract, the same may not be executed at his cost."
+  },
+  {
+    "id": 513,
+    "question": "What is the standard temperature and pressure?",
+    "options": {
+      "a": "25 degrees Celsius and one atmosphere",
+      "b": "0 degree Celsius and one atmosphere pressure",
+      "c": "100 degrees Celsius and one atmosphere",
+      "d": "0 degree Celsius and zero pressure"
+    },
+    "answer": "b",
+    "correct_answer_text": "O degree Celsius and one atmosphere pressure"
+  },
+  {
+    "id": 514,
+    "question": "A deuteron is",
+    "options": {
+      "a": "a proton only",
+      "b": "a nucleus containing a neutron and proton",
+      "c": "an electron and proton",
+      "d": "two protons"
+    },
+    "answer": "b",
+    "correct_answer_text": "a nucleus containing a neutron and proton"
+  },
+  {
+    "id": 515,
+    "question": "During an adiabatic, internally reversible process, what is TRUE about the change in entropy?",
+    "options": {
+      "a": "it increases",
+      "b": "it is always zero",
+      "c": "it decreases",
+      "d": "it depends on temperature"
+    },
+    "answer": "b",
+    "correct_answer_text": "it is always zero"
+  },
+  {
+    "id": 516,
+    "question": "What is work-in-process classified as?",
+    "options": {
+      "a": "a liability",
+      "b": "an asset",
+      "c": "an expense",
+      "d": "equity"
+    },
+    "answer": "b",
+    "correct_answer_text": "an asset"
+  },
+  {
+    "id": 517,
+    "question": "What is the ratio of stress to strain below the proportional limit called?",
+    "options": {
+      "a": "Poisson's ratio",
+      "b": "Young's modulus",
+      "c": "Bulk modulus",
+      "d": "Shear modulus"
+    },
+    "answer": "b",
+    "correct_answer_text": "Young's modulus"
+  },
+  {
+    "id": 518,
+    "question": "If you try to start a DC compound motor the shunt field of which is open. What would happen?",
+    "options": {
+      "a": "it will not start",
+      "b": "it will over speed",
+      "c": "it will burn out immediately",
+      "d": "it will run normally"
+    },
+    "answer": "b",
+    "correct_answer_text": "it will over speed"
+  },
+  {
+    "id": 519,
+    "question": "The frequency of the output voltage of an AC generator depends on what factor?",
+    "options": {
+      "a": "excitation",
+      "b": "speed",
+      "c": "load",
+      "d": "number of turns"
+    },
+    "answer": "b",
+    "correct_answer_text": "speed"
+  },
+  {
+    "id": 520,
+    "question": "What is the definition of instantaneous velocity?",
+    "options": {
+      "a": "v = x/t",
+      "b": "v=dx/dt",
+      "c": "v = a*t",
+      "d": "v = d^2x/dt^2"
+    },
+    "answer": "b",
+    "correct_answer_text": "v=dx/dt"
+  },
+  {
+    "id": 521,
+    "question": "Which of the ff statements is NOT true regarding RA 7920?",
+    "options": {
+      "a": "Membership in IIEE shall not be a bar to other associations.",
+      "b": "A professional suspended by the Board may appeal within 30 days with the Regional Trial Court.",
+      "c": "The Board shall give a written reason for refusal of registration.",
+      "d": "A firm may charges constituted after suspension of a professional."
+    },
+    "answer": "b",
+    "correct_answer_text": "b"
+  },
+  {
+    "id": 522,
+    "question": "Ethics may be defined as the ff, except:",
+    "options": {
+      "a": "A philosophical content dealing with moral conduct.",
+      "b": "A set of rules promulgated by law to control criminality.",
+      "c": "A set of standards establishing right and wrong.",
+      "d": "Rules that describe one's duty to society."
+    },
+    "answer": "b",
+    "correct_answer_text": "b"
+  },
+  {
+    "id": 523,
+    "question": "What is a borrower of a particular loan almost always required to do during repayments?",
+    "options": {
+      "a": "pay only the principal",
+      "b": "repay the loan over an agreed upon length of time",
+      "c": "pay in one lump sum",
+      "d": "provide collateral after the loan"
+    },
+    "answer": "b",
+    "correct_answer_text": "repay the loan over an agreed upon length of time"
+  },
+  {
+    "id": 524,
+    "question": "A load from a faucet come out in separate drops. What is the main cause of this phenomenon?",
+    "options": {
+      "a": "Gravity",
+      "b": "Surface tension",
+      "c": "Viscosity",
+      "d": "Air pressure"
+    },
+    "answer": "b",
+    "correct_answer_text": "Surface tension"
+  },
+  {
+    "id": 525,
+    "question": "Which of the ff statements is FALSE regarding materials?",
+    "options": {
+      "a": "Ceramics are inorganic, non-metallic solids processed at high temps.",
+      "b": "Most metals are strong, ductile and malleable.",
+      "c": "Oxides, carbides and nitrides are class of materials known as glasses.",
+      "d": "Metals are opaque, lustrous and good conductors."
+    },
+    "answer": "c",
+    "correct_answer_text": "c"
+  },
+  {
+    "id": 526,
+    "question": "A blue color obtained as a result of the borax bead test indicates the presence of",
+    "options": {
+      "a": "copper",
+      "b": "nickel",
+      "c": "cobalt",
+      "d": "iron"
+    },
+    "answer": "b",
+    "correct_answer_text": "nickel"
+  },
+  {
+    "id": 527,
+    "question": "There are many kinds of damages, which one is not?",
+    "options": {
+      "a": "Nominal",
+      "b": "Exemplary",
+      "c": "Actual",
+      "d": "Immoral"
+    },
+    "answer": "d",
+    "correct_answer_text": "d"
+  },
+  {
+    "id": 528,
+    "question": "In computer network, an antivirus Is",
+    "options": {
+      "a": "a hardware firewall",
+      "b": "a software that scans a computer system to detect viruses",
+      "c": "a type of browser",
+      "d": "an operating system update"
+    },
+    "answer": "b",
+    "correct_answer_text": "a software that scans a computer system to detect viruses"
+  },
+  {
+    "id": 529,
+    "question": "An element may be defined as a substance, all the atoms of which have the same",
+    "options": {
+      "a": "atomic weight",
+      "b": "number of neutrons",
+      "c": "atomic number",
+      "d": "density"
+    },
+    "answer": "a",
+    "correct_answer_text": "atomic weight"
+  },
+  {
+    "id": 530,
+    "question": "The most satisfactory way to separate and identify sugars is to use",
+    "options": {
+      "a": "Litmus paper",
+      "b": "Benedict's solution",
+      "c": "Iodine test",
+      "d": "Sulphuric acid"
+    },
+    "answer": "b",
+    "correct_answer_text": "Benedict's solution"
+  },
+  {
+    "id": 531,
+    "question": "Which of the ff statements is TRUE for an ideal gas, but not for a real gas?",
+    "options": {
+      "a": "pV=nRT",
+      "b": "Temperature increases kinetic energy.",
+      "c": "Total volume of molecules is nearly the same as the gas volume.",
+      "d": "No attractive forces exist between the molecules."
+    },
+    "answer": "d",
+    "correct_answer_text": "No attractive forces exist between the molecules."
+  },
+  {
+    "id": 532,
+    "question": "Of the different kinds of starting a large squirrel cage motor, what method is the most effective?",
+    "options": {
+      "a": "Direct on line",
+      "b": "Star-Delta",
+      "c": "Transformer reduced voltage method",
+      "d": "Resistance starting"
+    },
+    "answer": "c",
+    "correct_answer_text": "Transformer reduced voltage method"
+  },
+  {
+    "id": 533,
+    "question": "In a crystal structure, what is an interstitial atom?",
+    "options": {
+      "a": "a missing atom",
+      "b": "an extra atom setting at a non-lattice joint",
+      "c": "an atom at the corner",
+      "d": "an impurity atom"
+    },
+    "answer": "b",
+    "correct_answer_text": "an extra atom setting at a non-lattice joint"
+  },
+  {
+    "id": 534,
+    "question": "What is most likely to prove that a substance is inorganic?",
+    "options": {
+      "a": "it contains carbon",
+      "b": "no effect on limestone when heated with copper oxide",
+      "c": "it dissolves in water",
+      "d": "it has a high melting point"
+    },
+    "answer": "b",
+    "correct_answer_text": "the substance is heated together with copper oxide and the resulting gases are found to have no effect on limestone"
+  },
+  {
+    "id": 535,
+    "question": "What is the first coordination number of a BODY-CENTERED cubic structure?",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "12"
+    },
+    "answer": "c",
+    "correct_answer_text": "8"
+  },
+  {
+    "id": 536,
+    "question": "All data processing systems involve which operations regardless of the device?",
+    "options": {
+      "a": "Analyzing and coding",
+      "b": "Input, processing and output",
+      "c": "Input, storage and processing",
+      "d": "Processing, storage and distribution"
+    },
+    "answer": "b",
+    "correct_answer_text": "Input, processing and output"
+  },
+  {
+    "id": 537,
+    "question": "The ff wiring raceways may be installed underground, EXCEPT;",
+    "options": {
+      "a": "Electrical metallic tubing",
+      "b": "Rigid metal conduit",
+      "c": "Flexible metal conduit",
+      "d": "Rigid non-metallic conduit"
+    },
+    "answer": "c",
+    "correct_answer_text": "Flexible metal conduit"
+  },
+  {
+    "id": 538,
+    "question": "Select the statement that is NOT CORRECT regarding obligations.",
+    "options": {
+      "a": "Obligations with fixed day are demandable only when that day comes.",
+      "b": "If no period is fixed, the courts may fix duration.",
+      "c": "A period is presumed for the benefit of both creditor and debtor.",
+      "d": "Payment before the arrival of period may not be recovered with interest."
+    },
+    "answer": "d",
+    "correct_answer_text": "d"
+  },
+  {
+    "id": 539,
+    "question": "The ff are the kinds of obligation under the civil code, EXCEPT;",
+    "options": {
+      "a": "Obligation with a period",
+      "b": "Obligation with a penal cause",
+      "c": "Joint and solidary obligation",
+      "d": "Unconditional obligation in performance"
+    },
+    "answer": "d",
+    "correct_answer_text": "d"
+  },
+  {
+    "id": 540,
+    "question": "A specimen is subjected to a load when the load is removed, the strain disappears. What is this material?",
+    "options": {
+      "a": "plastic",
+      "b": "brittle",
+      "c": "elastic",
+      "d": "ductile"
+    },
+    "answer": "c",
+    "correct_answer_text": "It is elastic"
+  },
+  {
+    "id": 541,
+    "question": "Which is true regarding the ductile to brittle transition temperature?",
+    "options": {
+      "a": "It is important for structures in cold environments",
+      "b": "It is the point where shear lip goes to zero",
+      "c": "It is measured by 20 joules of energy in Charpy test",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "correct_answer_text": "I and III"
+  },
+  {
+    "id": 542,
+    "question": "For a heat engine operating between two temperatures (T2>T1), what is the maximum efficiency attainable?",
+    "options": {
+      "a": "T1/T2",
+      "b": "1-T1/T2",
+      "c": "T2/T1",
+      "d": "1-T2/T1"
+    },
+    "answer": "b",
+    "correct_answer_text": "1-T1/T2"
+  },
+  {
+    "id": 543,
+    "question": "If the shear in a fluid varies linearly with the velocity gradient, what describes the fluid?",
+    "options": {
+      "a": "it is a non-Newtonian fluid",
+      "b": "it is a Newtonian fluid",
+      "c": "it is a plastic fluid",
+      "d": "it is a gas"
+    },
+    "answer": "b",
+    "correct_answer_text": "it is a Newtonian fluid"
+  },
+  {
+    "id": 544,
+    "question": "Equipment for hazardous locations shall be approved for the ff properties, EXCEPT;",
+    "options": {
+      "a": "Durability",
+      "b": "Combustibility",
+      "c": "Ignitability",
+      "d": "Explosibility"
+    },
+    "answer": "a",
+    "correct_answer_text": "a"
+  },
+  {
+    "id": 545,
+    "question": "Which of the ff statement is FALSE regarding chemical reactions?",
+    "options": {
+      "a": "Products can react to reform reactants.",
+      "b": "At equilibrium, net reaction rate is zero.",
+      "c": "The differential rate law shows dependence on volume.",
+      "d": "Net rate is forward rate minus reverse rate."
+    },
+    "answer": "c",
+    "correct_answer_text": "c"
+  },
+  {
+    "id": 546,
+    "question": "What best defines a micro-operation?",
+    "options": {
+      "a": "a complex program",
+      "b": "an elementary operation performed on information stored in registers",
+      "c": "a math calculation",
+      "d": "a hard drive write"
+    },
+    "answer": "b",
+    "correct_answer_text": "an elementary operation performed on information stored in one or more registers during one cycle."
+  },
+  {
+    "id": 547,
+    "question": "What is the term usually connected across relay contacts to minimize arcing?",
+    "options": {
+      "a": "resistor",
+      "b": "inductor",
+      "c": "capacitor",
+      "d": "diode"
+    },
+    "answer": "c",
+    "correct_answer_text": "capacitor"
+  },
+  {
+    "id": 548,
+    "question": "In a contract, what in the ff may not be ground for the damages?",
+    "options": {
+      "a": "Delay",
+      "b": "Fraud",
+      "c": "Negligence",
+      "d": "Amicable settlement"
+    },
+    "answer": "d",
+    "correct_answer_text": "d"
+  },
+  {
+    "id": 549,
+    "question": "What is the value of the work done for a closed reversible isometric system?",
+    "options": {
+      "a": "Positive",
+      "b": "Negative",
+      "c": "zero",
+      "d": "Infinite"
+    },
+    "answer": "c",
+    "correct_answer_text": "zero"
+  },
+  {
+    "id": 550,
+    "question": "Exceptional circumstances when litigation expenses can be recovered even without prior agreements, EXCEPT",
+    "options": {
+      "a": "In actions for legal support",
+      "b": "When the court does not award judicial costs",
+      "c": "When exemplary damages are awarded",
+      "d": "In actions for recovery of wages of household helpers"
+    },
+    "answer": "b",
+    "correct_answer_text": "b"
+  },
+  {
+    "id": 551,
+    "question": "Given A=true, B=true and C=false, what is the value of ((A. AND.B).AND. (COR.A))?",
+    "options": {
+      "a": "true",
+      "b": "false",
+      "c": "null",
+      "d": "error"
+    },
+    "answer": "b",
+    "correct_answer_text": "false"
+  },
+  {
+    "id": 552,
+    "question": "The termination of an unloaded telephone line is made equal to characteristic impedance in order to",
+    "options": {
+      "a": "increase volume",
+      "b": "reduce standing waves in the line",
+      "c": "prevent lightning strikes",
+      "d": "save power"
+    },
+    "answer": "b",
+    "correct_answer_text": "reduce standing waves in the line"
+  },
+  {
+    "id": 553,
+    "question": "What establishes ethical behavior among professionals?",
+    "options": {
+      "a": "Legal contracts",
+      "b": "personal beliefs",
+      "c": "social trends",
+      "d": "competition"
+    },
+    "answer": "a",
+    "correct_answer_text": "Legal contracts"
+  },
+  {
+    "id": 554,
+    "question": "Under slow deformation and high temperatures, it is possible to have plastic flow in a crystal. What is this called?",
+    "options": {
+      "a": "Twinning",
+      "b": "Creep",
+      "c": "Slip",
+      "d": "Yielding"
+    },
+    "answer": "b",
+    "correct_answer_text": "Creep"
+  },
+  {
+    "id": 555,
+    "question": "What is the strongest type of bond?",
+    "options": {
+      "a": "ionic",
+      "b": "covalent",
+      "c": "metallic",
+      "d": "Van der Waals"
+    },
+    "answer": "b",
+    "correct_answer_text": "covalent"
+  },
+  {
+    "id": 556,
+    "question": "Plastic deformation resulting in misalignment of atoms, dislocations and stresses is characteristic of what process?",
+    "options": {
+      "a": "Annealing",
+      "b": "Twinning",
+      "c": "Solidification",
+      "d": "Vaporization"
+    },
+    "answer": "b",
+    "correct_answer_text": "Twinning"
+  },
+  {
+    "id": 557,
+    "question": "Polymers that favor crystallization are least to have which of the ff?",
+    "options": {
+      "a": "An atactic configuration of side groups",
+      "b": "Small side groups",
+      "c": "Only one repeating unit",
+      "d": "Small chain lengths"
+    },
+    "answer": "a",
+    "correct_answer_text": "a"
+  },
+  {
+    "id": 558,
+    "question": "The term refers to the physical equipment or components of an electronic data processing system is",
+    "options": {
+      "a": "software",
+      "b": "hardware",
+      "c": "firmware",
+      "d": "malware"
+    },
+    "answer": "b",
+    "correct_answer_text": "hardware"
+  },
+  {
+    "id": 559,
+    "question": "In preparing a metallographic iron specimen the grain boundaries are made most visible by what step?",
+    "options": {
+      "a": "Polishing",
+      "b": "Etching the sample in a 2% solution of nitric acid in alcohol",
+      "c": "Grinding",
+      "d": "Heating"
+    },
+    "answer": "b",
+    "correct_answer_text": "Etching the sample in a 2% solution of nitric acid in alcohol"
+  },
+  {
+    "id": 560,
+    "question": "Reactions generally proceed faster at high temperatures because of what?",
+    "options": {
+      "a": "density is higher",
+      "b": "molecules collide more frequently and the activation energy is less",
+      "c": "volume increases",
+      "d": "pressure is lower"
+    },
+    "answer": "b",
+    "correct_answer_text": "the molecules collide more frequently and the activation energy is less"
+  },
+  {
+    "id": 561,
+    "question": "Where is the centroid of the surface of a right circular cone with respect to its base? The altitude is h.",
+    "options": {
+      "a": "1/2 h",
+      "b": "1/3 h",
+      "c": "1/4 h",
+      "d": "2/3 h"
+    },
+    "answer": "b",
+    "correct_answer_text": "1/3 h"
+  },
+  {
+    "id": 562,
+    "question": "Electrical equipment should NOT be mounted on a concrete wall by which of the ff?",
+    "options": {
+      "a": "Lead plug",
+      "b": "Wooden plug",
+      "c": "Plastic plug",
+      "d": "Expansion bolt"
+    },
+    "answer": "b",
+    "correct_answer_text": "d"
+  },
+  {
+    "id": 563,
+    "question": "To obtain an accurate mounting of panel meters, what is the procedure?",
+    "options": {
+      "a": "Guess the position",
+      "b": "Use the meter or mark the hole center",
+      "c": "Drill random holes",
+      "d": "Use glue"
+    },
+    "answer": "b",
+    "correct_answer_text": "Use the meter or mark the hole center"
+  },
+  {
+    "id": 564,
+    "question": "Which one of the ff statements regarding organic substances is FALSE?",
+    "options": {
+      "a": "They dissolve in high concentration acids",
+      "b": "All contain carbon",
+      "c": "Organic matter is generally stable at very high temperatures",
+      "d": "They generally do not dissolve in water."
+    },
+    "answer": "c",
+    "correct_answer_text": "c"
+  },
+  {
+    "id": 565,
+    "question": "What element is unstable in its pure form?",
+    "options": {
+      "a": "Copper",
+      "b": "Gold",
+      "c": "Sodium (Na)",
+      "d": "Iron"
+    },
+    "answer": "c",
+    "correct_answer_text": "Sodium (Na)"
+  },
+  {
+    "id": 566,
+    "question": "Coke may be prepared commercially by the distractive distillation of",
+    "options": {
+      "a": "wood",
+      "b": "anthracite coal",
+      "c": "petroleum",
+      "d": "lignite"
+    },
+    "answer": "b",
+    "correct_answer_text": "anthracite coal"
+  },
+  {
+    "id": 567,
+    "question": "In refrigerator, the quantity 288,000 BTU/day is called",
+    "options": {
+      "a": "BTU",
+      "b": "Ton",
+      "c": "Watt",
+      "d": "Joule"
+    },
+    "answer": "b",
+    "correct_answer_text": "Ton"
+  },
+  {
+    "id": 568,
+    "question": "Which of the ff operations is probably not an instruction in a low-level programming language?",
+    "options": {
+      "a": "AND",
+      "b": "LDA",
+      "c": "FETCH",
+      "d": "SOLVE"
+    },
+    "answer": "c",
+    "correct_answer_text": "FETCH"
+  },
+  {
+    "id": 569,
+    "question": "Which of the ff statement is FALSE regarding electromagnetic waves?",
+    "options": {
+      "a": "Visible light wavelength > microwave wavelength.",
+      "b": "Frequency of ultraviolet > infrared.",
+      "c": "Frequency of radio waves < infrared waves.",
+      "d": "Wavelengths of x-rays > gamma rays."
+    },
+    "answer": "a",
+    "correct_answer_text": "b"
+  },
+  {
+    "id": 570,
+    "question": "The ores from which zinc is obtained is",
+    "options": {
+      "a": "Hematite",
+      "b": "Galena",
+      "c": "Sphalerite",
+      "d": "Bauxite"
+    },
+    "answer": "c",
+    "correct_answer_text": "Sphalerite"
+  },
+  {
+    "id": 571,
+    "question": "The Board may suspend a professional for unprofessional conduct, EXCEPT",
+    "options": {
+      "a": "Signing electrical plans prepared by others",
+      "b": "Representing himself as supervisor without doing so",
+      "c": "Using fraud to obtain certificate",
+      "d": "Filing technical reports prepared by himself"
+    },
+    "answer": "d",
+    "correct_answer_text": "Sling cechnical reports, estimates speciffimatica mat prepared bir büm"
+  },
+  {
+    "id": 572,
+    "question": "When Fe++ changes to Fe+++ In a reaction.",
+    "options": {
+      "a": "It gains an electron",
+      "b": "It loses an electron",
+      "c": "No change in electrons",
+      "d": "It gains a proton"
+    },
+    "answer": "b",
+    "correct_answer_text": "It loses an electron"
+  },
+  {
+    "id": 573,
+    "question": "It refers to the choice of electrical systems, planning and detailing of requirements for protection, control, etc.",
+    "options": {
+      "a": "Electrical installation",
+      "b": "Electrical system design",
+      "c": "Electrical maintenance",
+      "d": "Electrical auditing"
+    },
+    "answer": "b",
+    "correct_answer_text": "Electrical system design"
+  },
+  {
+    "id": 574,
+    "question": "The ability of the material to absorb energy in Its elastic range.",
+    "options": {
+      "a": "ductility",
+      "b": "resilience",
+      "c": "toughness",
+      "d": "hardness"
+    },
+    "answer": "b",
+    "correct_answer_text": "resilience"
+  },
+  {
+    "id": 575,
+    "question": "For service drop conductors not exceeding 600 V, minimum clearance over commercial area parking lots subject to truck traffic is",
+    "options": {
+      "a": "3000 mm",
+      "b": "4600 mm",
+      "c": "5500 mm",
+      "d": "6700 mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "4600 mm"
+  },
+  {
+    "id": 576,
+    "question": "What has the highest melting point of all metals?",
+    "options": {
+      "a": "Iron",
+      "b": "Tungsten",
+      "c": "Copper",
+      "d": "Gold"
+    },
+    "answer": "b",
+    "correct_answer_text": "Tungsten"
+  },
+  {
+    "id": 577,
+    "question": "Determine the minimum appliance and laundry load in a dwelling unit.",
+    "options": {
+      "a": "1000 VA",
+      "b": "1500 VA",
+      "c": "2000 VA",
+      "d": "3000 VA"
+    },
+    "answer": "b",
+    "correct_answer_text": "1500 VA"
+  },
+  {
+    "id": 578,
+    "question": "What percent of the examination fees shall be treated as a special fund for activities of the commission?",
+    "options": {
+      "a": "50%",
+      "b": "90%",
+      "c": "10%",
+      "d": "25%"
+    },
+    "answer": "b",
+    "correct_answer_text": "90%"
+  },
+  {
+    "id": 579,
+    "question": "Instead of Caruso delivering a violin to Vallejo, Caruso would just sing a classical song. The obligation is extinguish by",
+    "options": {
+      "a": "payment",
+      "b": "novation",
+      "c": "remission",
+      "d": "confusion"
+    },
+    "answer": "b",
+    "correct_answer_text": "novation"
+  },
+  {
+    "id": 580,
+    "question": "In compression, a prism of brittle material will break",
+    "options": {
+      "a": "by crushing",
+      "b": "by shearing along oblique plane",
+      "c": "by tension",
+      "d": "by bending"
+    },
+    "answer": "b",
+    "correct_answer_text": "by shearing along oblique plane"
+  },
+  {
+    "id": 581,
+    "question": "When a fluid flows full through a pipe of a cross-sectional area A and a velocity v, the flow or discharge is",
+    "options": {
+      "a": "A/v",
+      "b": "Av",
+      "c": "v/A",
+      "d": "A+v"
+    },
+    "answer": "b",
+    "correct_answer_text": "Av"
+  },
+  {
+    "id": 582,
+    "question": "What is Fick's first law for one-dimensional, steady state diffusion?",
+    "options": {
+      "a": "J = D/x",
+      "b": "J=-D*dC/dx",
+      "c": "J = Cx",
+      "d": "J = D*C*x"
+    },
+    "answer": "b",
+    "correct_answer_text": "$J=-D\\partial C/\\partial x$"
+  },
+  {
+    "id": 583,
+    "question": "What is the stress in a thin-walled spherical shell of diameter D and wall thickness t when subjected to internal pressure P?",
+    "options": {
+      "a": "S=PD/2t",
+      "b": "S=PD/4t",
+      "c": "S=PD/t",
+      "d": "S=2PD/t"
+    },
+    "answer": "b",
+    "correct_answer_text": "$S=\\dot{p}D/4t$"
+  },
+  {
+    "id": 584,
+    "question": "Formula for Dinitrogen Pentoxide.",
+    "options": {
+      "a": "N2O3",
+      "b": "N2O5",
+      "c": "NO2",
+      "d": "N5O2"
+    },
+    "answer": "b",
+    "correct_answer_text": "N2O5"
+  },
+  {
+    "id": 585,
+    "question": "The members of the Board shall hold office for a term of how many years?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "6"
+    },
+    "answer": "b",
+    "correct_answer_text": "3"
+  },
+  {
+    "id": 586,
+    "question": "What kind of contract is it when Castro retains Atty. Gallardo for P6,000 professional services?",
+    "options": {
+      "a": "executed contract",
+      "b": "executory contract",
+      "c": "void contract",
+      "d": "oral contract"
+    },
+    "answer": "b",
+    "correct_answer_text": "executory contract"
+  },
+  {
+    "id": 587,
+    "question": "Refers to school buildings, hospitals, museums, and government buildings.",
+    "options": {
+      "a": "commercial buildings",
+      "b": "residential buildings",
+      "c": "industrial buildings",
+      "d": "institutional buildings"
+    },
+    "answer": "d",
+    "correct_answer_text": "institutional bulldings"
+  },
+  {
+    "id": 588,
+    "question": "Which of the ff is not a reserved word in PASCAL?",
+    "options": {
+      "a": "WHILE",
+      "b": "REPEAT",
+      "c": "FILE",
+      "d": "PLAY"
+    },
+    "answer": "d",
+    "correct_answer_text": "d"
+  },
+  {
+    "id": 589,
+    "question": "Tin is produced from",
+    "options": {
+      "a": "Hematite",
+      "b": "Cassiterite",
+      "c": "Galena",
+      "d": "Bauxite"
+    },
+    "answer": "b",
+    "correct_answer_text": "Cassiterite"
+  },
+  {
+    "id": 590,
+    "question": "It is obtained as a by-product in the refining of copper and lead.",
+    "options": {
+      "a": "Iron",
+      "b": "Nickel",
+      "c": "Zinc",
+      "d": "Aluminum"
+    },
+    "answer": "b",
+    "correct_answer_text": "Nickel"
+  },
+  {
+    "id": 591,
+    "question": "The twisting moment of a shaft is ______ proportional to horsepower and ______ proportional to speed.",
+    "options": {
+      "a": "directly, directly",
+      "b": "directly, inversely",
+      "c": "inversely, directly",
+      "d": "inversely, inversely"
+    },
+    "answer": "b",
+    "correct_answer_text": "directly, inversely"
+  },
+  {
+    "id": 592,
+    "question": "Conductors must have a clearance from windows, porches, fire escapes of not less than",
+    "options": {
+      "a": "500 mm",
+      "b": "1000 mm",
+      "c": "1500 mm",
+      "d": "2000 mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "1000 mm"
+  },
+  {
+    "id": 593,
+    "question": "What is the formula of Carbon Diselinide?",
+    "options": {
+      "a": "CSe",
+      "b": "CSe2",
+      "c": "C2Se",
+      "d": "C2Se3"
+    },
+    "answer": "b",
+    "correct_answer_text": "CSez"
+  },
+  {
+    "id": 594,
+    "question": "What term is related to a monitor?",
+    "options": {
+      "a": "Hard copy",
+      "b": "Video display",
+      "c": "Audio output",
+      "d": "Storage device"
+    },
+    "answer": "b",
+    "correct_answer_text": "Video display"
+  },
+  {
+    "id": 595,
+    "question": "This device includes any switch or device used to start and stop the motor.",
+    "options": {
+      "a": "Isolator",
+      "b": "Controller",
+      "c": "Protector",
+      "d": "Starter"
+    },
+    "answer": "b",
+    "correct_answer_text": "Controller"
+  },
+  {
+    "id": 596,
+    "question": "Which of the ff BASIC's string has not been correctly written?",
+    "options": {
+      "a": "84.56",
+      "b": "2+7",
+      "c": "TWENTY SEVEN",
+      "d": "SYMBOL IS 'X'"
+    },
+    "answer": "d",
+    "correct_answer_text": "d"
+  },
+  {
+    "id": 597,
+    "question": "At the same pressure and temperature, equal volumes of all gases contain equal number of molecules. Known as",
+    "options": {
+      "a": "Boyle's Law",
+      "b": "Avogadro's Law",
+      "c": "Charles's Law",
+      "d": "Dalton's Law"
+    },
+    "answer": "b",
+    "correct_answer_text": "Avogadro's Law"
+  },
+  {
+    "id": 598,
+    "question": "CPE means",
+    "options": {
+      "a": "Continuing Professional Education",
+      "b": "Certified Professional Engineer",
+      "c": "Council of Professional Ethics",
+      "d": "College of Professional Education"
+    },
+    "answer": "a",
+    "correct_answer_text": "Continuing Professional Education"
+  },
+  {
+    "id": 599,
+    "question": "Pick out the item that does not belong to the computer.",
+    "options": {
+      "a": "OCR",
+      "b": "Mouse",
+      "c": "MICR",
+      "d": "Plotter"
+    },
+    "answer": "d",
+    "correct_answer_text": "d"
+  },
+  {
+    "id": 600,
+    "question": "Carbon materials used in electrical engineering are manufactured mostly from",
+    "options": {
+      "a": "charcoal",
+      "b": "Graphite",
+      "c": "diamond",
+      "d": "coke"
+    },
+    "answer": "b",
+    "correct_answer_text": "Graphite"
+  },
+  {
+    "id": 601,
+    "question": "Overhead telephone wires are",
+    "options": {
+      "a": "copper wires",
+      "b": "steel wires",
+      "c": "aluminum wires",
+      "d": "brass wires"
+    },
+    "answer": "b",
+    "correct_answer_text": "steel wires"
+  },
+  {
+    "id": 602,
+    "question": "It is the number of protons in the nucleus of an atom.",
+    "options": {
+      "a": "atomic weight",
+      "b": "mass number",
+      "c": "atomic number",
+      "d": "isotope number"
+    },
+    "answer": "c",
+    "correct_answer_text": "atomic number"
+  },
+  {
+    "id": 603,
+    "question": "When the loads on successive unit lengths of a cable are not spaced at equal horizontal distances, the cable assumes a shape of",
+    "options": {
+      "a": "parabola",
+      "b": "catenary",
+      "c": "hyperbola",
+      "d": "ellipse"
+    },
+    "answer": "b",
+    "correct_answer_text": "catenary"
+  },
+  {
+    "id": 604,
+    "question": "Which of the ff may cause any member of the Board to be removed by President of the Philippines?",
+    "options": {
+      "a": "Incompetence",
+      "b": "Malpractice",
+      "c": "Neglect of duty",
+      "d": "All of these"
+    },
+    "answer": "c",
+    "correct_answer_text": "c"
+  },
+  {
+    "id": 605,
+    "question": "The heat transfer due to motion of matter caused by change in density called",
+    "options": {
+      "a": "conduction",
+      "b": "convection",
+      "c": "radiation",
+      "d": "absorption"
+    },
+    "answer": "b",
+    "correct_answer_text": "convection"
+  },
+  {
+    "id": 606,
+    "question": "The part of specification which describes the work as a whole is",
+    "options": {
+      "a": "technical clause",
+      "b": "general clause",
+      "c": "specific clause",
+      "d": "legal clause"
+    },
+    "answer": "b",
+    "correct_answer_text": "general clause"
+  },
+  {
+    "id": 607,
+    "question": "A classification of contracts which is perfected by mere consent.",
+    "options": {
+      "a": "consensual and real",
+      "b": "formal and informal",
+      "c": "unilateral and bilateral",
+      "d": "express and implied"
+    },
+    "answer": "a",
+    "correct_answer_text": "consensual and real"
+  },
+  {
+    "id": 608,
+    "question": "Which of the ff does not belong to the Code of Ethics?",
+    "options": {
+      "a": "Penal provisions",
+      "b": "Relation with client and employer",
+      "c": "Preparation and signing of plans",
+      "d": "Professional life"
+    },
+    "answer": "d",
+    "correct_answer_text": "c"
+  },
+  {
+    "id": 609,
+    "question": "A material used for insulation.",
+    "options": {
+      "a": "Rubber",
+      "b": "Asbestos",
+      "c": "Mica",
+      "d": "All of these"
+    },
+    "answer": "b",
+    "correct_answer_text": "b"
+  },
+  {
+    "id": 610,
+    "question": "The powers and functions of the CPE council are the ff except:",
+    "options": {
+      "a": "Accept, evaluate and approve applications for accreditation of CPE provider.",
+      "b": "Approve recommendations of CPE providers for the number of CPE credit units.",
+      "c": "Asses periodically and upgrade criteria for accreditation.",
+      "d": "Accept, evaluate and approve applications for exemptions from CPE requirements."
+    },
+    "answer": "c",
+    "correct_answer_text": "c"
+  }
+]
