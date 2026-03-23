@@ -46,9 +46,9 @@ If there is an error, it will print the line number and position (e.g., `Unexpec
 
 Open `HOSTEDFLASHER\app.js` and find the `loadFileList` function (around line 131). Update the `fileNames` array to match every `.json` file now in the folder.
 
-**Current file list (as of 2026-03-19):**
+**Current file list (as of 2026-03-23):**
 ```javascript
-const fileNames = ['PEC1.json', 'PEC2.json', 'PEC3.json', 'PEC4.json', 'PEC5.json', 'PEC6.json', 'ESAS1.json', 'ESAS2.json', 'ESAS3.json'];
+const fileNames = ['PEC1.json', 'PEC2.json', 'PEC3.json', 'PEC4.json', 'PEC5.json', 'PEC6.json', 'ESAS1.json', 'ESAS2.json', 'ESAS3.json', 'MATH1.json'];
 ```
 
 > **Rule:** Every `.json` file in `HOSTEDFLASHER/` must appear in this array, or it will not show up on the dashboard. Conversely, any name in the array that has no matching file will cause a loading error.

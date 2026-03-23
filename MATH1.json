@@ -1,0 +1,2294 @@
+[
+  {
+    "id": 1,
+    "question": "A square matrix whose determinant is zero is called a:",
+    "options": {
+      "a": "Diagonal matrix",
+      "b": "Singular matrix",
+      "c": "Symmetric matrix",
+      "d": "Orthogonal matrix"
+    },
+    "answer": "b",
+    "correct_answer_text": "Singular matrix"
+  },
+  {
+    "id": 2,
+    "question": "What is the rank of a null (zero) matrix?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "Undefined",
+      "d": "Infinite"
+    },
+    "answer": "a",
+    "correct_answer_text": "0"
+  },
+  {
+    "id": 3,
+    "question": "The eigenvalues of a triangular matrix are strictly equal to its:",
+    "options": {
+      "a": "Trace",
+      "b": "Determinant",
+      "c": "Diagonal elements",
+      "d": "Row sums"
+    },
+    "answer": "c",
+    "correct_answer_text": "Diagonal elements"
+  },
+  {
+    "id": 4,
+    "question": "A system of linear equations that has no solution is termed:",
+    "options": {
+      "a": "Consistent",
+      "b": "Homogeneous",
+      "c": "Inconsistent",
+      "d": "Trivial"
+    },
+    "answer": "c",
+    "correct_answer_text": "Inconsistent"
+  },
+  {
+    "id": 5,
+    "question": "A matrix that is equal to its inverse is called:",
+    "options": {
+      "a": "Orthogonal",
+      "b": "Involutory",
+      "c": "Idempotent",
+      "d": "Nilpotent"
+    },
+    "answer": "b",
+    "correct_answer_text": "Involutory"
+  },
+  {
+    "id": 6,
+    "question": "Which rule is used to solve a system of linear equations using determinants?",
+    "options": {
+      "a": "Cramer's Rule",
+      "b": "L'Hopital's Rule",
+      "c": "Chain Rule",
+      "d": "Simpson's Rule"
+    },
+    "answer": "a",
+    "correct_answer_text": "Cramer's Rule"
+  },
+  {
+    "id": 7,
+    "question": "If A^2 = A, the matrix is called:",
+    "options": {
+      "a": "Nilpotent",
+      "b": "Idempotent",
+      "c": "Singular",
+      "d": "Involutory"
+    },
+    "answer": "b",
+    "correct_answer_text": "Idempotent"
+  },
+  {
+    "id": 8,
+    "question": "The locus of a point equidistant from a fixed point and a fixed line is a:",
+    "options": {
+      "a": "Circle",
+      "b": "Ellipse",
+      "c": "Parabola",
+      "d": "Hyperbola"
+    },
+    "answer": "c",
+    "correct_answer_text": "Parabola"
+  },
+  {
+    "id": 9,
+    "question": "The sum of the eigenvalues of a matrix is equal to its:",
+    "options": {
+      "a": "Determinant",
+      "b": "Rank",
+      "c": "Trace",
+      "d": "Inverse"
+    },
+    "answer": "c",
+    "correct_answer_text": "Trace"
+  },
+  {
+    "id": 10,
+    "question": "An identity matrix is always a:",
+    "options": {
+      "a": "Scalar matrix",
+      "b": "Null matrix",
+      "c": "Rectangular matrix",
+      "d": "Skew-symmetric matrix"
+    },
+    "answer": "a",
+    "correct_answer_text": "Scalar matrix"
+  },
+  {
+    "id": 11,
+    "question": "If A^T = A, then the matrix A is:",
+    "options": {
+      "a": "Orthogonal",
+      "b": "Symmetric",
+      "c": "Skew-symmetric",
+      "d": "Hermitian"
+    },
+    "answer": "b",
+    "correct_answer_text": "Symmetric"
+  },
+  {
+    "id": 12,
+    "question": "The product of the eigenvalues of a matrix is equal to its:",
+    "options": {
+      "a": "Trace",
+      "b": "Rank",
+      "c": "Determinant",
+      "d": "Cofactor"
+    },
+    "answer": "c",
+    "correct_answer_text": "Determinant"
+  },
+  {
+    "id": 13,
+    "question": "What is the eccentricity of a circle?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "Less than 1",
+      "d": "Greater than 1"
+    },
+    "answer": "a",
+    "correct_answer_text": "0"
+  },
+  {
+    "id": 14,
+    "question": "The angle between two perpendicular lines is:",
+    "options": {
+      "a": "45 degrees",
+      "b": "90 degrees",
+      "c": "180 degrees",
+      "d": "360 degrees"
+    },
+    "answer": "b",
+    "correct_answer_text": "90 degrees"
+  },
+  {
+    "id": 15,
+    "question": "In an ellipse, the sum of the distances from any point to the two foci is:",
+    "options": {
+      "a": "Variable",
+      "b": "Zero",
+      "c": "Constant",
+      "d": "Equal to the minor axis"
+    },
+    "answer": "c",
+    "correct_answer_text": "Constant"
+  },
+  {
+    "id": 16,
+    "question": "A polygon with 9 sides is called a:",
+    "options": {
+      "a": "Heptagon",
+      "b": "Octagon",
+      "c": "Nonagon",
+      "d": "Decagon"
+    },
+    "answer": "c",
+    "correct_answer_text": "Nonagon"
+  },
+  {
+    "id": 17,
+    "question": "The intersection of the three medians of a triangle is the:",
+    "options": {
+      "a": "Incenter",
+      "b": "Circumcenter",
+      "c": "Orthocenter",
+      "d": "Centroid"
+    },
+    "answer": "d",
+    "correct_answer_text": "Centroid"
+  },
+  {
+    "id": 18,
+    "question": "What is the eccentricity of a hyperbola?",
+    "options": {
+      "a": "e = 0",
+      "b": "e < 1",
+      "c": "e = 1",
+      "d": "e > 1"
+    },
+    "answer": "d",
+    "correct_answer_text": "e > 1"
+  },
+  {
+    "id": 19,
+    "question": "A solid bounded by polygonal faces is a:",
+    "options": {
+      "a": "Cylinder",
+      "b": "Sphere",
+      "c": "Polyhedron",
+      "d": "Cone"
+    },
+    "answer": "c",
+    "correct_answer_text": "Polyhedron"
+  },
+  {
+    "id": 20,
+    "question": "Two angles whose sum is 180 degrees are:",
+    "options": {
+      "a": "Complementary",
+      "b": "Supplementary",
+      "c": "Vertical",
+      "d": "Adjacent"
+    },
+    "answer": "b",
+    "correct_answer_text": "Supplementary"
+  },
+  {
+    "id": 21,
+    "question": "The longest chord of a circle is the:",
+    "options": {
+      "a": "Radius",
+      "b": "Secant",
+      "c": "Tangent",
+      "d": "Diameter"
+    },
+    "answer": "d",
+    "correct_answer_text": "Diameter"
+  },
+  {
+    "id": 22,
+    "question": "The derivative of a constant function is:",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "The constant itself",
+      "d": "Undefined"
+    },
+    "answer": "b",
+    "correct_answer_text": "0"
+  },
+  {
+    "id": 23,
+    "question": "Geometrically, the derivative of a function at a point represents the:",
+    "options": {
+      "a": "Area under the curve",
+      "b": "Slope of the tangent line",
+      "c": "Y-intercept",
+      "d": "Roots of the function"
+    },
+    "answer": "b",
+    "correct_answer_text": "Slope of the tangent line"
+  },
+  {
+    "id": 24,
+    "question": "The process of finding the area under a curve is called:",
+    "options": {
+      "a": "Differentiation",
+      "b": "Integration",
+      "c": "Extrapolation",
+      "d": "Interpolation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Integration"
+  },
+  {
+    "id": 25,
+    "question": "Which rule is used to find the limit of an indeterminate form like 0/0?",
+    "options": {
+      "a": "Product Rule",
+      "b": "Quotient Rule",
+      "c": "L'Hopital's Rule",
+      "d": "Chain Rule"
+    },
+    "answer": "c",
+    "correct_answer_text": "L'Hopital's Rule"
+  },
+  {
+    "id": 26,
+    "question": "The Integral of velocity with respect to time gives:",
+    "options": {
+      "a": "Acceleration",
+      "b": "Jerk",
+      "c": "Displacement",
+      "d": "Force"
+    },
+    "answer": "c",
+    "correct_answer_text": "Displacement"
+  },
+  {
+    "id": 27,
+    "question": "A point where the concavity of a curve changes is called a:",
+    "options": {
+      "a": "Maximum point",
+      "b": "Minimum point",
+      "c": "Point of inflection",
+      "d": "Critical point"
+    },
+    "answer": "c",
+    "correct_answer_text": "Point of inflection"
+  },
+  {
+    "id": 28,
+    "question": "What theorem connects differentiation and integration?",
+    "options": {
+      "a": "Mean Value Theorem",
+      "b": "Taylor's Theorem",
+      "c": "Fundamental Theorem of Calculus",
+      "d": "Rolle's Theorem"
+    },
+    "answer": "c",
+    "correct_answer_text": "Fundamental Theorem of Calculus"
+  },
+  {
+    "id": 29,
+    "question": "If f'(x) > 0 on an interval, the function is:",
+    "options": {
+      "a": "Concave upward",
+      "b": "Concave downward",
+      "c": "Decreasing",
+      "d": "Constant"
+    },
+    "answer": "a",
+    "correct_answer_text": "Concave upward"
+  },
+  {
+    "id": 30,
+    "question": "An Integral with specific upper and lower limits is called a:",
+    "options": {
+      "a": "Definite integral",
+      "b": "Indefinite integral",
+      "c": "Improper integral",
+      "d": "Double integral"
+    },
+    "answer": "a",
+    "correct_answer_text": "Definite integral"
+  },
+  {
+    "id": 31,
+    "question": "The highest derivative present in a differential equation determines its:",
+    "options": {
+      "a": "Degree",
+      "b": "Order",
+      "c": "Linearity",
+      "d": "Solution"
+    },
+    "answer": "b",
+    "correct_answer_text": "Order"
+  },
+  {
+    "id": 32,
+    "question": "The power of the highest order derivative in a differential equation (when free from radicals) is its:",
+    "options": {
+      "a": "Degree",
+      "b": "Order",
+      "c": "Coefficient",
+      "d": "Variable"
+    },
+    "answer": "a",
+    "correct_answer_text": "Degree"
+  },
+  {
+    "id": 33,
+    "question": "A function used to multiply a non-exact differential equation to make it exact is called an:",
+    "options": {
+      "a": "Eigenfunction",
+      "b": "Integrating factor",
+      "c": "Operator",
+      "d": "Auxiliary function"
+    },
+    "answer": "b",
+    "correct_answer_text": "Integrating factor"
+  },
+  {
+    "id": 34,
+    "question": "Differential equations containing partial derivatives are known as:",
+    "options": {
+      "a": "ODEs",
+      "b": "PDEs",
+      "c": "Linear equations",
+      "d": "Homogeneous equations"
+    },
+    "answer": "b",
+    "correct_answer_text": "PDEs"
+  },
+  {
+    "id": 35,
+    "question": "The general solution of an n-th order linear ODE contains how many arbitrary constants?",
+    "options": {
+      "a": "1",
+      "b": "n-1",
+      "c": "n",
+      "d": "n+1"
+    },
+    "answer": "c",
+    "correct_answer_text": "n"
+  },
+  {
+    "id": 36,
+    "question": "An equation where the dependent variable and its derivatives appear only to the first power is:",
+    "options": {
+      "a": "Non-linear",
+      "b": "Linear",
+      "c": "Exact",
+      "d": "Separable"
+    },
+    "answer": "b",
+    "correct_answer_text": "Linear"
+  },
+  {
+    "id": 37,
+    "question": "The characteristic equation is used to solve linear ODEs with:",
+    "options": {
+      "a": "Variable coefficients",
+      "b": "Constant coefficients",
+      "c": "Partial derivatives",
+      "d": "Boundary conditions"
+    },
+    "answer": "b",
+    "correct_answer_text": "Constant coefficients"
+  },
+  {
+    "id": 38,
+    "question": "Boundary value problems require conditions specified at:",
+    "options": {
+      "a": "A single point",
+      "b": "Two or more distinct points",
+      "c": "Infinity only",
+      "d": "The origin only"
+    },
+    "answer": "b",
+    "correct_answer_text": "Two or more distinct points"
+  },
+  {
+    "id": 39,
+    "question": "The equation y' + P(x)y = Q(x) is a:",
+    "options": {
+      "a": "Bernoulli's equation",
+      "b": "Exact equation",
+      "c": "First-order linear equation",
+      "d": "Second-order homogeneous equation"
+    },
+    "answer": "c",
+    "correct_answer_text": "First-order linear equation"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is an example of a partial differential equation?",
+    "options": {
+      "a": "Newton's Law of Cooling",
+      "b": "Heat Equation",
+      "c": "Euler-Cauchy Equation",
+      "d": "Logistic Growth Model"
+    },
+    "answer": "b",
+    "correct_answer_text": "Heat Equation"
+  },
+  {
+    "id": 41,
+    "question": "Which method is used to find the roots of an equation by drawing tangents?",
+    "options": {
+      "a": "Bisection method",
+      "b": "Secant method",
+      "c": "Newton-Raphson method",
+      "d": "Euler's method"
+    },
+    "answer": "c",
+    "correct_answer_text": "Newton-Raphson method"
+  },
+  {
+    "id": 42,
+    "question": "The Bisection method is based on the:",
+    "options": {
+      "a": "Mean Value Theorem",
+      "b": "Intermediate Value Theorem",
+      "c": "Taylor Series",
+      "d": "Fundamental Theorem of Calculus"
+    },
+    "answer": "b",
+    "correct_answer_text": "Intermediate Value Theorem"
+  },
+  {
+    "id": 43,
+    "question": "In numerical Integration, Simpson's 1/3 rule assumes the curve between points is a:",
+    "options": {
+      "a": "Straight line",
+      "b": "Parabola",
+      "c": "Cubic curve",
+      "d": "Circle"
+    },
+    "answer": "b",
+    "correct_answer_text": "Parabola"
+  },
+  {
+    "id": 44,
+    "question": "Which numerical method is a single-step method for solving ODEs?",
+    "options": {
+      "a": "Adams-Bashforth",
+      "b": "Milne's method",
+      "c": "Runge-Kutta method",
+      "d": "Finite difference method"
+    },
+    "answer": "c",
+    "correct_answer_text": "Runge-Kutta method"
+  },
+  {
+    "id": 45,
+    "question": "The error introduced by truncating an infinite mathematical series to a finite number of terms is:",
+    "options": {
+      "a": "Round-off error",
+      "b": "Truncation error",
+      "c": "Absolute error",
+      "d": "Relative error"
+    },
+    "answer": "b",
+    "correct_answer_text": "Truncation error"
+  },
+  {
+    "id": 46,
+    "question": "Trapezoidal rule is a numerical method for:",
+    "options": {
+      "a": "Differentiation",
+      "b": "Integration",
+      "c": "Finding roots",
+      "d": "Solving systems of equations"
+    },
+    "answer": "b",
+    "correct_answer_text": "Integration"
+  },
+  {
+    "id": 47,
+    "question": "Gauss elimination is a method for:",
+    "options": {
+      "a": "Solving ODEs",
+      "b": "Finding Integrals",
+      "c": "Solving systems of linear equations",
+      "d": "Interpolation"
+    },
+    "answer": "c",
+    "correct_answer_text": "Solving systems of linear equations"
+  },
+  {
+    "id": 48,
+    "question": "The process of finding a value between two known data points is called:",
+    "options": {
+      "a": "Extrapolation",
+      "b": "Interpolation",
+      "c": "Integration",
+      "d": "Iteration"
+    },
+    "answer": "b",
+    "correct_answer_text": "Interpolation"
+  },
+  {
+    "id": 49,
+    "question": "Which iterative method converges fastest for finding roots?",
+    "options": {
+      "a": "Bisection",
+      "b": "False Position (Regula Falsi)",
+      "c": "Secant",
+      "d": "Newton-Raphson"
+    },
+    "answer": "d",
+    "correct_answer_text": "Newton-Raphson"
+  },
+  {
+    "id": 50,
+    "question": "The convergence of the Newton-Raphson method is generally:",
+    "options": {
+      "a": "Linear",
+      "b": "Quadratic",
+      "c": "Cubic",
+      "d": "Exponential"
+    },
+    "answer": "b",
+    "correct_answer_text": "Quadratic"
+  },
+  {
+    "id": 51,
+    "question": "Pivoting in Gaussian elimination is used to:",
+    "options": {
+      "a": "Speed up calculation",
+      "b": "Reduce round-off error and avoid division by zero",
+      "c": "Make the matrix symmetric",
+      "d": "Find the determinant directly"
+    },
+    "answer": "b",
+    "correct_answer_text": "Reduce round-off error and avoid division by zero"
+  },
+  {
+    "id": 52,
+    "question": "A quantity having both magnitude and direction is a:",
+    "options": {
+      "a": "Scalar",
+      "b": "Tensor",
+      "c": "Vector",
+      "d": "Phasor"
+    },
+    "answer": "c",
+    "correct_answer_text": "Vector"
+  },
+  {
+    "id": 53,
+    "question": "The dot product of two mutually perpendicular vectors is:",
+    "options": {
+      "a": "1",
+      "b": "-1",
+      "c": "0",
+      "d": "Infinity"
+    },
+    "answer": "c",
+    "correct_answer_text": "0"
+  },
+  {
+    "id": 54,
+    "question": "The cross product of two parallel vectors is:",
+    "options": {
+      "a": "1",
+      "b": "The zero vector",
+      "c": "A scalar",
+      "d": "Their dot product"
+    },
+    "answer": "b",
+    "correct_answer_text": "The zero vector"
+  },
+  {
+    "id": 55,
+    "question": "The operator ∇ (del) is a:",
+    "options": {
+      "a": "Scalar operator",
+      "b": "Vector differential operator",
+      "c": "Integral operator",
+      "d": "Algebraic constant"
+    },
+    "answer": "b",
+    "correct_answer_text": "Vector differential operator"
+  },
+  {
+    "id": 56,
+    "question": "The gradient of a scalar field produces a:",
+    "options": {
+      "a": "Scalar field",
+      "b": "Vector field",
+      "c": "Tensor field",
+      "d": "Constant"
+    },
+    "answer": "b",
+    "correct_answer_text": "Vector field"
+  },
+  {
+    "id": 57,
+    "question": "The divergence of a vector field produces a:",
+    "options": {
+      "a": "Scalar field",
+      "b": "Vector field",
+      "c": "Tangent vector",
+      "d": "Cross product"
+    },
+    "answer": "a",
+    "correct_answer_text": "Scalar field"
+  },
+  {
+    "id": 58,
+    "question": "If the divergence of a vector field is zero, the field is called:",
+    "options": {
+      "a": "Irrotational",
+      "b": "Solenoidal",
+      "c": "Conservative",
+      "d": "Harmonic"
+    },
+    "answer": "b",
+    "correct_answer_text": "Solenoidal"
+  },
+  {
+    "id": 59,
+    "question": "The curl of a vector field is a measure of its:",
+    "options": {
+      "a": "Expansion",
+      "b": "Flux",
+      "c": "Rotation",
+      "d": "Gradient"
+    },
+    "answer": "c",
+    "correct_answer_text": "Rotation"
+  },
+  {
+    "id": 60,
+    "question": "If the curl of a vector field is zero, the field is called:",
+    "options": {
+      "a": "Irrotational",
+      "b": "Solenoidal",
+      "c": "Rotational",
+      "d": "Divergent"
+    },
+    "answer": "a",
+    "correct_answer_text": "Irrotational"
+  },
+  {
+    "id": 61,
+    "question": "Which theorem relates a surface integral to a volume Integral?",
+    "options": {
+      "a": "Stokes' Theorem",
+      "b": "Green's Theorem",
+      "c": "Divergence Theorem (Gauss's Theorem)",
+      "d": "Pythagorean Theorem"
+    },
+    "answer": "c",
+    "correct_answer_text": "Divergence Theorem (Gauss's Theorem)"
+  },
+  {
+    "id": 62,
+    "question": "Stokes' Theorem relates a line integral around a closed curve to a:",
+    "options": {
+      "a": "Volume integral",
+      "b": "Surface Integral",
+      "c": "Derivative",
+      "d": "Scalar product"
+    },
+    "answer": "b",
+    "correct_answer_text": "Surface Integral"
+  },
+  {
+    "id": 63,
+    "question": "The Laplace transform converts functions of time (t) into functions of:",
+    "options": {
+      "a": "Frequency",
+      "b": "Complex frequency",
+      "c": "Position",
+      "d": "Momentum"
+    },
+    "answer": "b",
+    "correct_answer_text": "Complex frequency"
+  },
+  {
+    "id": 64,
+    "question": "The Laplace transform of the unit step function u(t) is:",
+    "options": {
+      "a": "1/s",
+      "b": "1",
+      "c": "s",
+      "d": "1/s^2"
+    },
+    "answer": "a",
+    "correct_answer_text": "1/s"
+  },
+  {
+    "id": 65,
+    "question": "The inverse Laplace transform is usually evaluated using:",
+    "options": {
+      "a": "Partial fractions",
+      "b": "Integration by parts",
+      "c": "Taylor series",
+      "d": "Matrix Inversion"
+    },
+    "answer": "a",
+    "correct_answer_text": "Partial fractions"
+  },
+  {
+    "id": 66,
+    "question": "Fourier series are used to represent which type of functions?",
+    "options": {
+      "a": "Exponential functions",
+      "b": "Logarithmic functions",
+      "c": "Periodic functions",
+      "d": "Polynomial functions"
+    },
+    "answer": "c",
+    "correct_answer_text": "Periodic functions"
+  },
+  {
+    "id": 67,
+    "question": "A Fourier series consists of a sum of:",
+    "options": {
+      "a": "Polynomials",
+      "b": "Exponentials",
+      "c": "Sines and cosines",
+      "d": "Logarithms"
+    },
+    "answer": "c",
+    "correct_answer_text": "Sines and cosines"
+  },
+  {
+    "id": 68,
+    "question": "The Fourier transform of a time-domain signal gives its representation in the:",
+    "options": {
+      "a": "Phase domain",
+      "b": "Frequency domain",
+      "c": "s-domain",
+      "d": "z-domain"
+    },
+    "answer": "b",
+    "correct_answer_text": "Frequency domain"
+  },
+  {
+    "id": 69,
+    "question": "The Z-transform is the discrete-time equivalent of the:",
+    "options": {
+      "a": "Fourier series",
+      "b": "Laplace transform",
+      "c": "Wavelet transform",
+      "d": "Hankel transform"
+    },
+    "answer": "b",
+    "correct_answer_text": "Laplace transform"
+  },
+  {
+    "id": 70,
+    "question": "The Laplace transform of the Dirac delta function δ(t) is:",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "1/s",
+      "d": "s"
+    },
+    "answer": "b",
+    "correct_answer_text": "1"
+  },
+  {
+    "id": 71,
+    "question": "Convolution in the time domain corresponds to what in the Laplace domain?",
+    "options": {
+      "a": "Addition",
+      "b": "Subtraction",
+      "c": "Multiplication",
+      "d": "Division"
+    },
+    "answer": "c",
+    "correct_answer_text": "Multiplication"
+  },
+  {
+    "id": 72,
+    "question": "The condition for the existence of a Fourier series is known as:",
+    "options": {
+      "a": "Dirichlet conditions",
+      "b": "Cauchy-Riemann equations",
+      "c": "Euler's formula",
+      "d": "Parseval's theorem"
+    },
+    "answer": "a",
+    "correct_answer_text": "Dirichlet conditions"
+  },
+  {
+    "id": 73,
+    "question": "The region of convergence (ROC) is a crucial concept in which transform?",
+    "options": {
+      "a": "Fourier series",
+      "b": "Discrete Fourier Transform",
+      "c": "Z-transform and Laplace transform",
+      "d": "Hilbert transform"
+    },
+    "answer": "c",
+    "correct_answer_text": "Z-transform and Laplace transform"
+  },
+  {
+    "id": 74,
+    "question": "A complex function is analytic if it is:",
+    "options": {
+      "a": "Continuous everywhere",
+      "b": "Differentiable in a neighborhood of every point in its domain",
+      "c": "Real-valued",
+      "d": "Bounded"
+    },
+    "answer": "b",
+    "correct_answer_text": "Differentiable in a neighborhood of every point in its domain"
+  },
+  {
+    "id": 75,
+    "question": "The necessary conditions for a complex function to be analytic are the:",
+    "options": {
+      "a": "Cauchy-Riemann equations",
+      "b": "Laplace equations",
+      "c": "Maxwell's equations",
+      "d": "Euler-Lagrange equations"
+    },
+    "answer": "a",
+    "correct_answer_text": "Cauchy-Riemann equations"
+  },
+  {
+    "id": 76,
+    "question": "The integral of an analytic function over a closed contour is zero according to:",
+    "options": {
+      "a": "Cauchy's Integral Formula",
+      "b": "Cauchy's Integral Theorem",
+      "c": "Residue Theorem",
+      "d": "Liouville's Theorem"
+    },
+    "answer": "b",
+    "correct_answer_text": "Cauchy's Integral Theorem"
+  },
+  {
+    "id": 77,
+    "question": "Singularities where a complex function goes to Infinity are called:",
+    "options": {
+      "a": "Roots",
+      "b": "Poles",
+      "c": "Zeros",
+      "d": "Residues"
+    },
+    "answer": "b",
+    "correct_answer_text": "Poles"
+  },
+  {
+    "id": 78,
+    "question": "The coefficient of the 1/(z-a) term in a Cauchy cyclic integral is called the:",
+    "options": {
+      "a": "Pole",
+      "b": "Zero",
+      "c": "Residue",
+      "d": "Principal part"
+    },
+    "answer": "c",
+    "correct_answer_text": "Residue"
+  },
+  {
+    "id": 79,
+    "question": "Euler's formula states that e^iθ = ?",
+    "options": {
+      "a": "sin(θ) + i cos(θ)",
+      "b": "cos(θ) + i sin(θ)",
+      "c": "cos(θ) - i sin(θ)",
+      "d": "sin(θ) + i cos(θ)"
+    },
+    "answer": "b",
+    "correct_answer_text": "cos(θ) + i sin(θ)"
+  },
+  {
+    "id": 80,
+    "question": "A function that is analytic everywhere in the finite complex plane is called:",
+    "options": {
+      "a": "Meromorphic",
+      "b": "Entire",
+      "c": "Harmonic",
+      "d": "Rational"
+    },
+    "answer": "b",
+    "correct_answer_text": "Entire"
+  },
+  {
+    "id": 81,
+    "question": "The absolute value (modulus) of the complex number z = x + iy is:",
+    "options": {
+      "a": "x + y",
+      "b": "x^2 + y^2",
+      "c": "sqrt(x^2 + y^2)",
+      "d": "sqrt(x + y)"
+    },
+    "answer": "c",
+    "correct_answer_text": "sqrt(x^2 + y^2)"
+  },
+  {
+    "id": 82,
+    "question": "According to Liouville's Theorem, a bounded entire function must be:",
+    "options": {
+      "a": "Constant",
+      "b": "Zero",
+      "c": "Exponential",
+      "d": "Rational"
+    },
+    "answer": "a",
+    "correct_answer_text": "Constant"
+  },
+  {
+    "id": 83,
+    "question": "Conformal mapping preserves:",
+    "options": {
+      "a": "Areas",
+      "b": "Angles",
+      "c": "Lengths",
+      "d": "Volumes"
+    },
+    "answer": "b",
+    "correct_answer_text": "Angles"
+  },
+  {
+    "id": 84,
+    "question": "The decline in the value of an asset over time is known as:",
+    "options": {
+      "a": "Inflation",
+      "b": "Depletion",
+      "c": "Depreciation",
+      "d": "Amortization"
+    },
+    "answer": "c",
+    "correct_answer_text": "Depreciation"
+  },
+  {
+    "id": 85,
+    "question": "Interest calculated on both the principal and the accumulated Interest is:",
+    "options": {
+      "a": "Simple interest",
+      "b": "Nominal interest",
+      "c": "Compound Interest",
+      "d": "Effective Interest"
+    },
+    "answer": "c",
+    "correct_answer_text": "Compound Interest"
+  },
+  {
+    "id": 86,
+    "question": "The point at which total revenue equals total cost is the:",
+    "options": {
+      "a": "Optimum point",
+      "b": "Break-even point",
+      "c": "Margin of safety",
+      "d": "Yield point"
+    },
+    "answer": "b",
+    "correct_answer_text": "Break-even point"
+  },
+  {
+    "id": 87,
+    "question": "A series of equal, periodic payments is called:",
+    "options": {
+      "a": "An annuity",
+      "b": "A dividend",
+      "c": "A premium",
+      "d": "A bond"
+    },
+    "answer": "a",
+    "correct_answer_text": "An annuity"
+  },
+  {
+    "id": 88,
+    "question": "The actual interest rate earned in a year, accounting for compounding periods, is the:",
+    "options": {
+      "a": "Nominal rate",
+      "b": "Real rate",
+      "c": "Effective annual rate",
+      "d": "Simple rate"
+    },
+    "answer": "c",
+    "correct_answer_text": "Effective annual rate"
+  },
+  {
+    "id": 89,
+    "question": "The process of evaluating the financial viability of an engineering project is:",
+    "options": {
+      "a": "Cost accounting",
+      "b": "Engineering economy",
+      "c": "Value engineering",
+      "d": "Operations research"
+    },
+    "answer": "b",
+    "correct_answer_text": "Engineering economy"
+  },
+  {
+    "id": 90,
+    "question": "The current worth of a future sum of money is called:",
+    "options": {
+      "a": "Future value",
+      "b": "Present value",
+      "c": "Salvage value",
+      "d": "Book value"
+    },
+    "answer": "b",
+    "correct_answer_text": "Present value"
+  },
+  {
+    "id": 91,
+    "question": "The estimated value of an asset at the end of its useful life is Its:",
+    "options": {
+      "a": "Book value",
+      "b": "Market value",
+      "c": "Salvage value",
+      "d": "Replacement value"
+    },
+    "answer": "c",
+    "correct_answer_text": "Salvage value"
+  },
+  {
+    "id": 92,
+    "question": "An expenditure that has already been Incurred and cannot be recovered Is a:",
+    "options": {
+      "a": "Fixed cost",
+      "b": "Variable cost",
+      "c": "Opportunity cost",
+      "d": "Sunk cost"
+    },
+    "answer": "d",
+    "correct_answer_text": "Sunk cost"
+  },
+  {
+    "id": 93,
+    "question": "The potential benefit lost by choosing one alternative over another Is the:",
+    "options": {
+      "a": "Sunk cost",
+      "b": "Marginal cost",
+      "c": "Opportunity cost",
+      "d": "Indirect cost"
+    },
+    "answer": "c",
+    "correct_answer_text": "Opportunity cost"
+  },
+  {
+    "id": 94,
+    "question": "A method of depreciation where an equal amount is deducted each year is the:",
+    "options": {
+      "a": "Declining balance method",
+      "b": "Sum-of-the-years'-digits method",
+      "c": "Straight-line method",
+      "d": "MACRS"
+    },
+    "answer": "c",
+    "correct_answer_text": "Straight-line method"
+  },
+  {
+    "id": 95,
+    "question": "The ratio of the net profit to the initial investment is termed the:",
+    "options": {
+      "a": "Return on Investment (ROI)",
+      "b": "Benefit-Cost Ratio",
+      "c": "Internal Rate of Return (IRR)",
+      "d": "Payback Period"
+    },
+    "answer": "a",
+    "correct_answer_text": "Return on Investment (ROI)"
+  },
+  {
+    "id": 96,
+    "question": "What does the first derivative of a function represent geometrically?",
+    "options": {
+      "a": "Area under the curve",
+      "b": "Slope of the tangent line",
+      "c": "Radius of curvature",
+      "d": "Point of inflection"
+    },
+    "answer": "b",
+    "correct_answer_text": "Slope of the tangent line"
+  },
+  {
+    "id": 97,
+    "question": "According to the Fundamental Theorem of Calculus, integration and differentiation are:",
+    "options": {
+      "a": "Commutative operations",
+      "b": "Inverse operations",
+      "c": "Identical operations",
+      "d": "Unrelated operations"
+    },
+    "answer": "b",
+    "correct_answer_text": "Inverse operations"
+  },
+  {
+    "id": 98,
+    "question": "A point where a curve changes its concavity is known as:",
+    "options": {
+      "a": "Critical point",
+      "b": "Stationary point",
+      "c": "Point of inflection",
+      "d": "Maximum point"
+    },
+    "answer": "c",
+    "correct_answer_text": "Point of inflection"
+  },
+  {
+    "id": 99,
+    "question": "L'Hôpital's Rule is used to evaluate limits that result in:",
+    "options": {
+      "a": "Real numbers",
+      "b": "Complex numbers",
+      "c": "Indeterminate forms",
+      "d": "Absolute maximums"
+    },
+    "answer": "c",
+    "correct_answer_text": "Indeterminate forms"
+  },
+  {
+    "id": 100,
+    "question": "The definite Integral of a positive function f(x) from x=a to x=b represents:",
+    "options": {
+      "a": "The arc length",
+      "b": "The surface area",
+      "c": "The volume",
+      "d": "The area under the curve"
+    },
+    "answer": "d",
+    "correct_answer_text": "The area under the curve"
+  },
+  {
+    "id": 101,
+    "question": "The Maclaurin series is a special case of the Taylor series expanded around which point?",
+    "options": {
+      "a": "x = 1",
+      "b": "x = i",
+      "c": "x = infinity",
+      "d": "x = 0"
+    },
+    "answer": "d",
+    "correct_answer_text": "x = 0"
+  },
+  {
+    "id": 102,
+    "question": "If the second derivative of a function at a critical point is positive, the point is a:",
+    "options": {
+      "a": "Local maximum",
+      "b": "Local minimum",
+      "c": "Saddle point",
+      "d": "Point of inflection"
+    },
+    "answer": "b",
+    "correct_answer_text": "Local minimum"
+  },
+  {
+    "id": 103,
+    "question": "The Jacobian matrix is primarily used in calculus for:",
+    "options": {
+      "a": "Finding the roots of polynomials",
+      "b": "Changing variables in multiple integrals",
+      "c": "Solving ordinary differential equations",
+      "d": "Evaluating limits"
+    },
+    "answer": "b",
+    "correct_answer_text": "Changing variables in multiple integrals"
+  },
+  {
+    "id": 104,
+    "question": "Which rule is applied to differentiate a composite function f(g(x))?",
+    "options": {
+      "a": "Product rule",
+      "b": "Quotient rule",
+      "c": "Chain rule",
+      "d": "Power rule"
+    },
+    "answer": "c",
+    "correct_answer_text": "Chain rule"
+  },
+  {
+    "id": 105,
+    "question": "The term \"radius of curvature\" refers to the radius of:",
+    "options": {
+      "a": "The tangent line",
+      "b": "The osculating circle",
+      "c": "The normal vector",
+      "d": "The secant line"
+    },
+    "answer": "b",
+    "correct_answer_text": "The osculating circle"
+  },
+  {
+    "id": 106,
+    "question": "An improper integral is an integral where:",
+    "options": {
+      "a": "The integrand is negative",
+      "b": "The limits are infinite or the integrand is unbounded",
+      "c": "The function is a polynomial",
+      "d": "The variable is complex"
+    },
+    "answer": "b",
+    "correct_answer_text": "The limits are infinite or the integrand is unbounded"
+  },
+  {
+    "id": 107,
+    "question": "The method of orthogonal trajectories is used to find a family of curves that:",
+    "options": {
+      "a": "Are parallel to a given family",
+      "b": "Intersect a given family at right angles",
+      "c": "Have the same area",
+      "d": "Have the same slope"
+    },
+    "answer": "b",
+    "correct_answer_text": "Intersect a given family at right angles"
+  },
+  {
+    "id": 108,
+    "question": "Bernoulli's equation can be reduced to a linear differential equation using a suitable:",
+    "options": {
+      "a": "Substitution/transformation",
+      "b": "Integration by parts",
+      "c": "Taylor series",
+      "d": "Matrix inversion"
+    },
+    "answer": "a",
+    "correct_answer_text": "Substitution/transformation"
+  },
+  {
+    "id": 109,
+    "question": "A singular solution of a differential equation is a solution that:",
+    "options": {
+      "a": "Has no arbitrary constants and cannot be derived from the general solution",
+      "b": "Is trivial (e.g., y = 0)",
+      "c": "Is defined only at a single point",
+      "d": "Tends to infinity"
+    },
+    "answer": "a",
+    "correct_answer_text": "Has no arbitrary constants and cannot be derived from the general solution"
+  },
+  {
+    "id": 110,
+    "question": "The Cauchy-Euler equation is characterized by having coefficients that are:",
+    "options": {
+      "a": "Constants",
+      "b": "Trigonometric functions",
+      "c": "Proportional to powers of the independent variable",
+      "d": "Exponential functions"
+    },
+    "answer": "c",
+    "correct_answer_text": "Proportional to powers of the independent variable"
+  },
+  {
+    "id": 111,
+    "question": "In a system of differential equations representing an underdamped spring-mass system, the roots of the characteristic equation are:",
+    "options": {
+      "a": "Real and equal",
+      "b": "Real and distinct",
+      "c": "Complex conjugates",
+      "d": "Zero"
+    },
+    "answer": "c",
+    "correct_answer_text": "Complex conjugates"
+  },
+  {
+    "id": 112,
+    "question": "Partial differential equations (PDEs) involve:",
+    "options": {
+      "a": "One independent variable",
+      "b": "Two or more independent variables",
+      "c": "No derivatives",
+      "d": "Only constant terms"
+    },
+    "answer": "b",
+    "correct_answer_text": "Two or more independent variables"
+  },
+  {
+    "id": 113,
+    "question": "Which numerical method is known for having a quadratic rate of convergence?",
+    "options": {
+      "a": "Bisection method",
+      "b": "Secant method",
+      "c": "Newton-Raphson method",
+      "d": "Regula Falsi method"
+    },
+    "answer": "c",
+    "correct_answer_text": "Newton-Raphson method"
+  },
+  {
+    "id": 114,
+    "question": "The Bisection method is guaranteed to converge if the function is continuous and:",
+    "options": {
+      "a": "The Initial guesses have the same sign",
+      "b": "The root is an integer",
+      "c": "The initial guesses bracket the root",
+      "d": "The derivative is zero"
+    },
+    "answer": "c",
+    "correct_answer_text": "The initial guesses bracket the root"
+  },
+  {
+    "id": 115,
+    "question": "Unlike the Newton-Raphson method, the Secant method does not require:",
+    "options": {
+      "a": "Initial guesses",
+      "b": "Evaluation of the function's derivative",
+      "c": "Iteration",
+      "d": "A continuous function"
+    },
+    "answer": "b",
+    "correct_answer_text": "Evaluation of the function's derivative"
+  },
+  {
+    "id": 116,
+    "question": "Simpson's 1/3 rule assumes the integrand is approximated by a polynomial of degree:",
+    "options": {
+      "a": "1 (Linear)",
+      "b": "2 (Quadratic)",
+      "c": "3 (Cubic)",
+      "d": "4 (Quartic)"
+    },
+    "answer": "b",
+    "correct_answer_text": "2 (Quadratic)"
+  },
+  {
+    "id": 117,
+    "question": "The Trapezoidal rule approximates the area under a curve using:",
+    "options": {
+      "a": "Rectangles",
+      "b": "Parabolas",
+      "c": "Straight line segments",
+      "d": "Circles"
+    },
+    "answer": "c",
+    "correct_answer_text": "Straight line segments"
+  },
+  {
+    "id": 118,
+    "question": "In numerical integration, finding an estimate outside the range of known data points is called:",
+    "options": {
+      "a": "Interpolation",
+      "b": "Extrapolation",
+      "c": "Differentiation",
+      "d": "Truncation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Extrapolation"
+  },
+  {
+    "id": 119,
+    "question": "The Runge-Kutta 4th order method is a standard technique for solving:",
+    "options": {
+      "a": "Linear algebraic equations",
+      "b": "Definite Integrals",
+      "c": "Ordinary differential equations",
+      "d": "Roots of polynomials"
+    },
+    "answer": "c",
+    "correct_answer_text": "Ordinary differential equations"
+  },
+  {
+    "id": 120,
+    "question": "Euler's method is considered a:",
+    "options": {
+      "a": "Single-step method",
+      "b": "Multi-step method",
+      "c": "Matrix-inversion method",
+      "d": "Bracket method"
+    },
+    "answer": "a",
+    "correct_answer_text": "Single-step method"
+  },
+  {
+    "id": 121,
+    "question": "Gaussian Elimination is a direct method used to solve:",
+    "options": {
+      "a": "Non-linear equations",
+      "b": "Differential equations",
+      "c": "Systems of linear equations",
+      "d": "Integration problems"
+    },
+    "answer": "c",
+    "correct_answer_text": "Systems of linear equations"
+  },
+  {
+    "id": 122,
+    "question": "An iterative method for solving systems of linear equations is:",
+    "options": {
+      "a": "Cramer's Rule",
+      "b": "Gauss-Jordan Elimination",
+      "c": "Gauss-Seidel method",
+      "d": "LU Decomposition"
+    },
+    "answer": "c",
+    "correct_answer_text": "Gauss-Seidel method"
+  },
+  {
+    "id": 123,
+    "question": "The error Introduced by representing continuous math functions with discrete approximations Is:",
+    "options": {
+      "a": "Round-off error",
+      "b": "Truncation error",
+      "c": "Human error",
+      "d": "Overflow error"
+    },
+    "answer": "b",
+    "correct_answer_text": "Truncation error"
+  },
+  {
+    "id": 124,
+    "question": "Round-off errors occur due to:",
+    "options": {
+      "a": "Using a finite number of terms in an Infinite series",
+      "b": "The Inability of a computer to store numbers with Infinite precision",
+      "c": "Incorrectly stating the physical problem",
+      "d": "Using the wrong formula"
+    },
+    "answer": "b",
+    "correct_answer_text": "The Inability of a computer to store numbers with Infinite precision"
+  },
+  {
+    "id": 125,
+    "question": "An ill-conditioned matrix means that:",
+    "options": {
+      "a": "Its determinant is exactly zero",
+      "b": "Small changes in inputs lead to large changes in outputs",
+      "c": "It has no Inverse",
+      "d": "It is not a square matrix"
+    },
+    "answer": "b",
+    "correct_answer_text": "Small changes in inputs lead to large changes in outputs"
+  },
+  {
+    "id": 126,
+    "question": "Lagrange interpolation is used to fit a polynomial to:",
+    "options": {
+      "a": "Evenly spaced data points only",
+      "b": "Unevenly spaced data points",
+      "c": "Periodic functions only",
+      "d": "Infinite series"
+    },
+    "answer": "b",
+    "correct_answer_text": "Unevenly spaced data points"
+  },
+  {
+    "id": 127,
+    "question": "The dot product of two mutually orthogonal (perpendicular) non-zero vectors is:",
+    "options": {
+      "a": "1",
+      "b": "-1",
+      "c": "0",
+      "d": "Infinity"
+    },
+    "answer": "c",
+    "correct_answer_text": "0"
+  },
+  {
+    "id": 128,
+    "question": "The cross product of two parallel vectors is:",
+    "options": {
+      "a": "The zero vector",
+      "b": "1",
+      "c": "A scalar",
+      "d": "An orthogonal vector"
+    },
+    "answer": "a",
+    "correct_answer_text": "The zero vector"
+  },
+  {
+    "id": 129,
+    "question": "The gradient of a scalar field produces a:",
+    "options": {
+      "a": "Scalar field",
+      "b": "Vector field",
+      "c": "Tensor",
+      "d": "Matrix"
+    },
+    "answer": "b",
+    "correct_answer_text": "Vector field"
+  },
+  {
+    "id": 130,
+    "question": "The divergence of a vector field produces a:",
+    "options": {
+      "a": "Scalar field",
+      "b": "Vector field",
+      "c": "Constant",
+      "d": "Path integral"
+    },
+    "answer": "a",
+    "correct_answer_text": "Scalar field"
+  },
+  {
+    "id": 131,
+    "question": "A vector field is called \"solenoidal\" if its:",
+    "options": {
+      "a": "Curl is zero",
+      "b": "Divergence is zero",
+      "c": "Gradient is zero",
+      "d": "Magnitude is constant"
+    },
+    "answer": "b",
+    "correct_answer_text": "Divergence is zero"
+  },
+  {
+    "id": 132,
+    "question": "A vector field is called \"irrotational\" if its:",
+    "options": {
+      "a": "Curl is zero",
+      "b": "Divergence is zero",
+      "c": "Gradient is zero",
+      "d": "Magnitude is zero"
+    },
+    "answer": "a",
+    "correct_answer_text": "Curl is zero"
+  },
+  {
+    "id": 133,
+    "question": "The mathematical operator ∇^2 (del squared) is known as the:",
+    "options": {
+      "a": "Hamiltonian",
+      "b": "Jacobian",
+      "c": "Laplacian",
+      "d": "Wronskian"
+    },
+    "answer": "c",
+    "correct_answer_text": "Laplacian"
+  },
+  {
+    "id": 134,
+    "question": "The Divergence Theorem (Gauss's Theorem) relates a:",
+    "options": {
+      "a": "Line Integral to a surface Integral",
+      "b": "Surface integral to a volume Integral",
+      "c": "Line Integral to a volume integral",
+      "d": "Point to a line integral"
+    },
+    "answer": "b",
+    "correct_answer_text": "Surface integral to a volume Integral"
+  },
+  {
+    "id": 135,
+    "question": "Stokes' Theorem relates a:",
+    "options": {
+      "a": "Line integral to a surface integral",
+      "b": "Surface integral to a volume integral",
+      "c": "Volume integral to a point",
+      "d": "Path integral to a volume integral"
+    },
+    "answer": "a",
+    "correct_answer_text": "Line integral to a surface integral"
+  },
+  {
+    "id": 136,
+    "question": "The direction of the maximum rate of change of a scalar function is given by its:",
+    "options": {
+      "a": "Curl",
+      "b": "Divergence",
+      "c": "Gradient",
+      "d": "Laplacian"
+    },
+    "answer": "c",
+    "correct_answer_text": "Gradient"
+  },
+  {
+    "id": 137,
+    "question": "Geometrically, the scalar triple product A · (B × C) represents the:",
+    "options": {
+      "a": "Area of a parallelogram",
+      "b": "Volume of a parallelepiped",
+      "c": "Arc length of a curve",
+      "d": "Surface area of a sphere"
+    },
+    "answer": "b",
+    "correct_answer_text": "Volume of a parallelepiped"
+  },
+  {
+    "id": 138,
+    "question": "Green's Theorem is a special 2D case of which 3D theorem?",
+    "options": {
+      "a": "Divergence Theorem",
+      "b": "Stokes' Theorem",
+      "c": "Mean Value Theorem",
+      "d": "Fundamental Theorem of Calculus"
+    },
+    "answer": "b",
+    "correct_answer_text": "Stokes' Theorem"
+  },
+  {
+    "id": 139,
+    "question": "The curl of the gradient of any scalar field φ is always:",
+    "options": {
+      "a": "1",
+      "b": "φ",
+      "c": "0",
+      "d": "Nonlinear"
+    },
+    "answer": "c",
+    "correct_answer_text": "0"
+  },
+  {
+    "id": 140,
+    "question": "The Laplace equation ∂²u/∂x² + ∂²u/∂y² = 0 is an example of a:",
+    "options": {
+      "a": "Hyperbolic PDE",
+      "b": "Parabolic PDE",
+      "c": "Elliptic PDE",
+      "d": "Nonlinear PDE"
+    },
+    "answer": "c",
+    "correct_answer_text": "Elliptic PDE"
+  },
+  {
+    "id": 141,
+    "question": "The Bessel differential equation x² d²y/dx² + x dy/dx + (x² - n²)y = 0 is:",
+    "options": {
+      "a": "Linear and second-order",
+      "b": "Nonlinear and second-order",
+      "c": "Linear and first-order",
+      "d": "Nonlinear and first-order"
+    },
+    "answer": "a",
+    "correct_answer_text": "Linear and second-order"
+  },
+  {
+    "id": 142,
+    "question": "The one-dimensional heat equation with a source term ∂u/∂t = k ∂²u/∂x² + Q(x,t) is:",
+    "options": {
+      "a": "Elliptic",
+      "b": "Parabolic",
+      "c": "Hyperbolic",
+      "d": "Nonlinear"
+    },
+    "answer": "b",
+    "correct_answer_text": "Parabolic"
+  },
+  {
+    "id": 143,
+    "question": "The two-dimensional wave equation ∂²u/∂t² = c²(∂²u/∂x² + ∂²u/∂y²) is classified as:",
+    "options": {
+      "a": "Hyperbolic",
+      "b": "Parabolic",
+      "c": "Elliptic",
+      "d": "Nonlinear"
+    },
+    "answer": "a",
+    "correct_answer_text": "Hyperbolic"
+  },
+  {
+    "id": 144,
+    "question": "The Helmholtz equation ∂²u/∂x² + ∂²u/∂y² + k²u = 0 is an example of a(n):",
+    "options": {
+      "a": "Hyperbolic PDE",
+      "b": "Parabolic PDE",
+      "c": "Elliptic PDE",
+      "d": "Nonlinear PDE"
+    },
+    "answer": "c",
+    "correct_answer_text": "Elliptic PDE"
+  },
+  {
+    "id": 145,
+    "question": "The vector magnitude is calculated using:",
+    "options": {
+      "a": "The Euclidean norm",
+      "b": "The dot product with a perpendicular vector",
+      "c": "The curl of the vector",
+      "d": "The cross product with itself"
+    },
+    "answer": "a",
+    "correct_answer_text": "The Euclidean norm"
+  },
+  {
+    "id": 146,
+    "question": "The equation ∂u/∂t = k ∂²u/∂x² represents:",
+    "options": {
+      "a": "Wave equation",
+      "b": "Heat equation",
+      "c": "Laplace equation",
+      "d": "Bessel equation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Heat equation"
+  },
+  {
+    "id": 147,
+    "question": "The PDE ∂²u/∂t² = c² ∂²u/∂x² is classified as:",
+    "options": {
+      "a": "Elliptic",
+      "b": "Parabolic",
+      "c": "Hyperbolic",
+      "d": "Nonlinear"
+    },
+    "answer": "c",
+    "correct_answer_text": "Hyperbolic"
+  },
+  {
+    "id": 148,
+    "question": "The cylindrical wave equation ∂²u/∂t² = c²(∂²u/∂r² + (1/r)∂u/∂r) is related to:",
+    "options": {
+      "a": "Laplace equation in rectangular coordinates",
+      "b": "Bessel equation in cylindrical coordinates",
+      "c": "Heat equation in rectangular coordinates",
+      "d": "Wave equation in one dimension"
+    },
+    "answer": "b",
+    "correct_answer_text": "Bessel equation in cylindrical coordinates"
+  },
+  {
+    "id": 149,
+    "question": "The PDE ∂u/∂t + u ∂u/∂x = 0 is classified as:",
+    "options": {
+      "a": "Linear",
+      "b": "Nonlinear",
+      "c": "Hyperbolic",
+      "d": "Elliptic"
+    },
+    "answer": "b",
+    "correct_answer_text": "Nonlinear"
+  },
+  {
+    "id": 150,
+    "question": "The general PDE ∂²u/∂x² + 2 ∂²u/∂x∂y + ∂²u/∂y² = 0 is classified as:",
+    "options": {
+      "a": "Elliptic",
+      "b": "Parabolic",
+      "c": "Hyperbolic",
+      "d": "Nonlinear"
+    },
+    "answer": "b",
+    "correct_answer_text": "Parabolic"
+  },
+  {
+    "id": 151,
+    "question": "What is the Laplace transform of the constant 1, L{1}?",
+    "options": {
+      "a": "1",
+      "b": "s",
+      "c": "1/s",
+      "d": "1/s²"
+    },
+    "answer": "c",
+    "correct_answer_text": "1/s"
+  },
+  {
+    "id": 152,
+    "question": "The Laplace transform is primarily used to convert linear differential equations into:",
+    "options": {
+      "a": "Non-linear equations",
+      "b": "Algebraic equations",
+      "c": "Integral equations",
+      "d": "Boolean equations"
+    },
+    "answer": "b",
+    "correct_answer_text": "Algebraic equations"
+  },
+  {
+    "id": 153,
+    "question": "The First Shifting Theorem in Laplace transforms deals with multiplication by:",
+    "options": {
+      "a": "t^n",
+      "b": "sin(ωt)",
+      "c": "e^(at)",
+      "d": "A unit step function"
+    },
+    "answer": "c",
+    "correct_answer_text": "e^(at)"
+  },
+  {
+    "id": 154,
+    "question": "The inverse Laplace transform of 1/s² is:",
+    "options": {
+      "a": "1",
+      "b": "t",
+      "c": "e^t",
+      "d": "2"
+    },
+    "answer": "b",
+    "correct_answer_text": "t"
+  },
+  {
+    "id": 155,
+    "question": "The Initial Value Theorem in Laplace transforms allows you to find f(0) by taking the limit as s approaches:",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "infinity",
+      "d": "-1"
+    },
+    "answer": "c",
+    "correct_answer_text": "infinity"
+  },
+  {
+    "id": 156,
+    "question": "The Convolution Theorem in the Laplace domain is equivalent to what operation in the time domain?",
+    "options": {
+      "a": "Addition",
+      "b": "Subtraction",
+      "c": "Multiplication",
+      "d": "Convolution Integral"
+    },
+    "answer": "d",
+    "correct_answer_text": "Convolution Integral"
+  },
+  {
+    "id": 157,
+    "question": "The Fourier series represents a periodic function as an Infinite sum of:",
+    "options": {
+      "a": "Polynomials",
+      "b": "Exponentials only",
+      "c": "Sines and cosines",
+      "d": "Bessel functions"
+    },
+    "answer": "c",
+    "correct_answer_text": "Sines and cosines"
+  },
+  {
+    "id": 158,
+    "question": "The conditions that a function must satisfy to have a convergent Fourier series are called:",
+    "options": {
+      "a": "Cauchy conditions",
+      "b": "Dirichlet conditions",
+      "c": "Riemann conditions",
+      "d": "Euler conditions"
+    },
+    "answer": "b",
+    "correct_answer_text": "Dirichlet conditions"
+  },
+  {
+    "id": 159,
+    "question": "The Fourier transform of a Dirac delta function δ(t) is:",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "jω",
+      "d": "1/ω"
+    },
+    "answer": "b",
+    "correct_answer_text": "1"
+  },
+  {
+    "id": 160,
+    "question": "The Z-transform is the discrete-time counterpart to which continuous-time transform?",
+    "options": {
+      "a": "Fourier transform",
+      "b": "Laplace transform",
+      "c": "Wavelet transform",
+      "d": "Hilbert transform"
+    },
+    "answer": "b",
+    "correct_answer_text": "Laplace transform"
+  },
+  {
+    "id": 161,
+    "question": "In the Z-transform, the set of values of z for which the sum converges is known as the:",
+    "options": {
+      "a": "Range of validity",
+      "b": "Region of Convergence (ROC)",
+      "c": "Pole-zero plot",
+      "d": "Stability criteria"
+    },
+    "answer": "b",
+    "correct_answer_text": "Region of Convergence (ROC)"
+  },
+  {
+    "id": 162,
+    "question": "The Laplace transform of the Dirac delta function δ(t-a) is:",
+    "options": {
+      "a": "1",
+      "b": "e^(-as)",
+      "c": "e^(as)",
+      "d": "1/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "e^(-as)"
+  },
+  {
+    "id": 163,
+    "question": "A function multiplied by a unit step function u(t-a) undergoes a delay, handled by which Laplace property?",
+    "options": {
+      "a": "First shifting theorem",
+      "b": "Second shifting theorem",
+      "c": "Frequency convolution",
+      "d": "Time scaling"
+    },
+    "answer": "b",
+    "correct_answer_text": "Second shifting theorem"
+  },
+  {
+    "id": 164,
+    "question": "The Fourier transform converts a signal from the time domain into the:",
+    "options": {
+      "a": "Frequency domain",
+      "b": "s-domain",
+      "c": "z-domain",
+      "d": "Spatial domain"
+    },
+    "answer": "a",
+    "correct_answer_text": "Frequency domain"
+  },
+  {
+    "id": 165,
+    "question": "The equations ∂u/∂x = ∂v/∂y and ∂u/∂y = -∂v/∂x are known as:",
+    "options": {
+      "a": "Euler's equations",
+      "b": "Laplace's equations",
+      "c": "Cauchy-Riemann equations",
+      "d": "Maxwell's equations"
+    },
+    "answer": "c",
+    "correct_answer_text": "Cauchy-Riemann equations"
+  },
+  {
+    "id": 166,
+    "question": "A complex function that is differentiable at every point in a neighborhood is called:",
+    "options": {
+      "a": "Harmonic",
+      "b": "Analytic",
+      "c": "Singular",
+      "d": "Real"
+    },
+    "answer": "b",
+    "correct_answer_text": "Analytic"
+  },
+  {
+    "id": 167,
+    "question": "If a complex function f(z) = u + iv is analytic, then its real part u and Imaginary part v are:",
+    "options": {
+      "a": "Equal",
+      "b": "Constant",
+      "c": "Harmonic functions",
+      "d": "Exponential functions"
+    },
+    "answer": "c",
+    "correct_answer_text": "Harmonic functions"
+  },
+  {
+    "id": 168,
+    "question": "A point where a complex function fails to be analytic is called a:",
+    "options": {
+      "a": "Zero",
+      "b": "Pole",
+      "c": "Singular point",
+      "d": "Node"
+    },
+    "answer": "c",
+    "correct_answer_text": "Singular point"
+  },
+  {
+    "id": 169,
+    "question": "Cauchy's Integral Theorem states that the contour integral of an analytic function around a closed path in a simply connected domain is:",
+    "options": {
+      "a": "2πi",
+      "b": "1",
+      "c": "0",
+      "d": "Infinity"
+    },
+    "answer": "c",
+    "correct_answer_text": "0"
+  },
+  {
+    "id": 170,
+    "question": "The coefficient a-1 in a Laurent series expansion is called the:",
+    "options": {
+      "a": "Pole",
+      "b": "Zero",
+      "c": "Residue",
+      "d": "Singularity"
+    },
+    "answer": "c",
+    "correct_answer_text": "Residue"
+  },
+  {
+    "id": 171,
+    "question": "Which theorem states that a bounded entire function must be a constant?",
+    "options": {
+      "a": "Liouville's Theorem",
+      "b": "Morera's Theorem",
+      "c": "Taylor's Theorem",
+      "d": "Picard's Theorem"
+    },
+    "answer": "a",
+    "correct_answer_text": "Liouville's Theorem"
+  },
+  {
+    "id": 172,
+    "question": "A mapping that preserves the angles between intersecting curves in magnitude and sense is called:",
+    "options": {
+      "a": "An isometric mapping",
+      "b": "A conformal mapping",
+      "c": "A linear mapping",
+      "d": "An affine mapping"
+    },
+    "answer": "b",
+    "correct_answer_text": "A conformal mapping"
+  },
+  {
+    "id": 173,
+    "question": "The Laurent series differs from the Taylor series because It includes:",
+    "options": {
+      "a": "Only positive powers",
+      "b": "Only sine and cosine terms",
+      "c": "Negative powers of (z - z0)",
+      "d": "Logarithmic terms"
+    },
+    "answer": "c",
+    "correct_answer_text": "Negative powers of (z - z0)"
+  },
+  {
+    "id": 174,
+    "question": "The sum of the n distinct n-th roots of unity is always:",
+    "options": {
+      "a": "n",
+      "b": "1",
+      "c": "0",
+      "d": "-1"
+    },
+    "answer": "c",
+    "correct_answer_text": "0"
+  },
+  {
+    "id": 175,
+    "question": "An essential singularity is characterized by a Laurent series that has:",
+    "options": {
+      "a": "No negative powers",
+      "b": "A finite number of negative powers",
+      "c": "An infinite number of negative powers",
+      "d": "Only constant terms"
+    },
+    "answer": "c",
+    "correct_answer_text": "An infinite number of negative powers"
+  },
+  {
+    "id": 176,
+    "question": "Cauchy's Integral Formula allows you to evaluate the value of an analytic function at a point Inside a contour using:",
+    "options": {
+      "a": "The function's values on the contour",
+      "b": "The function's derivatives outside the contour",
+      "c": "The Taylor series expansion",
+      "d": "The roots of the function"
+    },
+    "answer": "a",
+    "correct_answer_text": "The function's values on the contour"
+  },
+  {
+    "id": 177,
+    "question": "The principal value of the complex logarithm Log(z) has an imaginary part in the interval:",
+    "options": {
+      "a": "(-inf, inf)",
+      "b": "[0, 2π)",
+      "c": "(-π, π]",
+      "d": "[0, π]"
+    },
+    "answer": "c",
+    "correct_answer_text": "(-π, π]"
+  },
+  {
+    "id": 178,
+    "question": "Interest calculated on both the initial principal and the accumulated interest from previous periods is:",
+    "options": {
+      "a": "Simple interest",
+      "b": "Nominal interest",
+      "c": "Compound interest",
+      "d": "Effective interest"
+    },
+    "answer": "c",
+    "correct_answer_text": "Compound interest"
+  },
+  {
+    "id": 179,
+    "question": "A series of equal payments occurring at equal time intervals is known as:",
+    "options": {
+      "a": "A gradient",
+      "b": "An annuity",
+      "c": "A perpetuity",
+      "d": "A sinking fund"
+    },
+    "answer": "b",
+    "correct_answer_text": "An annuity"
+  },
+  {
+    "id": 180,
+    "question": "The estimated value of an asset at the end of its useful life is its:",
+    "options": {
+      "a": "Book value",
+      "b": "Market value",
+      "c": "Salvage value",
+      "d": "Replacement value"
+    },
+    "answer": "c",
+    "correct_answer_text": "Salvage value"
+  },
+  {
+    "id": 181,
+    "question": "In which depreciation method does the asset lose an equal amount of value each year?",
+    "options": {
+      "a": "Declining balance method",
+      "b": "Sum-of-the-years'-digits method",
+      "c": "MACRS",
+      "d": "Straight-line method"
+    },
+    "answer": "d",
+    "correct_answer_text": "Straight-line method"
+  },
+  {
+    "id": 182,
+    "question": "A fund established to accumulate a specific amount of money by making regular deposits is a:",
+    "options": {
+      "a": "Capitalized cost",
+      "b": "Sinking fund",
+      "c": "Present worth fund",
+      "d": "Variable cost"
+    },
+    "answer": "b",
+    "correct_answer_text": "Sinking fund"
+  },
+  {
+    "id": 183,
+    "question": "The point at which total revenue equals total costs (no profit, no loss) Is the:",
+    "options": {
+      "a": "Margin of safety",
+      "b": "Break-even point",
+      "c": "Optimal production point",
+      "d": "Return on Investment"
+    },
+    "answer": "b",
+    "correct_answer_text": "Break-even point"
+  },
+  {
+    "id": 184,
+    "question": "The discount rate that makes the Net Present Value (NPV) of an Investment equal to zero is the:",
+    "options": {
+      "a": "Minimum Attractive Rate of Return (MARR)",
+      "b": "Nominal interest rate",
+      "c": "Internal Rate of Return (IRR)",
+      "d": "Effective yield"
+    },
+    "answer": "c",
+    "correct_answer_text": "Internal Rate of Return (IRR)"
+  },
+  {
+    "id": 185,
+    "question": "The continuous sequence of project activities that determines the shortest time to complete a project is the:",
+    "options": {
+      "a": "Float path",
+      "b": "Slack sequence",
+      "c": "Critical path",
+      "d": "PERT sequence"
+    },
+    "answer": "c",
+    "correct_answer_text": "Critical path"
+  },
+  {
+    "id": 186,
+    "question": "In project management, CPM stands for:",
+    "options": {
+      "a": "Cost Performance Metric",
+      "b": "Critical Path Method",
+      "c": "Complex Project Management",
+      "d": "Control Point Matrix"
+    },
+    "answer": "b",
+    "correct_answer_text": "Critical Path Method"
+  },
+  {
+    "id": 187,
+    "question": "The Economic Order Quantity (EOQ) model is designed to minimize the sum of",
+    "options": {
+      "a": "Holding costs and setup/ordering costs",
+      "b": "Production costs and shipping costs",
+      "c": "Labor costs and material costs",
+      "d": "Fixed costs and variable costs"
+    },
+    "answer": "a",
+    "correct_answer_text": "Holding costs and setup/ordering costs"
+  },
+  {
+    "id": 188,
+    "question": "Linear programming Is a mathematical technique used primarily for:",
+    "options": {
+      "a": "Forecasting future trends",
+      "b": "Optimization (maximizing or minimizing an objective function)",
+      "c": "Solving differential equations",
+      "d": "Calculating depreciation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Optimization (maximizing or minimizing an objective function)"
+  },
+  {
+    "id": 189,
+    "question": "The Simplex Method is an algorithm used for solving problems In:",
+    "options": {
+      "a": "Non-linear programming",
+      "b": "Dynamic programming",
+      "c": "Linear programming",
+      "d": "Integer programming"
+    },
+    "answer": "c",
+    "correct_answer_text": "Linear programming"
+  },
+  {
+    "id": 190,
+    "question": "The time required for an Investment to generate cash flows sufficient to recover Its Initial cost is the:",
+    "options": {
+      "a": "Life cycle",
+      "b": "Payback period",
+      "c": "Depreciation period",
+      "d": "Amortization period"
+    },
+    "answer": "b",
+    "correct_answer_text": "Payback period"
+  },
+  {
+    "id": 191,
+    "question": "Costs that have already been Incurred and cannot be recovered are called:",
+    "options": {
+      "a": "Opportunity costs",
+      "b": "Marginal costs",
+      "c": "Variable costs",
+      "d": "Sunk costs"
+    },
+    "answer": "d",
+    "correct_answer_text": "Sunk costs"
+  }
+]

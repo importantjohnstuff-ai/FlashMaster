@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', () => {
     async function loadFileList() {
         try {
             // Hardcoded list of JSON files for HostedFlasher
-            const fileNames = ['PEC1.json', 'PEC2.json', 'PEC3.json', 'PEC4.json', 'PEC5.json', 'PEC6.json', 'ESAS1.json', 'ESAS2.json', 'ESAS3.json'];
+            const fileNames = ['PEC1.json', 'PEC2.json', 'PEC3.json', 'PEC4.json', 'PEC5.json', 'PEC6.json', 'ESAS1.json', 'ESAS2.json', 'ESAS3.json', 'MATH1.json'];
 
             // Clear loading text
             els.fileListContainer.innerHTML = '';
