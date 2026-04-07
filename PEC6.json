@@ -320,8 +320,8 @@
       "c": "Provide a neutral for a 3-wire system",
       "d": "Filter out the 5th harmonic"
     },
-    "answer": "a",
-    "correct_answer_text": "Step up voltage at the beginning of a transmission line"
+    "answer": "b",
+    "correct_answer_text": "Step down voltage at a substation"
   },
   {
     "id": 28,
