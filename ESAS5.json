@@ -1,0 +1,5162 @@
+[
+  {
+    "id": 1,
+    "question": "What physical property of a material that refers to the point at which a material liquefies on heating or solidifies on cooling?",
+    "options": {
+      "a": "Refractive index",
+      "b": "Melting point",
+      "c": "Specific heat",
+      "d": "Curie point"
+    },
+    "answer": "b",
+    "correct_answer_text": "Melting point"
+  },
+  {
+    "id": 2,
+    "question": "What refers to the establishing interrelationships between people and things in such a way that human and materials resources are effectively focused toward achieving the goal of the company?",
+    "options": {
+      "a": "Planning",
+      "b": "Leading",
+      "c": "Controlling",
+      "d": "Organizing"
+    },
+    "answer": "d",
+    "correct_answer_text": "Organizing"
+  },
+  {
+    "id": 3,
+    "question": "How much should be put in an investment with 14% effective annual rate today to have P 12,000 in five years?",
+    "options": {
+      "a": "P 6,232.42",
+      "b": "P 6,713.35",
+      "c": "P 5,831.63",
+      "d": "P 5,966.18"
+    },
+    "answer": "a",
+    "correct_answer_text": "P 6,232.42"
+  },
+  {
+    "id": 4,
+    "question": "The \"earth\" best defines of which of the following term?",
+    "options": {
+      "a": "ground",
+      "b": "bonding",
+      "c": "ground electrode",
+      "d": "grounded conductor"
+    },
+    "answer": "a",
+    "correct_answer_text": "ground"
+  },
+  {
+    "id": 5,
+    "question": "What is another term for modulus of rigidity?",
+    "options": {
+      "a": "Shear modulus",
+      "b": "Modulus of elasticity",
+      "c": "Bulk modulus",
+      "d": "Young's modulus"
+    },
+    "answer": "a",
+    "correct_answer_text": "Shear modulus"
+  },
+  {
+    "id": 6,
+    "question": "A lamp placed 60 cm from a lens forms an image on a screen 30 cm away from the lens on the side opposite the lamp. What is the focal length of the lens?",
+    "options": {
+      "a": "10 cm",
+      "b": "15 cm",
+      "c": "20 cm",
+      "d": "25 cm"
+    },
+    "answer": "c",
+    "correct_answer_text": "20 cm"
+  },
+  {
+    "id": 7,
+    "question": "An open system first law should be utilized for all the following except:",
+    "options": {
+      "a": "nozzle",
+      "b": "a turbine",
+      "c": "a piston-cylinder device with no inlet/exhaust valves",
+      "d": "a compressor"
+    },
+    "answer": "c",
+    "correct_answer_text": "a piston-cylinder device with no inlet/exhaust valves"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following in thermodynamics is considered as the heat content of a system?",
+    "options": {
+      "a": "Entropy",
+      "b": "Molar heat",
+      "c": "Enthalpy",
+      "d": "Internal heat"
+    },
+    "answer": "c",
+    "correct_answer_text": "Enthalpy"
+  },
+  {
+    "id": 9,
+    "question": "Pedro who will inherit P 500,000 in three years has a savings account that pays 6% per year, compounded annually. What is the present worth of Pedro's inheritance?",
+    "options": {
+      "a": "P 413,924.55",
+      "b": "P 419,809.64",
+      "c": "P 425,806.83",
+      "d": "P 431,918.80"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 419,809.64"
+  },
+  {
+    "id": 10,
+    "question": "How tall does a wall mirror have to be in order for you to see all of yourself in the mirror? Imagine you stand a distance \"d\" from the mirror and your height is \"h\" and L is the length of mirror required.",
+    "options": {
+      "a": "L=1/3 h",
+      "b": "L=1/5 h",
+      "c": "L=1/2 h",
+      "d": "L=1/4 h"
+    },
+    "answer": "c",
+    "correct_answer_text": "L=1/2 h"
+  },
+  {
+    "id": 11,
+    "question": "An electric heater uses 8.0 A when connected across 220 V.. Determine its resistance.",
+    "options": {
+      "a": "32.5 ohm",
+      "b": "30 ohm",
+      "c": "27.5 ohm",
+      "d": "25 ohm"
+    },
+    "answer": "c",
+    "correct_answer_text": "27.5 ohm"
+  },
+  {
+    "id": 12,
+    "question": "The clearance between conductors and roof where the service conductors are passing over roofs must be",
+    "options": {
+      "a": "1500 mm",
+      "b": "1000",
+      "c": "2000",
+      "d": "2500"
+    },
+    "answer": "d",
+    "correct_answer_text": "2500"
+  },
+  {
+    "id": 13,
+    "question": "What law states that for all adiabatic processes between two specified states of a closed system, the net work done is the same regardless of the nature of the closed system and the details of the process?",
+    "options": {
+      "a": "First law of thermodynamics",
+      "b": "Fourth law of thermodynamics",
+      "c": "Second law of thermodynamics",
+      "d": "Third law of thermodynamics"
+    },
+    "answer": "a",
+    "correct_answer_text": "First law of thermodynamics"
+  },
+  {
+    "id": 14,
+    "question": "The amount of property in which a willing buyer will pay to a willing seller for the property when neither one is under the compulsion to buy nor to sell is called",
+    "options": {
+      "a": "Good will value",
+      "b": "Book value",
+      "c": "Fair value",
+      "d": "Market value"
+    },
+    "answer": "d",
+    "correct_answer_text": "Market value"
+  },
+  {
+    "id": 15,
+    "question": "\"An external pressure exerted on a fluid is transmitted uniformly throughout the volume of the fluid\". This statement is known as",
+    "options": {
+      "a": "Bernoulli's theorem",
+      "b": "Torricelli's theorem",
+      "c": "Archimedes' principle",
+      "d": "Pascal's principle"
+    },
+    "answer": "d",
+    "correct_answer_text": "Pascal's principle"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following Republic Act that provide framework for the restructuring of the electric power industry including the privatization of the assets of NPC, the transition to the desired competitive structure?",
+    "options": {
+      "a": "8981",
+      "b": "9136",
+      "c": "7832",
+      "d": "7920"
+    },
+    "answer": "b",
+    "correct_answer_text": "9136"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following reason/s why reactions generally proceed faster at higher temperature? I. the molecules collide more frequently II. the activation energy is less",
+    "options": {
+      "a": "I only",
+      "b": "either I or II",
+      "c": "I only",
+      "d": "both I and II"
+    },
+    "answer": "d",
+    "correct_answer_text": "both I and II"
+  },
+  {
+    "id": 18,
+    "question": "What decimal number is equivalent to binary number 1101?",
+    "options": {
+      "a": "12",
+      "b": "11",
+      "c": "13",
+      "d": "14"
+    },
+    "answer": "c",
+    "correct_answer_text": "13"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is CORRECT regarding the sizing of the rating of the overcurrent protective device of a circuit?",
+    "options": {
+      "a": "125% of the non-continuous load plus 80% of the continuous load",
+      "b": "125% of the continuous load plus 80% of the non-continuous load",
+      "c": "125% of the non-continuous load plus 100% of the non-continuous load",
+      "d": "125% of the continuous load plus 100% of the non-continuous load"
+    },
+    "answer": "d",
+    "correct_answer_text": "125% of the continuous load plus 100% of the non-continuous load"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following cast iron is heat-treated for ductility?",
+    "options": {
+      "a": "White",
+      "b": "Malleable",
+      "c": "Gray",
+      "d": "Ductile"
+    },
+    "answer": "b",
+    "correct_answer_text": "Malleable"
+  },
+  {
+    "id": 21,
+    "question": "A megabyte is exactly",
+    "options": {
+      "a": "1,048,576 bytes",
+      "b": "1,084,567",
+      "c": "1,000,000",
+      "d": "999,999"
+    },
+    "answer": "a",
+    "correct_answer_text": "1,048,576 bytes"
+  },
+  {
+    "id": 22,
+    "question": "If a horizontal force of 100 N was needed to keep an object weighing 270 N sliding at constant speed over a horizontal surface, then what was the coefficient of sliding friction?",
+    "options": {
+      "a": "0.31",
+      "b": "0.35",
+      "c": "0.37",
+      "d": "0.33"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.37"
+  },
+  {
+    "id": 23,
+    "question": "The temperature of a body is measured to be 26°C Determine the temperature in °F.",
+    "options": {
+      "a": "82.5",
+      "b": "80.6",
+      "c": "78.8",
+      "d": "75.2"
+    },
+    "answer": "c",
+    "correct_answer_text": "78.8"
+  },
+  {
+    "id": 24,
+    "question": "If P 300 is earned in three months in an investment of P 12,000, what is the annual rate of simple interest?",
+    "options": {
+      "a": "8%",
+      "b": "10%",
+      "c": "12%",
+      "d": "14%"
+    },
+    "answer": "b",
+    "correct_answer_text": "10%"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following does \"NOT\" affect the owner's equity?",
+    "options": {
+      "a": "Expense to get license to start operation",
+      "b": "License to start the business",
+      "c": "Dividend paid",
+      "d": "Invested capital"
+    },
+    "answer": "b",
+    "correct_answer_text": "License to start the business"
+  },
+  {
+    "id": 26,
+    "question": "An investment option is available with continuous compounding at 5% interest. If you invest $ 8,000 now, how much interest income will you earn if you cash out in 3.5 years?",
+    "options": {
+      "a": "$ 1,172",
+      "b": "$ 1,490",
+      "c": "$ 1,261",
+      "d": "$ 1,530"
+    },
+    "answer": "d",
+    "correct_answer_text": "$ 1,530"
+  },
+  {
+    "id": 27,
+    "question": "A ball is thrown with an initial horizontal velocity of 30 m/sec from a height of 3 m above the ground, and 40 m from a vertical wall. How far from the wall will the ball rebound for the first time?",
+    "options": {
+      "a": "16.54 m",
+      "b": "61.54 m",
+      "c": "23.46 m",
+      "d": "32.46 m"
+    },
+    "answer": "a",
+    "correct_answer_text": "16.54 m"
+  },
+  {
+    "id": 28,
+    "question": "Hooke's law for an isotropic homogeneous medium expressing one-dimensional stress is?",
+    "options": {
+      "a": "Stress = E(strain)",
+      "b": "Internal energy = E(strain energy)",
+      "c": "Strain energy = E(internal energy)",
+      "d": "Strain E(stress)"
+    },
+    "answer": "a",
+    "correct_answer_text": "Stress = E(strain)"
+  },
+  {
+    "id": 29,
+    "question": "What principle states that the electrons fill the orbitals, one at a time, starting with the lowest orbital then proceeding to the one with higher energy?",
+    "options": {
+      "a": "Pauli exclusion principle",
+      "b": "Aufbau principle",
+      "c": "Kinetic molecular theory",
+      "d": "Uncertainty principle"
+    },
+    "answer": "b",
+    "correct_answer_text": "Aufbau principle"
+  },
+  {
+    "id": 30,
+    "question": "For small discharge at high pressure, the pump preferred is:",
+    "options": {
+      "a": "Reciprocating Pump",
+      "b": "Axial Flow Pump",
+      "c": "Centrifugal Pump",
+      "d": "Propeller Pump"
+    },
+    "answer": "a",
+    "correct_answer_text": "Reciprocating Pump"
+  },
+  {
+    "id": 31,
+    "question": "The warning category is for when there is a risk, but it is not as severe or immediate as when danger is used. The safety color issued by OSHA associated with warning is",
+    "options": {
+      "a": "Yellow",
+      "b": "Fluorescent orange",
+      "c": "Red",
+      "d": "Orange"
+    },
+    "answer": "d",
+    "correct_answer_text": "Orange"
+  },
+  {
+    "id": 32,
+    "question": "The electric power industry is divided into how many sectors?",
+    "options": {
+      "a": "6",
+      "b": "5",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "d",
+    "correct_answer_text": "4"
+  },
+  {
+    "id": 33,
+    "question": "A surveyor's steel tape with a cross-sectional area of 2.5 sq. mm. must be stretched with a pull of 70 N when in use. If the modulus of elasticity of the steel is 207 GPa. What is the total elongation in the 30 m tape?",
+    "options": {
+      "a": "4.06 mm",
+      "b": "3.02 mm",
+      "c": "6.40 mm",
+      "d": "2.30 mm"
+    },
+    "answer": "a",
+    "correct_answer_text": "4.06 mm"
+  },
+  {
+    "id": 34,
+    "question": "Water drips from a faucet at the rate of 6 drops per second. The faucet is 8 in above the sink. When one drop strikes the sink, how far is the next drop from the sink?",
+    "options": {
+      "a": "6.58 in",
+      "b": "6.85 in",
+      "c": "7.75 in",
+      "d": "7.57 in"
+    },
+    "answer": "c",
+    "correct_answer_text": "7.75 in"
+  },
+  {
+    "id": 35,
+    "question": "For a submerged body, if the metacentre is below the center of gravity, the equilibrium is called",
+    "options": {
+      "a": "none of these",
+      "b": "stable",
+      "c": "neutral",
+      "d": "unstable"
+    },
+    "answer": "d",
+    "correct_answer_text": "unstable"
+  },
+  {
+    "id": 36,
+    "question": "The nucleus of an atom consist of",
+    "options": {
+      "a": "electrons and protons",
+      "b": "electrons and neutron",
+      "c": "protons, electrons, and neutrons",
+      "d": "protons and neutrons"
+    },
+    "answer": "d",
+    "correct_answer_text": "protons and neutrons"
+  },
+  {
+    "id": 37,
+    "question": "Bronze is an alloy of:",
+    "options": {
+      "a": "Cu and Zn",
+      "b": "Ag and Al",
+      "c": "Cu and Ag",
+      "d": "Cu and Sn"
+    },
+    "answer": "d",
+    "correct_answer_text": "Cu and Sn"
+  },
+  {
+    "id": 38,
+    "question": "Article II, Section 5-Code of Ethics states that: An Electrical Engineer shall honestly advise his clients or employer if specialized work is called for to engage the of competent experts and specialists, and once engaged he shall cooperate with them in the interests of his client or employer.",
+    "options": {
+      "a": "information",
+      "b": "experience",
+      "c": "cooperation",
+      "d": "services"
+    },
+    "answer": "d",
+    "correct_answer_text": "services"
+  },
+  {
+    "id": 39,
+    "question": "Shock is defined as an abnormal condition of the body where:",
+    "options": {
+      "a": "The heart stops beating normally, and \"quivers\" instead",
+      "b": "There is insufficient blood delivered to the body's cells",
+      "c": "The lungs are unable to process oxygen properly",
+      "d": "The muscles in the body have \"frozen\" and will not move"
+    },
+    "answer": "b",
+    "correct_answer_text": "There is insufficient blood delivered to the body's cells"
+  },
+  {
+    "id": 40,
+    "question": "Add (10011) base 2 to (25) base 8. Express the answer in base 16.",
+    "options": {
+      "a": "24",
+      "b": "34",
+      "c": "28",
+      "d": "54"
+    },
+    "answer": "c",
+    "correct_answer_text": "28"
+  },
+  {
+    "id": 41,
+    "question": "Determine the maximum horsepower a solid steel shaft 50 mm in diameter can transmit at 4 rps if the working stress is 90 MPa.",
+    "options": {
+      "a": "55.3 kW",
+      "b": "43.5 kW",
+      "c": "53.5 kW",
+      "d": "45.3 kW"
+    },
+    "answer": "a",
+    "correct_answer_text": "55.3 kW"
+  },
+  {
+    "id": 42,
+    "question": "A solid cylinder rolls from rest down an inclined plane 1.2 m high without slipping. What is its linear velocity at the foot of the plane?",
+    "options": {
+      "a": "3.96 m/s",
+      "b": "5.42 m/s",
+      "c": "2.88 m/s",
+      "d": "4.82 m/s"
+    },
+    "answer": "a",
+    "correct_answer_text": "3.96 m/s"
+  },
+  {
+    "id": 43,
+    "question": "A sphere of constant density, and 4 in diameter floats in water (density of water is 62.27 lbm/ft³) such that the upper hemisphere is above the water level. What is the weight of the sphere?",
+    "options": {
+      "a": "16 lbf",
+      "b": "0.6 lbf",
+      "c": "32.2 lbf",
+      "d": "1.2 lbf"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.6 lbf"
+  },
+  {
+    "id": 44,
+    "question": "A new engine design incorporates a piston that contains 0.60 kg of steel (specific heat = 470 J/kgK) and 1.20 kg of aluminum (specific heat = 910 J/kgK). How much heat is required to raise the piston from an initial temperature of 20 degree C to its operating temperatures of 160 degree C?",
+    "options": {
+      "a": "198.84 kJ",
+      "b": "192.36 kJ",
+      "c": "205.520 kJ",
+      "d": "185.78 kJ"
+    },
+    "answer": "b",
+    "correct_answer_text": "192.36 kJ"
+  },
+  {
+    "id": 45,
+    "question": "A technician has installed a new video card and the computer will now only boot into VGA mode. Which of the following may be the cause of the problem?",
+    "options": {
+      "a": "The external monitor is not compatible.",
+      "b": "The incorrect drivers are installed.",
+      "c": "There is an operating system incompatibility.",
+      "d": "The new card is not DVI compatible."
+    },
+    "answer": "b",
+    "correct_answer_text": "The incorrect drivers are installed."
+  },
+  {
+    "id": 46,
+    "question": "Neglecting the change of gravity with elevation, estimate the speed of a satellite must have to orbit the earth at an elevation of 100 km. Earth's radius = 6,400 km.",
+    "options": {
+      "a": "6,000",
+      "b": "10,000",
+      "c": "4,000",
+      "d": "8,000"
+    },
+    "answer": "d",
+    "correct_answer_text": "8,000"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is not an extensive property?",
+    "options": {
+      "a": "Momentum",
+      "b": "Volume",
+      "c": "Temperature",
+      "d": "Internal energy"
+    },
+    "answer": "c",
+    "correct_answer_text": "Temperature"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following corresponds to the meaning of annuity?",
+    "options": {
+      "a": "A lump sum at the end of the year.",
+      "b": "The future worth of a present amount.",
+      "c": "A series of uniform amounts over a period of time.",
+      "d": "An annual repayment of the loan."
+    },
+    "answer": "c",
+    "correct_answer_text": "A series of uniform amounts over a period of time."
+  },
+  {
+    "id": 49,
+    "question": "Upon the initial implementation of open access, the ERC shall allow all electricity End-Users with an average monthly peak demand of at least how many MW for the preceding twelve (12) months to be the contestable market?",
+    "options": {
+      "a": "3 MW",
+      "b": "2 MW",
+      "c": "4 MW",
+      "d": "1 MW"
+    },
+    "answer": "d",
+    "correct_answer_text": "1 MW"
+  },
+  {
+    "id": 50,
+    "question": "What is a protective device designed to protect an individual against electric shock?",
+    "options": {
+      "a": "AFCI",
+      "b": "Differential Relay",
+      "c": "GFCI",
+      "d": "Circuit Breaker"
+    },
+    "answer": "c",
+    "correct_answer_text": "GFCI"
+  },
+  {
+    "id": 51,
+    "question": "Steam at 416 Pa and 166 K has a specific volume of 0.41 m^3/kg and a specific enthalpy of 29.4 kJ/kg. Find the internal energy per kilogram of steam.",
+    "options": {
+      "a": "30.4 kJ/kg",
+      "b": "28.5 kJ/kg",
+      "c": "30.2 kJ/kg",
+      "d": "29.2 kJ/kg"
+    },
+    "answer": "d",
+    "correct_answer_text": "29.2 kJ/kg"
+  },
+  {
+    "id": 52,
+    "question": "Which of the following statements about work for a quasiequilibrium process is incorrect?",
+    "options": {
+      "a": "Work is always zero for a constant-volume process",
+      "b": "Work is the area under a P-T diagram",
+      "c": "Work is a path function",
+      "d": "The differential of work is inexact"
+    },
+    "answer": "b",
+    "correct_answer_text": "Work is the area under a P-T diagram"
+  },
+  {
+    "id": 53,
+    "question": "What does PRBEE stands for?",
+    "options": {
+      "a": "Professional Regulating Board of Electrical Engineering",
+      "b": "Philippine Regulatory Board of Electrical Engineering",
+      "c": "Professional Regulatory Board of Electrical Engineering",
+      "d": "Philippine Regulating Board of Electrical Engineering"
+    },
+    "answer": "c",
+    "correct_answer_text": "Professional Regulatory Board of Electrical Engineering"
+  },
+  {
+    "id": 54,
+    "question": "A turbine is to operate at 300 rpm under a net head of 400 m. If c.v=0.98, what is the velocity?",
+    "options": {
+      "a": "173.64 m/s",
+      "b": "34.41 m/s",
+      "c": "68.82 m/s",
+      "d": "86.82 m/s"
+    },
+    "answer": "d",
+    "correct_answer_text": "86.82 m/s"
+  },
+  {
+    "id": 55,
+    "question": "A bank charges 6% simple interest on a P 25,000 loan. How much will be repaid if the loan is paid back in one lump sum after five years?",
+    "options": {
+      "a": "P 30,875",
+      "b": "P 32,500",
+      "c": "P 31,250",
+      "d": "P 32,750"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 32,500"
+  },
+  {
+    "id": 56,
+    "question": "Under very slow deformation and at high temperature, it is possible to have some plastic flow in a crystal at a shear stress lower than the critical shear stress. What is the phenomenon called?",
+    "options": {
+      "a": "creep",
+      "b": "bending",
+      "c": "slip",
+      "d": "twinning"
+    },
+    "answer": "a",
+    "correct_answer_text": "creep"
+  },
+  {
+    "id": 57,
+    "question": "The ability to meet debts as they become due is known as",
+    "options": {
+      "a": "Leverage",
+      "b": "Liquidity",
+      "c": "Insolvency",
+      "d": "Solvency"
+    },
+    "answer": "d",
+    "correct_answer_text": "Solvency"
+  },
+  {
+    "id": 58,
+    "question": "The maximum bending moment in a simple supported beam of span L and carrying a concentrated load \"W\" is",
+    "options": {
+      "a": "2WL",
+      "b": "WL",
+      "c": "WL/4",
+      "d": "WL/2"
+    },
+    "answer": "c",
+    "correct_answer_text": "WL/4"
+  },
+  {
+    "id": 59,
+    "question": "The ampacity of the fuse should be 125% of the continuous load current is covered by",
+    "options": {
+      "a": "installation design",
+      "b": "manufacturing design",
+      "c": "construction design",
+      "d": "wiring design"
+    },
+    "answer": "d",
+    "correct_answer_text": "wiring design"
+  },
+  {
+    "id": 60,
+    "question": "One Newton is equivalent to",
+    "options": {
+      "a": "10^6 dyne",
+      "b": "10^7 dyne",
+      "c": "10^5 dyne",
+      "d": "10^8 dyne"
+    },
+    "answer": "c",
+    "correct_answer_text": "10^5 dyne"
+  },
+  {
+    "id": 61,
+    "question": "Which function key is used to check spellings?",
+    "options": {
+      "a": "F7",
+      "b": "F5",
+      "c": "F2",
+      "d": "F11"
+    },
+    "answer": "a",
+    "correct_answer_text": "F7"
+  },
+  {
+    "id": 62,
+    "question": "When a part is constrained to move when heated, it develops",
+    "options": {
+      "a": "shear stress",
+      "b": "principal stress",
+      "c": "compressive stress",
+      "d": "tensile stress"
+    },
+    "answer": "c",
+    "correct_answer_text": "compressive stress"
+  },
+  {
+    "id": 63,
+    "question": "Most wires used in residential house wiring are usually insulated by which of the following?",
+    "options": {
+      "a": "Thermoplastic",
+      "b": "Cotton",
+      "c": "Asbestos",
+      "d": "Varnished cambric"
+    },
+    "answer": "a",
+    "correct_answer_text": "Thermoplastic"
+  },
+  {
+    "id": 64,
+    "question": "BIOS stands for",
+    "options": {
+      "a": "Base Input Output Society",
+      "b": "Basic Input Output Society",
+      "c": "Basic Input Output System",
+      "d": "Base Input Output System"
+    },
+    "answer": "c",
+    "correct_answer_text": "Basic Input Output System"
+  },
+  {
+    "id": 65,
+    "question": "The first metal used by man was",
+    "options": {
+      "a": "Copper",
+      "b": "Gold",
+      "c": "Bronze",
+      "d": "Iron"
+    },
+    "answer": "a",
+    "correct_answer_text": "Copper"
+  },
+  {
+    "id": 66,
+    "question": "Waves in a lake are 5.00 m in length and pass an anchored boat 1.25 s apart. The speed of the wave is",
+    "options": {
+      "a": "4.00 m/s",
+      "b": "6.25 m/s",
+      "c": "0.25 m/s",
+      "d": "5.75 m/s"
+    },
+    "answer": "a",
+    "correct_answer_text": "4.00 m/s"
+  },
+  {
+    "id": 67,
+    "question": "HTTP:// is an identifier that appears at the beginning of most Web page. What does HTTP stands for?",
+    "options": {
+      "a": "Hypertext Time Protocol",
+      "b": "Hypertext Transfer Protocol",
+      "c": "Hypertime Text Protocol",
+      "d": "Hypertext Transmission Process"
+    },
+    "answer": "b",
+    "correct_answer_text": "Hypertext Transfer Protocol"
+  },
+  {
+    "id": 68,
+    "question": "Galvanized steel are steel products coated with",
+    "options": {
+      "a": "Nickel",
+      "b": "Zinc",
+      "c": "Sulfur",
+      "d": "Carbon"
+    },
+    "answer": "b",
+    "correct_answer_text": "Zinc"
+  },
+  {
+    "id": 69,
+    "question": "After installing a new modem and router to a computer, what is the order of turning on?",
+    "options": {
+      "a": "computer, modem, router",
+      "b": "modem, computer, router",
+      "c": "router, modem, computer",
+      "d": "modem, router, computer"
+    },
+    "answer": "d",
+    "correct_answer_text": "modem, router, computer"
+  },
+  {
+    "id": 70,
+    "question": "Which doesn't have electric charge?",
+    "options": {
+      "a": "molecule",
+      "b": "electron",
+      "c": "proton",
+      "d": "neutron"
+    },
+    "answer": "d",
+    "correct_answer_text": "neutron"
+  },
+  {
+    "id": 71,
+    "question": "May is declared as the electrical safety month in virtue of signed by Pres. Benigno Aquino III last June 27, 2011 for the reason of informing the public of the real reason of faulty electrical wiring.",
+    "options": {
+      "a": "Proclamation no. 193",
+      "b": "RA 7920",
+      "c": "RA 184",
+      "d": "Proclamation no. 183"
+    },
+    "answer": "a",
+    "correct_answer_text": "Proclamation no. 193"
+  },
+  {
+    "id": 72,
+    "question": "What is the entropy of a pure substance at a temperature of absolute zero?",
+    "options": {
+      "a": "Infinity",
+      "b": "Undefined",
+      "c": "Unity",
+      "d": "Zero"
+    },
+    "answer": "d",
+    "correct_answer_text": "Zero"
+  },
+  {
+    "id": 73,
+    "question": "Any electric circuit that controls any other circuit through a relay is called a:",
+    "options": {
+      "a": "Power circuit",
+      "b": "Overload relay",
+      "c": "Remote-control circuit",
+      "d": "Motor control circuit"
+    },
+    "answer": "c",
+    "correct_answer_text": "Remote-control circuit"
+  },
+  {
+    "id": 74,
+    "question": "If a voltage reading is taken between any two ungrounded conductors on a 120/208-volt, three-phase, 4-wire Y-Y-connected electric service, what should the normal voltage reading be?",
+    "options": {
+      "a": "240 volts",
+      "b": "120 volts",
+      "c": "208 volts",
+      "d": "250 volts"
+    },
+    "answer": "c",
+    "correct_answer_text": "208 volts"
+  },
+  {
+    "id": 75,
+    "question": "If a voltage reading is taken between any phase conductor and the grounding conductor on a 120/208-volt, three-phase, 4-wire Y-Y-connected electric service, what should the normal voltage reading be?",
+    "options": {
+      "a": "240 volts",
+      "b": "208 volts",
+      "c": "250 volts",
+      "d": "120 volts"
+    },
+    "answer": "d",
+    "correct_answer_text": "120 volts"
+  },
+  {
+    "id": 76,
+    "question": "A copper THHN feeder conductor consists of 40 amperes of continuous load and 35 amperes of noncontinuous load, and supplies a load that does not contain any general use receptacles but has three current-carrying conductors in a raceway with terminations rated at 75 degrees C. This means that the minimum standard overcurrent device required for the feeder is which of the following:",
+    "options": {
+      "a": "86 amps",
+      "b": "90 amps",
+      "c": "70 amps",
+      "d": "76 amps"
+    },
+    "answer": "b",
+    "correct_answer_text": "90 amps"
+  },
+  {
+    "id": 77,
+    "question": "Which of the following colors of insulation or marking are permitted to identify \"hot\" phase conductors in conduit wiring methods?",
+    "options": {
+      "a": "Black, red, and blue for 120/208-volt systems",
+      "b": "All of these",
+      "c": "Any colors except white, gray, or green",
+      "d": "Yellow, orange, and brown for 277/480-volt systems"
+    },
+    "answer": "b",
+    "correct_answer_text": "All of these"
+  },
+  {
+    "id": 78,
+    "question": "Which of the following is true?",
+    "options": {
+      "a": "The screw shell of a lampholder may support a fixture weighing 6 pounds.",
+      "b": "Plastic water pipe is approved to be used for electrical conduit.",
+      "c": "EMT may be threaded",
+      "d": "The \"white\" colored conductor connected to the silver colored post on a duplex receptacle on a 120 v two-wire branch circuit is called the \"neutral\""
+    },
+    "answer": "a",
+    "correct_answer_text": "The screw shell of a lampholder may support a fixture weighing 6 pounds."
+  },
+  {
+    "id": 79,
+    "question": "A lighting fixture is to be controlled independently from two different locations. The type of switch required in each of the two locations is a",
+    "options": {
+      "a": "Single-throw, single-pole",
+      "b": "Double-pole, double-throw",
+      "c": "Double-throw, single-pole",
+      "d": "Single-throw, double-pole"
+    },
+    "answer": "c",
+    "correct_answer_text": "Double-throw, single-pole"
+  },
+  {
+    "id": 80,
+    "question": "Which of the following are acceptable as FORTRAN integer variables? I. NINA II. A+10 III. INTEGER IV. 2813 V. A160",
+    "options": {
+      "a": "I and III",
+      "b": "I, III, and V",
+      "c": "I and V",
+      "d": "I only"
+    },
+    "answer": "d",
+    "correct_answer_text": "I only"
+  },
+  {
+    "id": 81,
+    "question": "In queueing process of customers in a store, what statistical pattern will most likely describe the arrival of customers over time?",
+    "options": {
+      "a": "the Poisson distribution",
+      "b": "the exponential distribution",
+      "c": "the uniform law of probability",
+      "d": "the normal law of probability"
+    },
+    "answer": "a",
+    "correct_answer_text": "the Poisson distribution"
+  },
+  {
+    "id": 82,
+    "question": "Queueing theory provides a large number of alternative mathematical models for describing which of the following?",
+    "options": {
+      "a": "network problems",
+      "b": "waiting line problems",
+      "c": "probabilistic service facilities",
+      "d": "probabilistic arrivals"
+    },
+    "answer": "b",
+    "correct_answer_text": "waiting line problems"
+  },
+  {
+    "id": 83,
+    "question": "Which of the following is the definition of a joule?",
+    "options": {
+      "a": "a N-m",
+      "b": "a rate of change of energy",
+      "c": "a kg-m/s^2",
+      "d": "a unit of power"
+    },
+    "answer": "a",
+    "correct_answer_text": "a N-m"
+  },
+  {
+    "id": 84,
+    "question": "The specific heat at constant volume is",
+    "options": {
+      "a": "the amount of heat required to raise the temperature of unit mass of gas through one degree, at constant volume",
+      "b": "the amount of heat required to raise the temperature of unit mass of gas through one degree, at constant pressure",
+      "c": "any one of these",
+      "d": "the amount of heat required to raise the temperature of 1 kg of water through one degree"
+    },
+    "answer": "a",
+    "correct_answer_text": "the amount of heat required to raise the temperature of unit mass of gas through one degree, at constant volume"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following device can be used to directly input printed text",
+    "options": {
+      "a": "OCR",
+      "b": "MIC",
+      "c": "Mouse",
+      "d": "Joystick"
+    },
+    "answer": "a",
+    "correct_answer_text": "OCR"
+  },
+  {
+    "id": 86,
+    "question": "An economy is experiencing inflation at an annual rate of 6%. If this continues, what will $100 be worth five years from now, in terms of today's dollars?",
+    "options": {
+      "a": "$100",
+      "b": "$133.82",
+      "c": "$74.73",
+      "d": "$200"
+    },
+    "answer": "c",
+    "correct_answer_text": "$74.73"
+  },
+  {
+    "id": 87,
+    "question": "A certain sum of money will be deposited in a savings account that pays interest at the rate of 6% per year, compounded annually. If all of the money is allowed to accumulate, how much must be deposited initially so that $5000 will have accumulated after 10 years?",
+    "options": {
+      "a": "$2729",
+      "b": "$2297",
+      "c": "$2792",
+      "d": "$2972"
+    },
+    "answer": "c",
+    "correct_answer_text": "$2792"
+  },
+  {
+    "id": 88,
+    "question": "A father wants to set aside money for his 5-year-old son's future college education. Money can be deposited in a bank account that pays 8% per year, compounded annually. What equal deposits should be made by the father, on his son's 6th through 17th birthdays, in order to provide $5000 on the son's 18th, 19th, 20th, and 21st birthdays?",
+    "options": {
+      "a": "$872.67",
+      "b": "$726.78",
+      "c": "$687.27",
+      "d": "$827.76"
+    },
+    "answer": "a",
+    "correct_answer_text": "$872.67"
+  },
+  {
+    "id": 89,
+    "question": "A new machine costs P 160 000, has a useful life of 10 years, and can be sold for P 15 000 at the end of its useful life. It is expected that P 5000 will be spent to dismantle and remove the machine at the end of its useful life. Determine the straight-line depreciation charge per year.",
+    "options": {
+      "a": "P 15 500",
+      "b": "P 15 000",
+      "c": "P 14 500",
+      "d": "P 16 000"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 15 000"
+  },
+  {
+    "id": 90,
+    "question": "A new machine costs P 160 000, has a useful life of 10 years, and can be sold for P 15 000 at the end of its useful life. It is expected that P 5000 will be spent to dismantle and remove the machine at the end of its useful life. Determine the book value at the end of fifth year by sum of years digit method.",
+    "options": {
+      "a": "P 16 363.64",
+      "b": "P 50 909.09",
+      "c": "P 37 272.73",
+      "d": "P 67 272.73"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 50 909.09"
+  },
+  {
+    "id": 91,
+    "question": "What element is added to copper to make it extremely hard?",
+    "options": {
+      "a": "Silicon",
+      "b": "Aluminum",
+      "c": "Zinc",
+      "d": "Lead"
+    },
+    "answer": "b",
+    "correct_answer_text": "Aluminum"
+  },
+  {
+    "id": 92,
+    "question": "Compute the illumination on a surface 5 ft distance from a 100-cd source if the surface makes an angle of 18 degrees with the rays?",
+    "options": {
+      "a": "2.13 lm/ft^2",
+      "b": "1.67 lm/ft^2",
+      "c": "1.50 lm/ft^2",
+      "d": "1.24 lm/ft^2"
+    },
+    "answer": "d",
+    "correct_answer_text": "1.24 lm/ft^2"
+  },
+  {
+    "id": 93,
+    "question": "A rope 4 ft long weighs 0.7 lb. A blow on the rope produces a transverse wave. Determine the velocity of the wave considering that the tension is 40 lb.",
+    "options": {
+      "a": "78.5 ft/s",
+      "b": "75.8 ft/s",
+      "c": "95.7 ft/s",
+      "d": "85.8 ft/s"
+    },
+    "answer": "d",
+    "correct_answer_text": "85.8 ft/s"
+  },
+  {
+    "id": 94,
+    "question": "Compounds are mostly classified as:",
+    "options": {
+      "a": "Metals and Nonmetals",
+      "b": "Homogeneous and Heterogeneous",
+      "c": "Gases, Liquids and Solids",
+      "d": "Acids and Bases"
+    },
+    "answer": "d",
+    "correct_answer_text": "Acids and Bases"
+  },
+  {
+    "id": 95,
+    "question": "A system is in chemical equilibrium if its chemical composition does not change with time, i.e., no chemical reaction occurs.",
+    "options": {
+      "a": "Chemical",
+      "b": "Phase",
+      "c": "Thermal",
+      "d": "Mechanical"
+    },
+    "answer": "a",
+    "correct_answer_text": "Chemical"
+  },
+  {
+    "id": 96,
+    "question": "A hydraulic jack consists of a large cylinder of area A connected to a small cylinder of area a. Both cylinders are filled with oil. When force f is applied to the small cylinder, the resulting pressure is transmitted to the large cylinder, which then exerts an upward force F. Suppose a car of weight 12,000 N rests on the large cylinder of area 0.10 m^2. What force must be applied to the small cylinder of area 0.002 m^2 in order to support the car?",
+    "options": {
+      "a": "240 N",
+      "b": "280 N",
+      "c": "160 N",
+      "d": "200 N"
+    },
+    "answer": "a",
+    "correct_answer_text": "240 N"
+  },
+  {
+    "id": 97,
+    "question": "Mr. J. dela Cruz borrowed money from a bank. He received from the bank P1,340 and promised to pay P1,500 at the end of 9 months. Determine the simple interest rate and the corresponding discount rate, often referred to as \"Banker's Discount\".",
+    "options": {
+      "a": "i=19.25%; d=13.33%",
+      "b": "i=18.28%; d=13.12%",
+      "c": "i=15.92%; d=13.73%",
+      "d": "i=12.95%; d=17.33%"
+    },
+    "answer": "c",
+    "correct_answer_text": "i=15.92%; d=13.73%"
+  },
+  {
+    "id": 98,
+    "question": "How many years will P100,000 earn a compound interest of P50,000 if the interest rate is 9% compounded quarterly?",
+    "options": {
+      "a": "2.11",
+      "b": "4.55",
+      "c": "3.25",
+      "d": "5.86"
+    },
+    "answer": "b",
+    "correct_answer_text": "4.55"
+  },
+  {
+    "id": 99,
+    "question": "What refers to the ratio of the interest payment to the principal for a given unit of time and usually expressed as a percentage of the principal?",
+    "options": {
+      "a": "Rate of return",
+      "b": "Yield",
+      "c": "Return of investment",
+      "d": "Interest rate"
+    },
+    "answer": "d",
+    "correct_answer_text": "Interest rate"
+  },
+  {
+    "id": 100,
+    "question": "In what method of computing depreciation where it assumes that the annual cost of depreciation is a fixed percentage of the book value at the beginning of the year?",
+    "options": {
+      "a": "Sinking fund method",
+      "b": "Declining balance method",
+      "c": "Straight line method",
+      "d": "Sum-of-year digit method"
+    },
+    "answer": "b",
+    "correct_answer_text": "Declining balance method"
+  },
+  {
+    "id": 101,
+    "question": "A reference frame which remains fixed, while fluid flows through it is called:",
+    "options": {
+      "a": "Lagrangian",
+      "b": "Eulerian",
+      "c": "Stokesian",
+      "d": "Bernoulliian"
+    },
+    "answer": "b",
+    "correct_answer_text": "Eulerian"
+  },
+  {
+    "id": 102,
+    "question": "Steam enters a turbine stage with an enthalpy of 3628 kJ/kg at 70 m/s and leaves the same stage with an enthalpy of 2846 kJ/kg and a velocity of 124 m/s. Calculate the work done by the steam.",
+    "options": {
+      "a": "988.7 kJ/kg",
+      "b": "776.8 kJ/kg",
+      "c": "998.7 kJ/kg",
+      "d": "766.8 kJ/kg"
+    },
+    "answer": "b",
+    "correct_answer_text": "776.8 kJ/kg"
+  },
+  {
+    "id": 103,
+    "question": "Give the formula for magnesium carbonate.",
+    "options": {
+      "a": "MgCO2",
+      "b": "MgCO3",
+      "c": "Mg2CO3",
+      "d": "Mg3CO2"
+    },
+    "answer": "b",
+    "correct_answer_text": "MgCO3"
+  },
+  {
+    "id": 104,
+    "question": "When an input signal A=10100 is applied to a NOT gate, its output signal is",
+    "options": {
+      "a": "10101",
+      "b": "01011",
+      "c": "01001",
+      "d": "00101"
+    },
+    "answer": "b",
+    "correct_answer_text": "01011"
+  },
+  {
+    "id": 105,
+    "question": "Gun Metal is an alloy of",
+    "options": {
+      "a": "Cu, Al and Zn",
+      "b": "Cu, Sn and Zn",
+      "c": "Cu, Zn and Ag",
+      "d": "Zn, Al and Sn"
+    },
+    "answer": "b",
+    "correct_answer_text": "Cu, Sn and Zn"
+  },
+  {
+    "id": 106,
+    "question": "Which of the following conductors is not applicable on wet locations?",
+    "options": {
+      "a": "Type THW",
+      "b": "Type THHN",
+      "c": "Type RHW",
+      "d": "Type THWN"
+    },
+    "answer": "b",
+    "correct_answer_text": "Type THHN"
+  },
+  {
+    "id": 107,
+    "question": "If a seller recovers his capital along with accumulated compensating interest not in one single lump-sum payment but in periodical equal payments, over time:",
+    "options": {
+      "a": "Sinking Fund Annuity is availed",
+      "b": "Capital Recovery Annuity is availed",
+      "c": "Present Work Annuity is availed",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "correct_answer_text": "Capital Recovery Annuity is availed"
+  },
+  {
+    "id": 108,
+    "question": "A young engineer borrowed P 10,000 at 12 percent interest and paid P 2,000 per annum for the first 4 years. What does he have to pay at the end of the fifth year in order to pay off his loan?",
+    "options": {
+      "a": "P 6,074.00",
+      "b": "P 5,674.00",
+      "c": "P 6,919.26",
+      "d": "P 3,926.00"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 6,919.26"
+  },
+  {
+    "id": 109,
+    "question": "If a material expands freely due to heating it will develop",
+    "options": {
+      "a": "thermal stress",
+      "b": "tensile stress",
+      "c": "no stress",
+      "d": "compressive stress"
+    },
+    "answer": "c",
+    "correct_answer_text": "no stress"
+  },
+  {
+    "id": 110,
+    "question": "An iceberg having a S.G.=0.92 floats in salt water having a S.G.=1.03. If the volume of the ice above the water surface is 1000 cu. m., what is the total volume of the iceberg?",
+    "options": {
+      "a": "8634 cu. m.",
+      "b": "8364 cu. m.",
+      "c": "9364 cu. m.",
+      "d": "9634 cu. m."
+    },
+    "answer": "c",
+    "correct_answer_text": "9364 cu. m."
+  },
+  {
+    "id": 111,
+    "question": "The work of a polytropic (n=1.21) compression of air (Cp/CV=1.4) in a system with moving boundary from p1=15 psia, V1 = 1.0 cu. ft. to P2=150 psia, V2=0.15 cu. ft. is",
+    "options": {
+      "a": "1080 ft-lb",
+      "b": "6862 ft-lb",
+      "c": "5150 ft-lb",
+      "d": "2700 ft-lb"
+    },
+    "answer": "c",
+    "correct_answer_text": "5150 ft-lb"
+  },
+  {
+    "id": 112,
+    "question": "What is the only gas in Group VIA in the periodic table?",
+    "options": {
+      "a": "Argon",
+      "b": "Krypton",
+      "c": "Oxygen",
+      "d": "Helium"
+    },
+    "answer": "c",
+    "correct_answer_text": "Oxygen"
+  },
+  {
+    "id": 113,
+    "question": "Identify the wrong statement",
+    "options": {
+      "a": "Atomic radius of the elements increases as one moves down the first group of the periodic table",
+      "b": "Amongst isoelectronic species, smaller the positive charge on the cation, smaller is the ionic radius",
+      "c": "Atomic radius of the elements decreases as one moves across from left to right in the 2nd period of the periodic table",
+      "d": "Amongst isoelectronic species, greater the negative charge on the anion, larger is the ionic radius"
+    },
+    "answer": "b",
+    "correct_answer_text": "Amongst isoelectronic species, smaller the positive charge on the cation, smaller is the ionic radius"
+  },
+  {
+    "id": 114,
+    "question": "Neglecting the change of gravity with elevation, estimate the speed a satellite must have to orbit the earth at an elevation of 100 km. Earth's radius = 6,400 km.",
+    "options": {
+      "a": "6,000",
+      "b": "4,000",
+      "c": "8,000",
+      "d": "10,000"
+    },
+    "answer": "c",
+    "correct_answer_text": "8,000"
+  },
+  {
+    "id": 115,
+    "question": "The stone which floats on water is",
+    "options": {
+      "a": "Hyacinth",
+      "b": "Topaz",
+      "c": "Sand Stone",
+      "d": "Pumice"
+    },
+    "answer": "d",
+    "correct_answer_text": "Pumice"
+  },
+  {
+    "id": 116,
+    "question": "The melting point of iron is:",
+    "options": {
+      "a": "1500 deg C",
+      "b": "1437 deg C",
+      "c": "1567 deg C",
+      "d": "1537 deg C"
+    },
+    "answer": "d",
+    "correct_answer_text": "1537 deg C"
+  },
+  {
+    "id": 117,
+    "question": "A light beam in air is incident on the surface of a pond, making an angle of 20 degrees with respect to the surface. What is the angle of refraction?",
+    "options": {
+      "a": "20 degrees",
+      "b": "70 degrees",
+      "c": "60 degrees",
+      "d": "45 degrees"
+    },
+    "answer": "d",
+    "correct_answer_text": "45 degrees"
+  },
+  {
+    "id": 118,
+    "question": "The linear portion of the stress-strain diagram of steel is known as the",
+    "options": {
+      "a": "modulus of elongation",
+      "b": "plastic range",
+      "c": "range of yield points",
+      "d": "elastic range"
+    },
+    "answer": "d",
+    "correct_answer_text": "elastic range"
+  },
+  {
+    "id": 119,
+    "question": "Which of the following is not an extensive property?",
+    "options": {
+      "a": "Internal energy",
+      "b": "Momentum",
+      "c": "Volume",
+      "d": "Temperature"
+    },
+    "answer": "d",
+    "correct_answer_text": "Temperature"
+  },
+  {
+    "id": 120,
+    "question": "Convert 101101.11 (base 2) to the base 10 equivalent.",
+    "options": {
+      "a": "42.25",
+      "b": "48.68",
+      "c": "52.35",
+      "d": "45.75"
+    },
+    "answer": "d",
+    "correct_answer_text": "45.75"
+  },
+  {
+    "id": 121,
+    "question": "How far is the object from the image formed by a converging lens of focal length 50 cm, if the real image formed is 1.5 times larger than the object?",
+    "options": {
+      "a": "298.43",
+      "b": "198.45",
+      "c": "290.87",
+      "d": "208.33"
+    },
+    "answer": "d",
+    "correct_answer_text": "208.33"
+  },
+  {
+    "id": 122,
+    "question": "The Board of Electrical Engineering is empowered to look into the conditions affecting the practice of the electrical engineering profession, adopt measures for the enhancement of the profession and maintenance of the high professional, technical and ethical standards.",
+    "options": {
+      "a": "theoretical",
+      "b": "acceptable",
+      "c": "U.S.",
+      "d": "ethical"
+    },
+    "answer": "d",
+    "correct_answer_text": "ethical"
+  },
+  {
+    "id": 123,
+    "question": "Steels that are used for axles, gears and similar parts requiring medium to high hardness and high strength are known as",
+    "options": {
+      "a": "Low-carbon steels",
+      "b": "High-carbon steels",
+      "c": "Very high-carbon steels",
+      "d": "Medium-carbon steels"
+    },
+    "answer": "d",
+    "correct_answer_text": "Medium-carbon steels"
+  },
+  {
+    "id": 124,
+    "question": "The force required to start a mass of 50 kg moving across a rough surface is 343 N. What is the coefficient of starting friction?",
+    "options": {
+      "a": "0.70",
+      "b": "0.80",
+      "c": "1",
+      "d": "0"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.70"
+  },
+  {
+    "id": 125,
+    "question": "Calculate the pH value of 8.0 M HCI.",
+    "options": {
+      "a": "0.903",
+      "b": "-0.309",
+      "c": "0.309",
+      "d": "-0.903"
+    },
+    "answer": "d",
+    "correct_answer_text": "-0.903"
+  },
+  {
+    "id": 126,
+    "question": "Calculate the force due to the pressure acting on the 1-m diameter horizontal hatch of a submarine submerged 600 m below the surface.",
+    "options": {
+      "a": "4.62x10^5 N",
+      "b": "4.26x10^5 N",
+      "c": "4.26x10^6 N",
+      "d": "4.62x10^6 N"
+    },
+    "answer": "d",
+    "correct_answer_text": "4.62x10^6 N"
+  },
+  {
+    "id": 127,
+    "question": "The product of force and the time during which it acts is known as:",
+    "options": {
+      "a": "momentum",
+      "b": "impact",
+      "c": "work",
+      "d": "impulse"
+    },
+    "answer": "d",
+    "correct_answer_text": "impulse"
+  },
+  {
+    "id": 128,
+    "question": "The Pauli exclusion principle states that in a given atom, no two electrons can have exactly the same set of quantum numbers.",
+    "options": {
+      "a": "Dalton's theory",
+      "b": "Boyle's theory",
+      "c": "Bohr's theory",
+      "d": "Pauli exclusion principle"
+    },
+    "answer": "d",
+    "correct_answer_text": "Pauli exclusion principle"
+  },
+  {
+    "id": 129,
+    "question": "What does PPE stand for?",
+    "options": {
+      "a": "Personal Preventative Equipment",
+      "b": "Personal Protective Equipment",
+      "c": "Protective Preventative Equipment",
+      "d": "People's Protective Equipment"
+    },
+    "answer": "b",
+    "correct_answer_text": "Personal Protective Equipment"
+  },
+  {
+    "id": 130,
+    "question": "A car starts from rest and moves with a constant acceleration of 5 m/s^2. What is the speed of the car after 4 seconds?",
+    "options": {
+      "a": "18 m/s",
+      "b": "55 m/s",
+      "c": "35 m/s",
+      "d": "24 m/s"
+    },
+    "answer": "d",
+    "correct_answer_text": "24 m/s"
+  },
+  {
+    "id": 131,
+    "question": "Which of the following is not acceptable as an integer variable name?",
+    "options": {
+      "a": "IRISH",
+      "b": "KOST",
+      "c": "JAPAN",
+      "d": "INSERTS"
+    },
+    "answer": "d",
+    "correct_answer_text": "INSERTS"
+  },
+  {
+    "id": 132,
+    "question": "A body weighs 200 N in air and 125 N when submerged in water. Its specific gravity is nearest",
+    "options": {
+      "a": "2.31",
+      "b": "2.49",
+      "c": "2.54",
+      "d": "2.67"
+    },
+    "answer": "d",
+    "correct_answer_text": "2.67"
+  },
+  {
+    "id": 133,
+    "question": "Gold with 79 protons has an atomic number of",
+    "options": {
+      "a": "52",
+      "b": "57",
+      "c": "67",
+      "d": "79"
+    },
+    "answer": "d",
+    "correct_answer_text": "79"
+  },
+  {
+    "id": 134,
+    "question": "A 10-mm diameter brass rod has a modulus of elasticity of E=100 GPa. If it is 4 m long and subjected to an axial tensile load of 6 kN, determine its elongation.",
+    "options": {
+      "a": "2.34 mm",
+      "b": "3.60 mm",
+      "c": "2.43 mm",
+      "d": "3.06 mm"
+    },
+    "answer": "d",
+    "correct_answer_text": "3.06 mm"
+  },
+  {
+    "id": 135,
+    "question": "Mr. Johnson borrowed $ 2,400 at 1 percent per month payable in 24 equal end-of-the-month payments. How much of the loan remains unpaid immediately after he has paid the 12th payment?",
+    "options": {
+      "a": "$ 1,384.70",
+      "b": "$ 1,468.90",
+      "c": "$ 1,172.80",
+      "d": "$ 1,271.60"
+    },
+    "answer": "d",
+    "correct_answer_text": "$ 1,271.60"
+  },
+  {
+    "id": 136,
+    "question": "Most of the weather phenomena takes place in the",
+    "options": {
+      "a": "mesosphere",
+      "b": "stratosphere",
+      "c": "ionosphere",
+      "d": "troposphere"
+    },
+    "answer": "d",
+    "correct_answer_text": "troposphere"
+  },
+  {
+    "id": 137,
+    "question": "Which wave requires a medium for transmission?",
+    "options": {
+      "a": "sound",
+      "b": "light",
+      "c": "infrared",
+      "d": "radio"
+    },
+    "answer": "a",
+    "correct_answer_text": "sound"
+  },
+  {
+    "id": 138,
+    "question": "Which of the following is spreadsheet software?",
+    "options": {
+      "a": "Microsoft Word",
+      "b": "Notepad",
+      "c": "Microsoft Excel",
+      "d": "PowerPoint"
+    },
+    "answer": "c",
+    "correct_answer_text": "Microsoft Excel"
+  },
+  {
+    "id": 139,
+    "question": "The ratio of Cp and Cv is called:",
+    "options": {
+      "a": "Isothermal Index",
+      "b": "Hyperbolic Index",
+      "c": "Adiabatic Index",
+      "d": "None of these"
+    },
+    "answer": "c",
+    "correct_answer_text": "Adiabatic Index"
+  },
+  {
+    "id": 140,
+    "question": "Service conductors made up in the form of a cable.",
+    "options": {
+      "a": "Service Raceways",
+      "b": "Service Drop",
+      "c": "Service Cable",
+      "d": "Service Lateral"
+    },
+    "answer": "c",
+    "correct_answer_text": "Service Cable"
+  },
+  {
+    "id": 141,
+    "question": "A company deposits P 1,000,000 every year for ten years in a bank. The company makes no deposits during subsequent five years. If the bank pays 8 percent interest, the amount in the account at the end of 15 years is nearest to",
+    "options": {
+      "a": "P 10,000,000",
+      "b": "P 15,000,000",
+      "c": "P 21,200,000",
+      "d": "P 25,200,000"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 21,200,000"
+  },
+  {
+    "id": 142,
+    "question": "(U+ PV) is a quantity called",
+    "options": {
+      "a": "flow energy",
+      "b": "shaft work",
+      "c": "enthalpy",
+      "d": "entropy"
+    },
+    "answer": "c",
+    "correct_answer_text": "enthalpy"
+  },
+  {
+    "id": 143,
+    "question": "What is the energy equivalent of a mass of 1 kilogram?",
+    "options": {
+      "a": "4.5x10^16 J",
+      "b": "4.5x10^12 J",
+      "c": "9.0x10^16 J",
+      "d": "9.0x10^12 J"
+    },
+    "answer": "c",
+    "correct_answer_text": "9.0x10^16 J"
+  },
+  {
+    "id": 144,
+    "question": "What is the most common alloying ingredient in copper?",
+    "options": {
+      "a": "Iron",
+      "b": "Lithium",
+      "c": "Zinc",
+      "d": "Magnesium"
+    },
+    "answer": "c",
+    "correct_answer_text": "Zinc"
+  },
+  {
+    "id": 145,
+    "question": "RA 7920, Rule 2(0) defining?",
+    "options": {
+      "a": "IIEE",
+      "b": "DECS",
+      "c": "TESDA",
+      "d": "CHED"
+    },
+    "answer": "d",
+    "correct_answer_text": "CHED"
+  },
+  {
+    "id": 146,
+    "question": "The speed with which a liquid escapes from a vessel through an orifice is given by",
+    "options": {
+      "a": "Archimedes' Principle",
+      "b": "Torricelli's Theorem",
+      "c": "Bernoulli's Theorem",
+      "d": "Flow Equation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Torricelli's Theorem"
+  },
+  {
+    "id": 147,
+    "question": "What is the present worth of a P 100 annuity over ten year period, if the interest rate is 8%?",
+    "options": {
+      "a": "P 532",
+      "b": "P 671",
+      "c": "P 450",
+      "d": "P 850"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 671"
+  },
+  {
+    "id": 148,
+    "question": "It is the worth of the property which is equal to the original cost less the amount which has been charged to depreciation.",
+    "options": {
+      "a": "Scrap Value",
+      "b": "Book Value",
+      "c": "Fair Value",
+      "d": "Use Value"
+    },
+    "answer": "b",
+    "correct_answer_text": "Book Value"
+  },
+  {
+    "id": 149,
+    "question": "What is the flow rate through pipe 4 in diameter carrying water at a velocity of 11 ft/sec?",
+    "options": {
+      "a": "590 cm^3/s",
+      "b": "27,200 cm^3/s",
+      "c": "726 cm^3/s",
+      "d": "19,200 cm^3/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "27,200 cm^3/s"
+  },
+  {
+    "id": 150,
+    "question": "The element that is practically insoluble in solid copper is known as",
+    "options": {
+      "a": "Brass",
+      "b": "Lead",
+      "c": "Neon",
+      "d": "Boron"
+    },
+    "answer": "b",
+    "correct_answer_text": "Lead"
+  },
+  {
+    "id": 151,
+    "question": "A student determined to test the law of gravity for himself walks off a skyscraper, stopwatch in hand, and starts his free fall (zero initial velocity). Five seconds later, Superman arrives at the scene and dives off the roof to save the student. What must be the height of the skyscraper so that even Superman cannot save him? (Assume that Superman's acceleration is that of any freely falling body.)",
+    "options": {
+      "a": "200 ft",
+      "b": "400 ft",
+      "c": "300 ft",
+      "d": "500 ft"
+    },
+    "answer": "b",
+    "correct_answer_text": "400 ft"
+  },
+  {
+    "id": 152,
+    "question": "What is the molecular weight of glucose, C6H12O6?",
+    "options": {
+      "a": "120",
+      "b": "180",
+      "c": "140",
+      "d": "190"
+    },
+    "answer": "b",
+    "correct_answer_text": "180"
+  },
+  {
+    "id": 153,
+    "question": "One angstrom is equal to:",
+    "options": {
+      "a": "10^-6 m",
+      "b": "10^-10 m",
+      "c": "10^-4 m",
+      "d": "10^-2 m"
+    },
+    "answer": "b",
+    "correct_answer_text": "10^-10 m"
+  },
+  {
+    "id": 154,
+    "question": "Which of the following is not a unit of power?",
+    "options": {
+      "a": "watt",
+      "b": "joule-second",
+      "c": "newton-meter per second",
+      "d": "horsepower"
+    },
+    "answer": "b",
+    "correct_answer_text": "joule-second"
+  },
+  {
+    "id": 155,
+    "question": "A substance which changes the speed of a chemical action without itself being changed is called",
+    "options": {
+      "a": "reactant",
+      "b": "catalyst",
+      "c": "additive",
+      "d": "product"
+    },
+    "answer": "b",
+    "correct_answer_text": "catalyst"
+  },
+  {
+    "id": 156,
+    "question": "Sec. 4 of Art. II states that the powers and duties of the Board. What does it mean by quasi-judicial powers?",
+    "options": {
+      "a": "Control",
+      "b": "Investigate",
+      "c": "Supervision",
+      "d": "Evaluation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Investigate"
+  },
+  {
+    "id": 157,
+    "question": "An object is thrown vertically upward. It has a speed of 32 ft/sec when it has reached one-half its maximum height. How high does it rise?",
+    "options": {
+      "a": "28 ft",
+      "b": "32 ft",
+      "c": "30 ft",
+      "d": "31 ft"
+    },
+    "answer": "b",
+    "correct_answer_text": "32 ft"
+  },
+  {
+    "id": 158,
+    "question": "For the base 10 number of 30, the equivalent binary is",
+    "options": {
+      "a": "11011",
+      "b": "11001",
+      "c": "11110",
+      "d": "11010"
+    },
+    "answer": "c",
+    "correct_answer_text": "11110"
+  },
+  {
+    "id": 159,
+    "question": "A tank contains 3 cubic feet of 120 psig air at 80°F. How many tires of volume 1.2 ft³ can be inflated to 28 psig at 80°F?",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "8"
+    },
+    "answer": "c",
+    "correct_answer_text": "5"
+  },
+  {
+    "id": 160,
+    "question": "The sum of the strains in the three coordinate directions is known as",
+    "options": {
+      "a": "Dilution",
+      "b": "Solution",
+      "c": "Dilation",
+      "d": "Pilation"
+    },
+    "answer": "c",
+    "correct_answer_text": "Dilation"
+  },
+  {
+    "id": 161,
+    "question": "Convert 347 base 8 to (16) BCD.",
+    "options": {
+      "a": "100100101001",
+      "b": "001000101001",
+      "c": "001000110001",
+      "d": "001010010100"
+    },
+    "answer": "c",
+    "correct_answer_text": "001000110001"
+  },
+  {
+    "id": 162,
+    "question": "A market condition where there are two buyers and two sellers is called",
+    "options": {
+      "a": "duopoly",
+      "b": "duopsony",
+      "c": "bilateral duopoly",
+      "d": "bilateral oligopoly"
+    },
+    "answer": "c",
+    "correct_answer_text": "bilateral duopoly"
+  },
+  {
+    "id": 163,
+    "question": "For REE board examination, the passing general average is 70 percent provided there is no grade below 50 percent in any of the 3 subjects.",
+    "options": {
+      "a": "65 percent",
+      "b": "60 percent",
+      "c": "50 percent",
+      "d": "40 percent"
+    },
+    "answer": "c",
+    "correct_answer_text": "50 percent"
+  },
+  {
+    "id": 164,
+    "question": "During an isobaric process, change in enthalpy is a measure of:",
+    "options": {
+      "a": "work transfer",
+      "b": "change in internal energy",
+      "c": "heat transfer",
+      "d": "change in entropy"
+    },
+    "answer": "c",
+    "correct_answer_text": "heat transfer"
+  },
+  {
+    "id": 165,
+    "question": "Which of the following is a natural magnet?",
+    "options": {
+      "a": "Steel",
+      "b": "Magnesia",
+      "c": "Soft iron",
+      "d": "Lodestone"
+    },
+    "answer": "d",
+    "correct_answer_text": "Lodestone"
+  },
+  {
+    "id": 166,
+    "question": "A material capable of absorbing a large amount of energy is known as",
+    "options": {
+      "a": "ductile",
+      "b": "shock proof",
+      "c": "resilience",
+      "d": "toughness"
+    },
+    "answer": "d",
+    "correct_answer_text": "toughness"
+  },
+  {
+    "id": 167,
+    "question": "Which of the following sizes of fuse is NOT standard?",
+    "options": {
+      "a": "80 A",
+      "b": "45 A",
+      "c": "125 A",
+      "d": "75 A"
+    },
+    "answer": "d",
+    "correct_answer_text": "75 A"
+  },
+  {
+    "id": 168,
+    "question": "A man paid a 10 percent down payment of P2,000,000 for a house and lot and agreed to pay the balance in monthly installments for \"x\" years at an interest rate of 15 percent compounded monthly. If the monthly installment was P42,821.87, find the value of x.",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "answer": "d",
+    "correct_answer_text": "5"
+  },
+  {
+    "id": 169,
+    "question": "Who was the father of the internet?",
+    "options": {
+      "a": "Charles Babbage",
+      "b": "Denis Riche",
+      "c": "Martin Cooper",
+      "d": "Vint Cerf"
+    },
+    "answer": "d",
+    "correct_answer_text": "Vint Cerf"
+  },
+  {
+    "id": 170,
+    "question": "What is a computer programming language in which groups of 1s and 0s are used to represent instructions and the only language a computer actually understands?",
+    "options": {
+      "a": "FORTRAN",
+      "b": "High-level Language",
+      "c": "Application Software",
+      "d": "Machine Language"
+    },
+    "answer": "d",
+    "correct_answer_text": "Machine Language"
+  },
+  {
+    "id": 171,
+    "question": "What is the total number of mechanical degrees that a PVC conduit run may be bent between pull points (pull boxes, junction boxes, or utility boxes)?",
+    "options": {
+      "a": "270",
+      "b": "120",
+      "c": "180",
+      "d": "360"
+    },
+    "answer": "d",
+    "correct_answer_text": "360"
+  },
+  {
+    "id": 172,
+    "question": "What is the ampacity of a 5.5 mm² TW copper conductor?",
+    "options": {
+      "a": "35 A",
+      "b": "45 A",
+      "c": "40 A",
+      "d": "30 A"
+    },
+    "answer": "d",
+    "correct_answer_text": "30 A"
+  },
+  {
+    "id": 173,
+    "question": "When two waves of the same frequency, speed, and amplitude traveling in opposite directions are superimposed:",
+    "options": {
+      "a": "The phase difference is always zero",
+      "b": "Destructive interference always results",
+      "c": "Standing waves are produced",
+      "d": "Constructive interference always results"
+    },
+    "answer": "c",
+    "correct_answer_text": "Standing waves are produced"
+  },
+  {
+    "id": 174,
+    "question": "Depreciation is the decrease in the value of a physical property with the passage of time. What do you call the formula which is also called the constant percentage method or the Matheson formula where the annual cost of depreciation is a fixed percentage of the salvage value at the beginning of the year?",
+    "options": {
+      "a": "Declining balance method",
+      "b": "Sinking fund formula",
+      "c": "Double declining balance method",
+      "d": "Service output method"
+    },
+    "answer": "a",
+    "correct_answer_text": "Declining balance method"
+  },
+  {
+    "id": 175,
+    "question": "Series of equal payments occurring at equal periods of time on an infinite time basis.",
+    "options": {
+      "a": "Discount",
+      "b": "Gradient",
+      "c": "Annuity",
+      "d": "Perpetuity"
+    },
+    "answer": "d",
+    "correct_answer_text": "Perpetuity"
+  },
+  {
+    "id": 176,
+    "question": "A 200 g apple is thrown from the edge of a tall building with an initial speed of 20 m/s. What is the change in kinetic energy of the apple if it strikes the ground at 50 m/s?",
+    "options": {
+      "a": "81 J",
+      "b": "100 J",
+      "c": "130 J",
+      "d": "210 J"
+    },
+    "answer": "d",
+    "correct_answer_text": "210 J"
+  },
+  {
+    "id": 177,
+    "question": "Find the elongation in a 3 m long steel bar when subjected to a 50 MPa stress. E=200 GPa.",
+    "options": {
+      "a": "1 mm",
+      "b": "0.5 mm",
+      "c": "1.75 mm",
+      "d": "0.75 mm"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.75 mm"
+  },
+  {
+    "id": 178,
+    "question": "If the density of water is 1,000 kg/m³ at 4 °C, find its specific volume in m³/kg.",
+    "options": {
+      "a": "1",
+      "b": "0.0001",
+      "c": "100",
+      "d": "0.001"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.001"
+  },
+  {
+    "id": 179,
+    "question": "What is the critical angle between carbon disulfide and air? (The index of refraction for carbon disulfide is 1.643.)",
+    "options": {
+      "a": "31.3°",
+      "b": "37.4°",
+      "c": "33.1°",
+      "d": "34.7°"
+    },
+    "answer": "b",
+    "correct_answer_text": "37.4°"
+  },
+  {
+    "id": 180,
+    "question": "Bernoulli's equation is based on",
+    "options": {
+      "a": "The second law of motion",
+      "b": "The conservation of momentum",
+      "c": "The third law of motion",
+      "d": "The conservation of energy"
+    },
+    "answer": "d",
+    "correct_answer_text": "The conservation of energy"
+  },
+  {
+    "id": 181,
+    "question": "What system is one in which there is no exchange of matter with the surroundings or mass does not cross its boundaries?",
+    "options": {
+      "a": "Open system",
+      "b": "Non-flow system",
+      "c": "Isolated system",
+      "d": "Closed system"
+    },
+    "answer": "d",
+    "correct_answer_text": "Closed system"
+  },
+  {
+    "id": 182,
+    "question": "What does the prefix atto- refer to?",
+    "options": {
+      "a": "10-15",
+      "b": "1015",
+      "c": "10-18",
+      "d": "1018"
+    },
+    "answer": "c",
+    "correct_answer_text": "10-18"
+  },
+  {
+    "id": 183,
+    "question": "The transfer of heat energy from molecule to molecule is known as",
+    "options": {
+      "a": "Absorption",
+      "b": "Convection",
+      "c": "Radiation",
+      "d": "Conduction"
+    },
+    "answer": "d",
+    "correct_answer_text": "Conduction"
+  },
+  {
+    "id": 184,
+    "question": "A refrigerator gives off 3 J of heat for every joule of mechanical energy input. Its coefficient of performance is",
+    "options": {
+      "a": "1",
+      "b": "4",
+      "c": "3",
+      "d": "2"
+    },
+    "answer": "d",
+    "correct_answer_text": "2"
+  },
+  {
+    "id": 185,
+    "question": "The moment of inertia of any plane figure can be expressed in units of length to the",
+    "options": {
+      "a": "First power",
+      "b": "Second power",
+      "c": "Third power",
+      "d": "Fourth power"
+    },
+    "answer": "d",
+    "correct_answer_text": "Fourth power"
+  },
+  {
+    "id": 186,
+    "question": "The loss of zinc in the presence of certain corrosive media or at high temperature is known as",
+    "options": {
+      "a": "Perzincification",
+      "b": "Brazincification",
+      "c": "Loszincification",
+      "d": "Dezincification"
+    },
+    "answer": "d",
+    "correct_answer_text": "Dezincification"
+  },
+  {
+    "id": 187,
+    "question": "Section 4(r) Powers and Duties of the Board of Article II Board of Electrical Engineering is ________.",
+    "options": {
+      "a": "Promulgate rules and regulations including a code of ethics, administrative policies, orders and issuances to carry out the provisions of this Act.",
+      "b": "Coordinate with the Commission and the Department of Education, Culture and Sports (DECS) in prescribing, amending and/or revising the courses.",
+      "c": "Supervise and regulate the practice of electrical engineering in the Philippines.",
+      "d": "Determine and evaluate the qualifications of the applicants for registration with or without licensure examinations and for special permits."
+    },
+    "answer": "d",
+    "correct_answer_text": "Determine and evaluate the qualifications of the applicants for registration with or without licensure examinations and for special permits."
+  },
+  {
+    "id": 188,
+    "question": "In thermodynamics, our attention is focused on which form of energy?",
+    "options": {
+      "a": "Kinetic Energy",
+      "b": "Internal Energy",
+      "c": "Potential Energy",
+      "d": "Total Energy"
+    },
+    "answer": "b",
+    "correct_answer_text": "Internal Energy"
+  },
+  {
+    "id": 189,
+    "question": "A skier starts from rest and slides 9.0m down a slope in 3.0s. In what time after starting will the skier have a speed of 24 m/s? Assume that the acceleration is constant.",
+    "options": {
+      "a": "12 s",
+      "b": "11 s",
+      "c": "10 s",
+      "d": "9 s"
+    },
+    "answer": "a",
+    "correct_answer_text": "12 s"
+  },
+  {
+    "id": 190,
+    "question": "The most important element that controls the physical properties of steel is",
+    "options": {
+      "a": "Silicon",
+      "b": "Tungsten",
+      "c": "Manganese",
+      "d": "Carbon"
+    },
+    "answer": "d",
+    "correct_answer_text": "Carbon"
+  },
+  {
+    "id": 191,
+    "question": "The cost of constructing a road is P 600,000. The yearly maintenance cost is P 15,000 and P 250,000 for repavement of road every 18 years. If an annual interest rate is 3.5%, what is the cost for perpetual?",
+    "options": {
+      "a": "P 1.3 M",
+      "b": "P 1.75 M",
+      "c": "P 1.32 M",
+      "d": "P 1.33 M"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 1.32 M"
+  },
+  {
+    "id": 192,
+    "question": "A mass of 5 slugs and one of 7kg are combined. Express the total mass in slugs.",
+    "options": {
+      "a": "5.48",
+      "b": "4.58",
+      "c": "6.42",
+      "d": "4.62"
+    },
+    "answer": "a",
+    "correct_answer_text": "5.48"
+  },
+  {
+    "id": 193,
+    "question": "A ________ is a tiny electrically operated switch that can alternate between on and off many million of times per second.",
+    "options": {
+      "a": "Transistor",
+      "b": "Resistor",
+      "c": "Capacitor",
+      "d": "Microchip"
+    },
+    "answer": "a",
+    "correct_answer_text": "Transistor"
+  },
+  {
+    "id": 194,
+    "question": "The aggregation of individual formed for the purpose of conducting a business and recognized by law as a fictitious person is called",
+    "options": {
+      "a": "Corporations",
+      "b": "Investors",
+      "c": "Partnerships",
+      "d": "Stockholders"
+    },
+    "answer": "a",
+    "correct_answer_text": "Corporations"
+  },
+  {
+    "id": 195,
+    "question": "A square bar of aluminum 2 in on a side and 10 in long is loaded by axial tensile forces at the ends. Experimentally, it is found that the strain in the direction of the load is 0.001 in/in. Determine the volume of the bar when the load is acting. Consider u = 0.33.",
+    "options": {
+      "a": "39.9864 cu.in.",
+      "b": "40 cu.in.",
+      "c": "39.9728 cu.in.",
+      "d": "40.0136 cu.in."
+    },
+    "answer": "d",
+    "correct_answer_text": "40.0136 cu.in."
+  },
+  {
+    "id": 196,
+    "question": "How many moles are there in one atom?",
+    "options": {
+      "a": "1.66 x 10^-23",
+      "b": "1.66 x 10^-24",
+      "c": "1.66 x 10^23",
+      "d": "1.66 x 10^24"
+    },
+    "answer": "b",
+    "correct_answer_text": "1.66 x 10^-24"
+  },
+  {
+    "id": 197,
+    "question": "What is the total number of neutrons in an atom with an atomic number of 17 and a mass number of 35?",
+    "options": {
+      "a": "17",
+      "b": "18",
+      "c": "35",
+      "d": "52"
+    },
+    "answer": "b",
+    "correct_answer_text": "18"
+  },
+  {
+    "id": 198,
+    "question": "A centrifugal pump gives maximum efficiency when its blades are:",
+    "options": {
+      "a": "Bent forward",
+      "b": "Bent backward",
+      "c": "Straight",
+      "d": "Wave shaped"
+    },
+    "answer": "b",
+    "correct_answer_text": "Bent backward"
+  },
+  {
+    "id": 199,
+    "question": "A rock that would most likely contain a fossil would be",
+    "options": {
+      "a": "igneous",
+      "b": "metamorphic",
+      "c": "sedimentary",
+      "d": "volcanic"
+    },
+    "answer": "c",
+    "correct_answer_text": "sedimentary"
+  },
+  {
+    "id": 200,
+    "question": "What is RSC stands for in EPIRA?",
+    "options": {
+      "a": "Retail Supply Commission",
+      "b": "Retail Supply Contract",
+      "c": "Retail Supplier Commission",
+      "d": "Retail Supplier Contract"
+    },
+    "answer": "b",
+    "correct_answer_text": "Retail Supply Contract"
+  },
+  {
+    "id": 201,
+    "question": "Determine the diameter of a steel rod that will carry a tensile load of 50,000 kg at a stress of 1400kg per square centimeter.",
+    "options": {
+      "a": "5.78 cm",
+      "b": "6.74 cm",
+      "c": "8.32 cm",
+      "d": "7.46 cm"
+    },
+    "answer": "b",
+    "correct_answer_text": "6.74 cm"
+  },
+  {
+    "id": 202,
+    "question": "The hydroxyl ion concentration of 10^-11 moles/liter in water is equivalent to what pH number?",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "7",
+      "d": "11"
+    },
+    "answer": "a",
+    "correct_answer_text": "3"
+  },
+  {
+    "id": 203,
+    "question": "Hot water at 100C is added to 300 g of water initially at 0C until the mixture is at 40C. The minimum mass of added hot water is",
+    "options": {
+      "a": "60 g",
+      "b": "75 g",
+      "c": "120 g",
+      "d": "200 g"
+    },
+    "answer": "d",
+    "correct_answer_text": "200 g"
+  },
+  {
+    "id": 204,
+    "question": "The purpose of iron sulfide in steel alloying is to increase:",
+    "options": {
+      "a": "atmospheric corrosion resistance",
+      "b": "hardness and strength",
+      "c": "corrosion resistance",
+      "d": "brittleness"
+    },
+    "answer": "d",
+    "correct_answer_text": "brittleness"
+  },
+  {
+    "id": 205,
+    "question": "A nibble is composed of how many bits?",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "b",
+    "correct_answer_text": "4"
+  },
+  {
+    "id": 206,
+    "question": "The disconnecting means for motor circuits shall have an ampere rating of at least 115% of the full-load current rating of the motor.",
+    "options": {
+      "a": "manufacturing rule",
+      "b": "construction rule",
+      "c": "wiring design rule",
+      "d": "installation rule"
+    },
+    "answer": "c",
+    "correct_answer_text": "wiring design rule"
+  },
+  {
+    "id": 207,
+    "question": "One banker's year is equivalent to ________ days.",
+    "options": {
+      "a": "300",
+      "b": "360",
+      "c": "365",
+      "d": "366"
+    },
+    "answer": "b",
+    "correct_answer_text": "360"
+  },
+  {
+    "id": 208,
+    "question": "Device used to pull wire through the conduit.",
+    "options": {
+      "a": "Straps",
+      "b": "Fish tape",
+      "c": "Wire tongs",
+      "d": "Puller"
+    },
+    "answer": "b",
+    "correct_answer_text": "Fish tape"
+  },
+  {
+    "id": 209,
+    "question": "An object with a volume of 1200cu. cm weighs 20N. What will it weigh when submerged in water?",
+    "options": {
+      "a": "7.82 N",
+      "b": "20 N",
+      "c": "10.58 N",
+      "d": "8.23 N"
+    },
+    "answer": "d",
+    "correct_answer_text": "8.23 N"
+  },
+  {
+    "id": 210,
+    "question": "When an object exerts a force on another object, the second object exerts on the first a force of the same magnitude but in the opposite direction. This law is known as:",
+    "options": {
+      "a": "Newton's First law of Motion",
+      "b": "Newton's Second law of Motion",
+      "c": "Newton's Third law of Motion",
+      "d": "None of these"
+    },
+    "answer": "c",
+    "correct_answer_text": "Newton's Third law of Motion"
+  },
+  {
+    "id": 211,
+    "question": "ind the maximum shearing stress in a steel shaft of 2\" in diameter which transmits 200 horsepower at 875 rpm.",
+    "options": {
+      "a": "9819.8 psi",
+      "b": "9169.8 psi",
+      "c": "9268.8 psi",
+      "d": "9619.8 psi"
+    },
+    "answer": "b",
+    "correct_answer_text": "9169.8 psi"
+  },
+  {
+    "id": 212,
+    "question": "A bank is advertising 9.5 percent account that yield 9.84 percent annually. Find how often interest is compounded.",
+    "options": {
+      "a": "Monthly",
+      "b": "Bimonthly",
+      "c": "Quarterly",
+      "d": "Annually"
+    },
+    "answer": "c",
+    "correct_answer_text": "Quarterly"
+  },
+  {
+    "id": 213,
+    "question": "A 50-kg metal cylinder, 2.0m long and with each end of area 25 sq. cm., stands vertically on one end. What pressure does the cylinder exert on the floor?",
+    "options": {
+      "a": "98.1 kPa",
+      "b": "784.8 kPa",
+      "c": "392.4 kPa",
+      "d": "196.2 kPa"
+    },
+    "answer": "d",
+    "correct_answer_text": "196.2 kPa"
+  },
+  {
+    "id": 214,
+    "question": "A department store charges one and one-half percent interest per month on credit purchases. This is equivalent to a nominal annual interest rate of",
+    "options": {
+      "a": "15.0 percent",
+      "b": "18.0 percent",
+      "c": "19.6 percent",
+      "d": "21.0 percent"
+    },
+    "answer": "b",
+    "correct_answer_text": "18.0 percent"
+  },
+  {
+    "id": 215,
+    "question": "FTTH means ________.",
+    "options": {
+      "a": "Flexible To The House",
+      "b": "Flexible To The Home",
+      "c": "Fiber To The Home",
+      "d": "Fiber To The House"
+    },
+    "answer": "c",
+    "correct_answer_text": "Fiber To The Home"
+  },
+  {
+    "id": 216,
+    "question": "In RA 7920, section 23 of article III: Issuance of Certificates of Registration. The professional is required to renew licence every ________ years upon payment of registration fees.",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "6"
+    },
+    "answer": "c",
+    "correct_answer_text": "3"
+  },
+  {
+    "id": 217,
+    "question": "The wheel of an automobile spinning at 180 rpm begins to experience a 10rad/s^2 angular acceleration. What is the angular velocity of the wheel after 5 seconds?",
+    "options": {
+      "a": "230 rpm",
+      "b": "275 rpm",
+      "c": "477 rpm",
+      "d": "657 rpm"
+    },
+    "answer": "d",
+    "correct_answer_text": "657 rpm"
+  },
+  {
+    "id": 218,
+    "question": "Formula for magnesium nitrite.",
+    "options": {
+      "a": "Mg2(NO2)2",
+      "b": "MgNO2",
+      "c": "Mg(NO2)2",
+      "d": "Mg2(NO2)3"
+    },
+    "answer": "c",
+    "correct_answer_text": "Mg(NO2)2"
+  },
+  {
+    "id": 219,
+    "question": "In what method of computing depreciation where it assumes that the annual cost of depreciation is a fixed percentage of the book value at the beginning of the year?",
+    "options": {
+      "a": "Straight line method",
+      "b": "Sinking fund method",
+      "c": "Sum-of-year digit method",
+      "d": "Declining balance method"
+    },
+    "answer": "d",
+    "correct_answer_text": "Declining balance method"
+  },
+  {
+    "id": 220,
+    "question": "\"The ratio of the sines of the angles of incidence and refraction is equal to the ratio of the speeds of light in the two media\". This statement is known as ________.",
+    "options": {
+      "a": "Huygen's principle",
+      "b": "Snell's law",
+      "c": "Maxwell's hypothesis",
+      "d": "Doppler's effect"
+    },
+    "answer": "b",
+    "correct_answer_text": "Snell's law"
+  },
+  {
+    "id": 221,
+    "question": "Which of the following is not a colligative property?",
+    "options": {
+      "a": "Osmotic pressure",
+      "b": "Depression of freezing point",
+      "c": "Lowering of vapor pressure",
+      "d": "None of these"
+    },
+    "answer": "d",
+    "correct_answer_text": "None of these"
+  },
+  {
+    "id": 222,
+    "question": "A System has a temperature of 250°F. Convert this Value to °R?",
+    "options": {
+      "a": "740°R",
+      "b": "730°R",
+      "c": "720°R",
+      "d": "710°R"
+    },
+    "answer": "d",
+    "correct_answer_text": "710°R"
+  },
+  {
+    "id": 223,
+    "question": "A machine costs P 8,000 and an estimated life of 10 years with a salvage value of P 500. What is its book value after 8 years? Using straight-line method.",
+    "options": {
+      "a": "P 4000",
+      "b": "P 2500",
+      "c": "P 3000",
+      "d": "P 2000"
+    },
+    "answer": "d",
+    "correct_answer_text": "P 2000"
+  },
+  {
+    "id": 224,
+    "question": "A piston cylinder contains 3 kg of air at 20°C and 300 kPa. It is now heated up in a constant pressure process to 600 K. Find the work in the process, in kJ when R = 0.287.",
+    "options": {
+      "a": "275",
+      "b": "253",
+      "c": "282",
+      "d": "264"
+    },
+    "answer": "d",
+    "correct_answer_text": "264"
+  },
+  {
+    "id": 225,
+    "question": "In which medium do sound waves travel the fastest?",
+    "options": {
+      "a": "Liquids",
+      "b": "Solids",
+      "c": "Gases",
+      "d": "Vacuum"
+    },
+    "answer": "b",
+    "correct_answer_text": "Solids"
+  },
+  {
+    "id": 226,
+    "question": "With a 12% interest rate, approximately how much money must be invested today in order to withdraw 1000 per year at the end of each year for 10 years?",
+    "options": {
+      "a": "4800",
+      "b": "5650",
+      "c": "5800",
+      "d": "6150"
+    },
+    "answer": "b",
+    "correct_answer_text": "5650"
+  },
+  {
+    "id": 227,
+    "question": "Water flows at 6 ft/s through a pipe 500 ft long with diameter 1 in. The inlet pressure p1 = 200 psig, and the exit section is 100 ft higher than the inlet. What is the exit pressure p2 if the friction head loss is 350 ft?",
+    "options": {
+      "a": "5.24 psig",
+      "b": "5.67 psig",
+      "c": "5.00 psig",
+      "d": "5.33 psig"
+    },
+    "answer": "c",
+    "correct_answer_text": "5.00 psig"
+  },
+  {
+    "id": 228,
+    "question": "An appliance, which is fastened or otherwise, secured at a specific location.",
+    "options": {
+      "a": "Permanent Appliance",
+      "b": "Stationary Appliance",
+      "c": "Portable Appliance",
+      "d": "Fixed Appliance"
+    },
+    "answer": "d",
+    "correct_answer_text": "Fixed Appliance"
+  },
+  {
+    "id": 229,
+    "question": "The point of contraflexure is a point where",
+    "options": {
+      "a": "shear force changes sign",
+      "b": "bending moment changes sign",
+      "c": "shear force is maximum",
+      "d": "bending moment is maximum"
+    },
+    "answer": "b",
+    "correct_answer_text": "bending moment changes sign"
+  },
+  {
+    "id": 230,
+    "question": "A person sits in a chair 3 m from a wall on which hangs a plane mirror. Three meters directly behind him stands a woman 1.6 m tall. What minimum height of plane mirror on the wall will enable him to see the woman's full height?",
+    "options": {
+      "a": "1.6 m",
+      "b": "0.8 m",
+      "c": "0.533 m",
+      "d": "0.266 m"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.533 m"
+  },
+  {
+    "id": 231,
+    "question": "If 9.05 moles of ozone is formed in a storm then the mass of ozone is",
+    "options": {
+      "a": "435 g",
+      "b": "450 g",
+      "c": "434.4 g",
+      "d": "480 g"
+    },
+    "answer": "c",
+    "correct_answer_text": "434.4 g"
+  },
+  {
+    "id": 232,
+    "question": "Which of the following is not a control volume?",
+    "options": {
+      "a": "Insulated tank",
+      "b": "Car radiator",
+      "c": "Compressor",
+      "d": "Turbine"
+    },
+    "answer": "a",
+    "correct_answer_text": "Insulated tank"
+  },
+  {
+    "id": 233,
+    "question": "The cold working of metal is accomplished at",
+    "options": {
+      "a": "below re-crystallization temperature",
+      "b": "above re-crystallization temperature",
+      "c": "re-crystallization temperature",
+      "d": "any of these"
+    },
+    "answer": "a",
+    "correct_answer_text": "below re-crystallization temperature"
+  },
+  {
+    "id": 234,
+    "question": "The term ________ is very commonly used to designate any alloy primarily copper and zinc.",
+    "options": {
+      "a": "bronze",
+      "b": "manganese",
+      "c": "brass",
+      "d": "aluminum"
+    },
+    "answer": "c",
+    "correct_answer_text": "brass"
+  },
+  {
+    "id": 235,
+    "question": "The transfer of heat energy from molecule to molecule is known as",
+    "options": {
+      "a": "absorption",
+      "b": "conduction",
+      "c": "radiation",
+      "d": "convection"
+    },
+    "answer": "b",
+    "correct_answer_text": "conduction"
+  },
+  {
+    "id": 236,
+    "question": "It is the claim of anyone to ownership.",
+    "options": {
+      "a": "proprietorship",
+      "b": "assets",
+      "c": "equity",
+      "d": "liability"
+    },
+    "answer": "c",
+    "correct_answer_text": "equity"
+  },
+  {
+    "id": 237,
+    "question": "Which of the following describes a material that possesses different properties when stressed in different directions?",
+    "options": {
+      "a": "atactic",
+      "b": "anisotropic",
+      "c": "isotropic",
+      "d": "asymmetrical"
+    },
+    "answer": "b",
+    "correct_answer_text": "anisotropic"
+  },
+  {
+    "id": 238,
+    "question": "Find the volume flow rate of water in L/s, if the power developed under a head of 295 m is 9,300 kW and the hydraulic efficiency is 75%.",
+    "options": {
+      "a": "4,285",
+      "b": "4,699",
+      "c": "5,000",
+      "d": "5,200"
+    },
+    "answer": "a",
+    "correct_answer_text": "4,285"
+  },
+  {
+    "id": 239,
+    "question": "If 1,000 is deposited in a savings account that pays 6% annual interest and all the interest is left in the account, what is the account balance after three years?",
+    "options": {
+      "a": "840",
+      "b": "1,000",
+      "c": "1,180",
+      "d": "1,191"
+    },
+    "answer": "d",
+    "correct_answer_text": "1,191"
+  },
+  {
+    "id": 240,
+    "question": "What is the demand load of the service for two 3 kW cooktops and two 5 kW ovens?",
+    "options": {
+      "a": "12 kW",
+      "b": "11 kW",
+      "c": "15 kW",
+      "d": "10 kW"
+    },
+    "answer": "b",
+    "correct_answer_text": "11 kW"
+  },
+  {
+    "id": 241,
+    "question": "The speed with which a liquid escapes from a vessel through an orifice is given by",
+    "options": {
+      "a": "Archimedes' Principle",
+      "b": "Torricelli's Theorem",
+      "c": "Bernoulli's Theorem",
+      "d": "Flow Equation"
+    },
+    "answer": "b",
+    "correct_answer_text": "Torricelli's Theorem"
+  },
+  {
+    "id": 242,
+    "question": "One end of rope 50 ft long is attached to an automobile. The other end is fastened to a tree. A man exerts a force of 100 lb at the midpoint of the rope, pulling it 2 ft to the side. What is the force exerted on the automobile?",
+    "options": {
+      "a": "846 lbs",
+      "b": "620 lbs",
+      "c": "528 lbs",
+      "d": "625 lbs"
+    },
+    "answer": "d",
+    "correct_answer_text": "625 lbs"
+  },
+  {
+    "id": 243,
+    "question": "A projector produces an illumination of 10,000 lx on a wall perpendicular to its beam that is 6.0 m away. What is the luminous intensity looking into the beam?",
+    "options": {
+      "a": "240000 cd",
+      "b": "180000 cd",
+      "c": "360000 cd",
+      "d": "540000 cd"
+    },
+    "answer": "c",
+    "correct_answer_text": "360000 cd"
+  },
+  {
+    "id": 244,
+    "question": "Calculate the mass of water required to prepare a 4.00 m aqueous solution of NH3 using 25.0 g of NH3.",
+    "options": {
+      "a": "0.386 kg",
+      "b": "0.368 kg",
+      "c": "0.462 kg",
+      "d": "0.426 kg"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.368 kg"
+  },
+  {
+    "id": 245,
+    "question": "The product of force and the time during at which it acts is known as:",
+    "options": {
+      "a": "momentum",
+      "b": "impact",
+      "c": "work",
+      "d": "impulse"
+    },
+    "answer": "d",
+    "correct_answer_text": "impulse"
+  },
+  {
+    "id": 246,
+    "question": "What is the value of 75 base 10 in base 4?",
+    "options": {
+      "a": "3201",
+      "b": "1344",
+      "c": "1023",
+      "d": "2313"
+    },
+    "answer": "c",
+    "correct_answer_text": "1023"
+  },
+  {
+    "id": 247,
+    "question": "The maximum power output of an engine operating between 600°C and 20°C if the heat input is 100 kJ/s is:",
+    "options": {
+      "a": "83.3 kW",
+      "b": "77.3 kW",
+      "c": "66.4 kW",
+      "d": "57.3 kW"
+    },
+    "answer": "c",
+    "correct_answer_text": "66.4 kW"
+  },
+  {
+    "id": 248,
+    "question": "What is the factor (A/P, i%, n)?",
+    "options": {
+      "a": "uniform series present worth factor",
+      "b": "uniform series compound amount factor",
+      "c": "sinking fund factor",
+      "d": "capital recovery factor"
+    },
+    "answer": "d",
+    "correct_answer_text": "capital recovery factor"
+  },
+  {
+    "id": 249,
+    "question": "Two particles moving in the same direction collide, stick together, and continue their motion together. Each particle has a mass of 10 g, and their respective velocities before collision were 10 m/s and 100 m/s. The energy of the system after the collision is most nearly",
+    "options": {
+      "a": "22 J",
+      "b": "30 J",
+      "c": "48 J",
+      "d": "78 J"
+    },
+    "answer": "b",
+    "correct_answer_text": "30 J"
+  },
+  {
+    "id": 250,
+    "question": "What is the absolute velocity of a real fluid at a surface?",
+    "options": {
+      "a": "the same as the bulk fluid velocity",
+      "b": "the velocity of the surface",
+      "c": "zero",
+      "d": "proportional to the smoothness of the surface"
+    },
+    "answer": "b",
+    "correct_answer_text": "the velocity of the surface"
+  },
+  {
+    "id": 251,
+    "question": "Which of the following flow meters measure(s) the average fluid velocity rather than a point or local velocity in a pipe?",
+    "options": {
+      "a": "I only",
+      "b": "II only",
+      "c": "I and IV",
+      "d": "II and V"
+    },
+    "answer": "c",
+    "correct_answer_text": "I and IV"
+  },
+  {
+    "id": 252,
+    "question": "What is true about the polytropic exponent, n, for a perfect gas undergoing an isobaric process?",
+    "options": {
+      "a": "n > 0",
+      "b": "n < 0",
+      "c": "n → ∞",
+      "d": "n = 0"
+    },
+    "answer": "d",
+    "correct_answer_text": "n = 0"
+  },
+  {
+    "id": 253,
+    "question": "If an integer programming problem is solved as linear programming problem and the resulting values of the decision variable are rounded off, which of the following will result?",
+    "options": {
+      "a": "an optimum integer solution",
+      "b": "a noninteger solution that is optimum",
+      "c": "an integer solution that may be optimum, or close to it",
+      "d": "an integer solution that is not optimum"
+    },
+    "answer": "c",
+    "correct_answer_text": "an integer solution that may be optimum, or close to it"
+  },
+  {
+    "id": 254,
+    "question": "Which of the following printers uses light beam and electrostatically sensitive black powder?",
+    "options": {
+      "a": "dot matrix printer",
+      "b": "daisy wheel printer",
+      "c": "chain printer",
+      "d": "laser printer"
+    },
+    "answer": "d",
+    "correct_answer_text": "laser printer"
+  },
+  {
+    "id": 255,
+    "question": "Bar codes stores information using",
+    "options": {
+      "a": "punched holes",
+      "b": "dots",
+      "c": "thick and thin lines",
+      "d": "all of these"
+    },
+    "answer": "c",
+    "correct_answer_text": "thick and thin lines"
+  },
+  {
+    "id": 256,
+    "question": "Which of the following is the ascending order of data hierarchy?",
+    "options": {
+      "a": "bit - byte - record - field - database - file",
+      "b": "bit - byte - field - record - file - database",
+      "c": "bit - byte - file - field - record - database",
+      "d": "bit - record - byte - field - file - database"
+    },
+    "answer": "b",
+    "correct_answer_text": "bit - byte - field - record - file - database"
+  },
+  {
+    "id": 257,
+    "question": "A hydraulic cylinder has a piston of cross sectional area 25 cm^2 and a fluid pressure of 2 MPa. If the piston is moved 0.25 m how much work is done?",
+    "options": {
+      "a": "1.25 kJ",
+      "b": "2.5 kJ",
+      "c": "3.75 kJ",
+      "d": "5 kJ"
+    },
+    "answer": "a",
+    "correct_answer_text": "1.25 kJ"
+  },
+  {
+    "id": 258,
+    "question": "This law states that the pressure applied at any point of a confined fluid is transmitted equally to all other points. What law is this?",
+    "options": {
+      "a": "Newton's law",
+      "b": "Boyle's law",
+      "c": "Pascal's law",
+      "d": "Charles' law"
+    },
+    "answer": "c",
+    "correct_answer_text": "Pascal's law"
+  },
+  {
+    "id": 259,
+    "question": "The mole fraction of alcohol in water is 0.100. Calculate its molality.",
+    "options": {
+      "a": "6.17",
+      "b": "7.61",
+      "c": "1.76",
+      "d": "3.56"
+    },
+    "answer": "a",
+    "correct_answer_text": "6.17"
+  },
+  {
+    "id": 260,
+    "question": "Which of the following electrical conductor has the highest resistance?",
+    "options": {
+      "a": "3.5 mm^2",
+      "b": "2.0 mm^2",
+      "c": "8.0 mm^2",
+      "d": "5.5 mm^2"
+    },
+    "answer": "b",
+    "correct_answer_text": "2.0 mm^2"
+  },
+  {
+    "id": 261,
+    "question": "When thermal overload relay are used for the protection of a three-phase induction motor, their primary purpose is to protect the motor in case of",
+    "options": {
+      "a": "short circuit between lines",
+      "b": "reversal of phase sequence",
+      "c": "high voltage",
+      "d": "sustained overload"
+    },
+    "answer": "d",
+    "correct_answer_text": "sustained overload"
+  },
+  {
+    "id": 262,
+    "question": "An overcurrent device with a circuit opening fusible part that is heated and severed by the passage of over current through it.",
+    "options": {
+      "a": "Overload relay",
+      "b": "Thermocouple",
+      "c": "Fuse",
+      "d": "Magnetic contactor"
+    },
+    "answer": "c",
+    "correct_answer_text": "Fuse"
+  },
+  {
+    "id": 263,
+    "question": "Rigid metal conduit shall be firmly fastened within ________ of each outlet box.",
+    "options": {
+      "a": "800 mm",
+      "b": "900 mm",
+      "c": "760 mm",
+      "d": "600 mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "900 mm"
+  },
+  {
+    "id": 264,
+    "question": "A box with a blank cover which is inserted in one or more runs of raceway to facilitate pulling of the conductors.",
+    "options": {
+      "a": "Coupling box",
+      "b": "Junction box",
+      "c": "Terminal box",
+      "d": "Pull box"
+    },
+    "answer": "d",
+    "correct_answer_text": "Pull box"
+  },
+  {
+    "id": 265,
+    "question": "Which of the following materials has the least modulus of elasticity?",
+    "options": {
+      "a": "Steel",
+      "b": "Glass",
+      "c": "Copper",
+      "d": "Aluminum"
+    },
+    "answer": "b",
+    "correct_answer_text": "Glass"
+  },
+  {
+    "id": 266,
+    "question": "A spherical tank with 10 inches inside diameter contains oxygen gas at 2,500 psi. Calculate the required wall thickness in (mm) under stress of 28,000 psi.",
+    "options": {
+      "a": "6.12 mm",
+      "b": "5.66 mm",
+      "c": "4.88 mm",
+      "d": "7.21 mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "5.66 mm"
+  },
+  {
+    "id": 267,
+    "question": "A single bolt is used to lap joint two steel bars together. Tensile force on the bar is 20,000 N. Determine the diameter of the bolt required if the allowable shearing stress on it is 70 MPa.",
+    "options": {
+      "a": "25 mm",
+      "b": "19 mm",
+      "c": "15 mm",
+      "d": "12 mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "19 mm"
+  },
+  {
+    "id": 268,
+    "question": "What physical property of a material that refers to the temperature at which ferromagnetic materials can no longer be magnetized by outside forces?",
+    "options": {
+      "a": "Melting point",
+      "b": "Thermal conductivity",
+      "c": "Thermal expansion",
+      "d": "Curie point"
+    },
+    "answer": "d",
+    "correct_answer_text": "Curie point"
+  },
+  {
+    "id": 269,
+    "question": "What element constitutes the major component of most bronzes?",
+    "options": {
+      "a": "Zinc",
+      "b": "Tin",
+      "c": "Lead",
+      "d": "Aluminum"
+    },
+    "answer": "b",
+    "correct_answer_text": "Tin"
+  },
+  {
+    "id": 270,
+    "question": "An alert notice issued by the System Operator when the Primary Reserve is zero, a generation deficiency exists, or there is critical loading or imminent overloading of transmission lines or Equipment.",
+    "options": {
+      "a": "Red Alert",
+      "b": "Orange Alert",
+      "c": "Yellow Alert",
+      "d": "Red Orange Alert"
+    },
+    "answer": "a",
+    "correct_answer_text": "Red Alert"
+  },
+  {
+    "id": 271,
+    "question": "________ refers to the system of allowing any qualified person the use of transmission, and/or distribution system, and associated facilities subject to the payment of transmission and/or distribution retail wheeling rates duly approved by the ERC.",
+    "options": {
+      "a": "Open Access",
+      "b": "Power System",
+      "c": "Qualified Access",
+      "d": "Open System"
+    },
+    "answer": "a",
+    "correct_answer_text": "Open Access"
+  },
+  {
+    "id": 272,
+    "question": "Article I of Code of Ethics.",
+    "options": {
+      "a": "Professional Life",
+      "b": "Relation with Client and Employer",
+      "c": "Relations with Fellow Engineers",
+      "d": "Social Life"
+    },
+    "answer": "a",
+    "correct_answer_text": "Professional Life"
+  },
+  {
+    "id": 273,
+    "question": "Which of the following is also known as the \"Continuing Professional Development Act of 2016\"?",
+    "options": {
+      "a": "RA 10912",
+      "b": "RA 12910",
+      "c": "RA 10219",
+      "d": "RA 12901"
+    },
+    "answer": "a",
+    "correct_answer_text": "RA 10912"
+  },
+  {
+    "id": 274,
+    "question": "A pressing force that squeezes a material together",
+    "options": {
+      "a": "force",
+      "b": "steel",
+      "c": "compression",
+      "d": "modulus"
+    },
+    "answer": "c",
+    "correct_answer_text": "compression"
+  },
+  {
+    "id": 275,
+    "question": "Ability to do work",
+    "options": {
+      "a": "Power",
+      "b": "Energy",
+      "c": "Work",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "correct_answer_text": "Energy"
+  },
+  {
+    "id": 276,
+    "question": "An adiabatic process with no work done is",
+    "options": {
+      "a": "isometric",
+      "b": "throttling",
+      "c": "isobaric",
+      "d": "polytropic"
+    },
+    "answer": "b",
+    "correct_answer_text": "throttling"
+  },
+  {
+    "id": 277,
+    "question": "Article IV Rule ________. Requirements form examination as a REE.",
+    "options": {
+      "a": "14",
+      "b": "15",
+      "c": "16",
+      "d": "17"
+    },
+    "answer": "c",
+    "correct_answer_text": "16"
+  },
+  {
+    "id": 278,
+    "question": "In molecules of the same composition, what are the variations of atomic arrangements known as?",
+    "options": {
+      "a": "polymers",
+      "b": "monomers",
+      "c": "isomers",
+      "d": "crystal systems"
+    },
+    "answer": "c",
+    "correct_answer_text": "isomers"
+  },
+  {
+    "id": 279,
+    "question": "For REE board examination, the passing general average is ________ provided there is no grade below ________ in any of the subjects.",
+    "options": {
+      "a": "75 percent, 50 percent",
+      "b": "70 percent, 50 percent",
+      "c": "75 percent, 60 percent",
+      "d": "70 percent, 60 percent"
+    },
+    "answer": "b",
+    "correct_answer_text": "70 percent, 50 percent"
+  },
+  {
+    "id": 280,
+    "question": "A train whose speed is 60 mph rounds a curve whose radius of curvature is 484 ft. What is its acceleration?",
+    "options": {
+      "a": "0",
+      "b": "4",
+      "c": "8",
+      "d": "16"
+    },
+    "answer": "d",
+    "correct_answer_text": "16"
+  },
+  {
+    "id": 281,
+    "question": "What is molarity of the solution if 150 g of KCl is dissolved in water to make 800 mL solution?",
+    "options": {
+      "a": "2.51 moles/L",
+      "b": "2.25 moles/L",
+      "c": "2.87 moles/L",
+      "d": "1.53 moles/L"
+    },
+    "answer": "a",
+    "correct_answer_text": "2.51 moles/L"
+  },
+  {
+    "id": 282,
+    "question": "The continuous current must not exceed ________ of the rating of the conductor?",
+    "options": {
+      "a": "60 percent",
+      "b": "70 percent",
+      "c": "80 percent",
+      "d": "90 percent"
+    },
+    "answer": "c",
+    "correct_answer_text": "80 percent"
+  },
+  {
+    "id": 283,
+    "question": "What is the system program used to translate directly an assembly language to machine language called",
+    "options": {
+      "a": "Compiler",
+      "b": "Debugger",
+      "c": "Interpreter",
+      "d": "Assembler"
+    },
+    "answer": "d",
+    "correct_answer_text": "Assembler"
+  },
+  {
+    "id": 284,
+    "question": "A person sits in a chair 3 m from a wall on which hangs a plane mirror. Three meters directly behind him stands a woman 1.6 m tall. What minimum height of plane mirror on the wall will enable him to see the woman's full height?",
+    "options": {
+      "a": "1.6 m",
+      "b": "0.8 m",
+      "c": "0.533 m",
+      "d": "0.266 m"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.8 m"
+  },
+  {
+    "id": 285,
+    "question": "Radiation is emitted by:",
+    "options": {
+      "a": "liquids only",
+      "b": "opaque solids only",
+      "c": "gases only",
+      "d": "all materials at a finite temperature"
+    },
+    "answer": "d",
+    "correct_answer_text": "all materials at a finite temperature"
+  },
+  {
+    "id": 286,
+    "question": "SAN, Google Docs, and Network drive are all examples of __________ Storage.",
+    "options": {
+      "a": "Primary",
+      "b": "RAM",
+      "c": "Remote",
+      "d": "Volatile"
+    },
+    "answer": "c",
+    "correct_answer_text": "Remote"
+  },
+  {
+    "id": 287,
+    "question": "The process of trading goods over the Internet is known as",
+    "options": {
+      "a": "e-selling-n-buying",
+      "b": "e-trading",
+      "c": "e-finance",
+      "d": "e-commerce"
+    },
+    "answer": "d",
+    "correct_answer_text": "e-commerce"
+  },
+  {
+    "id": 288,
+    "question": "__________ a document means the file is transferred from another computer to your computer.",
+    "options": {
+      "a": "uploading",
+      "b": "accessing",
+      "c": "downloading",
+      "d": "upgrading"
+    },
+    "answer": "c",
+    "correct_answer_text": "downloading"
+  },
+  {
+    "id": 289,
+    "question": "A projectile is fired horizontally with a speed of 40 ms⁻¹ from the top of a tall building on the surface of the Earth. Air resistance may be taken negligible and the value of g may be taken as 10 ms⁻² . What will the projectile's speed be 3 s later?",
+    "options": {
+      "a": "30 ms⁻¹",
+      "b": "40 ms⁻¹",
+      "c": "50 ms⁻¹",
+      "d": "60 ms⁻¹"
+    },
+    "answer": "c",
+    "correct_answer_text": "50 ms⁻¹"
+  },
+  {
+    "id": 290,
+    "question": "A brick is thrown vertically from an aircraft flying two kilometers above the earth. The brick will fall with a",
+    "options": {
+      "a": "constant speed",
+      "b": "constant velocity",
+      "c": "constant acceleration",
+      "d": "constant speed for some time then with constant acceleration as it nears the earth"
+    },
+    "answer": "c",
+    "correct_answer_text": "constant acceleration"
+  },
+  {
+    "id": 291,
+    "question": "How many oxygen atoms are there in 63 g of HNO₃?",
+    "options": {
+      "a": "3",
+      "b": "6.023 × 10²³",
+      "c": "2.007 × 10²³",
+      "d": "1.807 × 10²⁴"
+    },
+    "answer": "d",
+    "correct_answer_text": "1.807 × 10²⁴"
+  },
+  {
+    "id": 292,
+    "question": "If a solid circular shaft of 3.2-cm diameter is subject to a torque T of 300 N·m resulting in an angle of twist of 4.5° in a 2-m length, determine the shear modulus of the material.",
+    "options": {
+      "a": "74 GPa",
+      "b": "83 GPa",
+      "c": "89 GPa",
+      "d": "65 GPa"
+    },
+    "answer": "b",
+    "correct_answer_text": "83 GPa"
+  },
+  {
+    "id": 293,
+    "question": "A beam made of titanium has a yield point of 800 MPa. The beam has 2 cm × 6 cm rectangular cross section and bends about an axis parallel to the 2-cm face. If the maximum bending stress is 600 MPa, find the corresponding bending moment.",
+    "options": {
+      "a": "9600 N·m",
+      "b": "8400 N·m",
+      "c": "7200 N·m",
+      "d": "6000 N·m"
+    },
+    "answer": "b",
+    "correct_answer_text": "8400 N·m"
+  },
+  {
+    "id": 294,
+    "question": "The point of contraflexure is a point where",
+    "options": {
+      "a": "shear force changes sign",
+      "b": "bending moment changes sign",
+      "c": "shear force is maximum",
+      "d": "bending moment is maximum"
+    },
+    "answer": "b",
+    "correct_answer_text": "bending moment changes sign"
+  },
+  {
+    "id": 295,
+    "question": "A source emits sound with a frequency of 100 Hz. It and an observer are moving toward each other, each with a speed of 100 m/s. If the speed of sound is 340 m/s, the observer hears sound with a frequency of:",
+    "options": {
+      "a": "294 Hz",
+      "b": "545 Hz",
+      "c": "1000 Hz",
+      "d": "1830 Hz"
+    },
+    "answer": "d",
+    "correct_answer_text": "1830 Hz"
+  },
+  {
+    "id": 296,
+    "question": "A 2.0-kg block travels around a 0.50-m radius circle with an angular velocity of 12 rad/s. The magnitude of its angular momentum about the center of the circle is:",
+    "options": {
+      "a": "6.0 kg·m²/s",
+      "b": "12 kg·m²/s",
+      "c": "48 kg/m²·s",
+      "d": "72 kg·m²/s²"
+    },
+    "answer": "a",
+    "correct_answer_text": "6.0 kg·m²/s"
+  },
+  {
+    "id": 297,
+    "question": "What is impossible for gloves to protect against?",
+    "options": {
+      "a": "Hazardous substances",
+      "b": "Cold or heat",
+      "c": "Rotating parts",
+      "d": "All of these"
+    },
+    "answer": "c",
+    "correct_answer_text": "Rotating parts"
+  },
+  {
+    "id": 298,
+    "question": "Which of the following colors is used to designate \"Precaution\"?",
+    "options": {
+      "a": "White",
+      "b": "Yellow",
+      "c": "Orange",
+      "d": "Blue"
+    },
+    "answer": "d",
+    "correct_answer_text": "Blue"
+  },
+  {
+    "id": 299,
+    "question": "Reexamination of Failed Subjects.— An applicant shall be allowed to retake, any number of times, only the subject/s in which he has obtained a grade below fifty percent (50%). When he shall obtained an average grade of __________ in the subject/s repeated, he shall be considered to have passed his licensure examination.",
+    "options": {
+      "a": "fifty percent (50%)",
+      "b": "sixty percent (60%)",
+      "c": "seventy percent (70%)",
+      "d": "eighty percent (80%)"
+    },
+    "answer": "c",
+    "correct_answer_text": "seventy percent (70%)"
+  },
+  {
+    "id": 300,
+    "question": "No registration with a Board shall be required of persons in charge of or supervising the operation, tending and maintenance of an electric generating set for private use employing voltages not exceeding __________ and capacity not exceeding __________.",
+    "options": {
+      "a": "250 V, 50 KVA",
+      "b": "125 V, 50 KVA",
+      "c": "250 V, 25 KVA",
+      "d": "125 V, 25 KVA"
+    },
+    "answer": "a",
+    "correct_answer_text": "250 V, 50 KVA"
+  },
+  {
+    "id": 301,
+    "question": "What is commonly used unit for measuring the speed of data transmission?",
+    "options": {
+      "a": "bytes per second",
+      "b": "bits per second",
+      "c": "baud",
+      "d": "either bits per second or baud"
+    },
+    "answer": "d",
+    "correct_answer_text": "either bits per second or baud"
+  },
+  {
+    "id": 302,
+    "question": "All circuit conductors between the service equipment, the source of a separately derived system, or other power supply source and the final branch-circuit overcurrent device.",
+    "options": {
+      "a": "Feeder",
+      "b": "Service Lateral",
+      "c": "Service Conductor",
+      "d": "Branch Circuit"
+    },
+    "answer": "a",
+    "correct_answer_text": "Feeder"
+  },
+  {
+    "id": 303,
+    "question": "An area where conductive elements in or under concrete are bonded to metal structures, fixed nonelectrical equipment, and the electrical grounding system to prevent a voltage difference from developing within the plane.",
+    "options": {
+      "a": "Bonding Plane",
+      "b": "No-Potential Plane",
+      "c": "Equipotential Plane",
+      "d": "Potential Plane"
+    },
+    "answer": "c",
+    "correct_answer_text": "Equipotential Plane"
+  },
+  {
+    "id": 304,
+    "question": "What is the focal length of a curve mirror is it has a radius of curvature is 40 cm.",
+    "options": {
+      "a": "20 cm",
+      "b": "35 cm",
+      "c": "25 cm",
+      "d": "40 cm"
+    },
+    "answer": "a",
+    "correct_answer_text": "20 cm"
+  },
+  {
+    "id": 305,
+    "question": "What type of image will be formed if an object is placed between f and 2f in front of a convex lens?",
+    "options": {
+      "a": "Real, enlarged, upright",
+      "b": "Real, diminished, inverted",
+      "c": "Virtual, enlarged and upright",
+      "d": "Real, enlarged, inverted"
+    },
+    "answer": "d",
+    "correct_answer_text": "Real, enlarged, inverted"
+  },
+  {
+    "id": 306,
+    "question": "If 9.05 moles of ozone is formed in a storm then the mass of ozone is",
+    "options": {
+      "a": "435 g",
+      "b": "450 g",
+      "c": "434.4 g",
+      "d": "480 g"
+    },
+    "answer": "c",
+    "correct_answer_text": "434.4 g"
+  },
+  {
+    "id": 307,
+    "question": "The lowest energy orbital among the following is",
+    "options": {
+      "a": "2s",
+      "b": "2p",
+      "c": "3s",
+      "d": "3p"
+    },
+    "answer": "a",
+    "correct_answer_text": "2s"
+  },
+  {
+    "id": 308,
+    "question": "Free surface of a liquid tends to contract to the smallest possible area due to force of",
+    "options": {
+      "a": "Surface Tension",
+      "b": "Viscosity",
+      "c": "Friction",
+      "d": "Cohesion"
+    },
+    "answer": "a",
+    "correct_answer_text": "Surface Tension"
+  },
+  {
+    "id": 309,
+    "question": "What percent of the total volume of an iceberg floats above the water surface? Assume the density of ice to be 57.2 lbm/ft³, the density of water 62.4 lbm/ft³.",
+    "options": {
+      "a": "9.09%",
+      "b": "91.7%",
+      "c": "8.3%",
+      "d": "90.9%"
+    },
+    "answer": "c",
+    "correct_answer_text": "8.3%"
+  },
+  {
+    "id": 310,
+    "question": "In a simply supported beam of length L with a triangular load w varying from zero at one end to the maximum value at the other end, the maximum bending moment is",
+    "options": {
+      "a": "wL/3",
+      "b": "wL/9√3",
+      "c": "wL²/4",
+      "d": "wL²/9√3"
+    },
+    "answer": "d",
+    "correct_answer_text": "wL²/9√3"
+  },
+  {
+    "id": 311,
+    "question": "What refers to a document that shows proof of legal ownership of a financial security?",
+    "options": {
+      "a": "Bond",
+      "b": "Bank Note",
+      "c": "Coupon",
+      "d": "Check"
+    },
+    "answer": "a",
+    "correct_answer_text": "Bond"
+  },
+  {
+    "id": 312,
+    "question": "The more critical (or severe) test of the firm's liquidity can be judged by:",
+    "options": {
+      "a": "Liquidity ratio",
+      "b": "Current ratio",
+      "c": "Acid-Test (or Quick) ratio",
+      "d": "Debts ratio"
+    },
+    "answer": "c",
+    "correct_answer_text": "Acid-Test (or Quick) ratio"
+  },
+  {
+    "id": 313,
+    "question": "Find the bulk modulus of elasticity of a liquid if a pressure of 150 psi applied to 10 ft³ of the liquid causes a volume reduction of 0.02 ft³.",
+    "options": {
+      "a": "15000 psi",
+      "b": "30000 psi",
+      "c": "45000 psi",
+      "d": "75000 psi"
+    },
+    "answer": "d",
+    "correct_answer_text": "75000 psi"
+  },
+  {
+    "id": 314,
+    "question": "The actual path followed by a fluid particle as it moves during a period of time, is called as",
+    "options": {
+      "a": "path line",
+      "b": "streak line",
+      "c": "filament line",
+      "d": "stream line"
+    },
+    "answer": "a",
+    "correct_answer_text": "path line"
+  },
+  {
+    "id": 315,
+    "question": "A balloon behaves so the pressure is P = C₂V^(1/3), C₂ = 100 kPa/m. The balloon is blown up with air from a starting volume of 1 m³ to a volume of 3 m³. Find the work done by the air.",
+    "options": {
+      "a": "495.2 kJ",
+      "b": "925.4 kJ",
+      "c": "249.5 kJ",
+      "d": "524.9 kJ"
+    },
+    "answer": "d",
+    "correct_answer_text": "524.9 kJ"
+  },
+  {
+    "id": 316,
+    "question": "If the pH value is greater than 7, then the solution is",
+    "options": {
+      "a": "acidic",
+      "b": "basic",
+      "c": "neutral",
+      "d": "salty"
+    },
+    "answer": "b",
+    "correct_answer_text": "basic"
+  },
+  {
+    "id": 317,
+    "question": "Which of the following principles of physics would be most useful for a developer of optical lenses?",
+    "options": {
+      "a": "wave theory of light",
+      "b": "law of refraction",
+      "c": "diffraction formula",
+      "d": "law of reflection"
+    },
+    "answer": "b",
+    "correct_answer_text": "law of refraction"
+  },
+  {
+    "id": 318,
+    "question": "Which of the following principles of physics would be most useful for a developer of optical lenses?",
+    "options": {
+      "a": "wave theory of light",
+      "b": "law of refraction",
+      "c": "diffraction formula",
+      "d": "law of reflection"
+    },
+    "answer": "b",
+    "correct_answer_text": "law of refraction"
+  },
+  {
+    "id": 319,
+    "question": "A period in the periodic table consists of the elements that are in the same horizontal row. Elements that are in the same period of the periodic table share which of the following characteristics?",
+    "options": {
+      "a": "similar electron configurations for their outermost electrons",
+      "b": "the same atomic weight and charge",
+      "c": "similar proportions of neutrons, protons, and electrons",
+      "d": "the same number of electron shells"
+    },
+    "answer": "d",
+    "correct_answer_text": "the same number of electron shells"
+  },
+  {
+    "id": 320,
+    "question": "Due to which phenomena sound is heard at longer distances in nights than in day?",
+    "options": {
+      "a": "Reflection",
+      "b": "Refraction",
+      "c": "Interference of sound",
+      "d": "Diffraction of sound"
+    },
+    "answer": "b",
+    "correct_answer_text": "Refraction"
+  },
+  {
+    "id": 321,
+    "question": "For hallways __________ or more in length at least one receptacle outlet shall be installed.",
+    "options": {
+      "a": "2000 mm",
+      "b": "3000 mm",
+      "c": "4000 mm",
+      "d": "5000 mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "3000 mm"
+  },
+  {
+    "id": 322,
+    "question": "In sockets, extension cord is protected by means of the __________ knot.",
+    "options": {
+      "a": "Underwriters'",
+      "b": "Clove hitch",
+      "c": "Sheepshank",
+      "d": "Western union"
+    },
+    "answer": "a",
+    "correct_answer_text": "Underwriters'"
+  },
+  {
+    "id": 323,
+    "question": "The process of taking the mouse at desired place is known as",
+    "options": {
+      "a": "Click",
+      "b": "Swiping",
+      "c": "Pointing",
+      "d": "Dragging"
+    },
+    "answer": "c",
+    "correct_answer_text": "Pointing"
+  },
+  {
+    "id": 324,
+    "question": "The base 6 number 1125 converted to base 10 is",
+    "options": {
+      "a": "253",
+      "b": "269",
+      "c": "538",
+      "d": "1159"
+    },
+    "answer": "b",
+    "correct_answer_text": "269"
+  },
+  {
+    "id": 325,
+    "question": "The cold working of metal is accomplished at",
+    "options": {
+      "a": "below re-crystallization temperature",
+      "b": "above re-crystallization temperature",
+      "c": "re-crystallization temperature",
+      "d": "any of these"
+    },
+    "answer": "a",
+    "correct_answer_text": "below re-crystallization temperature"
+  },
+  {
+    "id": 326,
+    "question": "A 2.50 g sample of an unknown, non-volatile, non-electrolyte industrial polymer is dissolved in 50.0 g of benzene (Kf = 5.12 °C/m). The freezing point of the resulting solution is observed to be 0.450 °C lower than that of pure benzene. What is the approximate molar mass of the polymer?",
+    "options": {
+      "a": "256 g/mol",
+      "b": "450 g/mol",
+      "c": "569 g/mol",
+      "d": "1140 g/mol"
+    },
+    "answer": "c",
+    "correct_answer_text": "569 g/mol"
+  },
+  {
+    "id": 327,
+    "question": "__________ refers to the government corporation created under Republic Act No. 6935.",
+    "options": {
+      "a": "National Power Corporation",
+      "b": "National Transmission Corporation",
+      "c": "National Electrification Administration",
+      "d": "Department of Energy"
+    },
+    "answer": "c",
+    "correct_answer_text": "National Electrification Administration"
+  },
+  {
+    "id": 328,
+    "question": "A notice issued by the System Operator when a tropical disturbance is expected to make a landfall within 24 hours.",
+    "options": {
+      "a": "Yellow Alert",
+      "b": "Blue Alert",
+      "c": "Orange Alert",
+      "d": "Red Alert"
+    },
+    "answer": "b",
+    "correct_answer_text": "Blue Alert"
+  },
+  {
+    "id": 329,
+    "question": "An aqueous solution of sulfuric acid (H₂SO₄) used in a battery plant has a determined molality of 3.50 m. If the density of this solution is 1.20 g/mL at room temperature, what is the molarity of the solution?",
+    "options": {
+      "a": "2.60 M",
+      "b": "3.13 M",
+      "c": "3.50 M",
+      "d": "4.20 M"
+    },
+    "answer": "b",
+    "correct_answer_text": "3.13 M"
+  },
+  {
+    "id": 330,
+    "question": "An engineer is evaluating the carbon footprint of complete combustion for liquid octane (C₈H₁₈) . If 500.0 g of octane is burned completely in excess oxygen, what mass of carbon dioxide (CO₂) is theoretically produced?",
+    "options": {
+      "a": "770 g",
+      "b": "1541 g",
+      "c": "2312 g",
+      "d": "3082 g"
+    },
+    "answer": "b",
+    "correct_answer_text": "1541 g"
+  },
+  {
+    "id": 331,
+    "question": "Current flow from hand to hand is called:",
+    "options": {
+      "a": "Step potential",
+      "b": "Touch potential",
+      "c": "Amperage",
+      "d": "None of the above."
+    },
+    "answer": "b",
+    "correct_answer_text": "Touch potential"
+  },
+  {
+    "id": 332,
+    "question": "The CPD Council Secretariat shall be headed by an Executive Director to be appointed by __________.",
+    "options": {
+      "a": "the CPD Chairperson",
+      "b": "the President",
+      "c": "the PRC",
+      "d": "the CPD Council"
+    },
+    "answer": "b",
+    "correct_answer_text": "the President"
+  },
+  {
+    "id": 333,
+    "question": "During a analysis, an electron in a hydrogen atom undergoes a relaxation transition from the n = 5 excited state to the n = 2 state. What is the wavelength of the emitted photon in nanometers?",
+    "options": {
+      "a": "434 nm",
+      "b": "486 nm",
+      "c": "656 nm",
+      "d": "1282 nm"
+    },
+    "answer": "a",
+    "correct_answer_text": "434 nm"
+  },
+  {
+    "id": 334,
+    "question": "The layer that separates crust from core is the?",
+    "options": {
+      "a": "magma layer",
+      "b": "lithosphere",
+      "c": "mantle",
+      "d": "continent"
+    },
+    "answer": "c",
+    "correct_answer_text": "mantle"
+  },
+  {
+    "id": 335,
+    "question": "A bank charges 6% simple interest on a P 25,000 loan. How much will be repaid if the loan is paid back in one lump sum after five years?",
+    "options": {
+      "a": "P 30,875",
+      "b": "P 32,750",
+      "c": "P 32,500",
+      "d": "P 31,250"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 32,500"
+  },
+  {
+    "id": 336,
+    "question": "What is the present worth of two P 100 payments at the end of the third and fourth years if the annual interest rate is 8%?",
+    "options": {
+      "a": "P 120",
+      "b": "P 153",
+      "c": "P 122",
+      "d": "P 160"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 153"
+  },
+  {
+    "id": 337,
+    "question": "RA 9136 is",
+    "options": {
+      "a": "Electric Power Installation Reform Act",
+      "b": "Energy Power Isolation Reform Act",
+      "c": "Electric Power Industry Reform Act",
+      "d": "Energy Power Institution Reliability Act"
+    },
+    "answer": "c",
+    "correct_answer_text": "Electric Power Industry Reform Act"
+  },
+  {
+    "id": 338,
+    "question": "Recognizable as suitable for the specific purpose, function, use, environment application, where described in a particular Code requirement.",
+    "options": {
+      "a": "listed",
+      "b": "labeled",
+      "c": "approved",
+      "d": "identified"
+    },
+    "answer": "d",
+    "correct_answer_text": "identified"
+  },
+  {
+    "id": 339,
+    "question": "Commercially used pressure measuring device today is",
+    "options": {
+      "a": "Bourdon tube gauge",
+      "b": "Manometer",
+      "c": "Kelvin gauge",
+      "d": "Barometer"
+    },
+    "answer": "a",
+    "correct_answer_text": "Bourdon tube gauge"
+  },
+  {
+    "id": 340,
+    "question": "An 8 ft long pendulum subtends an angle of 34°. What is the height difference from its stationary position?",
+    "options": {
+      "a": "1.37",
+      "b": "1.73",
+      "c": "1.26",
+      "d": "1.62"
+    },
+    "answer": "a",
+    "correct_answer_text": "1.37"
+  },
+  {
+    "id": 341,
+    "question": "Which of the following expressions is incorrect?",
+    "options": {
+      "a": "the future worth of a present amount, (F/P, i, n) = 1/(P/F, i, n)",
+      "b": "the future worth of an annuity, (F/A, i, n) = 1/(A/F, i, n)",
+      "c": "(A/F, i, n) × (P/A, i, n) = (P/F, i, n)",
+      "d": "(A/F, i, n) − i = (A/P, i, n)"
+    },
+    "answer": "d",
+    "correct_answer_text": "(A/F, i, n) − i = (A/P, i, n)"
+  },
+  {
+    "id": 342,
+    "question": "A Carnot engine operates between 800 deg R and 1000 deg R. What is the thermal efficiency?",
+    "options": {
+      "a": "20%",
+      "b": "30%",
+      "c": "40%",
+      "d": "50%"
+    },
+    "answer": "a",
+    "correct_answer_text": "20%"
+  },
+  {
+    "id": 343,
+    "question": "Which permits American engineers to practice their profession in the Philippines?",
+    "options": {
+      "a": "Foreign Reciprocity",
+      "b": "Certificate of Specialty",
+      "c": "Professional license",
+      "d": "Certificate of Registration"
+    },
+    "answer": "a",
+    "correct_answer_text": "Foreign Reciprocity"
+  },
+  {
+    "id": 344,
+    "question": "What is the octal equivalent of the hexadecimal number EE?",
+    "options": {
+      "a": "356",
+      "b": "365",
+      "c": "653",
+      "d": "635"
+    },
+    "answer": "a",
+    "correct_answer_text": "356"
+  },
+  {
+    "id": 345,
+    "question": "The disconnecting means for motor circuits shall have an ampere rating of at least 115% of the full-load current rating of the motor.",
+    "options": {
+      "a": "Manufacturing rule",
+      "b": "Construction rule",
+      "c": "Wiring design rule",
+      "d": "Installation rule"
+    },
+    "answer": "c",
+    "correct_answer_text": "Wiring design rule"
+  },
+  {
+    "id": 346,
+    "question": "Which of the following metals has the highest specific heat capacity at 100 deg C?",
+    "options": {
+      "a": "aluminum",
+      "b": "silver",
+      "c": "copper",
+      "d": "iron"
+    },
+    "answer": "a",
+    "correct_answer_text": "aluminum"
+  },
+  {
+    "id": 347,
+    "question": "A force causing a rise in liquid in tubes of small diameter.",
+    "options": {
+      "a": "Cohesion",
+      "b": "Surface tension",
+      "c": "Capillarity",
+      "d": "Adhesion"
+    },
+    "answer": "c",
+    "correct_answer_text": "Capillarity"
+  },
+  {
+    "id": 348,
+    "question": "Under very slow deformation and at high temperature, it is possible to have some plastic flow in a crystal at a shear stress lower than the critical shear stress. What is the phenomenon called?",
+    "options": {
+      "a": "slip",
+      "b": "twinning",
+      "c": "creep",
+      "d": "bending"
+    },
+    "answer": "c",
+    "correct_answer_text": "creep"
+  },
+  {
+    "id": 349,
+    "question": "The ability to convert assets to cash quickly is known as __________.",
+    "options": {
+      "a": "Solvency",
+      "b": "Liquidity",
+      "c": "Leverage",
+      "d": "Insolvency"
+    },
+    "answer": "b",
+    "correct_answer_text": "Liquidity"
+  },
+  {
+    "id": 350,
+    "question": "Which of the following does not threaten the operation of a computer",
+    "options": {
+      "a": "Trojan horse",
+      "b": "Worm",
+      "c": "Firewall",
+      "d": "Hacking"
+    },
+    "answer": "c",
+    "correct_answer_text": "Firewall"
+  },
+  {
+    "id": 351,
+    "question": "A jeweler examines a diamond with a loupe (a simple magnifier) with a focal length of 8.0 cm. If the gem is positioned so that its image is at the normal near point, 25 cm. How far from the lens must the diamond be held?",
+    "options": {
+      "a": "4.1 cm",
+      "b": "11.8 cm",
+      "c": "6.1 cm",
+      "d": "9.8 cm"
+    },
+    "answer": "c",
+    "correct_answer_text": "6.1 cm"
+  },
+  {
+    "id": 352,
+    "question": "The executive officer of the Board of Electrical Engineering is __________.",
+    "options": {
+      "a": "PRC Commissioner",
+      "b": "Chairman of the Board of EE",
+      "c": "Civil Service Commission",
+      "d": "IIEE President"
+    },
+    "answer": "a",
+    "correct_answer_text": "PRC Commissioner"
+  },
+  {
+    "id": 353,
+    "question": "What is a set of instructions that resides on a storage device, such as hard drive, and can be loaded into memory and executive called?",
+    "options": {
+      "a": "Stored program",
+      "b": "Device program",
+      "c": "Operating program",
+      "d": "Memory-resident program"
+    },
+    "answer": "a",
+    "correct_answer_text": "Stored program"
+  },
+  {
+    "id": 354,
+    "question": "A cooling jacket fluid is prepared by dissolving sodium chloride (NaCl, molar mass = 58.44 g/mol) in water. If the fluid is certified to have a molality of 2.20 m, what is the mole fraction of NaCl in the solution?",
+    "options": {
+      "a": "0.019",
+      "b": "0.038",
+      "c": "0.076",
+      "d": "0.114"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.038"
+  },
+  {
+    "id": 355,
+    "question": "A Ferrari sports car can accelerate from rest to 96 km/h (about 60 mi/h) in 2.2 s. What is its average acceleration?",
+    "options": {
+      "a": "6.1 m/s²",
+      "b": "12.1 m/s²",
+      "c": "1.6 m/s²",
+      "d": "11.2 m/s²"
+    },
+    "answer": "b",
+    "correct_answer_text": "12.1 m/s²"
+  },
+  {
+    "id": 356,
+    "question": "Cavitation is the result of",
+    "options": {
+      "a": "static pressure in a fluid becoming less than fluid vapor pressure",
+      "b": "exposure of concrete to salt water",
+      "c": "heat treatment of a low carbon steel",
+      "d": "improper welding technique"
+    },
+    "answer": "a",
+    "correct_answer_text": "static pressure in a fluid becoming less than fluid vapor pressure"
+  },
+  {
+    "id": 357,
+    "question": "The term \"bronze\" is used to designate any alloy containing:",
+    "options": {
+      "a": "copper and zinc",
+      "b": "copper and aluminum",
+      "c": "copper and nickel",
+      "d": "copper and tin"
+    },
+    "answer": "d",
+    "correct_answer_text": "copper and tin"
+  },
+  {
+    "id": 358,
+    "question": "Copper has a face-centered cubic (FCC) unit cell and a measured density of 8.96 g/cm³. Given its atomic mass is 63.55 g/mol, calculate the atomic radius of a single copper atom in picometers (pm). (Nₐ = 6.022 × 10²³ mol⁻¹)",
+    "options": {
+      "a": "128 pm",
+      "b": "156 pm",
+      "c": "255 pm",
+      "d": "361 pm"
+    },
+    "answer": "a",
+    "correct_answer_text": "128 pm"
+  },
+  {
+    "id": 359,
+    "question": "What acid is added to carbonated drinks to produce a tart test?",
+    "options": {
+      "a": "Citric acid",
+      "b": "Phosphoric acid",
+      "c": "Sulfuric acid",
+      "d": "Nitric acid"
+    },
+    "answer": "b",
+    "correct_answer_text": "Phosphoric acid"
+  },
+  {
+    "id": 360,
+    "question": "Isentropic compression of 1 ft³ of air, cp/cv = 1.40, at 20 psia to a pressure of 100 psia gives a final volume of:",
+    "options": {
+      "a": "0.16 ft³",
+      "b": "0.20 ft³",
+      "c": "0.32 ft³",
+      "d": "0.40 ft³"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.32 ft³"
+  },
+  {
+    "id": 361,
+    "question": "A concave spherical mirror has a radius of curvature of 40.0 cm. An object is placed 15.0 cm in front of the mirror. Determine the image distance and the lateral magnification of the object.",
+    "options": {
+      "a": "dᵢ = 60.0 cm, M = −4.0",
+      "b": "dᵢ = −60.0 cm, M = +4.0",
+      "c": "dᵢ = 12.0 cm, M = +1.25",
+      "d": "dᵢ = −12.0 cm, M = +0.80"
+    },
+    "answer": "b",
+    "correct_answer_text": "dᵢ = −60.0 cm, M = +4.0"
+  },
+  {
+    "id": 362,
+    "question": "What is the only gas in Group VIA in the periodic table?",
+    "options": {
+      "a": "Argon",
+      "b": "Krypton",
+      "c": "Oxygen",
+      "d": "Helium"
+    },
+    "answer": "c",
+    "correct_answer_text": "Oxygen"
+  },
+  {
+    "id": 363,
+    "question": "Sec. 34 of Art. IV: Sundry Provisions Relative to Practice of Electrical Engineering states that __________.",
+    "options": {
+      "a": "Personnel required",
+      "b": "Preparation of plans, supervision of installation application of PEC code",
+      "c": "Practice not allowed for firms and corporations",
+      "d": "Prohibitions in the Practice of Electrical Engineering"
+    },
+    "answer": "b",
+    "correct_answer_text": "Preparation of plans, supervision of installation application of PEC code"
+  },
+  {
+    "id": 364,
+    "question": "Sec. 34 of Art. IV: Sundry Provisions Relative to Practice of Electrical Engineering states that __________.",
+    "options": {
+      "a": "Personnel required",
+      "b": "Preparation of plans, supervision of installation application of PEC code",
+      "c": "Practice not allowed for firms and corporations",
+      "d": "Prohibitions in the Practice of Electrical Engineering"
+    },
+    "answer": "b",
+    "correct_answer_text": "Preparation of plans, supervision of installation application of PEC code"
+  },
+  {
+    "id": 365,
+    "question": "A force of 120 N will stretch a spring 2 cm. If the spring were cut in half, what would then be the spring constant?",
+    "options": {
+      "a": "6,000 N/m",
+      "b": "3,000 N/m",
+      "c": "12,000 N/m",
+      "d": "4,000 N/m"
+    },
+    "answer": "c",
+    "correct_answer_text": "12,000 N/m"
+  },
+  {
+    "id": 366,
+    "question": "The moment of inertia of any plane figure can be expressed in units of length to the",
+    "options": {
+      "a": "First power",
+      "b": "Second power",
+      "c": "Third power",
+      "d": "Fourth power"
+    },
+    "answer": "d",
+    "correct_answer_text": "Fourth power"
+  },
+  {
+    "id": 367,
+    "question": "What law asserts that energy has quality as well as quantity?",
+    "options": {
+      "a": "First law of Thermodynamics",
+      "b": "Second law of Thermodynamics",
+      "c": "Third law of Thermodynamics",
+      "d": "Zeroth law of Thermodynamics"
+    },
+    "answer": "b",
+    "correct_answer_text": "Second law of Thermodynamics"
+  },
+  {
+    "id": 368,
+    "question": "A converging lens with a focal length of 25.0 cm and a diverging lens with a focal length of −15.0 cm are placed 10.0 cm apart along a common principal axis. An object is placed 50.0 cm in front of the converging lens. Where is the final image located relative to the diverging lens?",
+    "options": {
+      "a": "24.0 cm in front of the diverging lens",
+      "b": "24.0 cm behind the diverging lens",
+      "c": "18.0 cm in front of the diverging lens",
+      "d": "18.0 cm behind the diverging lens"
+    },
+    "answer": "a",
+    "correct_answer_text": "24.0 cm in front of the diverging lens"
+  },
+  {
+    "id": 369,
+    "question": "Two hundred millilitres of oxygen gas (O₂) are collected over water at 23 deg C and a pressure of 1 atmosphere. What volume would the oxygen occupy dry at 273 K and 1 atmosphere?",
+    "options": {
+      "a": "179.3 mL",
+      "b": "184.4 mL",
+      "c": "190.9 mL",
+      "d": "194.5 mL"
+    },
+    "answer": "a",
+    "correct_answer_text": "179.3 mL"
+  },
+  {
+    "id": 370,
+    "question": "1 bar is equivalent to how many pascals?",
+    "options": {
+      "a": "10³",
+      "b": "10⁴",
+      "c": "10⁵",
+      "d": "10⁶"
+    },
+    "answer": "c",
+    "correct_answer_text": "10⁵"
+  },
+  {
+    "id": 371,
+    "question": "What law provides an absolute reference point for the determination of entropy?",
+    "options": {
+      "a": "Zeroth law of thermodynamics",
+      "b": "First law of thermodynamics",
+      "c": "Second law of thermodynamics",
+      "d": "Third law of thermodynamics"
+    },
+    "answer": "d",
+    "correct_answer_text": "Third law of thermodynamics"
+  },
+  {
+    "id": 372,
+    "question": "On a level roadway, the coefficient of friction between the tires of a car and the asphalt is 0.80. What is the maximum speed at which a car can round a turn of radius 25 m if the car is not to slip?",
+    "options": {
+      "a": "14 mph",
+      "b": "31 mph",
+      "c": "43 mph",
+      "d": "18 mph"
+    },
+    "answer": "b",
+    "correct_answer_text": "31 mph"
+  },
+  {
+    "id": 373,
+    "question": "What height of mercury column is equivalent to a pressure of 100 psig? Density of mercury is 848 lb/ft³.",
+    "options": {
+      "a": "14 ft",
+      "b": "17 ft",
+      "c": "12 ft",
+      "d": "11 ft"
+    },
+    "answer": "b",
+    "correct_answer_text": "17 ft"
+  },
+  {
+    "id": 374,
+    "question": "An asymmetric double-convex optical lens is manufactured from glass with a refractive index of 1.60. The radius of curvature of its first surface (R₁) is equal to R, and the radius of curvature of its second surface (R₂) is −R/2. If the lens must have a focal length of 25.0 cm in air, what is the required value of R?",
+    "options": {
+      "a": "15.0 cm",
+      "b": "25.0 cm",
+      "c": "45.0 cm",
+      "d": "60.0 cm"
+    },
+    "answer": "c",
+    "correct_answer_text": "45.0 cm"
+  },
+  {
+    "id": 375,
+    "question": "MC cable insulation shall have a maximum operating temperature of not less than __________.",
+    "options": {
+      "a": "75 deg C",
+      "b": "80 deg C",
+      "c": "90 deg C",
+      "d": "60 deg C"
+    },
+    "answer": "c",
+    "correct_answer_text": "90 deg C"
+  },
+  {
+    "id": 376,
+    "question": "Steels can be strengthened by all of the following practices, EXCEPT:",
+    "options": {
+      "a": "annealing",
+      "b": "quenching and tempering",
+      "c": "work hardening",
+      "d": "grain refinement"
+    },
+    "answer": "a",
+    "correct_answer_text": "annealing"
+  },
+  {
+    "id": 377,
+    "question": "Which of the following metals has the highest melting point?",
+    "options": {
+      "a": "copper",
+      "b": "gold",
+      "c": "silver",
+      "d": "tungsten"
+    },
+    "answer": "d",
+    "correct_answer_text": "tungsten"
+  },
+  {
+    "id": 378,
+    "question": "The term \"enthalpy\" comes from the Greek \"enthalpen\" which means __________.",
+    "options": {
+      "a": "Warm",
+      "b": "Hot",
+      "c": "Heat",
+      "d": "Cold"
+    },
+    "answer": "c",
+    "correct_answer_text": "Heat"
+  },
+  {
+    "id": 379,
+    "question": "What is the strong bond between hydrogen atoms known as?",
+    "options": {
+      "a": "the ionic bond",
+      "b": "the metallic bond",
+      "c": "ionic and metallic bonds",
+      "d": "the covalent bond"
+    },
+    "answer": "d",
+    "correct_answer_text": "the covalent bond"
+  },
+  {
+    "id": 380,
+    "question": "The inner strand of ACSR is made of",
+    "options": {
+      "a": "brass",
+      "b": "steel",
+      "c": "copper",
+      "d": "lead"
+    },
+    "answer": "b",
+    "correct_answer_text": "steel"
+  },
+  {
+    "id": 381,
+    "question": "A heavy structural wire has a total mass of 6.00 g and a length of 1.50 m. It is stretched with a tension of 400.0 N. What is the frequency of the third harmonic (second overtone) of this vibrating string?",
+    "options": {
+      "a": "105.4 Hz",
+      "b": "210.8 Hz",
+      "c": "316.2 Hz",
+      "d": "421.6 Hz"
+    },
+    "answer": "c",
+    "correct_answer_text": "316.2 Hz"
+  },
+  {
+    "id": 382,
+    "question": "What is the opposite of perfect competition?",
+    "options": {
+      "a": "Monopsony",
+      "b": "Oligopoly",
+      "c": "Oligopsony",
+      "d": "Monopoly"
+    },
+    "answer": "d",
+    "correct_answer_text": "Monopoly"
+  },
+  {
+    "id": 383,
+    "question": "A windowpane is 1.2 m high and 0.6 m wide. The glass is 4 mm thick and has thermal conductivity k = 0.78 W/m- deg C. The temperature of the inner face of the glass is 12 deg C and that of the outer surface is -12 deg C. What is the rate of heat flow through the window?",
+    "options": {
+      "a": "4.3 kW",
+      "b": "3.4 kW",
+      "c": "5.4 kW",
+      "d": "4.5 kW"
+    },
+    "answer": "b",
+    "correct_answer_text": "3.4 kW"
+  },
+  {
+    "id": 384,
+    "question": "The ability to meet debts as they become due is known as __________.",
+    "options": {
+      "a": "Solvency",
+      "b": "Leverage",
+      "c": "Insolvency",
+      "d": "Liquidity"
+    },
+    "answer": "a",
+    "correct_answer_text": "Solvency"
+  },
+  {
+    "id": 385,
+    "question": "The ability to meet debts as they become due is known as __________.",
+    "options": {
+      "a": "Solvency",
+      "b": "Leverage",
+      "c": "Insolvency",
+      "d": "Liquidity"
+    },
+    "answer": "a",
+    "correct_answer_text": "Solvency"
+  },
+  {
+    "id": 386,
+    "question": "Iron is said to be abundant in nature. About how many percent of the earth's crust is iron?",
+    "options": {
+      "a": "10 percent",
+      "b": "5 percent",
+      "c": "20 percent",
+      "d": "8 percent"
+    },
+    "answer": "b",
+    "correct_answer_text": "5 percent"
+  },
+  {
+    "id": 387,
+    "question": "What is the tensile load if a 1/2\" x 4\" x 12' steel rod experiences an 80 deg F temperature decrease from the no stress temperature?",
+    "options": {
+      "a": "9,850 lb",
+      "b": "15,600 lb",
+      "c": "31,200 lb",
+      "d": "62,400 lb"
+    },
+    "answer": "c",
+    "correct_answer_text": "31,200 lb"
+  },
+  {
+    "id": 388,
+    "question": "A copper column of annular cross section has an outer diameter of 15 feet and is subjected to a force of 45 kips. The allowable compressive stress is 300 lbf/ft². What should be the wall thickness?",
+    "options": {
+      "a": "3.52 ft",
+      "b": "4.59 ft",
+      "c": "5.03 ft",
+      "d": "5.83 ft"
+    },
+    "answer": "b",
+    "correct_answer_text": "4.59 ft"
+  },
+  {
+    "id": 389,
+    "question": "The Implementing Rules and Regulations (IRR) of RA 7920 was approved under Board Resolution No. __________.",
+    "options": {
+      "a": "16",
+      "b": "18",
+      "c": "22",
+      "d": "24"
+    },
+    "answer": "b",
+    "correct_answer_text": "18"
+  },
+  {
+    "id": 390,
+    "question": "A resonating tube open at one end and closed at the other has a fundamental frequency of 150 Hz when filled with air. If the tube is completely purged and filled with helium gas (speed of sound = 1005 m/s), what is the new frequency of its first overtone?",
+    "options": {
+      "a": "439 Hz",
+      "b": "879 Hz",
+      "c": "1319 Hz",
+      "d": "1758 Hz"
+    },
+    "answer": "c",
+    "correct_answer_text": "1319 Hz"
+  },
+  {
+    "id": 391,
+    "question": "If Php 100,000 is invested at 12 percent interest, compounded monthly, the first year interest, is nearest to",
+    "options": {
+      "a": "Php 12,700",
+      "b": "Php 12,850",
+      "c": "Php 12,000",
+      "d": "Php 12,350"
+    },
+    "answer": "a",
+    "correct_answer_text": "Php 12,700"
+  },
+  {
+    "id": 392,
+    "question": "When gases expand and mix with other gases to fill available space, it is called",
+    "options": {
+      "a": "vaporization",
+      "b": "evaporation",
+      "c": "solidification",
+      "d": "diffusion"
+    },
+    "answer": "d",
+    "correct_answer_text": "diffusion"
+  },
+  {
+    "id": 393,
+    "question": "In EPIRA, what does OARC stands for?",
+    "options": {
+      "a": "Open Access and Retail Competitors",
+      "b": "Open Access and Retail Competition",
+      "c": "Open Access and Retailing Competitors",
+      "d": "Open Access and Retailing Competition"
+    },
+    "answer": "b",
+    "correct_answer_text": "Open Access and Retail Competition"
+  },
+  {
+    "id": 394,
+    "question": "What is the atomic packing factor for a simple cubic crystal?",
+    "options": {
+      "a": "0.48",
+      "b": "0.52",
+      "c": "1.00",
+      "d": "1.05"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.52"
+  },
+  {
+    "id": 395,
+    "question": "Two open organ pipes are sounded simultaneously. The first pipe has a length of 2.000 m and the second pipe has a length of 2.050 m. Assuming the speed of sound in the surrounding air is 340.0 m/s, what is the resulting beat frequency between their fundamental tones?",
+    "options": {
+      "a": "1.2 Hz",
+      "b": "2.1 Hz",
+      "c": "3.5 Hz",
+      "d": "4.8 Hz"
+    },
+    "answer": "b",
+    "correct_answer_text": "2.1 Hz"
+  },
+  {
+    "id": 396,
+    "question": "It is required to transmit 70 hp from a turbine by a solid circular shaft turning at 200 r/min. If the allowable shearing stress is 7000 lb/in², determine the required shaft diameter.",
+    "options": {
+      "a": "3.13 in",
+      "b": "2.52 in",
+      "c": "1.12 in",
+      "d": "2.12 in"
+    },
+    "answer": "b",
+    "correct_answer_text": "2.52 in"
+  },
+  {
+    "id": 397,
+    "question": "Determine the moment of inertia of a circle of diameter 5 in about a diameter.",
+    "options": {
+      "a": "30.7 in⁴",
+      "b": "61.4 in⁴",
+      "c": "15.35 in⁴",
+      "d": "46.02 in⁴"
+    },
+    "answer": "a",
+    "correct_answer_text": "30.7 in⁴"
+  },
+  {
+    "id": 398,
+    "question": "The temperature of an object is raised by 90 deg C. This is equivalent to an increase in its Fahrenheit scale of",
+    "options": {
+      "a": "194",
+      "b": "130",
+      "c": "162",
+      "d": "50"
+    },
+    "answer": "c",
+    "correct_answer_text": "162"
+  },
+  {
+    "id": 399,
+    "question": "Article IV, Rule __________. Requirements for examination as a REE.",
+    "options": {
+      "a": "14",
+      "b": "15",
+      "c": "16",
+      "d": "17"
+    },
+    "answer": "c",
+    "correct_answer_text": "16"
+  },
+  {
+    "id": 400,
+    "question": "Divide (15) base 16 by (011) base 2. Express the answer in base 10.",
+    "options": {
+      "a": "9",
+      "b": "5",
+      "c": "7",
+      "d": "3"
+    },
+    "answer": "c",
+    "correct_answer_text": "7"
+  },
+  {
+    "id": 401,
+    "question": "In refrigerator, the quantity 288,000 BTU/day is called,",
+    "options": {
+      "a": "Ton",
+      "b": "Vapor heat",
+      "c": "Throughput",
+      "d": "Freon number"
+    },
+    "answer": "a",
+    "correct_answer_text": "Ton"
+  },
+  {
+    "id": 402,
+    "question": "A jet plane flies horizontally at an altitude of 5000 m at a constant supersonic speed. An observer on the ground hears the sonic boom exactly 12.0 seconds after the plane passes directly overhead. If the local speed of sound is 320 m/s, calculate the Mach number of the jet.",
+    "options": {
+      "a": "1.20",
+      "b": "1.35",
+      "c": "1.56",
+      "d": "1.88"
+    },
+    "answer": "c",
+    "correct_answer_text": "1.56"
+  },
+  {
+    "id": 403,
+    "question": "Steam at 1000 lbf/ft² pressure and 300 deg R has a specific volume of 6.5 ft³/lbm and a specific enthalpy of 9800 lbf-ft/lbm. Find the internal energy per pound mass of steam.",
+    "options": {
+      "a": "2500 lbf-ft/lbm",
+      "b": "3300 lbf-ft/lbm",
+      "c": "5400 lbf-ft/lbm",
+      "d": "6900 lbf-ft/lbm"
+    },
+    "answer": "b",
+    "correct_answer_text": "3300 lbf-ft/lbm"
+  },
+  {
+    "id": 404,
+    "question": "A proton is accelerated in a cyclotron to a speed of 0.80c. What is the total relativistic energy of the proton?",
+    "options": {
+      "a": "563 MeV",
+      "b": "938 MeV",
+      "c": "1172 MeV",
+      "d": "1563 MeV"
+    },
+    "answer": "d",
+    "correct_answer_text": "1563 MeV"
+  },
+  {
+    "id": 405,
+    "question": "The temperature of 105 g of liquid water at 0°C is raised by 1°C. What is the estimated calories consumed?",
+    "options": {
+      "a": "100 cal",
+      "b": "95 cal",
+      "c": "105 cal",
+      "d": "110 cal"
+    },
+    "answer": "c",
+    "correct_answer_text": "105 cal"
+  },
+  {
+    "id": 406,
+    "question": "Astronaut named Alice travels from Earth to a Proxima Centauri star system located 10.0 light-years away (as measured in the Earth's rest frame) at a constant velocity of 0.866c. Immediately upon arrival, she reverses direction and returns to Earth at the same speed. Her twin brother, Bob, remains on Earth. By the time Alice reunites with Bob, what is the difference in their biological ages?",
+    "options": {
+      "a": "4.6 years",
+      "b": "11.5 years",
+      "c": "18.4 years",
+      "d": "23.1 years"
+    },
+    "answer": "b",
+    "correct_answer_text": "11.5 years"
+  },
+  {
+    "id": 407,
+    "question": "Which of the following are NOT examples of nonvolatile memory in the computer system?",
+    "options": {
+      "a": "Flash drives",
+      "b": "RAMs",
+      "c": "Optical disk",
+      "d": "Hard drives"
+    },
+    "answer": "b",
+    "correct_answer_text": "RAMs"
+  },
+  {
+    "id": 408,
+    "question": "Which of the following classes of mass memory devices used a laser beam to write and read onto a specified coated disk?",
+    "options": {
+      "a": "Non-volatile memory",
+      "b": "RAM",
+      "c": "ROM",
+      "d": "Optical disk memory"
+    },
+    "answer": "d",
+    "correct_answer_text": "Optical disk memory"
+  },
+  {
+    "id": 409,
+    "question": "Find the principal amount if the amount of interest at the end of two years is P 4,000 for a simple interest of 6.25% per annum.",
+    "options": {
+      "a": "P 36,000",
+      "b": "P 32,000",
+      "c": "P 27,000",
+      "d": "P 23,000"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 32,000"
+  },
+  {
+    "id": 410,
+    "question": "The three moment equation may be used to analyze ______.",
+    "options": {
+      "a": "an axially end-loaded beam",
+      "b": "a beam loaded at the third points",
+      "c": "a continuous beam",
+      "d": "a step tapered column"
+    },
+    "answer": "c",
+    "correct_answer_text": "a continuous beam"
+  },
+  {
+    "id": 411,
+    "question": "A liquid pesticide has a density of 1.67 g/mL. Find the mass of the liquid in kg for a full 20-L container.",
+    "options": {
+      "a": "35.7",
+      "b": "34.5",
+      "c": "32.6",
+      "d": "33.4"
+    },
+    "answer": "d",
+    "correct_answer_text": "33.4"
+  },
+  {
+    "id": 412,
+    "question": "An electrical equipment is purchased at a cost of P 10,000. It has a 10 year life and a salvage value of P 500. What is the book value of the equipment after 3 years using straight line depreciation?",
+    "options": {
+      "a": "P 7,100",
+      "b": "P 7,200",
+      "c": "P 7,150",
+      "d": "P 7,250"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 7,150"
+  },
+  {
+    "id": 413,
+    "question": "The number 100101 base 2 is equivalent to octal ________.",
+    "options": {
+      "a": "25",
+      "b": "45",
+      "c": "37",
+      "d": "54"
+    },
+    "answer": "b",
+    "correct_answer_text": "45"
+  },
+  {
+    "id": 414,
+    "question": "Mr. Juan de la Cruz drives 120 km at 100 km/hr and 120 km at 90 km/hr. What is the average speed of Mr. De la Cruz on this trip in km/hr?",
+    "options": {
+      "a": "93.5",
+      "b": "94.7",
+      "c": "85.6",
+      "d": "82.3"
+    },
+    "answer": "b",
+    "correct_answer_text": "94.7"
+  },
+  {
+    "id": 415,
+    "question": "An airplane accelerates down a runway at 3.20 m/s square for 32.8 s until it finally lifts off the ground. Calculate the distance in meters travelled before takeoff.",
+    "options": {
+      "a": "152.48",
+      "b": "1,721.34",
+      "c": "1,679.36",
+      "d": "1,524.80"
+    },
+    "answer": "b",
+    "correct_answer_text": "1,721.34"
+  },
+  {
+    "id": 416,
+    "question": "What is a protective device designated to protect an individual against electric shock?",
+    "options": {
+      "a": "Circuit breaker",
+      "b": "AFCI",
+      "c": "Differential relay",
+      "d": "GFCI"
+    },
+    "answer": "d",
+    "correct_answer_text": "GFCI"
+  },
+  {
+    "id": 417,
+    "question": "How is “molality” defined?",
+    "options": {
+      "a": "The number of moles of solute in 1 L of solution",
+      "b": "The number of grams-equivalent weights of solute in L of solution",
+      "c": "The number of moles of solute in 1000 g of solvent",
+      "d": "The number of gram-formula weights of solute per liter"
+    },
+    "answer": "c",
+    "correct_answer_text": "The number of moles of solute in 1000 g of solvent"
+  },
+  {
+    "id": 418,
+    "question": "A cloud gaming service recommends 15 Mbps for 1080p streaming. If your connection is 120 Mbps, how many devices could stream 1080p simultaneously?",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "Unlimited"
+    },
+    "answer": "c",
+    "correct_answer_text": "8"
+  },
+  {
+    "id": 419,
+    "question": "How many electrons flow through a light LED bulb each second if the current through the light bulb is 0.75 A?",
+    "options": {
+      "a": "5.6 x 10^18",
+      "b": "6.5 x 10^18",
+      "c": "4.7 x 10^18",
+      "d": "7.4 x 10^18"
+    },
+    "answer": "c",
+    "correct_answer_text": "4.7 x 10^18"
+  },
+  {
+    "id": 420,
+    "question": "An ideal gas is contained in a vessel of unknown volume at a pressure of 1 atmosphere. The gas is released and allowed to expand into a previously evacuated vessel whose volume is 0.500 L. Once equilibrium has been reached, the temperature remains the same while the pressure is recorded as 500 mm mercury. What is the unknown volume V, of the first vessel in liter?",
+    "options": {
+      "a": "1.184",
+      "b": "1.075",
+      "c": "0.863",
+      "d": "0.962"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.962"
+  },
+  {
+    "id": 421,
+    "question": "With an interest rate of 6% compounded semiannually, the value of a P 1,500 investment after 6 years is nearly equal to ________.",
+    "options": {
+      "a": "P 2,016",
+      "b": "P 2,269",
+      "c": "P 1,900",
+      "d": "P 2,139"
+    },
+    "answer": "d",
+    "correct_answer_text": "P 2,139"
+  },
+  {
+    "id": 422,
+    "question": "Which of the following relationship defines enthalpy?",
+    "options": {
+      "a": "h = pv + T",
+      "b": "h = u + pv",
+      "c": "h = u + p/v",
+      "d": "h = u + p/T"
+    },
+    "answer": "b",
+    "correct_answer_text": "h = u + pv"
+  },
+  {
+    "id": 423,
+    "question": "A bicycle tire has a volume of 60 cu. cm. It is inflated with CO2 to a pressure of 5.4 atm at 20˚C. Approximately how many grams of CO2 are contained in the tire?",
+    "options": {
+      "a": "4.8 g",
+      "b": "6 g",
+      "c": "3.8 g",
+      "d": "6.4 g"
+    },
+    "answer": "b",
+    "correct_answer_text": "6 g"
+  },
+  {
+    "id": 424,
+    "question": "What is the metal used to recover copper from a solution of copper sulphate?",
+    "options": {
+      "a": "Na",
+      "b": "Ag",
+      "c": "Hg",
+      "d": "Fe"
+    },
+    "answer": "d",
+    "correct_answer_text": "Fe"
+  },
+  {
+    "id": 425,
+    "question": "A motor shall be marked with the following information: manufacturer’s name, rated volts, full-load current, rated frequency, and number of phases. This is a/an ________ rule in the Philippine Electrical Code Part I.",
+    "options": {
+      "a": "construction",
+      "b": "wiring design",
+      "c": "installation",
+      "d": "manufacturing"
+    },
+    "answer": "d",
+    "correct_answer_text": "manufacturing"
+  },
+  {
+    "id": 426,
+    "question": "Find the present worth of a 5 year annuity paying Php 3,000.00 at the end of each year, with interest at 6% compounded annually.",
+    "options": {
+      "a": "Php 13,479.56",
+      "b": "Php 12,637.09",
+      "c": "Php 12,215.85",
+      "d": "Php 14,743.27"
+    },
+    "answer": "b",
+    "correct_answer_text": "Php 12,637.09"
+  },
+  {
+    "id": 427,
+    "question": "Mr. Cruz borrowed P 20,000.00 from a bank with 15% interest per annum, find the total amount to be repaid at the end of two years.",
+    "options": {
+      "a": "P 24,664.75",
+      "b": "P 23,000.00",
+      "c": "P 25,720.90",
+      "d": "P 26,450.00"
+    },
+    "answer": "d",
+    "correct_answer_text": "P 26,450.00"
+  },
+  {
+    "id": 428,
+    "question": "The product of the binary equation 101*11 is equal to ________.",
+    "options": {
+      "a": "1110",
+      "b": "1010",
+      "c": "1111",
+      "d": "1011"
+    },
+    "answer": "c",
+    "correct_answer_text": "1111"
+  },
+  {
+    "id": 429,
+    "question": "Calculate the kinetic energy in Joules of car driving 60 mi/hr and the weight of the car is 1500 kg.",
+    "options": {
+      "a": "6.34 x 10^5",
+      "b": "5.95 x 10^5",
+      "c": "6.54 x 10^5",
+      "d": "5.55 x 10^5"
+    },
+    "answer": "d",
+    "correct_answer_text": "5.55 x 10^5"
+  },
+  {
+    "id": 430,
+    "question": "The passing general weighted average rating for the licensure examination for Registered Electrical Engineers must be 70% with NO GRADE below ________ in any subjects in Mathematics, ESAS, and Electrical Engineering as required under Section 19(b) of RA 7920.",
+    "options": {
+      "a": "55%",
+      "b": "65%",
+      "c": "60%",
+      "d": "50%"
+    },
+    "answer": "d",
+    "correct_answer_text": "50%"
+  }
+]
