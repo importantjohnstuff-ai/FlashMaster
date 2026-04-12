@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "question": "What is annuity?",
+    "options": {
+      "a": "A series of uniform amounts over a period of time",
+      "b": "The future worth of a present amount",
+      "c": "An annual repayment of a loan",
+      "d": "A lump sum at the end of a year"
+    },
+    "answer": "a",
+    "correct_answer_text": "A series of uniform amounts over a period of time"
+  },
+  {
+    "id": 2,
+    "question": "When using the net present worth calculations to compare two project which of the following could invalidate the calculation?",
+    "options": {
+      "a": "evaluating over different time period",
+      "b": "mutually exclusive projects",
+      "c": "non conventional cash flows",
+      "d": "difference in the magnitude of the project"
+    },
+    "answer": "a",
+    "correct_answer_text": "evaluating over different time period"
+  },
+  {
+    "id": 3,
+    "question": "What most investments with the same present worth and unequal lives have?",
+    "options": {
+      "a": "different uniform annual cash flows",
+      "b": "identical savage values",
+      "c": "different salvage values",
+      "d": "identical equivalent uniform annual cash flows"
+    },
+    "answer": "a",
+    "correct_answer_text": "different uniform annual cash flows"
+  },
+  {
+    "id": 4,
+    "question": "What is work process classified as?",
+    "options": {
+      "a": "asset",
+      "b": "liability",
+      "c": "expenses",
+      "d": "revenue"
+    },
+    "answer": "a",
+    "correct_answer_text": "asset"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following does not affect owner's equity?",
+    "options": {
+      "a": "license to start business",
+      "b": "dividends paid",
+      "c": "invested capital",
+      "d": "revenue"
+    },
+    "answer": "a",
+    "correct_answer_text": "license to start business"
+  },
+  {
+    "id": 6,
+    "question": "What is acid test ratio?",
+    "options": {
+      "a": "the ratio of current assets (exclusive of inventory) to the total current liabilities",
+      "b": "the ratio of owner's equity to total current liabilities",
+      "c": "the ratio of assets to total liabilities",
+      "d": "the ratio of profit after taxes to equity"
+    },
+    "answer": "a",
+    "correct_answer_text": "the ratio of current assets (exclusive of inventory) to the total current liabilities"
+  },
+  {
+    "id": 7,
+    "question": "It is responsible for the procurement and administration of funds with the view of achieving the objective of business.",
+    "options": {
+      "a": "finance",
+      "b": "capital",
+      "c": "budget",
+      "d": "funds"
+    },
+    "answer": "a",
+    "correct_answer_text": "finance"
+  },
+  {
+    "id": 8,
+    "question": "Funds supplied and used by owners of an enterprise in the expectations that a profit will be earned.",
+    "options": {
+      "a": "equity capital",
+      "b": "credit",
+      "c": "savings",
+      "d": "investment"
+    },
+    "answer": "a",
+    "correct_answer_text": "equity capital"
+  },
+  {
+    "id": 9,
+    "question": "Funds that are required to make the enterprises or project a going concern.",
+    "options": {
+      "a": "working capital",
+      "b": "accumulated amount",
+      "c": "present worth",
+      "d": "banking"
+    },
+    "answer": "a",
+    "correct_answer_text": "working capital"
+  },
+  {
+    "id": 10,
+    "question": "The length of time usually in years, for the cumulative annual profit to equalized the initial investment is.",
+    "options": {
+      "a": "payback period",
+      "b": "receivable turnover",
+      "c": "return on investment",
+      "d": "useful life"
+    },
+    "answer": "a",
+    "correct_answer_text": "payback period"
+  },
+  {
+    "id": 11,
+    "question": "The unrecovered depreciation which resulted from poor estimate of the life of equipment.",
+    "options": {
+      "a": "sunk cost",
+      "b": "in-place value",
+      "c": "economic life",
+      "d": "annuity"
+    },
+    "answer": "a",
+    "correct_answer_text": "sunk cost"
+  },
+  {
+    "id": 12,
+    "question": "What factor must be considered by investor before he invests?",
+    "options": {
+      "a": "rate of return",
+      "b": "return on investment",
+      "c": "hurdle rate",
+      "d": "return of capital"
+    },
+    "answer": "a",
+    "correct_answer_text": "rate of return"
+  },
+  {
+    "id": 13,
+    "question": "A market situation with only one buyer of an item and no goods substitute.",
+    "options": {
+      "a": "monopsony",
+      "b": "monopoly",
+      "c": "oligopoly",
+      "d": "duopsony"
+    },
+    "answer": "a",
+    "correct_answer_text": "monopsony"
+  },
+  {
+    "id": 14,
+    "question": "A market situation with few sellers and many buyers.",
+    "options": {
+      "a": "oligopoly",
+      "b": "monopoly",
+      "c": "monopsony",
+      "d": "duopsony"
+    },
+    "answer": "a",
+    "correct_answer_text": "oligopoly"
+  },
+  {
+    "id": 15,
+    "question": "It is an aggregation of individuals formed for the purpose of conducting a business and recognized by law as fictitious person.",
+    "options": {
+      "a": "corporation",
+      "b": "investors",
+      "c": "partnership",
+      "d": "stockholders"
+    },
+    "answer": "a",
+    "correct_answer_text": "corporation"
+  },
+  {
+    "id": 16,
+    "question": "It is the secondary book of accounts of an enterprise where the credit and debit of an enterprise were written.",
+    "options": {
+      "a": "ledger",
+      "b": "journal",
+      "c": "work sheet",
+      "d": "balance sheet"
+    },
+    "answer": "a",
+    "correct_answer_text": "ledger"
+  },
+  {
+    "id": 17,
+    "question": "It is the original book of accounts of an enterprise.",
+    "options": {
+      "a": "journal",
+      "b": "ledger",
+      "c": "balance sheet",
+      "d": "work sheet"
+    },
+    "answer": "a",
+    "correct_answer_text": "journal"
+  },
+  {
+    "id": 18,
+    "question": "It is the reduction in the level of national income and output usually accompanied by the fall in general price level.",
+    "options": {
+      "a": "deflation",
+      "b": "inflation",
+      "c": "devaluation",
+      "d": "depreciation"
+    },
+    "answer": "a",
+    "correct_answer_text": "deflation"
+  },
+  {
+    "id": 19,
+    "question": "It is the decrease in money's purchasing power due to increase in material cost and services.",
+    "options": {
+      "a": "inflation",
+      "b": "deflation",
+      "c": "devaluation",
+      "d": "depreciation"
+    },
+    "answer": "a",
+    "correct_answer_text": "inflation"
+  },
+  {
+    "id": 20,
+    "question": "It is the decrease in worth of the property due to passage of time.",
+    "options": {
+      "a": "depreciation",
+      "b": "inflation",
+      "c": "deflation",
+      "d": "devaluation"
+    },
+    "answer": "a",
+    "correct_answer_text": "depreciation"
+  },
+  {
+    "id": 21,
+    "question": "It is the difference between the present worth and the future worth of negotiable paper.",
+    "options": {
+      "a": "discount",
+      "b": "interest",
+      "c": "rate of interest",
+      "d": "rate of discount"
+    },
+    "answer": "a",
+    "correct_answer_text": "discount"
+  },
+  {
+    "id": 22,
+    "question": "It is amount earned by one unit of principal during a unit of time.",
+    "options": {
+      "a": "rate of interest",
+      "b": "interest",
+      "c": "discount",
+      "d": "rate of discount"
+    },
+    "answer": "a",
+    "correct_answer_text": "rate of interest"
+  },
+  {
+    "id": 23,
+    "question": "It pertains to the series of equal payments occurring at equal period of interval of time.",
+    "options": {
+      "a": "annuity",
+      "b": "amortization",
+      "c": "depreciation",
+      "d": "depletion"
+    },
+    "answer": "a",
+    "correct_answer_text": "annuity"
+  },
+  {
+    "id": 24,
+    "question": "It is a method of paying debt including the principal and interest which is usually done in a series of equal payments occurring at equal period of interval of time.",
+    "options": {
+      "a": "amortization",
+      "b": "depreciation",
+      "c": "depletion",
+      "d": "annuity"
+    },
+    "answer": "a",
+    "correct_answer_text": "amortization"
+  },
+  {
+    "id": 25,
+    "question": "It is type of annuity where payments are made indefinitely or forever.",
+    "options": {
+      "a": "perpetuity",
+      "b": "ordinary annuity",
+      "c": "annuity due",
+      "d": "deferred annuity"
+    },
+    "answer": "a",
+    "correct_answer_text": "perpetuity"
+  },
+  {
+    "id": 26,
+    "question": "It pertains series of payments on equal interval of time with common difference.",
+    "options": {
+      "a": "arithmetic gradient",
+      "b": "annuity",
+      "c": "depreciation",
+      "d": "geometric gradient"
+    },
+    "answer": "a",
+    "correct_answer_text": "arithmetic gradient"
+  },
+  {
+    "id": 27,
+    "question": "It pertains series of payments on equal interval of time with common ratio.",
+    "options": {
+      "a": "geometric gradient",
+      "b": "annuity",
+      "c": "arithmetic gradient",
+      "d": "depreciation"
+    },
+    "answer": "a",
+    "correct_answer_text": "geometric gradient"
+  },
+  {
+    "id": 28,
+    "question": "It is the sum of the first cost and the present worth of annual maintenance and operational costs, costs of repair and the renewal costs.",
+    "options": {
+      "a": "capitalized cost",
+      "b": "annual cost",
+      "c": "marginal cost",
+      "d": "future worth cost"
+    },
+    "answer": "a",
+    "correct_answer_text": "capitalized cost"
+  },
+  {
+    "id": 29,
+    "question": "It is the measure of the effectiveness of an investment.",
+    "options": {
+      "a": "rate of return",
+      "b": "profit",
+      "c": "dividends",
+      "d": "revenue"
+    },
+    "answer": "a",
+    "correct_answer_text": "rate of return"
+  },
+  {
+    "id": 30,
+    "question": "The difference between capital recovery factor (CRF) and the sinking fund factor (SFF) is equal to",
+    "options": {
+      "a": "rate of interest",
+      "b": "discount",
+      "c": "depreciation",
+      "d": "profit"
+    },
+    "answer": "a",
+    "correct_answer_text": "rate of interest"
+  },
+  {
+    "id": 31,
+    "question": "The quantity (1 + i) exponent n represents which one of the following?",
+    "options": {
+      "a": "future value factor",
+      "b": "present value factor",
+      "c": "capital recovery factor",
+      "d": "compound amount factor"
+    },
+    "answer": "d",
+    "correct_answer_text": "compound amount factor"
+  },
+  {
+    "id": 32,
+    "question": "The quantity (1 +i) negative n exponent represents which one of the following?",
+    "options": {
+      "a": "present value factor",
+      "b": "capital recovery factor",
+      "c": "compound amount factor",
+      "d": "future value factor"
+    },
+    "answer": "a",
+    "correct_answer_text": "present value factor"
+  },
+  {
+    "id": 33,
+    "question": "The quantity (F/A, i%, n) represents which one of the following?",
+    "options": {
+      "a": "compound amount factor",
+      "b": "present value factor",
+      "c": "capital recovery factor",
+      "d": "future value factor"
+    },
+    "answer": "a",
+    "correct_answer_text": "compound amount factor"
+  },
+  {
+    "id": 34,
+    "question": "The quantity (A/P,i%,n) represents which one of the following?",
+    "options": {
+      "a": "capital recovery factor",
+      "b": "compound amount factor",
+      "c": "present value factor",
+      "d": "future value factor"
+    },
+    "answer": "a",
+    "correct_answer_text": "capital recovery factor"
+  },
+  {
+    "id": 35,
+    "question": "The quantity (A/F,i%,n) represents which one of the following?",
+    "options": {
+      "a": "sinking fund factor",
+      "b": "compound amount factor",
+      "c": "present value factor",
+      "d": "future value factor"
+    },
+    "answer": "a",
+    "correct_answer_text": "sinking fund factor"
+  },
+  {
+    "id": 36,
+    "question": "When the net torque acting on the body is zero, the body is in",
+    "options": {
+      "a": "rotational equilibrium",
+      "b": "unstable equilibrium",
+      "c": "stable equilibrium",
+      "d": "translational equilibrium"
+    },
+    "answer": "a",
+    "correct_answer_text": "rotational equilibrium"
+  },
+  {
+    "id": 37,
+    "question": "When the force that act on an object is have a vector sum of zero, the object is said to be in",
+    "options": {
+      "a": "translational equilibrium",
+      "b": "rotational equilibrium",
+      "c": "unstable equilibrium",
+      "d": "stable equilibrium"
+    },
+    "answer": "a",
+    "correct_answer_text": "translational equilibrium"
+  },
+  {
+    "id": 38,
+    "question": "If a cone is balanced on its apex, it illustrates what type of equilibrium?",
+    "options": {
+      "a": "unstable equilibrium",
+      "b": "translational equilibrium",
+      "c": "rotational equilibrium",
+      "d": "stable equilibrium"
+    },
+    "answer": "a",
+    "correct_answer_text": "unstable equilibrium"
+  },
+  {
+    "id": 39,
+    "question": "What principle states that for a horizontal flow of a fluid through a pipe the sum of pressure and kinetic energy per unit volume of fluid is constant?",
+    "options": {
+      "a": "Bernoulli’s principle",
+      "b": "Pascal’s principle",
+      "c": "Archimedes’ principle",
+      "d": "Torricelli’s principle"
+    },
+    "answer": "a",
+    "correct_answer_text": "Bernoulli’s principle"
+  }
+]
