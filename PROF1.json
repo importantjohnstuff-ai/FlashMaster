@@ -1,0 +1,2426 @@
+[
+    {
+        "id": 1,
+        "question": "A 60-Hz short transmission line, having R = 0.62 ohms per phase and L = 93.24 mH per phase, supplies a three-phase, wye connected 100 MW load of 0.90 lagging power factor at 230 kV line-to-line voltage. Determine the voltage regulation of the transmission line.",
+        "options": {
+            "a": "3.75%",
+            "b": "3.20%",
+            "c": "3.55%",
+            "d": "3.42%"
+        },
+        "answer": "c",
+        "correct_answer_text": "3.55%"
+    },
+    {
+        "id": 2,
+        "question": "Each cell site contains a",
+        "options": {
+            "a": "Repeater",
+            "b": "Touch tone processor",
+            "c": "Direct-link to branch exchange",
+            "d": "Control computer"
+        },
+        "answer": "d",
+        "correct_answer_text": "Control computer"
+    },
+    {
+        "id": 3,
+        "question": "Three impedances Z1 = 3 + j5, Z2 = 6∠20º, and Z3 = 4∠-30º Ω are connected in delta. Find the transform impedance into Y impedance ZA, ZB, and ZC (ACB sequence).",
+        "options": {
+            "a": "ZA = 2.67∠56.4º, ZB = 1.78∠-6.38º, and ZC = 1.83∠-3.27º ohms",
+            "b": "ZA = 1.78∠-6.38º, ZB = 1.83∠-3.27º, and ZC = 2.67∠56.4º ohms",
+            "c": "ZA = 2.67∠56.4°, ZB = 1.83∠-32.7º, and ZC = 1.78∠+6.38º ohms",
+            "d": "ZA = 1.83∠-3.27º, ZB = 2.67∠56.4º, and ZC = 1.78∠-6.38º ohms"
+        },
+        "answer": "c",
+        "correct_answer_text": "ZA = 2.67∠56.4°, ZB = 1.83∠-32.7º, and ZC = 1.78∠+6.38º ohms"
+    },
+    {
+        "id": 4,
+        "question": "A golf ball is struck by a golf club and falls on a green three meters above the tree. The potential energy of the Earth-ball system is greatest .",
+        "options": {
+            "a": "Just before the ball is struck",
+            "b": "When the ball reaches the highest point in its flight",
+            "c": "When the ball comes back to rest on the green",
+            "d": "Just after the ball is struck"
+        },
+        "answer": "b",
+        "correct_answer_text": "When the ball reaches the highest point in its flight"
+    },
+    {
+        "id": 5,
+        "question": "Find the values in ohms of resistors R1 and R2 such that when connected in parallel draws a current 6A out of 30 V sources and draws 4/3 A when connected in series.",
+        "options": {
+            "a": "15, 7.5",
+            "b": "10, 12.5",
+            "c": "0, 5",
+            "d": "45, 45"
+        },
+        "answer": "a",
+        "correct_answer_text": "15, 7.5"
+    },
+    {
+        "id": 6,
+        "question": "Three equal impedances Za = Zb = Zc = 4 – j7 ohm are connected in Wye. Find the equivalent impedance in ohm if these impedances are connected in delta.",
+        "options": {
+            "a": "4 – j7",
+            "b": "6 – j14",
+            "c": "12 – j21",
+            "d": "2.31 – j4.04"
+        },
+        "answer": "c",
+        "correct_answer_text": "12 – j21"
+    },
+    {
+        "id": 7,
+        "question": "A three-phase, 13-kV transmission line delivers 8 MVA of load. The per-phase impedance of the line is (0.01 + j0.05) pu, referred to a 13-kV, 8-MVA base. What is the voltage drop across the line?",
+        "options": {
+            "a": "663 V",
+            "b": "650 V",
+            "c": "790 V",
+            "d": "874 V"
+        },
+        "answer": "a",
+        "correct_answer_text": "663 V"
+    },
+    {
+        "id": 8,
+        "question": "Three impedances Z1 = 2.2 + j2.2 Ω, Z2 = 10 + j10 Ω, and Z3 = -j5 Ω are connected in series. The voltage across Z1 is 26.59 – j4.69 V. What is the total voltage?",
+        "options": {
+            "a": "93 + j63.4 V",
+            "b": "93 – j32.4 V",
+            "c": "112 + j51 V",
+            "d": "112 – j51 V"
+        },
+        "answer": "d",
+        "correct_answer_text": "112 – j51 V"
+    },
+    {
+        "id": 9,
+        "question": "Which is NOT the advantage of using per unit values?",
+        "options": {
+            "a": "For transmission lines, its value of impedance and admittances in physical units (e.g. ohms/km) that are of same magnitude regardless of voltage level or MVA rating",
+            "b": "Voltage, currents, and impedances expressed in per unit do not change when they are referred from one side of transformer to the other side",
+            "c": "The parameters of transformers as well as rotating machines lie roughly in the same range of numerical values irrespective of their ratings if expressed in Per Unit System of their ratings",
+            "d": "Voltages have same range in per unit in all parts of the system from EHV system to distribution and utilization"
+        },
+        "answer": "a",
+        "correct_answer_text": "For transmission lines, its value of impedance and admittances in physical units (e.g. ohms/km) that are of same magnitude regardless of voltage level or MVA rating"
+    },
+    {
+        "id": 10,
+        "question": "What is being used to model the transmission line. I.T network II.π network",
+        "options": {
+            "a": "I only",
+            "b": "Either I or II",
+            "c": "II only",
+            "d": "Both I and II"
+        },
+        "answer": "d",
+        "correct_answer_text": "Both I and II"
+    },
+    {
+        "id": 11,
+        "question": "A resistor R and inductance L are connected in parallel to 120 V, 60 Hz source. The total current drawn is 17 A and the total power drawn is 1.8 kW. Find R",
+        "options": {
+            "a": "7 Ω",
+            "b": "9 Ω",
+            "c": "8 Ω",
+            "d": "10 Ω"
+        },
+        "answer": "c",
+        "correct_answer_text": "8 Ω"
+    },
+    {
+        "id": 12,
+        "question": "A resistor R and inductance L are connected in parallel to 120 V, 60 Hz source. The total current drawn is 17 A and the total power drawn is 1.8 kW. Find L",
+        "options": {
+            "a": "0.02 H",
+            "b": "0.16 H",
+            "c": "0.14 H",
+            "d": "0.04 H"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.04 H"
+    },
+    {
+        "id": 13,
+        "question": "Four 20-Ω resistors are connected in series and the combination is connected to a 20-V emf device. The current in any one of the resistors is:",
+        "options": {
+            "a": "0.25 A",
+            "b": "4.0 A",
+            "c": "1.0 A",
+            "d": "5.0 A"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.25 A"
+    },
+    {
+        "id": 14,
+        "question": "The selection of kAIC rating of circuit breaker is based on current.",
+        "options": {
+            "a": "Symmetrical fault",
+            "b": "Full-load",
+            "c": "Asymmetrical fault",
+            "d": "Short-circuit"
+        },
+        "answer": "a",
+        "correct_answer_text": "Symmetrical fault"
+    },
+    {
+        "id": 15,
+        "question": "A 3-phase industrial heater (continuous load) is rated at 50 kW and operates at 480 V with a unity power factor. What is the minimum standard Ampere Trip (AT) rating required for the circuit breaker protecting this circuit?",
+        "options": {
+            "a": "60 AT",
+            "b": "70 AT",
+            "c": "80 AT",
+            "d": "90 AT"
+        },
+        "answer": "c",
+        "correct_answer_text": "80 AT"
+    },
+    {
+        "id": 16,
+        "question": "A facility is fed by a 1000 kVA, 480 V (3-phase) secondary transformer with an impedance of 0.05 pu. Using the infinite bus method, what is the available symmetrical short-circuit current at the secondary terminals?",
+        "options": {
+            "a": "12.0 kA",
+            "b": "24.1 kA",
+            "c": "48.2 kA",
+            "d": "60.5 kA"
+        },
+        "answer": "b",
+        "correct_answer_text": "24.1 kA"
+    },
+    {
+        "id": 17,
+        "question": "According to standard electrical code (NEC/PEC), what is the definitive time threshold that classifies an electrical load as \"continuous\"?",
+        "options": {
+            "a": "1 hour",
+            "b": "3 hours",
+            "c": "8 hours",
+            "d": "24 hours"
+        },
+        "answer": "b",
+        "correct_answer_text": "3 hours"
+    },
+    {
+        "id": 18,
+        "question": "When specifying a molded case circuit breaker, the Ampere Frame (AF) rating primarily indicates what?",
+        "options": {
+            "a": "The exact current at which the thermal-magnetic trip will activate.",
+            "b": "The maximum short-circuit current the housing can physically contain without exploding.",
+            "c": "The maximum continuous current the physical housing and contact structures can handle.",
+            "d": "The voltage limits of the arc-extinguishing chutes inside the breaker."
+        },
+        "answer": "c",
+        "correct_answer_text": "The maximum continuous current the physical housing and contact structures can handle."
+    },
+    {
+        "id": 19,
+        "question": "A facility is fed by a 1000 kVA, 480 V (3-phase) secondary transformer with an impedance of 5%. Using the infinite bus method, assume the facility's load consists entirely of running induction motors. Factoring in standard motor contribution, what is the estimated kAIC rating the main breaker must be specified?",
+        "options": {
+            "a": "24.1 kAIC",
+            "b": "28.9 kAIC",
+            "c": "32.5 kAIC",
+            "d": "48.1 kAIC"
+        },
+        "answer": "b",
+        "correct_answer_text": "28.9 kAIC"
+    },
+    {
+        "id": 20,
+        "question": "Why must \"motor contribution\" be explicitly added to the short-circuit current calculations in an industrial setting?",
+        "options": {
+            "a": "Motors draw massive inrush currents during a fault, overloading the transformer.",
+            "b": "The magnetic fields of the motors collapse, drawing power away from the protective relays.",
+            "c": "Induction motors act as temporary generators driven by physical inertia during the initial cycles of a fault.",
+            "d": "Motor starters bypass the circuit breakers during a short circuit."
+        },
+        "answer": "c",
+        "correct_answer_text": "Induction motors act as temporary generators driven by physical inertia during the initial cycles of a fault."
+    },
+    {
+        "id": 21,
+        "question": "A sub-panel serves a mixed load consisting of 120 A of continuous lighting load and 80 A of non-continuous receptacle load. What is the minimum allowable circuit breaker rating for the feeder supplying this panel?",
+        "options": {
+            "a": "200 A",
+            "b": "225 A",
+            "c": "250 A",
+            "d": "300 A"
+        },
+        "answer": "c",
+        "correct_answer_text": "250 A"
+    },
+    {
+        "id": 22,
+        "question": "A circuit breaker correctly sized for the full-load current (Ampere Trip) but possessing a kAIC rating lower than the available fault current is installed. What is the most severe operational risk?",
+        "options": {
+            "a": "The breaker will experience nuisance tripping during normal motor startup.",
+            "b": "The breaker's contacts will slowly weld together during continuous operation.",
+            "c": "The breaker will successfully clear the fault but will require a manual reset.",
+            "d": "The breaker may physically rupture or fail to extinguish the electrical arc during a short circuit."
+        },
+        "answer": "d",
+        "correct_answer_text": "The breaker may physically rupture or fail to extinguish the electrical arc during a short circuit."
+    },
+    {
+        "id": 23,
+        "question": "A 1500 kVA transformer has a 480 V 3-phase secondary and a nameplate impedance of 5.75%. Based on the infinite bus method, which of the following is the minimum acceptable standard kAIC rating for the main secondary breaker?",
+        "options": {
+            "a": "25.3 kAIC",
+            "b": "28.7 kAIC",
+            "c": "31.4 kAIC",
+            "d": "65.4 kAIC"
+        },
+        "answer": "c",
+        "correct_answer_text": "31.4 kAIC"
+    },
+    {
+        "id": 24,
+        "question": "EXIT: A 138-kV, three phase short transmission line has a per-phase impedance of (2+ j4) ohm. If the line supplies a 25-MW load at 0.8 power factor lagging, calculate the efficiency of transmission.",
+        "options": {
+            "a": "98.78%",
+            "b": "97.87%",
+            "c": "96.75%",
+            "d": "95.56%"
+        },
+        "answer": "a",
+        "correct_answer_text": "98.78%"
+    },
+    {
+        "id": 25,
+        "question": "IEEE device number of AC circuit breaker",
+        "options": {
+            "a": "52",
+            "b": "87",
+            "c": "50",
+            "d": "40"
+        },
+        "answer": "a",
+        "correct_answer_text": "52"
+    },
+    {
+        "id": 26,
+        "question": "An LC circuit has a capacitance of 30 µF and an inductance of 15 mH. At time t = 0 the charge on the capacitor is 10 µC and the current is 20 mA. The maximum charge on the capacitor is:",
+        "options": {
+            "a": "8.9 µC",
+            "b": "12 µC",
+            "c": "10 µC",
+            "d": "17 µC"
+        },
+        "answer": "d",
+        "correct_answer_text": "17 µC"
+    },
+    {
+        "id": 27,
+        "question": "At time t = 0 the charge on the 50-µF capacitor in an LC circuit is 15 µC and there is no current. If the inductance is 20 mH the maximum current is:",
+        "options": {
+            "a": "15 nA",
+            "b": "6.7 nA",
+            "c": "15 uA",
+            "d": "15 mA"
+        },
+        "answer": "d",
+        "correct_answer_text": "15 mA"
+    },
+    {
+        "id": 28,
+        "question": "What could be the most successful configuration of two parallel transformers?",
+        "options": {
+            "a": "∆-∆ - ∆-∆",
+            "b": "∆-Y - Y-∆",
+            "c": "Y-∆ - ∆-∆",
+            "d": "Y-Y - ∆-∆"
+        },
+        "answer": "a",
+        "correct_answer_text": "∆-∆ - ∆-∆"
+    },
+    {
+        "id": 29,
+        "question": "What is the allowable load of a 20 A circuit breaker supplying motor load, lighting load and other load?",
+        "options": {
+            "a": "10 A",
+            "b": "14 A",
+            "c": "12 A",
+            "d": "16 A"
+        },
+        "answer": "d",
+        "correct_answer_text": "16 A"
+    },
+    {
+        "id": 30,
+        "question": "The per-phase impedance of a short transmission line is (0.3 + j0.4) ohm. The sending-end line-to-line voltage is 3300 V and the load at the receiving end is 300 kW per phase at 0.8 power factor lagging. Calculated the receiving-end voltage.",
+        "options": {
+            "a": "1235 V",
+            "b": "1675 V",
+            "c": "1805 V",
+            "d": "1967 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "1805 V"
+    },
+    {
+        "id": 31,
+        "question": "An industrial facility is upgrading its service equipment to a solidly grounded wye system operating at 480Y/277 Volts. According to the PEC/NEC, at what minimum service disconnect rating is the installation of Ground Fault Protection of Equipment (GFPE) strictly required to protect against arcing ground faults?",
+        "options": {
+            "a": "600 Amperes",
+            "b": "800 Amperes",
+            "c": "1,000 Amperes",
+            "d": "1,200 Amperes"
+        },
+        "answer": "c",
+        "correct_answer_text": "1,000 Amperes"
+    },
+    {
+        "id": 32,
+        "question": "Joule found out that the heat produced in a current carrying conductor is proportional to",
+        "options": {
+            "a": "The square of the current",
+            "b": "The current",
+            "c": "The square of the resistance",
+            "d": "Inversely proportional to time"
+        },
+        "answer": "a",
+        "correct_answer_text": "The square of the current"
+    },
+    {
+        "id": 33,
+        "question": "Two wires are made of the same material and have the same length but different diameters. They are joined end-to-end and a potential difference is maintained across the combination. Of the following the quantity that is the same for both wires is:",
+        "options": {
+            "a": "Potential difference",
+            "b": "Current density",
+            "c": "Current",
+            "d": "Electric field"
+        },
+        "answer": "c",
+        "correct_answer_text": "Current"
+    },
+    {
+        "id": 34,
+        "question": "A commercial manufacturing plant intends to offset its daytime electrical load by installing a grid-tied rooftop solar PV system. To legally participate in the Net-Metering program under RA 9513 and the ERC guidelines, what is the maximum allowable capacity of the solar facility?",
+        "options": {
+            "a": "100 kW",
+            "b": "500 kW",
+            "c": "1 MW",
+            "d": "5 MW"
+        },
+        "answer": "a",
+        "correct_answer_text": "100 kW"
+    },
+    {
+        "id": 35,
+        "question": "During a severe storm, the utility distribution grid experiences a blackout. A 500-kW grid-tied solar power plant at a local university instantly disconnects its inverters from the grid. Which protection mechanism mandated by grid codes ensures this operation to protect utility line workers?",
+        "options": {
+            "a": "Low Voltage Ride-Through (LVRT)",
+            "b": "Anti-Islanding Protection",
+            "c": "Directional Overcurrent Protection",
+            "d": "Reverse Power Protection"
+        },
+        "answer": "b",
+        "correct_answer_text": "Anti-Islanding Protection"
+    },
+    {
+        "id": 36,
+        "question": "You are sizing the protection for a 50-hp, 460V, 3- phase squirrel-cage induction motor used for a conveyor belt. If using an inverse time circuit breaker for short-circuit and ground-fault protection, the PEC generally limits the maximum standard rating to what percentage of the motor's full-load current (FLC)?",
+        "options": {
+            "a": "125%",
+            "b": "150%",
+            "c": "250%",
+            "d": "300%"
+        },
+        "answer": "c",
+        "correct_answer_text": "250%"
+    },
+    {
+        "id": 37,
+        "question": "A series AC circuit is subjected to a voltage v(t) = 311.13 sin(377t + 45°) V, and the resulting current is i(t) = 14.14 sin(377t - 15°). Determine the equivalent circuit elements connected in series.",
+        "options": {
+            "a": "R = 11.00 Ω, L = 50.53 mH",
+            "b": "R = 15.56 Ω, C = 139.4 μF",
+            "c": "R = 11.00 Ω, C = 50.53 μF",
+            "d": "R = 22.00 Ω, L = 101.06 mH"
+        },
+        "answer": "a",
+        "correct_answer_text": "R = 11.00 Ω, L = 50.53 mH"
+    },
+    {
+        "id": 38,
+        "question": "Under the EPIRA and RA 9513, variable renewable energy generating facilities, such as solar and wind power plants, are given preferential treatment in the Wholesale Electricity Spot Market (WESM) to ensure their energy is utilized whenever available. What is this dispatch status called?",
+        "options": {
+            "a": "Must-Run Unit (MRU)",
+            "b": "Priority Dispatch",
+            "c": "Base Load Dispatch",
+            "d": "Ancillary Service Dispatch"
+        },
+        "answer": "b",
+        "correct_answer_text": "Priority Dispatch"
+    },
+    {
+        "id": 39,
+        "question": "A 10 MW synchronous generator in a biomass power plant is running in parallel with the utility grid. If a mechanical failure causes the prime mover (steam turbine) to shut down while the generator breaker remains closed, which protective relay prevents the generator from drawing active power from the grid and acting as a synchronous motor?",
+        "options": {
+            "a": "Underfrequency Relay (Device 81U)",
+            "b": "Loss of Excitation Relay (Device 40)",
+            "c": "Reverse Power Relay (Device 32)",
+            "d": "Differential Relay (Device 87)"
+        },
+        "answer": "c",
+        "correct_answer_text": "Reverse Power Relay (Device 32)"
+    },
+    {
+        "id": 40,
+        "question": "To guarantee a market for renewable energy, RA 9513 mandates that all distribution utilities, retail electricity suppliers, and other load-serving entities source a minimum specified percentage of their energy supply from eligible RE resources. What is this policy mechanism called?",
+        "options": {
+            "a": "Feed-in Tariff (FIT)",
+            "b": "Green Energy Option Program (GEOP)",
+            "c": "Net-Metering Program",
+            "d": "Renewable Portfolio Standards (RPS)"
+        },
+        "answer": "d",
+        "correct_answer_text": "Renewable Portfolio Standards (RPS)"
+    },
+    {
+        "id": 41,
+        "question": "A fault occurs on a 480V motor branch circuit inside a factory. Both the 100A branch circuit breaker and the 800A main feeder breaker trip simultaneously, shutting down the entire production floor. This scenario indicates a failure in which power protection design principle?",
+        "options": {
+            "a": "Interrupting Rating",
+            "b": "Selectivity / Coordination",
+            "c": "Arc Flash Mitigation",
+            "d": "Ground Fault Sensing"
+        },
+        "answer": "b",
+        "correct_answer_text": "Selectivity / Coordination"
+    },
+    {
+        "id": 42,
+        "question": "If R is the distance from a magnetic dipole, then the magnetic field it produces is proportional to:",
+        "options": {
+            "a": "R",
+            "b": "1/R",
+            "c": "1/R^2",
+            "d": "1/R^3"
+        },
+        "answer": "d",
+        "correct_answer_text": "1/R^3"
+    },
+    {
+        "id": 43,
+        "question": "The voltage and current at the terminals of an AC network are v(t) = 170 cos(377t - 20°) V and i(t) = 8.5 sin(377t + 40°) A. Calculate the reactive power consumed by the network.",
+        "options": {
+            "a": "0 VAR",
+            "b": "-361.3 VAR (Capacitive)",
+            "c": "361.3 VAR (Inductive)",
+            "d": "-625.7 VAR (Capacitive)"
+        },
+        "answer": "c",
+        "correct_answer_text": "361.3 VAR (Inductive)"
+    },
+    {
+        "id": 44,
+        "question": "What is the maximum output of a cellular transmitter?",
+        "options": {
+            "a": "4.5 w",
+            "b": "1.5 w",
+            "c": "3 w",
+            "d": "6 w"
+        },
+        "answer": "c",
+        "correct_answer_text": "3 w"
+    },
+    {
+        "id": 45,
+        "question": "Electrical maintenance personnel need to safely inspect a 480V Motor Control Center (MCC). According to the PEC/NEC (Condition 2: exposed live parts on one side and grounded parts on the other), what is the minimum required depth of the clear working space in front of the equipment?",
+        "options": {
+            "a": "900 mm (approx. 3.0 ft)",
+            "b": "1100 mm (approx. 3.5 ft)",
+            "c": "1200 mm (approx. 4.0 ft)",
+            "d": "1500 mm (approx. 5.0 ft)"
+        },
+        "answer": "b",
+        "correct_answer_text": "1100 mm (approx. 3.5 ft)"
+    },
+    {
+        "id": 46,
+        "question": "A developer is financing a new 20 MW run-of-river hydropower plant. Under the fiscal incentives provided by the Renewable Energy Act of 2008 (RA 9513), how long is the Income Tax Holiday (ITH) granted to the RE developer from the start of commercial operations?",
+        "options": {
+            "a": "5 years",
+            "b": "7 years",
+            "c": "10 years",
+            "d": "12 years"
+        },
+        "answer": "b",
+        "correct_answer_text": "7 years"
+    },
+    {
+        "id": 47,
+        "question": "An electrical engineer is performing an IEEE 1584 arc flash hazard analysis for an industrial switchgear. The total incident energy released during an arc flash event is directly proportional to the arcing fault current and what other critical factor dictated by the protection scheme?",
+        "options": {
+            "a": "The system nominal voltage",
+            "b": "The clearing time of the upstream overcurrent protective device",
+            "c": "The X/R ratio of the transformer",
+            "d": "The grounding electrode resistance"
+        },
+        "answer": "b",
+        "correct_answer_text": "The clearing time of the upstream overcurrent protective device"
+    },
+    {
+        "id": 48,
+        "question": "The Ferranti Effect in power transmission lines is most likely to occur under which of the following conditions?",
+        "options": {
+            "a": "The line is heavily loaded with inductive loads due to the proximity of the phase conductors.",
+            "b": "The line is experiencing a three-phase short circuit.",
+            "c": "The line is long and operates under no-load or light-load conditions.",
+            "d": "The line is carrying direct current (DC)."
+        },
+        "answer": "c",
+        "correct_answer_text": "The line is long and operates under no-load or light-load conditions."
+    },
+    {
+        "id": 49,
+        "question": "What is the fundamental cause of the Skin Effect in alternating current (AC) conductors?",
+        "options": {
+            "a": "The physical weathering of the conductor's outer insulation.",
+            "b": "The self-inductance of the conductor causing higher reactance at the center, pushing current to the surface.",
+            "c": "The interaction of the conductor with the earth's magnetic field.",
+            "d": "The capacitive coupling between adjacent conductors."
+        },
+        "answer": "b",
+        "correct_answer_text": "The self-inductance of the conductor causing higher reactance at the center, pushing current to the surface."
+    },
+    {
+        "id": 50,
+        "question": "The Piezoelectric Effect is best described as:",
+        "options": {
+            "a": "The generation of a voltage across a material when it is subjected to mechanical stress.",
+            "b": "The emission of light from a material when an electric current passes through it.",
+            "c": "The change in electrical resistance of a material when exposed to a magnetic field.",
+            "d": "The heating of a junction between two dissimilar metals when current flows."
+        },
+        "answer": "a",
+        "correct_answer_text": "The generation of a voltage across a material when it is subjected to mechanical stress."
+    },
+    {
+        "id": 51,
+        "question": "An industrial facility utilizes a single driven copper-clad ground rod as its grounding electrode. According to the PEC, if this single rod does not have a resistance to ground of a specific value or less, it must be augmented by an additional electrode. What is this resistance threshold?",
+        "options": {
+            "a": "5 ohms",
+            "b": "10 ohms",
+            "c": "25 ohms",
+            "d": "50 ohms"
+        },
+        "answer": "c",
+        "correct_answer_text": "25 ohms"
+    },
+    {
+        "id": 52,
+        "question": "A balanced three-phase delta-connected load has an impedance of 12 + j9 Ω per phase. If it is supplied by a 480-V, 3-phase source, calculate the magnitude of the line current and the total real power consumed.",
+        "options": {
+            "a": "32.00 A, 12.28 kW",
+            "b": "55.42 A, 36.86 kW",
+            "c": "55.42 A, 27.65 kW",
+            "d": "32.00 A, 36.86 kW"
+        },
+        "answer": "b",
+        "correct_answer_text": "55.42 A, 36.86 kW"
+    },
+    {
+        "id": 53,
+        "question": "The power input to a 3-phase motor is measured using the two-wattmeter method. If the readings of the two wattmeters are 5 kW and 2 kW respectively, determine the power factor of the motor.",
+        "options": {
+            "a": "0.654 lagging",
+            "b": "0.852 lagging",
+            "c": "0.912 lagging",
+            "d": "0.803 lagging"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.803 lagging"
+    },
+    {
+        "id": 54,
+        "question": "Which phenomenon is characterized by a faint violet glow, a hissing noise, and the production of ozone gas around high-voltage transmission lines?",
+        "options": {
+            "a": "The Hall Effect",
+            "b": "Proximity Effect",
+            "c": "Corona Discharge",
+            "d": "Magnetostriction"
+        },
+        "answer": "c",
+        "correct_answer_text": "Corona Discharge"
+    },
+    {
+        "id": 55,
+        "question": "In high-voltage cable splicing and termination, the term \"Pencilling\" refers to:",
+        "options": {
+            "a": "Marking the outer jacket with a graphite pencil for cutting.",
+            "b": "The gradual tapering of the primary insulation to reduce electrical stress concentrations at the termination point.",
+            "c": "The process of injecting semi-conducting gel into the cable core.",
+            "d": "The degradation of cable insulation due to extreme heat, leaving it looking like a charred pencil."
+        },
+        "answer": "b",
+        "correct_answer_text": "The gradual tapering of the primary insulation to reduce electrical stress concentrations at the termination point."
+    },
+    {
+        "id": 56,
+        "question": "Two 500-watt lamps connected in series across a 220-volt line draw 1 A. What is the total power consumed?",
+        "options": {
+            "a": "1000 W",
+            "b": "220 W",
+            "c": "500 W",
+            "d": "250 W"
+        },
+        "answer": "b",
+        "correct_answer_text": "220 W"
+    },
+    {
+        "id": 57,
+        "question": "A practical inductor coil with a resistance of 10 Ω and an inductance of 0.1 H is connected in parallel with a 100 μF capacitor. Determine the resonant frequency of this parallel tank circuit.",
+        "options": {
+            "a": "50.33 Hz",
+            "b": "31.83 Hz",
+            "c": "47.75 Hz",
+            "d": "60.00 Hz"
+        },
+        "answer": "a",
+        "correct_answer_text": "50.33 Hz"
+    },
+    {
+        "id": 58,
+        "question": "An industrial consumer with a monthly average peak demand of 1.5 MW wants to completely decarbonize its operations by purchasing electricity strictly from renewable energy facilities. Which program under RA 9513 explicitly allows end-users of this size to choose RE resources as their power supplier?",
+        "options": {
+            "a": "Retail Competition and Open Access (RCOA)",
+            "b": "Green Energy Option Program (GEOP)",
+            "c": "Renewable Portfolio Standards (RPS)",
+            "d": "Wholesale Electricity Spot Market (WESM)"
+        },
+        "answer": "b",
+        "correct_answer_text": "Green Energy Option Program (GEOP)"
+    },
+    {
+        "id": 59,
+        "question": "A 25 MVA, 69kV/13.8kV substation transformer experiences an internal turn-to-turn fault. Standard overcurrent relays may be too slow or fail to detect this low-magnitude fault. Which protective relay scheme is specifically designed to detect such internal faults instantaneously by comparing primary and secondary currents?",
+        "options": {
+            "a": "Distance Relaying (Device 21)",
+            "b": "Volts/Hertz Relaying (Device 24)",
+            "c": "Differential Relaying (Device 87)",
+            "d": "Directional Overcurrent Relaying (Device 67)"
+        },
+        "answer": "c",
+        "correct_answer_text": "Differential Relaying (Device 87)"
+    },
+    {
+        "id": 60,
+        "question": "The Proximity Effect in parallel conductors carrying alternating current causes:",
+        "options": {
+            "a": "An apparent increase in the AC resistance of the conductors due to the magnetic fields of adjacent conductors distorting current distribution.",
+            "b": "The conductors to physically repel each other until they snap.",
+            "c": "A massive drop in line voltage.",
+            "d": "The insulation to melt prematurely."
+        },
+        "answer": "a",
+        "correct_answer_text": "An apparent increase in the AC resistance of the conductors due to the magnetic fields of adjacent conductors distorting current distribution."
+    },
+    {
+        "id": 61,
+        "question": "Which effect is responsible for the continuous humming sound produced by a transformer under load?",
+        "options": {
+            "a": "The Seebeck Effect",
+            "b": "Magnetostriction",
+            "c": "The Peltier Effect",
+            "d": "Electromagnetic Interference"
+        },
+        "answer": "b",
+        "correct_answer_text": "Magnetostriction"
+    },
+    {
+        "id": 62,
+        "question": "The Seebeck Effect is the fundamental operating principle behind which common electrical sensor?",
+        "options": {
+            "a": "Strain gauge",
+            "b": "Photoresistor",
+            "c": "Thermocouple",
+            "d": "Hall effect sensor"
+        },
+        "answer": "c",
+        "correct_answer_text": "Thermocouple"
+    },
+    {
+        "id": 63,
+        "question": "When a current-carrying conductor is placed in a magnetic field perpendicular to the current, a voltage is generated transversely across the conductor. This is known as:",
+        "options": {
+            "a": "The Hall Effect",
+            "b": "The Faraday Effect",
+            "c": "The Kelvin Effect",
+            "d": "The Meissner Effect"
+        },
+        "answer": "a",
+        "correct_answer_text": "The Hall Effect"
+    },
+    {
+        "id": 64,
+        "question": "How does the Skin Effect vary with the frequency of the alternating current?",
+        "options": {
+            "a": "It decreases as frequency increases.",
+            "b": "It increases as frequency increases.",
+            "c": "It is completely independent of frequency.",
+            "d": "It only occurs at 50 Hz or 60 Hz exactly."
+        },
+        "answer": "b",
+        "correct_answer_text": "It increases as frequency increases."
+    },
+    {
+        "id": 65,
+        "question": "A generator delivers a load through a pair of wires, each of which has a resistance of 0.06 ohm. If the load voltage and power are 120 V and 4.8 kW, respectively. What is the generated voltage?",
+        "options": {
+            "a": "125.5 V",
+            "b": "126.8 V",
+            "c": "124.8 V",
+            "d": "123.5 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "124.8 V"
+    },
+    {
+        "id": 66,
+        "question": "A commercial solar array utilizes SunPower Maxeon 3 400W panels. The panel has an open-circuit voltage (Voc) of 88.3 V at STC of 25°C and a temperature coefficient for V_oc of -0.23%/°C. The panels are connected to an SMA Sunny Boy inverter with a maximum DC input voltage of 600 V. If the lowest recorded ambient temperature in the area is 10°C, what is the maximum number of panels that can be safely connected in a single series string?",
+        "options": {
+            "a": "6 panels",
+            "b": "7 panels",
+            "c": "8 panels",
+            "d": "5 panels"
+        },
+        "answer": "a",
+        "correct_answer_text": "6 panels"
+    },
+    {
+        "id": 67,
+        "question": "A residential home utilizes a grid-tied rooftop solar PV system under a net-metering billing scheme. Over a 30-day billing cycle, the utility meter records an energy import of 450 kWh from the grid and an energy export of 300 kWh from the solar PV system. The utility company charges an import tariff of $0.15 per kWh, credits solar exports at a feed-in tariff of $0.10 per kWh, and applies a fixed monthly grid connection charge of $15.00. What is the total net electrical bill for the month?",
+        "options": {
+            "a": "$37.50",
+            "b": "$52.50",
+            "c": "$67.50",
+            "d": "$82.50"
+        },
+        "answer": "b",
+        "correct_answer_text": "$52.50"
+    },
+    {
+        "id": 68,
+        "question": "A 25-foot (approx. 7.5 meters) feeder tap is installed in a manufacturing plant to supply a subpanel. According to the PEC/NEC 25-foot tap rule, the ampacity of the tap conductors must not be less than what fraction of the rating of the overcurrent device protecting the main feeder conductors?",
+        "options": {
+            "a": "1/10",
+            "b": "1/5",
+            "c": "1/3",
+            "d": "1/2"
+        },
+        "answer": "c",
+        "correct_answer_text": "1/3"
+    },
+    {
+        "id": 69,
+        "question": "What does the acronym SCADA stand for?",
+        "options": {
+            "a": "System Control and Digital Analysis",
+            "b": "Supervisory Control and Data Acquisition",
+            "c": "Synchronized Current and Direct Alternation",
+            "d": "Switchgear Control and Distribution Automation"
+        },
+        "answer": "b",
+        "correct_answer_text": "Supervisory Control and Data Acquisition"
+    },
+    {
+        "id": 70,
+        "question": "In a SCADA system, what is the primary function of a Remote Terminal Unit (RTU)?",
+        "options": {
+            "a": "To act as the main database server for the control room.",
+            "b": "To interface directly with field devices (sensors/actuators), convert their signals to digital data",
+            "c": "To provide a graphical interface for the human operator.",
+            "d": "To physically generate backup power for the substation."
+        },
+        "answer": "b",
+        "correct_answer_text": "To interface directly with field devices (sensors/actuators), convert their signals to digital data"
+    },
+    {
+        "id": 71,
+        "question": "In control theory, what distinguishes a \"Closed-Loop\" system from an \"Open-Loop\" system?",
+        "options": {
+            "a": "Closed-loop systems are physically sealed from the environment.",
+            "b": "Closed-loop systems use feedback from the output to adjust the input and reduce errors.",
+            "c": "Closed-loop systems cannot be controlled by a computer.",
+            "d": "Open-loop systems are much more expensive to implement."
+        },
+        "answer": "b",
+        "correct_answer_text": "Closed-loop systems use feedback from the output to adjust the input and reduce errors."
+    },
+    {
+        "id": 72,
+        "question": "Which of the following is an international standard protocol specifically designed for communication in electrical substation automation?",
+        "options": {
+            "a": "HTTP",
+            "b": "IEC 61850",
+            "c": "RS-232",
+            "d": "Modbus ASCII"
+        },
+        "answer": "b",
+        "correct_answer_text": "IEC 61850"
+    },
+    {
+        "id": 73,
+        "question": "In a control system, what is a \"Deadband\"?",
+        "options": {
+            "a": "A complete loss of communication between the RTU and the master station.",
+            "b": "A range of input values over which the system output does not change, preventing rapid cycling or oscillation.",
+            "c": "The physical space separating high-voltage and low-voltage wires.",
+            "d": "A failed actuator mechanism."
+        },
+        "answer": "b",
+        "correct_answer_text": "A range of input values over which the system output does not change, preventing rapid cycling or oscillation."
+    },
+    {
+        "id": 74,
+        "question": "How does a Distributed Control System (DCS) primarily differ from a traditional SCADA system?",
+        "options": {
+            "a": "DCS uses only analog signals.",
+            "b": "SCADA is typically used for geographically widespread assets (like pipelines or power grids), while DCS is usually confined to a single localized facility or plant.",
+            "c": "SCADA systems do not have Human-Machine Interfaces.",
+            "d": "DCS does not use microprocessors."
+        },
+        "answer": "b",
+        "correct_answer_text": "SCADA is typically used for geographically widespread assets (like pipelines or power grids), while DCS is usually confined to a single localized facility or plant."
+    },
+    {
+        "id": 75,
+        "question": "A 50 MW wind farm is connected to the transmission grid. During a transmission line fault 50 km away, the grid voltage dips to 30% of nominal for 150 milliseconds. Grid codes require the wind farm to remain connected and support the grid rather than tripping off immediately. What is this specific capability called?",
+        "options": {
+            "a": "Low Voltage Ride-Through (LVRT)",
+            "b": "Automatic Generation Control (AGC)",
+            "c": "Black Start Capability",
+            "d": "Synthetic Inertia"
+        },
+        "answer": "a",
+        "correct_answer_text": "Low Voltage Ride-Through (LVRT)"
+    },
+    {
+        "id": 76,
+        "question": "An electrician is pulling three THHN insulated conductors into a rigid metal conduit (RMC) for a new pump motor circuit. To prevent physical damage during the pull and allow for heat dissipation, the PEC limits the maximum cross-sectional fill for over two conductors to what percentage of the conduit's interior area?",
+        "options": {
+            "a": "30%",
+            "b": "40%",
+            "c": "53%",
+            "d": "60%"
+        },
+        "answer": "b",
+        "correct_answer_text": "40%"
+    },
+    {
+        "id": 77,
+        "question": "In an AI-optimized smart grid, which machine learning application is most critical for preventing catastrophic transformer failures?",
+        "options": {
+            "a": "Natural Language Processing for customer service",
+            "b": "Predictive maintenance using anomaly detection algorithms",
+            "c": "Algorithmic trading of energy stocks",
+            "d": "Image recognition for billing"
+        },
+        "answer": "b",
+        "correct_answer_text": "Predictive maintenance using anomaly detection algorithms"
+    },
+    {
+        "id": 78,
+        "question": "How does Advanced Metering Infrastructure (AMI) differ from traditional Automated Meter Reading (AMR) in smart grids?",
+        "options": {
+            "a": "AMI only reads meters once a month.",
+            "b": "AMR provides two-way communication.",
+            "c": "AMI provides real-time, two-way communication between the utility and the customer.",
+            "d": "AMI requires manual data downloading via optical ports using SCADA-controlled ports."
+        },
+        "answer": "c",
+        "correct_answer_text": "AMI provides real-time, two-way communication between the utility and the customer."
+    },
+    {
+        "id": 79,
+        "question": "What is the primary function of a Phasor Measurement Unit (PMU) in a modernized power grid?",
+        "options": {
+            "a": "To measure harmonic distortion of LED lights",
+            "b": "To provide synchronized, high-speed measurements of voltage and current phasors (synchrophasors)",
+            "c": "To step down transmission voltage to distribution levels",
+            "d": "To physically disconnect faulted lines"
+        },
+        "answer": "b",
+        "correct_answer_text": "To provide synchronized, high-speed measurements of voltage and current phasors (synchrophasors)"
+    },
+    {
+        "id": 80,
+        "question": "During a massive three-phase short circuit near a generation plant, the protective relays fail to operate within their expected time curve. An investigation reveals that the secondary current from the Current Transformers (CT) was severely distorted and did not linearly represent the primary fault current. What caused this failure?",
+        "options": {
+            "a": "CT Burden reduction",
+            "b": "CT Saturation",
+            "c": "CT Polarity reversal",
+            "d": "CT Open secondary circuit"
+        },
+        "answer": "b",
+        "correct_answer_text": "CT Saturation"
+    },
+    {
+        "id": 81,
+        "question": "To foster competition and prevent monopolies, EPIRA mandated the restructuring of the power industry into four distinct sectors. Which of the following sectors is strictly considered a natural monopoly and remains a regulated entity under this law?",
+        "options": {
+            "a": "Generation",
+            "b": "Transmission",
+            "c": "Supply",
+            "d": "Retail Electricity"
+        },
+        "answer": "b",
+        "correct_answer_text": "Transmission"
+    },
+    {
+        "id": 82,
+        "question": "In a 10 MW utility-scale solar PV power plant, DC combiner boxes consolidate the output of multiple solar strings. What is the primary operational purpose of installing string fuses in these combiner boxes?",
+        "options": {
+            "a": "To protect the inverter from utility grid voltage surges",
+            "b": "To protect the PV modules and string wiring from reverse current",
+            "c": "To isolate the solar strings during low-irradiance conditions",
+            "d": "To step up the DC voltage before entering the inverter"
+        },
+        "answer": "b",
+        "correct_answer_text": "To protect the PV modules and string wiring from reverse current"
+    },
+    {
+        "id": 83,
+        "question": "What is an \"Actuator\" in an electrical control system?",
+        "options": {
+            "a": "A device that measures physical parameters like temperature.",
+            "b": "The main server that stores historical data.",
+            "c": "A mechanism that converts a control signal into physical action or mechanical motion (e.g., opening a valve or closing a breaker).",
+            "d": "A protective relay that trips during a fault."
+        },
+        "answer": "c",
+        "correct_answer_text": "A mechanism that converts a control signal into physical action or mechanical motion (e.g., opening a valve or closing a breaker)."
+    },
+    {
+        "id": 84,
+        "question": "What is \"Telemetry\" in power systems?",
+        "options": {
+            "a": "The remote measurement and transmission of data from distant locations to a central receiving station.",
+            "b": "The visual inspection of power lines using helicopters.",
+            "c": "The process of synchronizing a generator to the grid.",
+            "d": "A specific brand of smart meter."
+        },
+        "answer": "a",
+        "correct_answer_text": "The remote measurement and transmission of data from distant locations to a central receiving station."
+    },
+    {
+        "id": 85,
+        "question": "A \"Brownout\" is strictly defined as:",
+        "options": {
+            "a": "A complete and total loss of power in a region.",
+            "b": "An intentional or unintentional drop in voltage in an electrical power supply system.",
+            "c": "The failure of a single distribution transformer.",
+            "d": "A cyberattack on the SCADA system."
+        },
+        "answer": "b",
+        "correct_answer_text": "An intentional or unintentional drop in voltage in an electrical power supply system."
+    },
+    {
+        "id": 86,
+        "question": "Which term describes the condition where a localized generation source (like a solar microgrid) continues to power a portion of the grid even after power from the main electric utility is no longer present?",
+        "options": {
+            "a": "Black starting",
+            "b": "Load shedding",
+            "c": "Islanding",
+            "d": "Net metering"
+        },
+        "answer": "c",
+        "correct_answer_text": "Islanding"
+    },
+    {
+        "id": 87,
+        "question": "An engineering firm is designing a small hydropower facility utilizing an irrigation canal. Under Philippine RE guidelines, for the project to be classified as a \"Mini-Hydropower\" plant, its installed capacity must fall within what specific range?",
+        "options": {
+            "a": "1 kW to 100 kW",
+            "b": "101 kW to 10 MW",
+            "c": "10 MW to 50 MW",
+            "d": "50 MW to 100 MW"
+        },
+        "answer": "b",
+        "correct_answer_text": "101 kW to 10 MW"
+    },
+    {
+        "id": 88,
+        "question": "The \"Capacity Factor\" of a power plant is:",
+        "options": {
+            "a": "The physical volume of its fuel storage tank.",
+            "b": "The ratio of its actual electrical energy output over time to its maximum possible continuous output.",
+            "c": "The maximum number of personnel required to operate it.",
+            "d": "The peak voltage it can generate."
+        },
+        "answer": "b",
+        "correct_answer_text": "The ratio of its actual electrical energy output over time to its maximum possible continuous output."
+    },
+    {
+        "id": 89,
+        "question": "What is the defining characteristic of a \"Smart Grid\" compared to a traditional power grid?",
+        "options": {
+            "a": "It uses purely underground cables.",
+            "b": "It completely eliminates the need for power plants.",
+            "c": "It features two-way communication of electricity and data, enabling automated monitoring and dynamic optimization of grid operations.",
+            "d": "It relies entirely on DC power distribution."
+        },
+        "answer": "c",
+        "correct_answer_text": "It features two-way communication of electricity and data, enabling automated monitoring and dynamic optimization of grid operations."
+    },
+    {
+        "id": 90,
+        "question": "A high-reliability industrial park utilizes a closed-loop (ring-main) 13.8 kV distribution system where fault current can flow from two directions to a single fault point. To ensure only the faulted segment is isolated without tripping healthy segments, what type of overcurrent relay must be utilized?",
+        "options": {
+            "a": "Inverse Definite Minimum Time (IDMT) Relay (Device 51)",
+            "b": "Instantaneous Overcurrent Relay (Device 50)",
+            "c": "Directional Overcurrent Relay (Device 67)",
+            "d": "Thermal Overload Relay (Device 49)"
+        },
+        "answer": "c",
+        "correct_answer_text": "Directional Overcurrent Relay (Device 67)"
+    },
+    {
+        "id": 91,
+        "question": "When implementing Demand Response (DR) via AI algorithms, what is the ultimate goal of the utility?",
+        "options": {
+            "a": "To increase the overall peak demand",
+            "b": "To shift non-essential electrical loads from peak hours to off-peak hours",
+            "c": "To force customers to disconnect from the grid entirely",
+            "d": "To maximize the use of fossil-fuel peaker plants"
+        },
+        "answer": "b",
+        "correct_answer_text": "To shift non-essential electrical loads from peak hours to off-peak hours"
+    },
+    {
+        "id": 92,
+        "question": "A situational challenge in smart grids is the \"duck curve.\" What does this curve primarily illustrate?",
+        "options": {
+            "a": "The shape of wind turbine power output",
+            "b": "The rapid drop in net load during midday due to solar generation, followed by a steep ramp-up in the evening",
+            "c": "The life cycle of a lithium-ion battery",
+            "d": "The voltage sag experienced during large motor starting in motorpools for water pumping utilities in many areas in Manila and Cebu"
+        },
+        "answer": "b",
+        "correct_answer_text": "The rapid drop in net load during midday due to solar generation, followed by a steep ramp-up in the evening"
+    },
+    {
+        "id": 93,
+        "question": "Edge computing is increasingly used in electrical substations. What is its main advantage over cloud computing for grid protection?",
+        "options": {
+            "a": "It requires more bandwidth.",
+            "b": "It relies entirely on internet connectivity.",
+            "c": "It processes data locally, drastically reducing latency for critical protection relays.",
+            "d": "It stores unlimited amounts of historical billing data."
+        },
+        "answer": "c",
+        "correct_answer_text": "It processes data locally, drastically reducing latency for critical protection relays."
+    },
+    {
+        "id": 94,
+        "question": "In the context of Vehicle-to-Grid (V2G) technology, how are Electric Vehicles (EVs) utilized by grid operators?",
+        "options": {
+            "a": "As permanent base-load generators",
+            "b": "As mobile loads that can never return power to the grid due to incapacity of the grid to receive non-localized loads.",
+            "c": "As distributed energy storage systems that can discharge power back to the grid during peak demand",
+            "d": "As reactive power consumers only"
+        },
+        "answer": "c",
+        "correct_answer_text": "As distributed energy storage systems that can discharge power back to the grid during peak demand"
+    },
+    {
+        "id": 95,
+        "question": "A Vestas V112-3.0 MW wind turbine has a rotor diameter of 112 meters. The current wind speed is 10 m/s. If the turbine's power coefficient (C_p) at this speed is 0.45 and the combined efficiency of the gearbox and generator is 94%, what is the actual electrical power delivered to the grid?",
+        "options": {
+            "a": "2.55 MW",
+            "b": "2.71 MW",
+            "c": "3.00 MW",
+            "d": "1.28 MW"
+        },
+        "answer": "a",
+        "correct_answer_text": "2.55 MW"
+    },
+    {
+        "id": 96,
+        "question": "A run-of-the-river hydroelectric plant utilizes a Francis turbine coupled to an ABB synchronous generator. The gross head of the dam is 150 m, but hydraulic friction in the penstock causes a 5% head loss. The water flow rate is 12 m³/s. If the turbine efficiency is 92% and the generator efficiency is 97%, what is the generated active power?",
+        "options": {
+            "a": "14.96 MW",
+            "b": "15.75 MW",
+            "c": "16.24 MW",
+            "d": "14.21 MW"
+        },
+        "answer": "a",
+        "correct_answer_text": "14.96 MW"
+    },
+    {
+        "id": 97,
+        "question": "No kinetic energy is possessed by",
+        "options": {
+            "a": "A shooting star",
+            "b": "A rotating propeller on a moving airplane",
+            "c": "A pendulum at the bottom of its swing",
+            "d": "An elevator standing at fifth floor"
+        },
+        "answer": "d",
+        "correct_answer_text": "An elevator standing at fifth floor"
+    },
+    {
+        "id": 98,
+        "question": "A manufacturing facility installs a 50 kVA, 2400/240 V ABB distribution transformer. A short-circuit test conducted on the high-voltage side yields 48 V, 20.8 A, and 617 W. An open-circuit test on the low-voltage side yields 240 V, 5.4 A, and 186 W. Calculate the voltage regulation of the transformer when operating at full load with a 0.8 lagging power factor.",
+        "options": {
+            "a": "1.58%",
+            "b": "1.93%",
+            "c": "2.14%",
+            "d": "2.45%"
+        },
+        "answer": "b",
+        "correct_answer_text": "1.93%"
+    },
+    {
+        "id": 99,
+        "question": "A 100 MVA, 11 kV generator with a subtransient reactance of 0.15 p.u. is connected to a 100 MVA, 11/132 kV step-up transformer with a leakage reactance of 0.10 p.u. The transformer feeds a transmission line with an actual reactance of 50 Ω. Calculate the steady-state 3-phase fault current at the end of the line.",
+        "options": {
+            "a": "814.5 A",
+            "b": "942.3 A",
+            "c": "1410.2 A",
+            "d": "650.1 A"
+        },
+        "answer": "a",
+        "correct_answer_text": "814.5 A"
+    },
+    {
+        "id": 100,
+        "question": "An unloaded 3-phase, solidly grounded generator has positive, negative, and zero sequence reactances of j0.2, j0.2, and j0.05 p.u., respectively. If a solid Line-to-Ground fault occurs at its terminals, what is the fault current magnitude in p.u.?",
+        "options": {
+            "a": "6.67 p.u.",
+            "b": "5.00 p.u.",
+            "c": "2.22 p.u.",
+            "d": "3.33 p.u."
+        },
+        "answer": "a",
+        "correct_answer_text": "6.67 p.u."
+    },
+    {
+        "id": 101,
+        "question": "An unloaded 3-phase, solidly grounded generator has positive, negative, and zero sequence reactances of j0.2, j0.2, and j0.05 p.u., respectively, what is the magnitude of the fault current if a solid Line-to-Line fault occurs at the generator terminals?",
+        "options": {
+            "a": "4.33 p.u.",
+            "b": "2.50 p.u.",
+            "c": "5.00 p.u.",
+            "d": "6.67 p.u."
+        },
+        "answer": "a",
+        "correct_answer_text": "4.33 p.u."
+    },
+    {
+        "id": 102,
+        "question": "Which communication protocol is considered the modern international standard for substation automation and interoperability in smart grids?",
+        "options": {
+            "a": "Modbus RTU",
+            "b": "RS-232",
+            "c": "IEC 61850",
+            "d": "IPv4"
+        },
+        "answer": "c",
+        "correct_answer_text": "IEC 61850"
+    },
+    {
+        "id": 103,
+        "question": "An AI system is used for short-term load forecasting (STLF). Which of the following inputs is the most critical for the neural network to predict tomorrow's load accurately?",
+        "options": {
+            "a": "Historical load data and accurate weather forecasts",
+            "b": "The stock price of the utility",
+            "c": "The mechanical wear of turbine blades",
+            "d": "The global price of copper"
+        },
+        "answer": "a",
+        "correct_answer_text": "Historical load data and accurate weather forecasts"
+    },
+    {
+        "id": 104,
+        "question": "What role do \"Smart Inverters\" play in a high-penetration renewable grid?",
+        "options": {
+            "a": "They strictly disconnect the moment grid voltage fluctuates and inject reactive power to stabilize the grid.",
+            "b": "They provide voltage and frequency ride-through capabilities and inject reactive power to stabilize the grid.",
+            "c": "They convert AC to DC for residential use.",
+            "d": "They act as physical step-up transformers."
+        },
+        "answer": "b",
+        "correct_answer_text": "They provide voltage and frequency ride-through capabilities and inject reactive power to stabilize the grid."
+    },
+    {
+        "id": 105,
+        "question": "From a national energy security perspective, what is the primary benefit of transitioning to Distributed Energy Resources (DERs)?",
+        "options": {
+            "a": "It makes the grid entirely immune to lightning.",
+            "b": "It centralizes all power generation to a single vulnerable location.",
+            "c": "It reduces the impact of localized attacks or failures, as generation is geographically dispersed.",
+            "d": "It eliminates the need for any transmission lines."
+        },
+        "answer": "c",
+        "correct_answer_text": "It reduces the impact of localized attacks or failures, as generation is geographically dispersed."
+    },
+    {
+        "id": 106,
+        "question": "A cyberattack targets the SCADA system of a national transmission operator. To ensure national security, what architectural concept should the IT/OT network possess?",
+        "options": {
+            "a": "Complete integration of corporate internet and grid control systems",
+            "b": "Air-gapping or strict use of demilitarized zones (DMZs) between corporate and operational technology (OT) networks",
+            "c": "Use of default passwords for emergency access",
+            "d": "Hosting all SCADA controls on public web servers"
+        },
+        "answer": "b",
+        "correct_answer_text": "Air-gapping or strict use of demilitarized zones (DMZs) between corporate and operational technology (OT) networks"
+    },
+    {
+        "id": 107,
+        "question": "Under the provisions and subsequent implementations of EPIRA, the Wholesale Electricity Spot Market (WESM) must be operated by an independent entity free from the control of any industry player. What is the name of the entity currently acting as the Independent Market Operator (IMO) in the Philippines?",
+        "options": {
+            "a": "National Grid Corporation of the Philippines (NGCP)",
+            "b": "Philippine Electricity Market Corporation (PEMC)",
+            "c": "Independent Electricity Market Operator of the Philippines (IEMOP)",
+            "d": "Energy Regulatory Commission (ERC)"
+        },
+        "answer": "c",
+        "correct_answer_text": "Independent Electricity Market Operator of the Philippines (IEMOP)"
+    },
+    {
+        "id": 108,
+        "question": "A facility's main service entrance panel has a calculated available short-circuit current of 45,000 Amperes RMS symmetrical at its line terminals. The consulting engineer specifies a main circuit breaker with a rating of 65 kA. This 65 kA specification refers to the breaker's:",
+        "options": {
+            "a": "Continuous Current Rating",
+            "b": "Frame Size",
+            "c": "Withstand Rating",
+            "d": "Interrupting Rating"
+        },
+        "answer": "d",
+        "correct_answer_text": "Interrupting Rating"
+    },
+    {
+        "id": 109,
+        "question": "A 1N4733A Zener diode is used in a shunt regulator circuit. The diode's specifications are: V_z = 5.1 V and maximum power dissipation of 1 W. The unregulated input voltage is 12 V. To ensure the Zener diode does not exceed its power rating under the absolute worst-case scenario (which is when the load is completely disconnected), what is the minimum standard E12 series resistor that can be used for the series dropping resistor?",
+        "options": {
+            "a": "33 Ω",
+            "b": "39 Ω",
+            "c": "47 Ω",
+            "d": "27 Ω"
+        },
+        "answer": "b",
+        "correct_answer_text": "39 Ω"
+    },
+    {
+        "id": 110,
+        "question": "An unloaded 3-phase, solidly grounded generator has positive, negative, and zero sequence reactances of j0.2, j0.2, and j0.05 p.u., respectively, calculate the magnitude of the total fault current flowing into the ground during a Double Line-to-Ground fault at the terminals.",
+        "options": {
+            "a": "10.0 p.u.",
+            "b": "6.67 p.u.",
+            "c": "8.33 p.u.",
+            "d": "12.5 p.u."
+        },
+        "answer": "a",
+        "correct_answer_text": "10.0 p.u."
+    },
+    {
+        "id": 111,
+        "question": "An Eaton 500 kVA, 11 kV/400 V distribution transformer supplies a commercial data center. The manufacturer's test sheet indicates a constant iron loss of 2.5 kW and a full-load copper loss of 6.4 kW. At what load (in kVA) will this transformer achieve its maximum efficiency, and what is that maximum efficiency at unity power factor?",
+        "options": {
+            "a": "312.5 kVA; 98.43%",
+            "b": "250.0 kVA; 97.55%",
+            "c": "312.5 kVA; 96.80%",
+            "d": "400.0 kVA; 98.12%"
+        },
+        "answer": "a",
+        "correct_answer_text": "312.5 kVA; 98.43%"
+    },
+    {
+        "id": 112,
+        "question": "A cast steel magnetic structure has a uniform cross-sectional area of 20 cm² and a mean length of 40 cm. An air gap of 2 mm is cut into the core. If the relative permeability of the cast steel is 800, calculate the total ampere-turns (AT) required to establish a flux of 2.4 mWb in the air gap. (Assume no fringing).",
+        "options": {
+            "a": "2385 AT",
+            "b": "1910 AT",
+            "c": "3105 AT",
+            "d": "1550 AT"
+        },
+        "answer": "a",
+        "correct_answer_text": "2385 AT"
+    },
+    {
+        "id": 113,
+        "question": "An industrial warehouse with a floor area of 50m x 40m needs an average illuminance of 300 lux. High-bay LED fixtures with a luminous efficacy of 120 lumens/Watt are selected for the project. If the calculated coefficient of utilization is 0.70 and the maintenance factor is 0.75, what is the total electrical power rating (in kW) of the lighting system required to maintain this illuminance?",
+        "options": {
+            "a": "5.65 kW",
+            "b": "7.85 kW",
+            "c": "9.52 kW",
+            "d": "12.40 kW"
+        },
+        "answer": "c",
+        "correct_answer_text": "9.52 kW"
+    },
+    {
+        "id": 114,
+        "question": "Two magnetically coupled coils, L₁ = 0.4 H and L₂ = 0.9 H, have a coefficient of coupling k = 0.8. A current of i(t) = 5 sin(314t) A is driven through L₁. Determine the maximum EMF induced in L₂.",
+        "options": {
+            "a": "1413.0 V",
+            "b": "532.8 V",
+            "c": "376.8 V",
+            "d": "753.6 V"
+        },
+        "answer": "d",
+        "correct_answer_text": "753.6 V"
+    },
+    {
+        "id": 115,
+        "question": "What does \"Black Start\" capability refer to in grid resilience?",
+        "options": {
+            "a": "The ability to paint utility poles black for thermal absorption",
+            "b": "The ability of a generating unit to start up and restore power without relying on the external transmission network",
+            "c": "The process of intentionally causing a blackout to test alarms",
+            "d": "Disconnecting industrial loads during a cyber attack"
+        },
+        "answer": "b",
+        "correct_answer_text": "The ability of a generating unit to start up and restore power without relying on the external transmission network"
+    },
+    {
+        "id": 116,
+        "question": "In power system planning, the \"N-1 contingency\" criterion ensures national grid security by mandating that:",
+        "options": {
+            "a": "The system operates only at N-1 voltage levels.",
+            "b": "The system can withstand the loss of any single major component (line, transformer, or generator) without causing a cascading blackout.",
+            "c": "Only one power plant can be offline at any given decade.",
+            "d": "One engineer must be on duty at all times."
+        },
+        "answer": "b",
+        "correct_answer_text": "The system can withstand the loss of any single major component (line, transformer, or generator) without causing a cascading blackout."
+    },
+    {
+        "id": 117,
+        "question": "In solar photovoltaic systems, what is the role of the MPPT algorithm?",
+        "options": {
+            "a": "To physically rotate the solar panels to face the sun.",
+            "b": "Maximum Power Point Tracking – continuously adjusting the electrical operating point of the panels to extract maximum power under varying sunlight and temperature.",
+            "c": "To convert the DC power into AC power.",
+            "d": "To shut down the inverter during a grid outage."
+        },
+        "answer": "b",
+        "correct_answer_text": "Maximum Power Point Tracking – continuously adjusting the electrical operating point of the panels to extract maximum power under varying sunlight and temperature."
+    },
+    {
+        "id": 118,
+        "question": "What does \"BESS\" stand for in grid modernization?",
+        "options": {
+            "a": "Basic Electrical Safety Standard",
+            "b": "Battery Energy Storage System",
+            "c": "Backup Emergency Supply Station",
+            "d": "Best-friend in Energy Sourcing System"
+        },
+        "answer": "b",
+        "correct_answer_text": "Battery Energy Storage System"
+    },
+    {
+        "id": 119,
+        "question": "What is a \"Synchronous Condenser\"?",
+        "options": {
+            "a": "A large capacitor bank used to condense water vapor in substations.",
+            "b": "A synchronous motor running without a mechanical load, used exclusively to inject or absorb reactive power to regulate grid voltage.",
+            "c": "A synchronous motor running with a mechanical load, used exclusively to inject or absorb reactive power to regulate grid voltage.",
+            "d": "A type of AC-to-DC converter."
+        },
+        "answer": "b",
+        "correct_answer_text": "A synchronous motor running without a mechanical load, used exclusively to inject or absorb reactive power to regulate grid voltage."
+    },
+    {
+        "id": 120,
+        "question": "Which of the following best defines a \"Microgrid\"?",
+        "options": {
+            "a": "A tiny electrical circuit inside a smartphone.",
+            "b": "A localized group of electricity sources and loads that normally operates connected to the traditional wide-area synchronous grid, but can disconnect and function autonomously in \"island mode\".",
+            "c": "A grid that only uses wind power.",
+            "d": "A low-voltage DC distribution system for LED lighting."
+        },
+        "answer": "b",
+        "correct_answer_text": "A localized group of electricity sources and loads that normally operates connected to the traditional wide-area synchronous grid, but can disconnect and function autonomously in \"island mode\"."
+    },
+    {
+        "id": 121,
+        "question": "How do Microgrids enhance the energy security of critical facilities like hospitals and military bases?",
+        "options": {
+            "a": "They allow the facility to disconnect from the main grid and operate in \"island mode\" during a macro-grid outage.",
+            "b": "They draw double the power from the main grid during emergencies.",
+            "c": "They require less maintenance than standard wiring.",
+            "d": "They completely replace the need for an internal electrical panel."
+        },
+        "answer": "a",
+        "correct_answer_text": "They allow the facility to disconnect from the main grid and operate in \"island mode\" during a macro-grid outage."
+    },
+    {
+        "id": 122,
+        "question": "A 100 kVA Siemens transformer in a residential subdivision operates on the following 24-hour cycle: 10 hours at 20 kW (0.8 pf), 8 hours at 60 kW (0.9 pf), and 6 hours at no-load. If the core loss is a constant 800 W and the full-load copper loss is 1500 W, determine the all-day efficiency of the unit.",
+        "options": {
+            "a": "94.12%",
+            "b": "95.88%",
+            "c": "96.39%",
+            "d": "97.05%"
+        },
+        "answer": "c",
+        "correct_answer_text": "96.39%"
+    },
+    {
+        "id": 123,
+        "question": "An FM broadcast station operates at 98 MHz using a commercial Kathrein Yagi-Uda antenna with a forward gain of 12 dBi. The transmitter generates 5 kW of power, which is fed to the antenna through an Andrews Heliax transmission line that introduces a 1.5 dB loss. What is the Effective Isotropic Radiated Power (EIRP) of the system?",
+        "options": {
+            "a": "56.1 kW",
+            "b": "79.4 kW",
+            "c": "35.5 kW",
+            "d": "15.8 kW"
+        },
+        "answer": "a",
+        "correct_answer_text": "56.1 kW"
+    },
+    {
+        "id": 124,
+        "question": "An RF transmitter is broadcasting a Suppressed-Carrier Double-Sideband (SC-DSB) signal modulated by a 1 kHz audio tone with a modulation index of 0.8. The total transmitted power in this SC-DSB configuration is measured at 1500 W. If the transmitter is reconfigured to broadcast a Suppressed-Carrier Single-Sideband (SC-SSB) signal using the exact same carrier amplitude and modulation index, what will be the new total transmitted power?",
+        "options": {
+            "a": "750 W",
+            "b": "1200 W",
+            "c": "480 W",
+            "d": "600 W"
+        },
+        "answer": "a",
+        "correct_answer_text": "750 W"
+    },
+    {
+        "id": 125,
+        "question": "National energy security policies often promote an \"Energy Mix.\" Why is this critical?",
+        "options": {
+            "a": "To make billing calculations more complex",
+            "b": "To avoid over-reliance on a single fuel source, mitigating risks from supply chain disruptions or geopolitical conflicts",
+            "c": "To ensure all power plants run at 100% capacity simultaneously",
+            "d": "To eliminate the use of renewable energy"
+        },
+        "answer": "b",
+        "correct_answer_text": "To avoid over-reliance on a single fuel source, mitigating risks from supply chain disruptions or geopolitical conflicts"
+    },
+    {
+        "id": 126,
+        "question": "A 2 MVA, 13.8 kV/480 V, Delta-Wye Schneider Electric 3-phase transformer serves a heavy manufacturing plant. The no-load core loss is 6 kW. The full-load impedance drop is 5%, with a resistive drop of 1.2%. Calculate the efficiency of the transformer when it is operating at 75% of its rated load with a 0.85 lagging power factor.",
+        "options": {
+            "a": "98.11%",
+            "b": "98.49%",
+            "c": "98.85%",
+            "d": "99.02%"
+        },
+        "answer": "c",
+        "correct_answer_text": "98.85%"
+    },
+    {
+        "id": 127,
+        "question": "Silica gel prevents air moisture from entering the outdoor transformer tank. It is placed in",
+        "options": {
+            "a": "Conservator",
+            "b": "Breather",
+            "c": "Core",
+            "d": "Windings"
+        },
+        "answer": "b",
+        "correct_answer_text": "Breather"
+    },
+    {
+        "id": 128,
+        "question": "A grid-tied residential system uses Jinko Solar Tiger Pro 540W panels. The panel has an Open-Circuit Voltage of 49.42 V at STC and a temperature coefficient of -0.28%/°C. The system utilizes a Fronius Primo 5.0-1 inverter with a Maximum Input Voltage of 600 V. If the installation site experiences a minimum ambient temperature of 5°C, the electrical engineer is computing the number of panels a single series string without exceeding the inverter's voltage rating and solar irradiation is 1000 W/m2. If a panel standard area is 1.7 m2, what is the total kWp capacity of this plant for collection efficiency of 45%?",
+        "options": {
+            "a": "12.4 kWp",
+            "b": "8.4 kWp",
+            "c": "9.7 kWp",
+            "d": "5.6 kWp"
+        },
+        "answer": "b",
+        "correct_answer_text": "8.4 kWp"
+    },
+    {
+        "id": 129,
+        "question": "A homeowner installs a 6.4 kWp DC solar array in a region with an average Peak Sun Hours (PSH) of 4.8 hours/day. The system uses a Tesla Powerwall+ integrated inverter. The total system derate factor (accounting for soiling, shading, wiring losses, and inverter efficiency) is 0.82. Calculate the estimated total energy production for the month of April (30 days).",
+        "options": {
+            "a": "755.7 kWh",
+            "b": "921.6 kWh",
+            "c": "648.2 kWh",
+            "d": "812.4 kWh"
+        },
+        "answer": "a",
+        "correct_answer_text": "755.7 kWh"
+    },
+    {
+        "id": 130,
+        "question": "An electrical feeder is being designed for a commercial office floor using a Schneider Electric PowerPact L-Frame molded case circuit breaker. The connected loads consist of 120 A of continuous lighting and HVAC loads, and 85 A of non-continuous receptacle loads. According to PEC/NEC Article 2.10 (Branch Circuits) and 2.15 (Feeders), what is the minimum standard ampere-trip rating required for this circuit breaker?",
+        "options": {
+            "a": "200 A",
+            "b": "225 A",
+            "c": "250 A",
+            "d": "300 A"
+        },
+        "answer": "c",
+        "correct_answer_text": "250 A"
+    },
+    {
+        "id": 131,
+        "question": "A power plant distribution panel is supplied by a feeder with a calculated available fault current of 58 kA. The panel serves a continuous IT load of 320 A and a non-continuous cooling pump load of 60 A. The engineer must select a Square D MasterPact MTZ2 circuit breaker. Based on these parameters and PEC/NEC requirements, which breaker configuration is the most appropriate?",
+        "options": {
+            "a": "400 A Trip / 50 kAIC",
+            "b": "450 A Trip / 65 kAIC",
+            "c": "500 A Trip / 65 kAIC",
+            "d": "600 A Trip / 100 kAIC"
+        },
+        "answer": "c",
+        "correct_answer_text": "500 A Trip / 65 kAIC"
+    },
+    {
+        "id": 132,
+        "question": "A 500 HP, 4160 V, 3-phase, star-connected synchronous motor drives a centrifugal gas compressor in a petrochemical refinery. It operates at full load with an efficiency of 92% at a 0.8 leading power factor. If the synchronous reactance is 15 Ω/phase and armature resistance is negligible, calculate the generated back EMF per phase.",
+        "options": {
+            "a": "2402 V/phase",
+            "b": "2850 V/phase",
+            "c": "3150 V/phase",
+            "d": "4160 V/phase"
+        },
+        "answer": "c",
+        "correct_answer_text": "3150 V/phase"
+    },
+    {
+        "id": 133,
+        "question": "A 220-V DC shunt motor runs at 1000 RPM and takes an armature current of 40 A. The armature resistance is 0.2 Ω. If the load torque is halved, calculate the new speed of the motor. Assume the shunt field flux remains constant.",
+        "options": {
+            "a": "1009.4 RPM",
+            "b": "1018.9 RPM",
+            "c": "1037.7 RPM",
+            "d": "2008.0 RPM"
+        },
+        "answer": "b",
+        "correct_answer_text": "1018.9 RPM"
+    },
+    {
+        "id": 134,
+        "question": "A 220 kV three phase transmission line is 40 km long. The resistance per phase is 6 ohms per phase and the inductance per phase is 20 ohms per phase. The shunt capacitance is negligible. Determine the sending end line voltage when supplying 381 MVA at 0.8 power factor leading at 220 kV.",
+        "options": {
+            "a": "119.82 + j19.6 kV",
+            "b": "143.82 + j12.4 kV",
+            "c": "120 + j10.4 kV",
+            "d": "240 + j15.4 kV"
+        },
+        "answer": "a",
+        "correct_answer_text": "119.82 + j19.6 kV"
+    },
+    {
+        "id": 135,
+        "question": "An industrial manufacturing plant requires an average illuminance of 500 lux on the work plane for a newly expanded assembly floor measuring 40 meters by 25 meters. The facility engineers select LED fixtures that emit 3,200 lumens each. If the room has a coefficient of utilization (CU) of 0.60 and a maintenance factor (MF) of 0.80 due to dust accumulation, how many fixtures are required to meet the illumination standard?",
+        "options": {
+            "a": "156",
+            "b": "275",
+            "c": "326",
+            "d": "412"
+        },
+        "answer": "c",
+        "correct_answer_text": "326"
+    },
+    {
+        "id": 136,
+        "question": "A street lighting fixture is mounted on a pole 8 meters above an access road. The lamp acts as a point source, emitting a luminous intensity of 4,000 candelas uniformly in all downward directions. Calculate the illuminance (in lux) at a specific point on the ground that is exactly 6 meters horizontally away from the base of the pole.",
+        "options": {
+            "a": "24.0 lux",
+            "b": "32.0 lux",
+            "c": "40.0 lux",
+            "d": "50.0 lux"
+        },
+        "answer": "b",
+        "correct_answer_text": "32.0 lux"
+    },
+    {
+        "id": 137,
+        "question": "A 230-V DC series motor takes 50 A when running at 800 RPM. The armature resistance is 0.1 Ω and the series field resistance is 0.15 Ω. The load torque is reduced such that the motor takes 30 A. Determine the new speed. (Assume the magnetic circuit is unsaturated).",
+        "options": {
+            "a": "1364 RPM",
+            "b": "1333 RPM",
+            "c": "818 RPM",
+            "d": "469 RPM"
+        },
+        "answer": "a",
+        "correct_answer_text": "1364 RPM"
+    },
+    {
+        "id": 138,
+        "question": "A 25 MVA, 11 kV, 3-phase, Y-connected GE hydro-generator delivers its rated load at a 0.9 lagging power factor to the grid. The effective armature resistance is 0.1 Ω/phase and the synchronous reactance is 1.5 Ω/phase. What is the generated line-to-line voltage (EMF) under these operating conditions?",
+        "options": {
+            "a": "11,000 V",
+            "b": "12,450 V",
+            "c": "13,033 V",
+            "d": "13,850 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "13,033 V"
+    },
+    {
+        "id": 139,
+        "question": "Two substation transformers operate in parallel to supply a 1,000 kVA factory load at 0.8 power factor lagging. Transformer A is rated at 500 kVA with a 4% impedance, and Transformer B is rated at 750 kVA with a 5% impedance. what is the apparent power shared by Transformer A?",
+        "options": {
+            "a": "400.0 kVA",
+            "b": "454.5 kVA",
+            "c": "500.0 kVA",
+            "d": "545.5 kVA"
+        },
+        "answer": "b",
+        "correct_answer_text": "454.5 kVA"
+    },
+    {
+        "id": 140,
+        "question": "Two DC shunt generators are connected in parallel to supply an industrial traction load of 150 A. Generator 1 has a no-load voltage of 240 V and experiences a 10 V drop when delivering 100 A. Generator 2 has a no-load voltage of 245 V and experiences a 15 V drop when delivering 100 A. What is the terminal bus voltage of the parallel system?",
+        "options": {
+            "a": "228 V",
+            "b": "230 V",
+            "c": "233 V",
+            "d": "238 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "233 V"
+    },
+    {
+        "id": 141,
+        "question": "Which of the following software platforms is considered an industry standard specifically tailored for power system modeling, short-circuit fault analysis, and protection coordination?",
+        "options": {
+            "a": "AutoCAD Electrical",
+            "b": "ETAP (Electrical Transient Analyzer Program)",
+            "c": "NI Multisim",
+            "d": "DIALux"
+        },
+        "answer": "b",
+        "correct_answer_text": "ETAP (Electrical Transient Analyzer Program)"
+    },
+    {
+        "id": 142,
+        "question": "When simulating high-frequency transients, lightning strikes, and switching overvoltages in power systems, which software is the most appropriate choice?",
+        "options": {
+            "a": "PSCAD (Power Systems Computer Aided Design)",
+            "b": "PSS/E (Power System Simulator for Engineering)",
+            "c": "Relux",
+            "d": "SPICE"
+        },
+        "answer": "a",
+        "correct_answer_text": "PSCAD (Power Systems Computer Aided Design)"
+    },
+    {
+        "id": 143,
+        "question": "In ETAP, what is the primary purpose of the \"Arc Flash Analysis\" module?",
+        "options": {
+            "a": "To simulate harmonic distortions in power lines",
+            "b": "To calculate the incident energy",
+            "c": "To model the lighting requirements of an electrical substation",
+            "d": "To optimize the physical layout of underground cables"
+        },
+        "answer": "b",
+        "correct_answer_text": "To calculate the incident energy"
+    },
+    {
+        "id": 144,
+        "question": "Which software tool is most widely utilized by transmission system operators (TSOs) for steady-state power flow and dynamic simulation of large-scale interconnected electrical grids?",
+        "options": {
+            "a": "PSpice",
+            "b": "AGi32",
+            "c": "PSS/E",
+            "d": "MATLAB"
+        },
+        "answer": "c",
+        "correct_answer_text": "PSS/E"
+    },
+    {
+        "id": 145,
+        "question": "A 2000 kVA, 3.3 kV, 3-phase, 50 Hz Cummins diesel generator operates at full load and a 0.8 lagging power factor. The friction and windage losses are 15 kW, core losses are 25 kW, and field circuit power input is 12 kW. The Y-connected armature resistance is 0.05 Ω/phase. Calculate the full-load electrical efficiency of the alternator.",
+        "options": {
+            "a": "94.62%",
+            "b": "95.79%",
+            "c": "96.15%",
+            "d": "97.02%"
+        },
+        "answer": "b",
+        "correct_answer_text": "95.79%"
+    },
+    {
+        "id": 146,
+        "question": "SKM PowerTools for Windows (PTW) is highly comparable to ETAP. What is one of its primary engineering functions?",
+        "options": {
+            "a": "Designing printed circuit boards (PCBs)",
+            "b": "Creating architectural 3D models",
+            "c": "Conducting short-circuit, load flow, and arc flash studies",
+            "d": "Programming Programmable Logic Controllers (PLCs)"
+        },
+        "answer": "c",
+        "correct_answer_text": "Conducting short-circuit, load flow, and arc flash studies"
+    },
+    {
+        "id": 147,
+        "question": "A 2000 kVA, 3.3 kV, 3-phase, 50 Hz Cummins diesel generator operates at full load and a 0.8 lagging power factor. The friction and windage losses are 15 kW, core losses are 25 kW, and field circuit power input is 12 kW. The Y-connected armature resistance is 0.05 Ω/phase. Calculate the full-load electrical efficiency of the alternator.",
+        "options": {
+            "a": "94.62%",
+            "b": "95.79%",
+            "c": "96.15%",
+            "d": "97.02%"
+        },
+        "answer": "b",
+        "correct_answer_text": "95.79%"
+    },
+    {
+        "id": 148,
+        "question": "To adjust the power of the alternator, adjust the",
+        "options": {
+            "a": "Power factor",
+            "b": "Governor",
+            "c": "Field current",
+            "d": "Frequency"
+        },
+        "answer": "b",
+        "correct_answer_text": "Governor"
+    },
+    {
+        "id": 149,
+        "question": "A long-shunt compound DC generator delivers a load current of 50 A at a terminal voltage of 500 V. The resistances of the armature, series field, and shunt field are 0.05 Ω, 0.03 Ω, and 250 Ω, respectively. Compute the generated armature EMF.",
+        "options": {
+            "a": "500.00 V",
+            "b": "508.32 V",
+            "c": "504.16 V",
+            "d": "504.00 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "504.16 V"
+    },
+    {
+        "id": 150,
+        "question": "In power system simulation, what does a \"motor starting analysis\" primarily help an electrical engineer determine?",
+        "options": {
+            "a": "The luminous efficacy of the motor's indicator lights",
+            "b": "The voltage dip (drop) across the system when a large motor is turned on",
+            "c": "The mechanical wear and tear on the motor shaft to creep during continuous load application",
+            "d": "The harmonic frequency of the control circuit"
+        },
+        "answer": "b",
+        "correct_answer_text": "The voltage dip (drop) across the system when a large motor is turned on"
+    },
+    {
+        "id": 151,
+        "question": "What does \"SPICE\" stand for in the context of electrical engineering software?",
+        "options": {
+            "a": "System Power and Illumination Calculation Engine",
+            "b": "Simulation Program with Integrated Circuit Emphasis",
+            "c": "Software Protocol for Industrial Control Environments",
+            "d": "Synchronous Power Integration and Circuit Evaluator"
+        },
+        "answer": "b",
+        "correct_answer_text": "Simulation Program with Integrated Circuit Emphasis"
+    },
+    {
+        "id": 152,
+        "question": "Which software environment, paired with MATLAB, is extensively used for block-diagram modeling and simulating dynamic systems such as power electronics and control systems?",
+        "options": {
+            "a": "Simulink",
+            "b": "LabVIEW",
+            "c": "AutoCAD",
+            "d": "PSS/E"
+        },
+        "answer": "a",
+        "correct_answer_text": "Simulink"
+    },
+    {
+        "id": 153,
+        "question": "Which simulation software is primarily known for its interactive, schematic-capture environment, making it highly popular in educational settings for testing analog and digital electronic circuits?",
+        "options": {
+            "a": "DIALux evo",
+            "b": "SKM PTW",
+            "c": "NI Multisim",
+            "d": "ETAP"
+        },
+        "answer": "c",
+        "correct_answer_text": "NI Multisim"
+    },
+    {
+        "id": 154,
+        "question": "A long-shunt compound DC generator delivers a load current of 50 A at a terminal voltage of 500 V. The resistances of the armature, series field, and shunt field are 0.05 Ω, 0.03 Ω, and 250 Ω, respectively. Compute the generated armature EMF.",
+        "options": {
+            "a": "500.00 V",
+            "b": "508.32 V",
+            "c": "504.16 V",
+            "d": "504.00 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "504.16 V"
+    },
+    {
+        "id": 155,
+        "question": "Which free, globally recognized software is the leading tool for professional indoor, outdoor, and street lighting design?",
+        "options": {
+            "a": "ETAP",
+            "b": "DIALux",
+            "c": "PSS/E",
+            "d": "Multisim"
+        },
+        "answer": "b",
+        "correct_answer_text": "DIALux"
+    },
+    {
+        "id": 156,
+        "question": "Which of the following instrument is used to measure high resistance as in the measurement of insulation resistance?",
+        "options": {
+            "a": "Wheatstone bridge",
+            "b": "Megger",
+            "c": "Ohmmeter",
+            "d": "Multi-tester"
+        },
+        "answer": "b",
+        "correct_answer_text": "Megger"
+    },
+    {
+        "id": 157,
+        "question": "Which of the following is the eddy current loss proportional to?",
+        "options": {
+            "a": "Square of the flux density",
+            "b": "The square of the load current of the laminated core",
+            "c": "Square of the frequency",
+            "d": "Square of the thickness"
+        },
+        "answer": "c",
+        "correct_answer_text": "Square of the frequency"
+    },
+    {
+        "id": 158,
+        "question": "In a single phase transformer, the core losses is 60 W at 40 Hz and 95 W at 60 Hz both measured at the maximum value of flux density. Find the core losses in W at a frequency of 50 Hz.",
+        "options": {
+            "a": "69",
+            "b": "77",
+            "c": "89",
+            "d": "56"
+        },
+        "answer": "b",
+        "correct_answer_text": "77"
+    },
+    {
+        "id": 159,
+        "question": "Relux is a powerful alternative to DIALux. Both programs allow engineers to calculate \"Daylighting.\" What does daylighting analysis do?",
+        "options": {
+            "a": "It measures the amount of ultraviolet light emitted by LED fixtures.",
+            "b": "It simulates how natural sunlight interacts with interior spaces to reduce the need for artificial lighting.",
+            "c": "It calculates the solar panel energy generation for a building.",
+            "d": "It converts night-time street lighting to daylight color temperatures."
+        },
+        "answer": "b",
+        "correct_answer_text": "It simulates how natural sunlight interacts with interior spaces to reduce the need for artificial lighting."
+    },
+    {
+        "id": 160,
+        "question": "When setting up a room in lighting simulation software, the \"Maintenance Factor\" (or Light Loss Factor) is applied. What does this factor account for?",
+        "options": {
+            "a": "The financial cost of replacing light bulbs",
+            "b": "The depreciation of light output over time due to dirt accumulation",
+            "c": "The power factor of the lighting circuits",
+            "d": "The ratio of natural light to artificial light"
+        },
+        "answer": "b",
+        "correct_answer_text": "The depreciation of light output over time due to dirt accumulation"
+    },
+    {
+        "id": 161,
+        "question": "Which organization publishes the primary standards, handbooks, and recommended practices for lighting design?",
+        "options": {
+            "a": "IEEE (Institute of Electrical and Electronics Engineers)",
+            "b": "IES (Illuminating Engineering Society)",
+            "c": "NEMA (National Electrical Manufacturers Association)",
+            "d": "NFPA (National Fire Protection Association)"
+        },
+        "answer": "b",
+        "correct_answer_text": "IES (Illuminating Engineering Society)"
+    },
+    {
+        "id": 162,
+        "question": "A 3 cm wavelength radar is located at the origin of a xy-coordinate system. A car located at x = 100 m and y = 200 m is heading east (x-direction) at a speed of 120 km/hr. What is the Doppler frequency measured by the radar?",
+        "options": {
+            "a": "993.81 Hz",
+            "b": "553.18 Hz",
+            "c": "-993.81 Hz",
+            "d": "-553.18 Hz"
+        },
+        "answer": "c",
+        "correct_answer_text": "-993.81 Hz"
+    },
+    {
+        "id": 163,
+        "question": "A 6-pole, 460 V, 60 Hz WEG induction motor drives an industrial aggregate conveyor belt. Under current loading, the rotor speed is 1164 RPM. The rotor's standstill resistance is 0.2 Ω/phase and standstill reactance is 1.5 Ω/phase. Determine the frequency of the rotor currents and the rotor power factor at this specific operating speed.",
+        "options": {
+            "a": "1.8 Hz; 0.975 lagging",
+            "b": "1.8 Hz; 0.850 lagging",
+            "c": "3.6 Hz; 0.975 lagging",
+            "d": "3.6 Hz; 0.850 lagging"
+        },
+        "answer": "a",
+        "correct_answer_text": "1.8 Hz; 0.975 lagging"
+    },
+    {
+        "id": 164,
+        "question": "According to general European (EN 12464-1) and IES standards, what is the recommended average illuminance level for general office work (e.g., reading, writing, and computer tasks)?",
+        "options": {
+            "a": "50 Lux",
+            "b": "150 Lux",
+            "c": "500 Lux",
+            "d": "2000 Lux"
+        },
+        "answer": "c",
+        "correct_answer_text": "500 Lux"
+    },
+    {
+        "id": 165,
+        "question": "A 50 HP, 460 V, 60 Hz TECO-Westinghouse induction motor powers an HVAC chiller blower. The motor draws 35 kW from the mains. Stator copper losses are 1.2 kW and core losses are 800 W. The motor runs at a slip of 2.5%, and friction and windage losses amount to 600 W. Calculate the mechanical power developed and the overall efficiency.",
+        "options": {
+            "a": "32.175 kW; 90.21%",
+            "b": "33.000 kW; 91.50%",
+            "c": "32.175 kW; 91.93%",
+            "d": "31.575 kW; 90.21%"
+        },
+        "answer": "a",
+        "correct_answer_text": "32.175 kW; 90.21%"
+    },
+    {
+        "id": 166,
+        "question": "A 4-pole, 3-phase, 50 Hz wound-rotor induction motor operates a heavy-duty mining crusher. The rotor resistance is 0.4 Ω/phase and the standstill reactance is 2.0 Ω/phase. The motor continuously operates at a full-load slip of 4%. Determine the ratio of the full-load torque to the maximum pull-out torque.",
+        "options": {
+            "a": "34.50%",
+            "b": "38.46%",
+            "c": "42.15%",
+            "d": "45.00%"
+        },
+        "answer": "b",
+        "correct_answer_text": "38.46%"
+    },
+    {
+        "id": 167,
+        "question": "Which metric is used to measure a light source's ability to reveal the true colors of objects compared to a natural light source?",
+        "options": {
+            "a": "Luminous Efficacy",
+            "b": "Correlated Color Temperature (CCT)",
+            "c": "Color Rendering Index (CRI)",
+            "d": "Unified Glare Rating (UGR)"
+        },
+        "answer": "c",
+        "correct_answer_text": "Color Rendering Index (CRI)"
+    },
+    {
+        "id": 168,
+        "question": "Which international commission is globally responsible for establishing standards in light, illumination, color, and photometric units?",
+        "options": {
+            "a": "IEC (International Electrotechnical Commission)",
+            "b": "CIE (International Commission on Illumination)",
+            "c": "ANSI (American National Standards Institute)",
+            "d": "ISO (International Organization for Standardization)"
+        },
+        "answer": "b",
+        "correct_answer_text": "CIE (International Commission on Illumination)"
+    },
+    {
+        "id": 169,
+        "question": "Which of the following is used for tuning an amplitude (AM) signal?",
+        "options": {
+            "a": "Varactor",
+            "b": "Resonator",
+            "c": "Thermistor",
+            "d": "Pin diode"
+        },
+        "answer": "a",
+        "correct_answer_text": "Varactor"
+    },
+    {
+        "id": 170,
+        "question": "Correlated Color Temperature (CCT) is measured in Kelvin (K). According to lighting standards, a light source with a CCT of 5000K is considered:",
+        "options": {
+            "a": "Warm White (yellowish)",
+            "b": "Neutral White",
+            "c": "Daylight (bluish-white)",
+            "d": "Infrared"
+        },
+        "answer": "c",
+        "correct_answer_text": "Cool White / Daylight (bluish-white)"
+    },
+    {
+        "id": 171,
+        "question": "A 100 MVA, 13.8 kV generator with a subtransient reactance of X'' = 10.417 p.u. is connected to a 100 MVA, 13.8/115 kV step-up transformer with a leakage reactance of X = 0.10 p.u (as referred to s.w.). A transmission line with a reactance of X = 0.05 p.u. connects the transformer to a substation bus. If a 3-phase solid fault occurs at the substation bus, what is the short-circuit fault level in MVA?",
+        "options": {
+            "a": "333.3 MVA",
+            "b": "500.0 MVA",
+            "c": "666.7 MVA",
+            "d": "1000.0 MVA"
+        },
+        "answer": "a",
+        "correct_answer_text": "333.3 MVA"
+    },
+    {
+        "id": 172,
+        "question": "A 3-phase, 11 kV short transmission line delivers a load of 1000 kW at a 0.8 lagging power factor. The line impedance per phase is 1.5 + j4.0 Ω. What is the line-to-line sending-end voltage?",
+        "options": {
+            "a": "11.41 kV",
+            "b": "12.05 kV",
+            "c": "11.89 kV",
+            "d": "11.22 kV"
+        },
+        "answer": "a",
+        "correct_answer_text": "11.41 kV"
+    },
+    {
+        "id": 173,
+        "question": "A short 3-phase transmission line has a receiving-end line voltage of 33 kV and delivers 5 MW of active power at a 0.8 lagging power factor. If the resistance of the line is 5 Ω per phase, what is the transmission efficiency?",
+        "options": {
+            "a": "94.2%",
+            "b": "96.5%",
+            "c": "98.1%",
+            "d": "92.8%"
+        },
+        "answer": "b",
+        "correct_answer_text": "96.5%"
+    },
+    {
+        "id": 174,
+        "question": "A medium length 3-phase transmission line modeled with the Nominal Pi circuit has a series impedance Z = 20 + j50 Ω and a total shunt admittance Y = j0.0004 S. It delivers 50 MVA at 132 kV (line-to-line) and 0.8 lagging power factor. What is the magnitude of the sending-end phase voltage?",
+        "options": {
+            "a": "143.2 kV",
+            "b": "85.7 kV",
+            "c": "76.2 kV",
+            "d": "148.5 kV"
+        },
+        "answer": "b",
+        "correct_answer_text": "85.7 kV"
+    },
+    {
+        "id": 175,
+        "question": "A 3-phase, 60 Hz, 4160 V system supplies a load of 1500 kW at a 0.75 lagging power factor. A delta-connected capacitor bank is to be installed to improve the overall power factor to 0.95 lagging. Calculate the required capacitance per phase of the capacitor bank.",
+        "options": {
+            "a": "14.1 µF",
+            "b": "35.8 µF",
+            "c": "42.4 µF",
+            "d": "127.2 µF"
+        },
+        "answer": "c",
+        "correct_answer_text": "42.4 µF"
+    },
+    {
+        "id": 176,
+        "question": "Given the unbalanced phase voltages: V_a = 200∠0° V, V_b = 200∠-90° V, and V_c = 200∠150° V. What is the magnitude and angle of the negative sequence voltage component for phase A (V_a2)?",
+        "options": {
+            "a": "34.5∠-75° V",
+            "b": "69.0∠-75° V",
+            "c": "34.5∠75° V",
+            "d": "100∠-120° V"
+        },
+        "answer": "a",
+        "correct_answer_text": "34.5∠-75° V"
+    },
+    {
+        "id": 177,
+        "question": "The sequence components of current for phase A are given as: I_a0 = 10∠90° A, I_a1 = 20∠-30° A, and I_a2 = 10∠150° A. What is the value of the phase B current (I_b)?",
+        "options": {
+            "a": "20∠-150° A",
+            "b": "10∠-150° A",
+            "c": "30∠90° A",
+            "d": "20∠-30° A"
+        },
+        "answer": "a",
+        "correct_answer_text": "20∠-150° A"
+    },
+    {
+        "id": 178,
+        "question": "An industrial plant draws 1000 kW at 0.6 lagging power factor from a 480 V supply. To improve the plant's power factor to 0.9 lagging, a synchronous motor operating at an efficiency of 89.5% is installed to drive a 300 hp mechanical load. What is the required kVA rating of the synchronous motor?",
+        "options": {
+            "a": "605 kVA",
+            "b": "728 kVA",
+            "c": "770 kVA",
+            "d": "850 kVA"
+        },
+        "answer": "c",
+        "correct_answer_text": "770 kVA"
+    },
+    {
+        "id": 179,
+        "question": "A 2000 kW load at 0.8 power factor lagging is supplied by a 6.6 kV 3-phase source. A synchronous motor drawing 500 kW of real power is added to the system to bring the total system power factor to 0.95 leading. Determine the leading reactive power (kVAR) that must be supplied by the synchronous motor.",
+        "options": {
+            "a": "822 kVAR",
+            "b": "1500 kVAR",
+            "c": "2322 kVAR",
+            "d": "3822 kVAR"
+        },
+        "answer": "c",
+        "correct_answer_text": "2322 kVAR"
+    },
+    {
+        "id": 180,
+        "question": "A 500 HP induction motor operates at full load with 85% efficiency and a 0.8 lagging power factor. It is connected to a 2400 V, 3-phase line. Find the kVAR rating of a delta-connected capacitor bank required to raise the motor's power factor to unity.",
+        "options": {
+            "a": "260 kVAR",
+            "b": "329 kVAR",
+            "c": "439 kVAR",
+            "d": "500 kVAR"
+        },
+        "answer": "b",
+        "correct_answer_text": "329 kVAR"
+    },
+    {
+        "id": 181,
+        "question": "A power system consists of two generators, each connected to a common 115 kV bus via their own step-up transformers. Generator 1 (100 MVA, X'' = 0.20 p.u.) is connected via Transformer 1 (100 MVA, X = 0.10 p.u.). Generator 2 (100 MVA, X'' = 0.15 p.u.) is connected via Transformer 2 (100 MVA, X = 0.05 p.u.). What is the 3-phase short-circuit capacity (Fault MVA) at the common 115 kV bus? (Assume all reactances are on a 100 MVA base and pre-fault voltage is 1.0 p.u.)",
+        "options": {
+            "a": "500 MVA",
+            "b": "667 MVA",
+            "c": "833 MVA",
+            "d": "1000 MVA"
+        },
+        "answer": "c",
+        "correct_answer_text": "833 MVA"
+    },
+    {
+        "id": 182,
+        "question": "Two parallel wires carrying equal currents of 10A attract each other with a force of 1 mN. If both currents are doubled, the force of attraction will be:",
+        "options": {
+            "a": "1 mN",
+            "b": "0.5 mN",
+            "c": "4 mN",
+            "d": "0.25 mN"
+        },
+        "answer": "c",
+        "correct_answer_text": "4 mN"
+    },
+    {
+        "id": 183,
+        "question": "The units of motional emf are:",
+        "options": {
+            "a": "tesla-meter^2/second",
+            "b": "volt/tesla",
+            "c": "volt-meter/second",
+            "d": "tesla/second"
+        },
+        "answer": "a",
+        "correct_answer_text": "tesla-meter^2/second"
+    },
+    {
+        "id": 184,
+        "question": "A nuclear power plant delivers a continuous electrical output of 1000 MW. If the overall thermal-to-electrical efficiency of the plant is 33%, calculate the mass of pure U-235 consumed per day.",
+        "options": {
+            "a": "1.05 kg",
+            "b": "2.15 kg",
+            "c": "3.19 kg",
+            "d": "4.45 kg"
+        },
+        "answer": "c",
+        "correct_answer_text": "3.19 kg"
+    },
+    {
+        "id": 185,
+        "question": "Suppose this page is perpendicular to a uniform magnetic field and the magnetic flux through it is 5Wb. If the page is turned by 30º around an edge the flux through it will be:",
+        "options": {
+            "a": "2.5 Wb",
+            "b": "5 Wb",
+            "c": "4.3 Wb",
+            "d": "5.8 Wb"
+        },
+        "answer": "c",
+        "correct_answer_text": "4.3 Wb"
+    },
+    {
+        "id": 186,
+        "question": "A fault occurs at a common bus fed by two distinct generator-transformer branches. Branch 1 consists of a 50 MVA generator (X'' = 0.10 p.u. on its own rating) and a 100 MVA transformer (X = 0.10 p.u. on its own rating). Branch 2 consists of a 100 MVA generator (X'' = 0.20 p.u. on its own rating) and a 50 MVA transformer (X = 0.05 p.u. on its own rating). Selecting a common system base of 100 MVA, what is the total per-unit subtransient fault current at the common bus?",
+        "options": {
+            "a": "3.33 p.u.",
+            "b": "6.67 p.u.",
+            "c": "8.33 p.u.",
+            "d": "10.0 p.u."
+        },
+        "answer": "b",
+        "correct_answer_text": "6.67 p.u."
+    },
+    {
+        "id": 187,
+        "question": "A 500 MW electrical nuclear generation station operates at a capacity factor of 80% over a 365-day year. If the plant efficiency is 30%, how much U-235 is fissioned annually?",
+        "options": {
+            "a": "384 kg",
+            "b": "512 kg",
+            "c": "640 kg",
+            "d": "1280 kg"
+        },
+        "answer": "b",
+        "correct_answer_text": "512 kg"
+    },
+    {
+        "id": 188,
+        "question": "Which of the following contributes the highest cost in electricity bill?",
+        "options": {
+            "a": "Generation",
+            "b": "Transmission",
+            "c": "Distribution",
+            "d": "Supply"
+        },
+        "answer": "a",
+        "correct_answer_text": "Generation"
+    },
+    {
+        "id": 189,
+        "question": "In compensation theorem, the generators are replaced by:",
+        "options": {
+            "a": "Zero internal impedance",
+            "b": "Infinite impedance",
+            "c": "Another generator",
+            "d": "LC circuit"
+        },
+        "answer": "a",
+        "correct_answer_text": "Zero internal impedance"
+    },
+    {
+        "id": 190,
+        "question": "A single-phase short transmission line has a series impedance of 1 + j3 ohms. The receiving end voltage is 2400 V. The sending end voltage is measured at 2500 V, and the line current is 40 A. Determine the receiving end power factor.",
+        "options": {
+            "a": "0.707 lagging",
+            "b": "0.840 lagging",
+            "c": "0.920 lagging",
+            "d": "0.980 lagging"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.840 lagging"
+    },
+    {
+        "id": 191,
+        "question": "A single-phase short transmission line delivers power at a receiving end voltage of 2.4 kV and a 0.8 lagging power factor. The line impedance is $1 + j3\\ \\Omega$. If the sending end voltage is maintained at 2.5 kV, find the magnitude of the line current.",
+        "options": {
+            "a": "25.4 A",
+            "b": "38.1 A",
+            "c": "45.2 A",
+            "d": "52.0 A"
+        },
+        "answer": "b",
+        "correct_answer_text": "38.1 A"
+    },
+    {
+        "id": 192,
+        "question": "A 3-phase short line has an impedance of 2 + j5 ohm per phase. The sending end line-to-line voltage is 13.8 kV, and the receiving end line-to-line voltage is 13.2 kV. If the load operates at a 0.85 lagging power factor, what is the magnitude of the line current?",
+        "options": {
+            "a": "45 A",
+            "b": "62 A",
+            "c": "79 A",
+            "d": "95 A"
+        },
+        "answer": "c",
+        "correct_answer_text": "79 A"
+    },
+    {
+        "id": 193,
+        "question": "A 3-phase, 460 V, 60 Hz, star-connected synchronous motor has a synchronous reactance of 1.5 Ω/phase and negligible armature resistance. It draws an armature current of 120 A at a 0.8 leading power factor. Determine the magnitude of the torque angle:",
+        "options": {
+            "a": "12.5°",
+            "b": "21.1°",
+            "c": "26.8°",
+            "d": "36.9°"
+        },
+        "answer": "b",
+        "correct_answer_text": "21.1°"
+    },
+    {
+        "id": 194,
+        "question": "A 3-phase, star-connected synchronous generator supplies power to an infinite bus of 11 kV (line-to-line). The synchronous reactance is 10 Ω per phase. If the generated EMF is 13 kV (line-to-line) and the torque angle is 25°, calculate the total mechanical power developed (assuming no losses).",
+        "options": {
+            "a": "2.01 MW",
+            "b": "3.84 MW",
+            "c": "6.04 MW",
+            "d": "14.30 MW"
+        },
+        "answer": "c",
+        "correct_answer_text": "6.04 MW"
+    },
+    {
+        "id": 195,
+        "question": "A 3-phase, 2300 V, star-connected synchronous motor operates with a back EMF of 2600 V (line-to-line) and a torque angle of 15°. If the synchronous reactance is 5 Ω/phase and resistance is negligible, find the magnitude of the line current.",
+        "options": {
+            "a": "41.5 A",
+            "b": "65.2 A",
+            "c": "81.4 A",
+            "d": "103.8 A"
+        },
+        "answer": "c",
+        "correct_answer_text": "81.4 A"
+    },
+    {
+        "id": 196,
+        "question": "What is the most common cause of failure in cable termination?",
+        "options": {
+            "a": "Tracking",
+            "b": "Wrong clearance",
+            "c": "Poor shedding",
+            "d": "Improper insulation penciling"
+        },
+        "answer": "d",
+        "correct_answer_text": "Improper insulation penciling"
+    },
+    {
+        "id": 197,
+        "question": "A balanced three phase wye connected load of 150 kw takes a leading current of 100 A when the line is 2400 V, 60 Hz. What is the capacitance per phase?",
+        "options": {
+            "a": "21 mF",
+            "b": "21 microF",
+            "c": "205 mF",
+            "d": "205 microF"
+        },
+        "answer": "b",
+        "correct_answer_text": "21 microF"
+    },
+    {
+        "id": 198,
+        "question": "A four pole generator has 500 conductors on the armature. If the generator is running at 1200 rpm, the average voltage generated between brushes for wave winding. The total flux per pole is 10^6 lines.",
+        "options": {
+            "a": "200 V",
+            "b": "120 V",
+            "c": "100 V",
+            "d": "250 V"
+        },
+        "answer": "a",
+        "correct_answer_text": "200 V"
+    },
+    {
+        "id": 199,
+        "question": "At time t = 0 the charge on the 50 microF capacitor in an LC circuit is 15 microC and there is no current. If the inductance is 20 mH the maximum current is .",
+        "options": {
+            "a": "15 nA",
+            "b": "15 microA",
+            "c": "6.7 mA",
+            "d": "15 mA"
+        },
+        "answer": "d",
+        "correct_answer_text": "15 mA"
+    },
+    {
+        "id": 200,
+        "question": "A certain sample carries a current of 4 A when the potential difference is 2V and a current of 10A when the potential difference is 4V. this sample .",
+        "options": {
+            "a": "Obeys ohms law",
+            "b": "Has a resistance of 2.5 and 1V",
+            "c": "Has a resistance of 0.5 and 1V",
+            "d": "Does not have a resistance"
+        },
+        "answer": "b",
+        "correct_answer_text": "Has a resistance of 2.5 and 1V"
+    },
+    {
+        "id": 201,
+        "question": "The reactive power is also called as power and it expressed in",
+        "options": {
+            "a": "True, VAR",
+            "b": "Imaginary, VAR",
+            "c": "Imaginary, VA",
+            "d": "Real, VA"
+        },
+        "answer": "b",
+        "correct_answer_text": "Imaginary, VAR"
+    },
+    {
+        "id": 202,
+        "question": "If R = 3 ohms is in series with XL = 4 ohms. Then the admittance of this circuit is Y = ?",
+        "options": {
+            "a": "5",
+            "b": "25",
+            "c": "0.2",
+            "d": "0.4"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.2"
+    }
+]
