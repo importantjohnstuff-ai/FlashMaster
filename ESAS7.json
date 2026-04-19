@@ -1,0 +1,4310 @@
+[
+    {
+        "id": 1,
+        "question": "What is the total resistance of 11 - 33kΩ resistors connected in parallel",
+        "options": {
+            "a": "3.3 kΩ",
+            "b": "3 kΩ",
+            "c": "1 kΩ",
+            "d": "11 kΩ"
+        },
+        "answer": "b",
+        "correct_answer_text": "3 kΩ"
+    },
+    {
+        "id": 2,
+        "question": "Given: Ia = 65∠0; Ib = -17 - j17.31; Ic = 17 + j31. Find the positive sequence Ia1?",
+        "options": {
+            "a": "232.61 - j12.1",
+            "b": "322.61 - j21.1",
+            "c": "232.61 + j12.1",
+            "d": "322.61 + j21.1"
+        },
+        "answer": "a",
+        "correct_answer_text": "232.61 - j12.1"
+    },
+    {
+        "id": 3,
+        "question": "Calculate the value of aj + 1",
+        "options": {
+            "a": "0.5 + j 0.866",
+            "b": "1 + j 0",
+            "c": "0.866 - j 0.5",
+            "d": "0.134 – j 0.5"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.134 – j 0.5"
+    },
+    {
+        "id": 4,
+        "question": "What is the equivalent value of this expression aj + a² in rectangular form?",
+        "options": {
+            "a": "1.366 - j1.366",
+            "b": "-1.366 + j1.366",
+            "c": "1.366 + j1.366",
+            "d": "-1.366 - j1.366"
+        },
+        "answer": "d",
+        "correct_answer_text": "-1.366 - j1.366"
+    },
+    {
+        "id": 5,
+        "question": "A certain wire has resistance R. Another wire, of the same material, has half the length and half the diameter of the first wire. The resistance of the second wire is:",
+        "options": {
+            "a": "R/4",
+            "b": "R/2",
+            "c": "R",
+            "d": "2R"
+        },
+        "answer": "d",
+        "correct_answer_text": "2R"
+    },
+    {
+        "id": 6,
+        "question": "Capacitors C₁ and C₂ are connected in series. The equivalent capacitance is given by:",
+        "options": {
+            "a": "C1C2/(C1+C2)",
+            "b": "(C1+C2)/C1C2",
+            "c": "1/(C1+C2)",
+            "d": "C1/C2"
+        },
+        "answer": "a",
+        "correct_answer_text": "C1C2/(C1+C2)"
+    },
+    {
+        "id": 7,
+        "question": "A series circuit consists of three resistors R1, R2 and R3 which are connected to a 240V source. If the voltage drop across R1 is 60V when the current is 4A and R2 = 1.5R3, what is the ohmic resistance of R2?",
+        "options": {
+            "a": "15 Ω",
+            "b": "18 Ω",
+            "c": "27 Ω",
+            "d": "28 Ω"
+        },
+        "answer": "c",
+        "correct_answer_text": "27 Ω"
+    },
+    {
+        "id": 8,
+        "question": "A circuit has 2 ohms of resistance and 4 ohms of reactance. What is the admittance?",
+        "options": {
+            "a": "0.564",
+            "b": "0.224",
+            "c": "0.117",
+            "d": "0.193"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.224"
+    },
+    {
+        "id": 9,
+        "question": "Transform the Y to the delta for ZA = 10 ohm, ZB = 6 - j8 ohm, and ZC = 9cis30°ohm:",
+        "options": {
+            "a": "Z1 = 23.2 cis 35.4 ohm; Z2 = 36.7 cis -56.8 ohm; Z3 = 13.7 cis-17.7 ohm",
+            "b": "Z1 = 23.2 cis 35.4 ohm; Z2 = 25.7 cis -47.7 ohm; Z3 = 23.3 cis-17.7 ohm",
+            "c": "Z1 = 23.2 cis 35.4 ohm; Z2 = 25.7 cis -47.7 ohm; Z3 = 13.7 cis-17.7 ohm",
+            "d": "Z1 = 23.2 cis 35.4 ohm; Z2 = 36.7 cis -56.8 ohm; Z3 = 25.3 cis-17.7 ohm"
+        },
+        "answer": "c",
+        "correct_answer_text": "Z1 = 23.2 cis 35.4 ohm; Z2 = 25.7 cis -47.7 ohm; Z3 = 13.7 cis-17.7 ohm"
+    },
+    {
+        "id": 10,
+        "question": "A coil absorbs 20 W when connected to a 240-V, 400-Hz source. If the current is 0.2 A, find the resistance and inductance of the coil.",
+        "options": {
+            "a": "0.434 H",
+            "b": "0.893 H",
+            "c": "45.4 uF",
+            "d": "0.0383 H"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.434 H"
+    },
+    {
+        "id": 11,
+        "question": "A 60-W, a 100-W, and a 200-W light bulb are connected in parallel across a 120-V line. Obtain the equivalent hot resistance of this combination from the individual hot resistances of the bulbs.",
+        "options": {
+            "a": "30 ohm",
+            "b": "40 ohm",
+            "c": "50 ohm",
+            "d": "60 ohm"
+        },
+        "answer": "b",
+        "correct_answer_text": "40 ohm"
+    },
+    {
+        "id": 12,
+        "question": "What capacitance must be placed in series with an inductance of 0.05 H so that at 100 Hz, the impedance becomes equal to the ohmic resistance?",
+        "options": {
+            "a": "50.5 μF",
+            "b": "70.7μF",
+            "c": "35.5 μF",
+            "d": "87μF"
+        },
+        "answer": "a",
+        "correct_answer_text": "50.5 μF"
+    },
+    {
+        "id": 13,
+        "question": "A 3-phase commercial building with an aggregate three-phase load of 170 kVA is to be served using two single-phase transformers connected in V-V bank. What should be the minimum size of each transformer in kVA?",
+        "options": {
+            "a": "167",
+            "b": "75",
+            "c": "100",
+            "d": "333"
+        },
+        "answer": "c",
+        "correct_answer_text": "100"
+    },
+    {
+        "id": 14,
+        "question": "Find the Thevenin equivalent resistance for a dc power supply that has a 30-V terminal voltage when delivering 400 mA and a 27-V terminal voltage when delivering 600 mA.",
+        "options": {
+            "a": "12 ohm",
+            "b": "15 ohm",
+            "c": "80 ohm",
+            "d": "10 ohm"
+        },
+        "answer": "b",
+        "correct_answer_text": "15 ohm"
+    },
+    {
+        "id": 15,
+        "question": "The following three impedances are connected in series across a 40 V, 20 kHz supply: a resistance of 8-ohm, a coil of inductance 130µH and 5-ohm resistance, and a 10 -ohm resistor in series with a 0.25µF capacitor. Calculate the circuit phase angle.",
+        "options": {
+            "a": "34.78deg",
+            "b": "49.58deg",
+            "c": "78.54deg",
+            "d": "12.33deg"
+        },
+        "answer": "a",
+        "correct_answer_text": "34.78deg"
+    },
+    {
+        "id": 16,
+        "question": "According to the fuse law, the current carrying capacity varies as",
+        "options": {
+            "a": "Diameter",
+            "b": "1 / diameter",
+            "c": "(Diameter)3/2",
+            "d": "1 / (diameter)2"
+        },
+        "answer": "c",
+        "correct_answer_text": "(Diameter)3/2"
+    },
+    {
+        "id": 17,
+        "question": "Two parallel long conductors will carry 100 A. If the conductors are separated by 20 mm, the force per meter length of each conductor will be",
+        "options": {
+            "a": "10 N",
+            "b": "0.1 N",
+            "c": "1 N",
+            "d": "100 N"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.1 N"
+    },
+    {
+        "id": 18,
+        "question": "A resistor in series with a capacitor absorbs 10 W when the combination is connected to a 120-V, 400-Hz source. If the power factor is 0.6 leading, what is the capacitance?",
+        "options": {
+            "a": "0.623 uF",
+            "b": "1.439 uF",
+            "c": "0.576 uF",
+            "d": "2.754 uF"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.576 uF"
+    },
+    {
+        "id": 19,
+        "question": "An induction motor draws 50 kW at a 0.60 lagging power factor from a 480 V, 60 Hz source. What parallel capacitor will increase the overall power factor to 0.90 lagging?",
+        "options": {
+            "a": "532 µF",
+            "b": "489 µF",
+            "c": "704 µF",
+            "d": "582 µF"
+        },
+        "answer": "b",
+        "correct_answer_text": "489 µF"
+    },
+    {
+        "id": 20,
+        "question": "Find the Thevenin equivalent voltage for a power box containing four batteries with their positive terminals connected together and their negative terminals connected together. The open-circuit voltages and internal resistances of the batteries are 12.2V and 0.5 ohm, 12.1 V and 0.1 ohm, 12.4 V and 0.16 ohm, and 12.4 V and 0.2 ohm.",
+        "options": {
+            "a": "11.8 V",
+            "b": "12.6 V",
+            "c": "11.9 V",
+            "d": "12.3 V"
+        },
+        "answer": "d",
+        "correct_answer_text": "12.3 V"
+    },
+    {
+        "id": 21,
+        "question": "A 200-Hp 2,200 V, 3-phase star connected synchronous motor has a synchronous Impedance of 0.3 + j3 Ω per phase. Determine the induced emf per phase if the motor works on full-load with an efficiency of 94% and a power factor of 0.8 leading.",
+        "options": {
+            "a": "1,354 V",
+            "b": "1,360 V",
+            "c": "1,402 V",
+            "d": "1,522 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "1,402 V"
+    },
+    {
+        "id": 22,
+        "question": "In a 230 V, 3-phase, 3-wire system, two wattmeters are connected to measure the power. The ratio of the readings of the wattmeters is 2.5 is to 1. What is the power factor of the system?",
+        "options": {
+            "a": "80.3%",
+            "b": "76.6%",
+            "c": "83.1%",
+            "d": "86.6%"
+        },
+        "answer": "b",
+        "correct_answer_text": "76.6%"
+    },
+    {
+        "id": 23,
+        "question": "TV Channel 2 has a frequency of 60 MHz. What is the wavelength?",
+        "options": {
+            "a": "50m",
+            "b": "500m",
+            "c": "0.5m",
+            "d": "5m"
+        },
+        "answer": "d",
+        "correct_answer_text": "5m"
+    },
+    {
+        "id": 24,
+        "question": "If a coil draws 0.5 A from a 120-V, 60-Hz source at a 0.7 lagging power factor, what is the coil inductance?",
+        "options": {
+            "a": "0.329 H",
+            "b": "0.782 H",
+            "c": "0.455 H",
+            "d": "0.189 H"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.455 H"
+    },
+    {
+        "id": 25,
+        "question": "An impedance draws a current of I = 10 cos (ωt - 30°) A from a supply with voltage e = 220 sin ωt v. What is the impedance in ohms?",
+        "options": {
+            "a": "11 + j19.05",
+            "b": "19.09 + j11",
+            "c": "11 – j19.05",
+            "d": "19.05 – j11"
+        },
+        "answer": "c",
+        "correct_answer_text": "11 – j19.05"
+    },
+    {
+        "id": 26,
+        "question": "A balanced wye-connected load with resistance of 8 ohms per phase and no reactance is supplied by a 240 v, 3-phase source. Find the real power of the load in watts.",
+        "options": {
+            "a": "6,400",
+            "b": "6,800",
+            "c": "7,200",
+            "d": "7,600"
+        },
+        "answer": "c",
+        "correct_answer_text": "7,200"
+    },
+    {
+        "id": 27,
+        "question": "Find the efficiency of a 150 kVA transformer at 25% full-load at 0.8 p.f. lagging if copper losses are 1,600 w at full load and iron losses are 1,400 w.",
+        "options": {
+            "a": "96.24%",
+            "b": "97.24%",
+            "c": "94.24%",
+            "d": "95.24%"
+        },
+        "answer": "b",
+        "correct_answer_text": "97.24%"
+    },
+    {
+        "id": 28,
+        "question": "A conductor of length 100 cm moves at right angle to a uniform field flux density of 1.5 Wb/m² with a velocity of 50 m/s. The e.m.f. induced in the conductor will be",
+        "options": {
+            "a": "150 V",
+            "b": "75 V",
+            "c": "50 V",
+            "d": "37.5 V"
+        },
+        "answer": "b",
+        "correct_answer_text": "75 V"
+    },
+    {
+        "id": 29,
+        "question": "A piece of conductor 10 cm long moves across the magnetic field of 10 k gauss at a velocity of 120 cm/s. What is the voltage across the conductor?",
+        "options": {
+            "a": "12 mV",
+            "b": "1.20 mV",
+            "c": "120 mV",
+            "d": "0.12 mV"
+        },
+        "answer": "c",
+        "correct_answer_text": "120 mV"
+    },
+    {
+        "id": 30,
+        "question": "A power plant consumes 3000 tons of coal per day. The coal has an average energy content of 10000 BTU/lb. The power plant has an efficiency of 25%. What is the plant power output in MW?",
+        "options": {
+            "a": "187",
+            "b": "183",
+            "c": "181",
+            "d": "185"
+        },
+        "answer": "b",
+        "correct_answer_text": "183"
+    },
+    {
+        "id": 31,
+        "question": "A 115 V, dc shunt motor has armature current of 75 A and armature resistance of 0.2 ohm. Find the armature current in amperes during starting. Assume a 2 V brush drop.",
+        "options": {
+            "a": "545",
+            "b": "575",
+            "c": "585",
+            "d": "565"
+        },
+        "answer": "d",
+        "correct_answer_text": "565"
+    },
+    {
+        "id": 32,
+        "question": "There are four nodes A, B, C, and D and there are 6 branches connecting each pair of nodes. If Iab = 16 A, Icd = 23 A, and Ida = 39 A, Find Iac.",
+        "options": {
+            "a": "39 A",
+            "b": "26 A",
+            "c": "23 A",
+            "d": "16 A"
+        },
+        "answer": "c",
+        "correct_answer_text": "23 A"
+    },
+    {
+        "id": 33,
+        "question": "Estimate the average power output of a wind turbine having a blade diameter of 10.7 m if the wind velocity ranges from 10 to 30 miles per hour.",
+        "options": {
+            "a": "20.2 kW",
+            "b": "24.2 kW",
+            "c": "44.2 kW",
+            "d": "46.2 kW"
+        },
+        "answer": "b",
+        "correct_answer_text": "24.2 kW"
+    },
+    {
+        "id": 34,
+        "question": "A shunt motor running at 1200 rpm for a load that requires an armature current of 50 ampere from a 230-volt source. At no load, the armature current is 5 amp. If the effect of the armature reaction has reduced the air-gap flux load to full load, determine the no load speed. The armature resistance is 0.15 ohm.",
+        "options": {
+            "a": "1,212 rpm",
+            "b": "1,182 rpm",
+            "c": "1,200 rpm",
+            "d": "1,012 rpm"
+        },
+        "answer": "d",
+        "correct_answer_text": "1,012 rpm"
+    },
+    {
+        "id": 35,
+        "question": "To a series RLC circuit, a voltage of 10 v is applied. If Q of the coil at resonant frequency is 20, the voltage across the inductor at resonant frequency will be.",
+        "options": {
+            "a": "200 v",
+            "b": "100 V",
+            "c": "75 v",
+            "d": "50 v"
+        },
+        "answer": "a",
+        "correct_answer_text": "200 v"
+    },
+    {
+        "id": 36,
+        "question": "Find the reactive power component of an induction motor that delivers 5 hp while operating at an 85 percent efficiency and a 0.8 lagging power factor.",
+        "options": {
+            "a": "1.56 kVAR",
+            "b": "8.976 kVAR",
+            "c": "3.29 kVAR",
+            "d": "0.856 kVAR"
+        },
+        "answer": "c",
+        "correct_answer_text": "3.29 kVAR"
+    },
+    {
+        "id": 37,
+        "question": "A two-element series circuit is excited by a voltage source v(t) = 141.4 sin(377t + 30°) V. The resulting current is i(t) = 14.14 sin(377t − 15°) A. Determine the values of the components in the circuit.",
+        "options": {
+            "a": "R = 10.0 Ω, L = 26.5 mH",
+            "b": "R = 7.07 Ω, C = 18.75 μF",
+            "c": "R = 7.07 Ω, L = 18.75 mH",
+            "d": "R = 14.14 Ω, L = 37.5 mH"
+        },
+        "answer": "c",
+        "correct_answer_text": "R = 7.07 Ω, L = 18.75 mH"
+    },
+    {
+        "id": 38,
+        "question": "A parallel two-element circuit consumes 400 W of real power and 300 VAR of leading reactive power when connected to a 120 V (rms), 60 Hz supply. What are the values of the resistance and capacitance?",
+        "options": {
+            "a": "55.26 μF",
+            "b": "73.68 μF",
+            "c": "120.5 μF",
+            "d": "59.11 μF"
+        },
+        "answer": "a",
+        "correct_answer_text": "55.26 μF"
+    },
+    {
+        "id": 39,
+        "question": "A series RC circuit is connected to an AC source v(t) = 100 cos(1000t) V. The current is i(t) = 5 cos(1000t + 53.13°) A. Find the values of C.",
+        "options": {
+            "a": "83.3 μF",
+            "b": "60.5 μF",
+            "c": "62.5 μF",
+            "d": "100.0 μF"
+        },
+        "answer": "c",
+        "correct_answer_text": "62.5 μF"
+    },
+    {
+        "id": 40,
+        "question": "A voltage v(t) = 200 sin(500t) V is applied across a parallel two-element circuit, resulting in a total current i(t) = 25 sin(500t − 53.13°) A. Identify the components.",
+        "options": {
+            "a": "R = 8 Ω, L = 21.3 mH",
+            "b": "R = 13.33 Ω, L = 20.0 mH",
+            "c": "R = 10 Ω, L = 13.33 mH",
+            "d": "R = 13.33 Ω, C = 20.0 μF"
+        },
+        "answer": "b",
+        "correct_answer_text": "R = 13.33 Ω, L = 20.0 mH"
+    },
+    {
+        "id": 41,
+        "question": "A series RLC circuit has a resitance of 10 Ω and capacitance of 100 μF. If the source is v(t) = 150 sin(500t + 10°) V and generates a current of i(t) = 15 sin(500t + 10°) A. Find L.",
+        "options": {
+            "a": "20 mH",
+            "b": "40 mH",
+            "c": "50 mH",
+            "d": "100 mH"
+        },
+        "answer": "b",
+        "correct_answer_text": "40 mH"
+    },
+    {
+        "id": 42,
+        "question": "A parallel RLC circuit connected to a 240 V (rms), 50 Hz supply absorbs 2880 W and operates at unity power factor. The inductor of the coil is 0.1 H. Find R and C.",
+        "options": {
+            "a": "R = 20 Ω, C = 101.3 μF",
+            "b": "R = 24 Ω, C = 88.4 μF",
+            "c": "R = 20 Ω, C = 50.7 μF",
+            "d": "R = 12 Ω, C = 101.3 μF"
+        },
+        "answer": "a",
+        "correct_answer_text": "R = 20 Ω, C = 101.3 μF"
+    },
+    {
+        "id": 43,
+        "question": "A two-component parallel RC circuit has is connected to source of v = 200sin(377t + 10deg) and the total current is given by I = 20cos(377t - 20 deg). What is the value of the capacitance?",
+        "options": {
+            "a": "524 uF",
+            "b": "132.5 uF",
+            "c": "229.7 uF",
+            "d": "189.3 uF"
+        },
+        "answer": "c",
+        "correct_answer_text": "229.7 uF"
+    },
+    {
+        "id": 44,
+        "question": "A series circuit: v(t) = 141.4 sin(1000t) V, P = 120 W and the rms-vlaue of the current is 2 A, current lags voltage. Find the inductance.",
+        "options": {
+            "a": "30 mH",
+            "b": "40 mH",
+            "c": "50 mH",
+            "d": "25 mH"
+        },
+        "answer": "b",
+        "correct_answer_text": "40 mH"
+    },
+    {
+        "id": 45,
+        "question": "A series circuit draws S = 500 VA at PF = 0.6 leading, v(t) = 141.4 cos(400t − 30°) V. Find the capcitance.",
+        "options": {
+            "a": "156.25 μF",
+            "b": "125.0 μF",
+            "c": "100.0 μF",
+            "d": "30 mH"
+        },
+        "answer": "a",
+        "correct_answer_text": "156.25 μF"
+    },
+    {
+        "id": 46,
+        "question": "A parallel RC circuit is connected to a source v(t) = 150 sin(1000t + 20°) V. The total line current is measured as i(t) = 7.5 cos(1000t − 33.13°) A. Determine the value of the capacitance C.",
+        "options": {
+            "a": "80 μF",
+            "b": "30 μF",
+            "c": "30 μF",
+            "d": "40 μF"
+        },
+        "answer": "d",
+        "correct_answer_text": "40 μF"
+    },
+    {
+        "id": 47,
+        "question": "A parallel RL circuit that consumes a power of 1.6 kW and lagging reactive power of 1.2 kVAR If the source is given by v(t) = 282.84 sin(377t) V. Find the value of L.",
+        "options": {
+            "a": "44.2 mH",
+            "b": "88.4 mH",
+            "c": "66.3 mH",
+            "d": "50.5 mH"
+        },
+        "answer": "b",
+        "correct_answer_text": "88.4 mH"
+    },
+    {
+        "id": 48,
+        "question": "An series circuit is connected to source of v(t) = 100 sin(500t + 45°) V and the oscilliscope indicates i(t) = 5 cos(500t − 8.13°) A. Find the components.",
+        "options": {
+            "a": "R = 12 Ω, C = 125.0 μF",
+            "b": "R = 16 Ω, L = 24.0 mH",
+            "c": "R = 16 Ω, C = 166.7 μF",
+            "d": "R = 20 Ω, C = 133.3 μF"
+        },
+        "answer": "c",
+        "correct_answer_text": "R = 16 Ω, C = 166.7 μF"
+    },
+    {
+        "id": 49,
+        "question": "A three-phase, 440 v, 50 Hz, 6-pole induction motor running at 950 rpm takes 50 kW ata certain load. The friction and windage los is 1.5 kW and stator losses = 1.2 kW. Determine the output from the rotor.",
+        "options": {
+            "a": "42.68 kW",
+            "b": "48.80 kW",
+            "c": "46.48 kW",
+            "d": "44.86 kW"
+        },
+        "answer": "d",
+        "correct_answer_text": "44.86 kW"
+    },
+    {
+        "id": 50,
+        "question": "A 480-V source energizes two loads in parallel, supplying 2 kVA at a 0.5 lagging power factor to one load and 4 kVA at a 0.6 leading power factor to the other load. Find the source current:",
+        "options": {
+            "a": "5.68 A",
+            "b": "7.71 A",
+            "c": "4.23 A",
+            "d": "8.97 A"
+        },
+        "answer": "b",
+        "correct_answer_text": "7.71 A"
+    },
+    {
+        "id": 51,
+        "question": "What is the overall efficiency of the turbine if the power developed is 12 MW at a head of 150 meters and the nozzle discharges 10 cubic meters each second?",
+        "options": {
+            "a": "70.65%",
+            "b": "81.55%",
+            "c": "78.99%",
+            "d": "89.23%"
+        },
+        "answer": "b",
+        "correct_answer_text": "81.55%"
+    },
+    {
+        "id": 52,
+        "question": "A transformer has 4% resistance and 6% reactance drop. Find the voltage regulation at full load 0.8 p.f lagging.",
+        "options": {
+            "a": "6.8%",
+            "b": "5.8%",
+            "c": "8.8%",
+            "d": "7.8%"
+        },
+        "answer": "a",
+        "correct_answer_text": "6.8%"
+    },
+    {
+        "id": 53,
+        "question": "A single phase transmission line has a total impedance of 5<60° ohms and supplies a total load of 120 A, 3.3 kV and 0.8 power factor lagging. Calculate the sending end voltage.",
+        "options": {
+            "a": "3.93 kV",
+            "b": "3.54 kV",
+            "c": "3.62 kV",
+            "d": "3.86 kV"
+        },
+        "answer": "d",
+        "correct_answer_text": "3.86 kV"
+    },
+    {
+        "id": 54,
+        "question": "An impedance of 4 – j3 ohms is connected in parallel with an ideal inductor L across a 100 v, 60 Hz mains. Determine L if the total voltage supplied to the circuit will be in phase with the total current drawn.",
+        "options": {
+            "a": "16.6 mH",
+            "b": "22.1 mH",
+            "c": "19.2 mH",
+            "d": "26.8 mH"
+        },
+        "answer": "c",
+        "correct_answer_text": "19.2 mH"
+    },
+    {
+        "id": 55,
+        "question": "A synchronous motor that draws 20 kW is in parallel with an induction motor that draws 50 kW at a lagging power factor of 0.7. The synchronous motor is operated at a leading power factor and cause the overall power factor to be 0.9 lagging, and what is the power factor of the synchronous motor?",
+        "options": {
+            "a": "0.82 lead",
+            "b": "0.76 lead",
+            "c": "0.45 lead",
+            "d": "0.31 lead"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.31 lead"
+    },
+    {
+        "id": 56,
+        "question": "An industrial plant has an aggregate load of 100 kW. The demand factor is 60%. The average total energy consumption of the plant in one year is 186 MWHR. What is the yearly load factor of the plant?",
+        "options": {
+            "a": "32.45%",
+            "b": "38.67%",
+            "c": "42.25%",
+            "d": "35.39%"
+        },
+        "answer": "d",
+        "correct_answer_text": "35.39%"
+    },
+    {
+        "id": 57,
+        "question": "How long does a 20-uF capacitor charged to 150 V take to discharge through a 3-Megaohm resistor?",
+        "options": {
+            "a": "100 sec",
+            "b": "200 sec",
+            "c": "300 sec",
+            "d": "500 sec"
+        },
+        "answer": "c",
+        "correct_answer_text": "300 sec"
+    },
+    {
+        "id": 58,
+        "question": "A 2-uF capacitor, initially charged to 300 V, is discharged through a 270-kilo-ohm resistor. What is the capacitor voltage at 0.25 s after the capacitor starts to DISCHARGE?",
+        "options": {
+            "a": "315 V",
+            "b": "189 V",
+            "c": "217 V",
+            "d": "78 V"
+        },
+        "answer": "b",
+        "correct_answer_text": "189 V"
+    },
+    {
+        "id": 59,
+        "question": "What is the conductance of a resistor that has a voltage v = 50.1 sin (200pit + 30deg) V across it when a current i = 6.78 sin (200pit + 30deg) mA flows through it?",
+        "options": {
+            "a": "135uS",
+            "b": "75 uS",
+            "c": "7902 uS",
+            "d": "0.893 uS"
+        },
+        "answer": "a",
+        "correct_answer_text": "135uS"
+    },
+    {
+        "id": 60,
+        "question": "A solenoid 500 cm long and 10 cm in diameter is wound with 1,500 turns. Find the energy stored in the magnetic field when a current of 5 A flows.",
+        "options": {
+            "a": "0.45 J",
+            "b": "0.46 J",
+            "c": "0.55 J",
+            "d": "0.72 J"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.46 J"
+    },
+    {
+        "id": 61,
+        "question": "Calculate the capacitance between two parallel plates each of which is 100 cm2 and 2 mm apart in air.",
+        "options": {
+            "a": "0.443 pF",
+            "b": "0.452 pF",
+            "c": "0.515 pF",
+            "d": "0.502 pF"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.443 pF"
+    },
+    {
+        "id": 62,
+        "question": "What is the reading of an ac ammeter that is in series with a 470-ohm resistor that has a voltage v = 150 cos (377t + 30deg) V across it?",
+        "options": {
+            "a": "45.63 mA",
+            "b": "1.903 mA",
+            "c": "226 mA",
+            "d": "0.672 mA"
+        },
+        "answer": "c",
+        "correct_answer_text": "226 mA"
+    },
+    {
+        "id": 63,
+        "question": "A three-phase motor driven pump at 1,800 rpm is discharging 500 gpm of water at a head of 25 meters. The pump efficiency is 75%. Determine the hp of the motor.",
+        "options": {
+            "a": "15 hp",
+            "b": "14 hp",
+            "c": "12 hp",
+            "d": "10 hp"
+        },
+        "answer": "b",
+        "correct_answer_text": "14 hp"
+    },
+    {
+        "id": 64,
+        "question": "What is the upper value of the resistance for a resitor rated as: Red-Blue-Yellow-Brown-Gold?",
+        "options": {
+            "a": "2772 ohm",
+            "b": "2282 ohm",
+            "c": "3189 ohm",
+            "d": "2592 ohm"
+        },
+        "answer": "b",
+        "correct_answer_text": "2282 ohm"
+    },
+    {
+        "id": 65,
+        "question": "A room measuring 40 ft by 80 ft is to be illuminated by fluorescent lamps having an output of 3300 lumens per lamp arranged in 4 rows. The maintenance factor and utilization factor are 0.7 and 0.6 respectively. If the required illumination is 60 cp, calculate the number of fixtures required in each row.",
+        "options": {
+            "a": "70 lamps per row",
+            "b": "140 lamps per row",
+            "c": "35 lamps per row",
+            "d": "40 lamps per row"
+        },
+        "answer": "c",
+        "correct_answer_text": "35 lamps per row"
+    },
+    {
+        "id": 66,
+        "question": "The load consists of a resistance R in parallel with a capacitor of reactance X fed from a single-phase supply through a line of impedance 8.4 + j11.2 Ω. The rms voltage at the load terminal is 1200∠ 0° Vrms, and the load is taking 30 kVA at 0.8 power factor leading. Find the values of R and X.",
+        "options": {
+            "a": "80 Ω, 60 Ω",
+            "b": "60 Ω, 80 Ω",
+            "c": "70 Ω, 80 Ω",
+            "d": "80 Ω, 70 Ω"
+        },
+        "answer": "b",
+        "correct_answer_text": "60 Ω, 80 Ω"
+    },
+    {
+        "id": 67,
+        "question": "A factory that uses machinery involving large motors can be modeled as an electrical load consisting of a resistance R in series with an inductance L (because of the windings in the motors). Such an arrangement results in a power factor that reduces the actual power delivered compared to the case where no inductance is present. To overcome this problem, capacitors are placed in series with the resistive load to increase the power factor. To see how this works, consider a series RL circuit with R = 40 Ω and L = 50 mH. A voltage with w = 360 Hz is applied. What capacitance must be added in series to result in a power factor of one?",
+        "options": {
+            "a": "145 µF",
+            "b": "165 µF",
+            "c": "156 µF",
+            "d": "154 µF"
+        },
+        "answer": "d",
+        "correct_answer_text": "154 µF"
+    },
+    {
+        "id": 68,
+        "question": "A transformer is rated 1 kVA, 220/110 V, 60 Hz. Because of an emergency this transformer has to be used on a 50 Hz system. If the flux density in the transformer core is to be kept the same as at 60 Hz and 220 V, what is the kilovolt-ampere rating at 50 Hz.",
+        "options": {
+            "a": "0.833 kVA",
+            "b": "0.890 kVA",
+            "c": "0.909 kVA",
+            "d": "0.871 kVA"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.833 kVA"
+    },
+    {
+        "id": 69,
+        "question": "A belt driven generator supplies 875 kW at 90% efficiency. The loss in the drive belt is 2.5%. Calculate the HP of the engine needed to drive the generator.",
+        "options": {
+            "a": "1353",
+            "b": "1346",
+            "c": "1336",
+            "d": "1363"
+        },
+        "answer": "c",
+        "correct_answer_text": "1336"
+    },
+    {
+        "id": 70,
+        "question": "A barangay power station supplies 60kW to a load over 2,500ft, 100mm², two conductor copper feeder, the resistance of which is 0.078 ohm per 1000 ft. The bus bar voltage is maintained constant at 600V. Determine the maximum power which can be transmitted.",
+        "options": {
+            "a": "230.77kW",
+            "b": "242.73kW",
+            "c": "220.35kW",
+            "d": "223.94 kW"
+        },
+        "answer": "a",
+        "correct_answer_text": "230.77kW"
+    },
+    {
+        "id": 71,
+        "question": "Single-Side Band signal produces a peak to peak voltage of 720 V on voice peaks across a 75-ohm antenna. What is the peak envelope power?",
+        "options": {
+            "a": "864 W",
+            "b": "856 W",
+            "c": "835 W",
+            "d": "853 W"
+        },
+        "answer": "a",
+        "correct_answer_text": "864 W"
+    },
+    {
+        "id": 72,
+        "question": "Find the current that will follow in a series circuit containing a 5 kohm resistor, a 470 picoF capacitor, a 150mH inductor, and a 0.001 microfarad if the exciting voltage is 65 volts at 25kHz.",
+        "options": {
+            "a": "6.32 + j8.46 mA",
+            "b": "6.22 - j8.46 mA",
+            "c": "8.46 + j6.22 mA",
+            "d": "8.46 - j6.22 mA"
+        },
+        "answer": "d",
+        "correct_answer_text": "8.46 - j6.22 mA"
+    },
+    {
+        "id": 73,
+        "question": "What is the complex expression for a given alternating current, I = 250sin (wt - 25deg)?",
+        "options": {
+            "a": "227 + j106",
+            "b": "160 - j75",
+            "c": "227 - j106",
+            "d": "160 + j75"
+        },
+        "answer": "b",
+        "correct_answer_text": "160 - j75"
+    },
+    {
+        "id": 74,
+        "question": "A 6-pole, 3-phase, 60 Hz induction motor takes 48 kW in power at 1140 rpm. The stator copper loss is 1.4 kW, stator core loss is 1.6 kW and rotor mechanical losses are 1 kW. Find the motor efficiency",
+        "options": {
+            "a": "85%",
+            "b": "86%",
+            "c": "87%",
+            "d": "88%"
+        },
+        "answer": "c",
+        "correct_answer_text": "87%"
+    },
+    {
+        "id": 75,
+        "question": "A 120V, 200A single phase is supplied by a source 1000 ft. away through a copper conductor with a diameter of 0.45in. and resistivity of 10.4 Ω-CM/ft. What voltage must the supply be?",
+        "options": {
+            "a": "120.20 V",
+            "b": "198.50 V",
+            "c": "140.50 V",
+            "d": "180.80 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "140.50 V"
+    },
+    {
+        "id": 76,
+        "question": "The potential transformer of the line has a rate of 132,000/66. These are connected wye-delta. The voltmeter reads 64 V. What is the average of the line?",
+        "options": {
+            "a": "221.7 kV",
+            "b": "112.5 kV",
+            "c": "135.2 kV",
+            "d": "132 kV"
+        },
+        "answer": "a",
+        "correct_answer_text": "221.7 kV"
+    },
+    {
+        "id": 77,
+        "question": "A coil of wire having a value of 10 + j16 ohms is connected in series with a capacitive reactance Xc. and this series combination is then connected in parallel with a resistor R. If the equivalent impedance of the circuit is 8 + j0 ohms. what is the value of Xc in ohms?",
+        "options": {
+            "a": "18",
+            "b": "10",
+            "c": "16",
+            "d": "5"
+        },
+        "answer": "c",
+        "correct_answer_text": "16"
+    },
+    {
+        "id": 78,
+        "question": "Two 500-watt lamps connected in series across a 220-volt line draw 1 A. What is the total power consumed?",
+        "options": {
+            "a": "1000 W",
+            "b": "500 W",
+            "c": "220 W",
+            "d": "250 W"
+        },
+        "answer": "c",
+        "correct_answer_text": "220 W"
+    },
+    {
+        "id": 79,
+        "question": "A total resistance of 3.0 Ω is to be produced by combining an unknown resistor R with a 12 Ω resistor. What is the value of R and how is it to be connected to the 12 Ω resistor?",
+        "options": {
+            "a": "4.0 Ω, parallel",
+            "b": "4.0 Ω, series",
+            "c": "2.4 Ω, parallel",
+            "d": "2.4 Ω, series"
+        },
+        "answer": "a",
+        "correct_answer_text": "4.0 Ω, parallel"
+    },
+    {
+        "id": 80,
+        "question": "The base current and base voltage of a 345-kV system are chosen to be 3000 A and 300 kV, respectively. Determine the per-unit voltage and the base impedance for the system.",
+        "options": {
+            "a": "1.15 pu",
+            "b": "1.16 pu",
+            "c": "1.17 pu",
+            "d": "1.18 pu"
+        },
+        "answer": "a",
+        "correct_answer_text": "1.15 pu"
+    },
+    {
+        "id": 81,
+        "question": "An inductor has a value of 44 mH at 60 Hz. What is the inductive susceptance, stated as an imaginary number?",
+        "options": {
+            "a": "–j0.06",
+            "b": "j0.06",
+            "c": "–j17",
+            "d": "j17"
+        },
+        "answer": "a",
+        "correct_answer_text": "–j0.06"
+    },
+    {
+        "id": 82,
+        "question": "Two circuit elements in parallel consume 90 VAR when connected to a 120-V, 60-Hz source. If the reactive factor is 0.8, what are the two components and what are their values?",
+        "options": {
+            "a": "159-ohm resistor and a 0.667-H inductor",
+            "b": "159-ohm resistor and a 0.424-H inductor",
+            "c": "213-ohm resistor and a 0.667-H inductor",
+            "d": "213-ohm resistor and a 0.424-H inductor"
+        },
+        "answer": "b",
+        "correct_answer_text": "159-ohm resistor and a 0.424-H inductor"
+    },
+    {
+        "id": 83,
+        "question": "A 400-ohm resistor is connected in series with a 2358 pF capacitor across a 12 V a.c. supply. Determine the supply frequency if the current flowing in the circuit is 24 mA",
+        "options": {
+            "a": "225 kHz",
+            "b": "306 kHz",
+            "c": "325 kHz",
+            "d": "672 kHz"
+        },
+        "answer": "c",
+        "correct_answer_text": "325 kHz"
+    },
+    {
+        "id": 84,
+        "question": "A short 230 kV transmission line has impedance of 5 cis 78° ohms. The sending end power is 100 MW at 230 kV and 85% power factor. What is the voltage at the end?",
+        "options": {
+            "a": "225.4 kV",
+            "b": "223.2 kV",
+            "c": "226.3 kV",
+            "d": "228.2 kV"
+        },
+        "answer": "a",
+        "correct_answer_text": "225.4 kV"
+    },
+    {
+        "id": 85,
+        "question": "A 100 μF capacitor initially charged to 24 v is discharged across a series combination of a 1kΩ resistor and a 200 μF capacitor. Find the current after 1 sec.",
+        "options": {
+            "a": "7.24 nA",
+            "b": "8.43 nA",
+            "c": "7.34 nA",
+            "d": "8.84 nA"
+        },
+        "answer": "c",
+        "correct_answer_text": "7.34 nA"
+    },
+    {
+        "id": 86,
+        "question": "A 3-phase, 50 MVA, 12.8 kV transmission line with 0.07 p.u. reactance is connected is supplied by a 20 MVA alternator with 0.03 p.u. reactance on the sending end. Determine the fault current when a balanced fault occurs at the load end of the line:",
+        "options": {
+            "a": "12,672 A",
+            "b": "21,980 A",
+            "c": "17,892 A",
+            "d": "31,760 A"
+        },
+        "answer": "c",
+        "correct_answer_text": "17,892 A"
+    },
+    {
+        "id": 87,
+        "question": "A 13.8 kV distribution feeder connects a main substation to a mining facility in Cagayna Valley. The line impedance is 1.2 + j3.0 ohms per phase. The voltage at the sending end is measured at 14.4 kV line-to-line, while the receiving end voltage is maintained at 13.8 kV line-to-line. If the facility is consuming exactly 4 MW of real power, what is the operating power factor of the load?",
+        "options": {
+            "a": "0.885 lagging",
+            "b": "0.924 lagging",
+            "c": "0.966 lagging",
+            "d": "0.982 lagging"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.924 lagging"
+    },
+    {
+        "id": 88,
+        "question": "An inductor motor with 8 poles, 60Hz is operated with a slip of 3%. Calculate the rotor speed.",
+        "options": {
+            "a": "1,684",
+            "b": "1,024",
+            "c": "873",
+            "d": "927"
+        },
+        "answer": "c",
+        "correct_answer_text": "873"
+    },
+    {
+        "id": 89,
+        "question": "A power plant consumes 100,000 lbs. of coal per hour. The heating value of the coal is 12,000 BTU per lb. the overall plant efficiency is 30%. What is the kW output of the plant?",
+        "options": {
+            "a": "175,000 kW",
+            "b": "142,500 kW",
+            "c": "105,500 kW",
+            "d": "205,000 kW"
+        },
+        "answer": "c",
+        "correct_answer_text": "105,500 kW"
+    },
+    {
+        "id": 90,
+        "question": "What should be the turn’s ratio of a three-phase transformer to transform 10,000 KVA from 230 KV to 4,160 V if the transformer is to be connected Δ-Y?",
+        "options": {
+            "a": "94",
+            "b": "97",
+            "c": "96",
+            "d": "98"
+        },
+        "answer": "c",
+        "correct_answer_text": "96"
+    },
+    {
+        "id": 91,
+        "question": "A 3-phase, 10 MVA, 11 kV generator with a solidly earthed neutral point supplies a feeder. The relevant impedances of the generator and feeder in ohms are as under j0.1818 p.u., j0.157 p.u., j0.281 p.u. The current for line-to-ground fault is most nearly :",
+        "options": {
+            "a": "6352 A",
+            "b": "3219 A",
+            "c": "2540 A",
+            "d": "1383 A"
+        },
+        "answer": "c",
+        "correct_answer_text": "2540 A"
+    },
+    {
+        "id": 92,
+        "question": "A short 3-phase sub-transmission line has a sending end voltage of 13.8 kV line-to-line. The series impedance of the line is 0.5 + j0.8 ohms per phase. The receiving end load draws a constant current of 300 A per phase. To achieve exactly zero voltage regulation (meaning the receiving end voltage is also exactly 13.8 kV line-to-line), what must be the load power factor?",
+        "options": {
+            "a": "0.838 leading",
+            "b": "0.875 leading",
+            "c": "0.912 lagging",
+            "d": "0.838 lagging"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.838 leading"
+    },
+    {
+        "id": 93,
+        "question": "A 480-V rms line feeds two balanced three-phase loads. If the two loads are rated as follows, Load 1: 5 kVA at 0.8 p.f. lagging; Load 2: 10 kVA at 0.9 p.f. lagging. Determine the magnitude of the line current from the 480-V rms source.",
+        "options": {
+            "a": "17.97 A",
+            "b": "14.94 A",
+            "c": "13 A",
+            "d": "7.36 A"
+        },
+        "answer": "a",
+        "correct_answer_text": "17.97 A"
+    },
+    {
+        "id": 94,
+        "question": "A d.c. series motor takes 40 A at 220 V and runs at 800 r.p.m. If the armature and field resistance are 0.2 Ω and 0.1 Ω respectively and the iron and friction losses are 0.5 kW, find the torque developed in the armature.",
+        "options": {
+            "a": "67 N-m",
+            "b": "45 N-m",
+            "c": "99.3 N-m",
+            "d": "124 N-m"
+        },
+        "answer": "c",
+        "correct_answer_text": "99.3 N-m"
+    },
+    {
+        "id": 95,
+        "question": "Four lamps are suspended 8 m above the ground at the corners of a lawn 20 m on each side. If each lamp emits 45,000 cd, calculate the illumination at the center of the lawn.",
+        "options": {
+            "a": "84 lux",
+            "b": "71 lux",
+            "c": "45 lux",
+            "d": "90 lux"
+        },
+        "answer": "a",
+        "correct_answer_text": "84 lux"
+    },
+    {
+        "id": 96,
+        "question": "A 60uF capacitor is connected in series with 40,000 Ω resistor If the capacitor is initially uncharged. Determine the resistor voltage when t = 1.5 times the time constant for a suddenly applied source emf of 120 volts.",
+        "options": {
+            "a": "93.22v",
+            "b": "120v",
+            "c": "80v",
+            "d": "26.78v"
+        },
+        "answer": "d",
+        "correct_answer_text": "26.78v"
+    },
+    {
+        "id": 97,
+        "question": "A 440-volt synchronous motor is taking 50 amperes at a pf of 0.9 lagging. The effective resistance of armature is 0.8 ohm. If the iron and friction losses amount to 600 watts, find the horsepower output.",
+        "options": {
+            "a": "25.7",
+            "b": "37.1",
+            "c": "23.1",
+            "d": "40.5"
+        },
+        "answer": "c",
+        "correct_answer_text": "23.1"
+    },
+    {
+        "id": 98,
+        "question": "A short-shunt d.c. compound generator supplies 200 A at 100 V. The resistance of armature, series field and shunt field windings are 0.04, 0.03 and 60 ohms respectively. Find the emf generated.",
+        "options": {
+            "a": "114.07 V",
+            "b": "115.62 V",
+            "c": "103.56 V",
+            "d": "98.23 V"
+        },
+        "answer": "a",
+        "correct_answer_text": "114.07 V"
+    },
+    {
+        "id": 99,
+        "question": "A balanced delta connected load of 4 – j3 per phase is fed by 380 v, 3 – phase system. Find the reactive power in VAR.",
+        "options": {
+            "a": "42 kVAR",
+            "b": "67 kVAR",
+            "c": "88 kVAR",
+            "d": "52 KVAR"
+        },
+        "answer": "c",
+        "correct_answer_text": "88 kVAR"
+    },
+    {
+        "id": 100,
+        "question": "A 3-phase, 75 MVA, 11·8 kV star-connected generator with a solidly earthed neutral point has the following per unit impedances based on rated phase voltage and rated phase current X = j 2 p.u., X’ = j 0·16 p.u., X” = j 0·08 p.u. Determine the steady-state fault current for a two line-to-earth fault.",
+        "options": {
+            "a": "1180 A",
+            "b": "3580 A",
+            "c": "2870 A",
+            "d": "5320 A"
+        },
+        "answer": "a",
+        "correct_answer_text": "1180 A"
+    },
+    {
+        "id": 101,
+        "question": "A 15 KVA, single-phase distribution transformer has a core and copper losses at rated condition of 90 w and 300 w, respectively. Determine its maximum efficiency at 0.707 power factor lagging.",
+        "options": {
+            "a": "95%",
+            "b": "97%",
+            "c": "96%",
+            "d": "98%"
+        },
+        "answer": "b",
+        "correct_answer_text": "97%"
+    },
+    {
+        "id": 102,
+        "question": "A three-phase, 400 v, 50 HZ induction motor has a speed of 900 rpm on full-load. The motor has six poles. How many complete alternations will the rotor voltage takes per minute?",
+        "options": {
+            "a": "30",
+            "b": "300",
+            "c": "60",
+            "d": "600"
+        },
+        "answer": "d",
+        "correct_answer_text": "600"
+    },
+    {
+        "id": 103,
+        "question": "A steel ring has a uniform cross-sectional area of 1500mm2 and a mean circumference of 800mm. A hysteresis loop obtained for the specimen is plotted to scales of 1 cm=0.05 T and 1 cm=100 A/m and it is found to have an area under B-H curve of 720 cm2. Determine the hysteresis loss at a frequency of 50 Hz.",
+        "options": {
+            "a": "232 W",
+            "b": "216 W",
+            "c": "342 W",
+            "d": "943 W"
+        },
+        "answer": "b",
+        "correct_answer_text": "216 W"
+    },
+    {
+        "id": 104,
+        "question": "A 300 V series motor draws a current of 50 A. The field resistance is 0.04 ohm and the armature resistance is 0.2 ohm. Determine the maximum efficiency of the motor.",
+        "options": {
+            "a": "95%",
+            "b": "85%",
+            "c": "92%",
+            "d": "98%"
+        },
+        "answer": "c",
+        "correct_answer_text": "92%"
+    },
+    {
+        "id": 105,
+        "question": "A 3-phase, 75 MVA, 0·8 p.f. (lagging), 11·8 kV star-connected alternator having its star point solidly earthed supplies a feeder. The relevant per-unit (p.u.) impedances, based on the rated phase voltage and phase current of the alternator are as follows X = j1·8 p.u, X’ = j1.28 p.u, and X” = j0.42 p.u. Determine the fault current for a one line-to-earth fault occuring at the far end of the feeder.",
+        "options": {
+            "a": "3190 A",
+            "b": "4400 A",
+            "c": "2880 A",
+            "d": "1540 A"
+        },
+        "answer": "a",
+        "correct_answer_text": "3190 A"
+    },
+    {
+        "id": 106,
+        "question": "Given three unbalanced line currents Ia=0+j12 A, Ib=5-j10 A and Ic=-10-j5 A. Find the negative sequence component of Ic in amperes.",
+        "options": {
+            "a": "2.35 cis -67.8deg",
+            "b": "2.25 cis -14.3 deg",
+            "c": "1.75 cis -14.3 deg",
+            "d": "8.85 cis -67.3 deg"
+        },
+        "answer": "d",
+        "correct_answer_text": "8.85 cis -67.3 deg"
+    },
+    {
+        "id": 107,
+        "question": "What is the value of inductance of a coil that induces 100v when the current changes at the rate of 2mA in 2 microseconds?",
+        "options": {
+            "a": "1 H",
+            "b": "0.1 H",
+            "c": "10 H",
+            "d": "0.01 H"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.1 H"
+    },
+    {
+        "id": 108,
+        "question": "A resistance of 30 Ω and a capacitance of 132.6 μF are connected in series across a 220 v, variable frequency ac supply. At what frequency in Hz will the current be 4.4 A?",
+        "options": {
+            "a": "30 Hz",
+            "b": "40 Hz",
+            "c": "50 Hz",
+            "d": "60 Hz"
+        },
+        "answer": "a",
+        "correct_answer_text": "30 Hz"
+    },
+    {
+        "id": 109,
+        "question": "A three-phase, 4-pole, 50 Hz induction motor supplies a useful torque of 160 N-m at 4% slip. If friction and windage losses are 500 watts, determine the rotor input.",
+        "options": {
+            "a": "25,653w",
+            "b": "26,653w",
+            "c": "24,615w",
+            "d": "23,615w"
+        },
+        "answer": "a",
+        "correct_answer_text": "25,653w"
+    },
+    {
+        "id": 110,
+        "question": "A 20-kVA, 2200/220-V, 50-Hz distribution transformer is tested for voltage regulation as follows: O.C. test: 220 V 4.2 A, 148 W –l.v side and S.C. test: 86 V 10.5 A, 360 W – l.v. side. Determine regulation of transformer at 0.8 p.f. lagging current:",
+        "options": {
+            "a": "+4.67%",
+            "b": "+2.95%",
+            "c": "+1.28%",
+            "d": "+0.883%"
+        },
+        "answer": "b",
+        "correct_answer_text": "+2.95%"
+    },
+    {
+        "id": 111,
+        "question": "A 3-phase, 400-V, 60 Hz star-connected synchronous motor operates with an armature current of 50 A at 0.8 power factor leading. The synchronous impedance per phase is 0.5 + j2.0 Ω. What is the magnitude of the line-to-line induced back EMF?",
+        "options": {
+            "a": "452.4 V",
+            "b": "475.6 V",
+            "c": "497.3 V",
+            "d": "512.1 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "497.3 V"
+    },
+    {
+        "id": 112,
+        "question": "A 3-phase, 400-V, star-connected synchronous motor operates with an armature current of 50 A at 0.8 power factor leading. The synchronous impedance per phase is 0.5 + j2.0 Ω., what is the gross mechanical power developed by the motor?",
+        "options": {
+            "a": "20.21 kW",
+            "b": "23.96 kW",
+            "c": "27.71 kW",
+            "d": "31.46 kW"
+        },
+        "answer": "b",
+        "correct_answer_text": "23.96 kW"
+    },
+    {
+        "id": 113,
+        "question": "A 3-phase, 3300-V, star-connected, 6-pole, 50-Hz synchronous motor operates with a synchronous reactance of 5 Ω per phase and negligible armature resistance. The field excitation is adjusted such that the line back EMF is 4000 V. If the load angle (torque angle) is 15°, what is the mechanical torque developed?",
+        "options": {
+            "a": "5.23 kNm",
+            "b": "6.52 kNm",
+            "c": "7.85 kNm",
+            "d": "8.12 kNm"
+        },
+        "answer": "b",
+        "correct_answer_text": "6.52 kNm"
+    },
+    {
+        "id": 114,
+        "question": "A 3-phase, 400-V, star-connected synchronous motor draws 50 A at 0.8 power factor lagging. The armature resistance is 0.5 Ω per phase. The combined iron and friction losses amount to 2.0 kW. If the field excitation power supplied from an external DC source is 1.0 kW, what is the overall operating efficiency of the motor?",
+        "options": {
+            "a": "74.3%",
+            "b": "76.5%",
+            "c": "79.2%",
+            "d": "82.1%"
+        },
+        "answer": "b",
+        "correct_answer_text": "76.5%"
+    },
+    {
+        "id": 115,
+        "question": "A 3-phase, 6.6-kV, star-connected synchronous motor has a synchronous reactance of 10 Ω per phase and negligible armature resistance. The motor is delivering 1000 kW of mechanical power. The field excitation is adjusted to produce a line induced EMF of 6.0 kV. What is the operating power factor of the motor?",
+        "options": {
+            "a": "0.854 lagging",
+            "b": "0.886 leading",
+            "c": "0.886 lagging",
+            "d": "0.912 leading"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.886 lagging"
+    },
+    {
+        "id": 116,
+        "question": "A 3-phase, 2300-V, star-connected synchronous motor has a synchronous impedance of Z_s = 0.2 + j2.2 Ω per phase. The motor operates with an induced line EMF of 2500 V. What is the theoretical maximum mechanical power the motor can develop before losing synchronism?",
+        "options": {
+            "a": "2.15 MW",
+            "b": "2.35 MW",
+            "c": "2.60 MW",
+            "d": "2.85 MW"
+        },
+        "answer": "b",
+        "correct_answer_text": "2.35 MW"
+    },
+    {
+        "id": 117,
+        "question": "A 440-V, 3-phase, star-connected synchronous motor has a synchronous reactance of 4 Ω per phase and negligible armature resistance. The motor supplies a mechanical load of 30 kW. If the field excitation is adjusted to produce a line back EMF of 550 V, what is the electrical load angle?",
+        "options": {
+            "a": "14.5°",
+            "b": "29.7°",
+            "c": "35.2°",
+            "d": "42.1°"
+        },
+        "answer": "b",
+        "correct_answer_text": "29.7°"
+    },
+    {
+        "id": 118,
+        "question": "A 440-V, 3-phase, star-connected synchronous motor has a synchronous reactance of 4 Ω per phase and negligible armature resistance. The motor supplies a mechanical load of 30 kW. If the field excitation is adjusted to produce a line back EMF of 550 V, what is the line current?",
+        "options": {
+            "a": "46.73 A",
+            "b": "22.42 A",
+            "c": "17.85 A",
+            "d": "39.74 A"
+        },
+        "answer": "d",
+        "correct_answer_text": "39.74 A"
+    },
+    {
+        "id": 119,
+        "question": "A 460V, 3-phase, star-connected synchronous motor has a synchronous reactance of 3.5 Ω per phase and armature resistance of 0.5 Ω per phase. The motor supplies a mechanical load of 35 kW. If the field excitation is adjusted to produce a line back EMF of 600 V, what is the motor current?",
+        "options": {
+            "a": "37.6 A",
+            "b": "51.4 A",
+            "c": "68.3 A",
+            "d": "73.1 A"
+        },
+        "answer": "b",
+        "correct_answer_text": "51.4 A"
+    },
+    {
+        "id": 120,
+        "question": "An induction motor with a 2000 KVA load has a power factor of 0.80 lagging. Asynchronous motors totaling 500 kW and operating with a leading power factor. if the overall power factor is 0.90 lag. What is the power factor of asynchronous motors?",
+        "options": {
+            "a": "0.91",
+            "b": "0.92",
+            "c": "0.95",
+            "d": "0.93"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.92"
+    },
+    {
+        "id": 121,
+        "question": "A 60-W, 120-V light bulb is to be connected in series with a resistor across a 277-V line. What is the and minimum power rating of the resistor required if the light bulb is to operate under rated conditions?",
+        "options": {
+            "a": "78.5 W",
+            "b": "56.4 W",
+            "c": "86.4 W",
+            "d": "12.8 W"
+        },
+        "answer": "a",
+        "correct_answer_text": "78.5 W"
+    },
+    {
+        "id": 122,
+        "question": "A 4 pole lap winding motor with 16 slots, 42 conductors per slot, 480 v runs at 1800 rpm. Find the flux produced per pole.",
+        "options": {
+            "a": "11.9 mWb",
+            "b": "47.6 mWb",
+            "c": "35.7 mWb",
+            "d": "23.8 mWb"
+        },
+        "answer": "d",
+        "correct_answer_text": "23.8 mWb"
+    },
+    {
+        "id": 123,
+        "question": "Compute for the core loss if the transformer consumes 75 watts when it is connected across a 240 v source and taking 1.4 A. The primary resistance is 0.25 Ω.",
+        "options": {
+            "a": "73.6 W",
+            "b": "74.65 W",
+            "c": "74.75 W",
+            "d": "74.51 W"
+        },
+        "answer": "d",
+        "correct_answer_text": "74.51 W"
+    },
+    {
+        "id": 124,
+        "question": "A 250V DC shunt motor drives an industrial conveyor belt. At no-load, it draws an armature current of 5A and runs at 1200 rpm. The armature resistance is 0.25 Ω. Under full-load conditions, the motor draws 50A. If the armature reaction weakens the main field by 3% at full load, what is the new operating speed?",
+        "options": {
+            "a": "1146 rpm",
+            "b": "1181 rpm",
+            "c": "1200 rpm",
+            "d": "1215 rpm"
+        },
+        "answer": "b",
+        "correct_answer_text": "1181 rpm"
+    },
+    {
+        "id": 125,
+        "question": "A 400V DC series motor operates a crane hoist. It draws 40A and runs at 600 rpm. The armature resistance is 0.1 Ω and the series field resistance is 0.2 Ω. If a heavier load is hoisted, causing the load torque to increase by 44%, determine the new hoisting speed. Assume the magnetic circuit remains entirely unsaturated.",
+        "options": {
+            "a": "497 rpm",
+            "b": "520 rpm",
+            "c": "580 rpm",
+            "d": "720 rpm"
+        },
+        "answer": "c",
+        "correct_answer_text": "580 rpm"
+    },
+    {
+        "id": 126,
+        "question": "An industrial 50 kW, 250V long shunt compound DC generator supplies a manufacturing plant. Its circuit parameters are: armature resistance = 0.05 Ω, series field resistance = 0.03 Ω, and shunt field resistance = 125 Ω. Total stray losses (iron and mechanical) are determined to be 1000 W. What is the commercial efficiency of the generator at rated full load?",
+        "options": {
+            "a": "89.2%",
+            "b": "90.1%",
+            "c": "91.3%",
+            "d": "92.5%"
+        },
+        "answer": "c",
+        "correct_answer_text": "91.3%"
+    },
+    {
+        "id": 127,
+        "question": "A 220V short shunt compound DC motor drives a plastic extruder. It draws a line current of 60A from the mains. The machine parameters are: armature resistance = 0.15 Ω, series field resistance = 0.05 Ω, and shunt field resistance = 100 Ω. Assuming a total brush contact voltage drop of 2V, calculate the generated back EMF.",
+        "options": {
+            "a": "206.3 V",
+            "b": "208.0 V",
+            "c": "211.5 V",
+            "d": "217.0 V"
+        },
+        "answer": "a",
+        "correct_answer_text": "206.3 V"
+    },
+    {
+        "id": 128,
+        "question": "A 500V DC shunt motor operates a ventilation fan, initially running at 800 rpm and taking an armature current of 50A. The armature resistance is 0.5 Ω and the initial shunt field resistance is 250 Ω. To adjust the airflow, the engineer decides that the speed must be increased to 1000 rpm. Assuming the load torque remains constant and the magnetization curve is strictly linear, what additional resistance must be inserted in series with the shunt field?",
+        "options": {
+            "a": "45.5 Ω",
+            "b": "67.1 Ω",
+            "c": "82.3 Ω",
+            "d": "102.5 Ω"
+        },
+        "answer": "b",
+        "correct_answer_text": "67.1 Ω"
+    },
+    {
+        "id": 129,
+        "question": "A 440V DC series traction motor takes 50A and runs at 800 rpm. Both the armature and series field resistances are 0.2 Ω each. To increase the train's speed, a 0.2 Ω diverter resistor is connected in parallel with the series field. If the required load torque is proportional to the square of the speed, calculate the new operating speed. Assume the magnetic circuit is unsaturated.",
+        "options": {
+            "a": "850 rpm",
+            "b": "945 rpm",
+            "c": "1020 rpm",
+            "d": "1150 rpm"
+        },
+        "answer": "b",
+        "correct_answer_text": "945 rpm"
+    },
+    {
+        "id": 130,
+        "question": "Two DC shunt generators, A and B, supply a ship's microgrid with a total load current of 400A. Generator A has a no-load voltage of 250V and an armature resistance of 0.05 Ω. Generator B has a no-load voltage of 255V and an armature resistance of 0.04 Ω. Neglecting the field currents, determine the common terminal voltage of the system.",
+        "options": {
+            "a": "241.5 V",
+            "b": "243.9 V",
+            "c": "246.2 V",
+            "d": "248.0 V"
+        },
+        "answer": "b",
+        "correct_answer_text": "243.9 V"
+    },
+    {
+        "id": 131,
+        "question": "A 20 kW, 200V short shunt compound DC generator supplies a rolling mill. The circuit resistances are: armature = 0.04 Ω, series field = 0.02 Ω, and shunt field = 100 Ω. If the core and friction losses amount to 800 W, determine the total generated EMF in the armature at full load.",
+        "options": {
+            "a": "204.1 V",
+            "b": "206.1 V",
+            "c": "208.2 V",
+            "d": "210.5 V"
+        },
+        "answer": "b",
+        "correct_answer_text": "206.1 V"
+    },
+    {
+        "id": 132,
+        "question": "A 230V DC shunt motor drives a fluid pump, running at 1000 rpm while drawing a total line current of 40A. The armature resistance is 0.25 Ω and the shunt field resistance is 230 Ω. If the rotational losses (iron and friction) are 400 W, calculate the useful shaft torque delivered to the pump.",
+        "options": {
+            "a": "74.5 N-m",
+            "b": "78.2 N-m",
+            "c": "82.0 N-m",
+            "d": "85.6 N-m"
+        },
+        "answer": "b",
+        "correct_answer_text": "78.2 N-m"
+    },
+    {
+        "id": 133,
+        "question": "A 500V DC series motor on a mining locomotive runs at 600 rpm and draws a current of 60A. The armature resistance is 0.15 Ω and the series field resistance is 0.15 Ω. The operator needs to navigate a steep, slow section and must reduce the speed to 400 rpm. If the load torque remains completely constant over this transition, what external resistance must be placed in series with the armature? (Assume the magnetic circuit is unsaturated).",
+        "options": {
+            "a": "1.85 Ω",
+            "b": "2.15 Ω",
+            "c": "2.68 Ω",
+            "d": "3.05 Ω"
+        },
+        "answer": "c",
+        "correct_answer_text": "2.68 Ω"
+    },
+    {
+        "id": 134,
+        "question": "What is the total power consumed by the load when the readings of two wattmeters are 5 kW and -0.5kW?",
+        "options": {
+            "a": "5.5 kW",
+            "b": "4.5 kW",
+            "c": "5 kW",
+            "d": "4.05 Kw"
+        },
+        "answer": "b",
+        "correct_answer_text": "4.5 kW"
+    },
+    {
+        "id": 135,
+        "question": "Find the reactive factor of the load having 30 kW and 50 kVA.",
+        "options": {
+            "a": "0.6",
+            "b": "0.5",
+            "c": "0.8",
+            "d": "0.7"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.8"
+    },
+    {
+        "id": 136,
+        "question": "In full sunlight a 2- by 2-cm solar cell has a short-circuit current of 80 mA, and the current is 75 mA for a terminal voltage of 0.6 V. What is the Norton equivalent resistance of the solar panel?",
+        "options": {
+            "a": "120 ohms",
+            "b": "150 ohms",
+            "c": "100 ohms",
+            "d": "200 ohm"
+        },
+        "answer": "a",
+        "correct_answer_text": "120 ohms"
+    },
+    {
+        "id": 137,
+        "question": "Find the total resistance if 3Ω is connected in series with the parallel combination of 4Ω, 5Ω and 20Ω.",
+        "options": {
+            "a": "4 Ω",
+            "b": "5 Ω",
+            "c": "6 Ω",
+            "d": "7 Ω"
+        },
+        "answer": "b",
+        "correct_answer_text": "5 Ω"
+    },
+    {
+        "id": 138,
+        "question": "Convert the delta connected impedance of 12 ∠ 36° Ω to balanced wye connected impedance.",
+        "options": {
+            "a": "3 ∠ 36°",
+            "b": "6 ∠ 36°",
+            "c": "4 ∠ 36°",
+            "d": "12 ∠ 36°"
+        },
+        "answer": "c",
+        "correct_answer_text": "4 ∠ 36°"
+    },
+    {
+        "id": 139,
+        "question": "Determine the power than can be obtained from a wind power turbine with blade diameter of 45 meters on shoreline with speed of 30 kph windspeed. The overall efficiency of the turbine is 0.42.",
+        "options": {
+            "a": "230 kW",
+            "b": "540 kW",
+            "c": "800 kW",
+            "d": "500 kW"
+        },
+        "answer": "a",
+        "correct_answer_text": "230 kW"
+    },
+    {
+        "id": 140,
+        "question": "A capacitor has a disk-shaped dielectric of ceramic that has a 0.5-cm diameter and is 0.521 mm thick. The disk is coated on both sides with silver, this coating being the plates. Find the capacitance. The ceramic dielectric constant of 7500:",
+        "options": {
+            "a": "1300 pF",
+            "b": "2500 pF",
+            "c": "900 pF",
+            "d": "1000 pF"
+        },
+        "answer": "b",
+        "correct_answer_text": "2500 pF"
+    },
+    {
+        "id": 141,
+        "question": "It is defined as the total number of sustained Customer power interruption within a given period divided by the total number of Customers served within the same period.",
+        "options": {
+            "a": "System Average Interruption Frequency Index",
+            "b": "System Average Interruption Duration Index",
+            "c": "Customer Average Interruption Frequency Index",
+            "d": "Customer Average Interruption Duration Index"
+        },
+        "answer": "a",
+        "correct_answer_text": "System Average Interruption Frequency Index"
+    },
+    {
+        "id": 142,
+        "question": "A town with 12,000 customers had three outages in a year: Outage 1: 4,000 customers affected for 1 hour; Outage 2: 3,000 customers affected for 2 hours; Outage 3: 2,000 customers affected for 0.5 hours. What is the SAIDI in hours?",
+        "options": {
+            "a": "34 min",
+            "b": "55 min",
+            "c": "43 min",
+            "d": "1.4 h"
+        },
+        "answer": "b",
+        "correct_answer_text": "55 min"
+    },
+    {
+        "id": 143,
+        "question": "A town with 10,000 customers experienced three outages during the year: Outage A: 2,000 customers interrupted for 2 hours; Outage B: 500 customers interrupted for 1 hour; Outage C: 3,000 customers interrupted for 0.5 hour. What is CAIDI (in minutes)?",
+        "options": {
+            "a": "36.00 min",
+            "b": "65.45 min",
+            "c": "90.00 min",
+            "d": "120.00 min"
+        },
+        "answer": "b",
+        "correct_answer_text": "65.45 min"
+    },
+    {
+        "id": 144,
+        "question": "A 6600 V, 3-phase, star-connected synchronous motor draws a full-load current of 80 A at 0.8 p.f. leading. The armature resistance is 2.2 ohm and synchronous reactance 22 ohm per phase. If the stray losses of the machine are 3200 W, determine the emf induced and the motor efficiency.",
+        "options": {
+            "a": "95.34%",
+            "b": "97.43%",
+            "c": "98.21%",
+            "d": "93.79%"
+        },
+        "answer": "d",
+        "correct_answer_text": "93.79%"
+    },
+    {
+        "id": 145,
+        "question": "A 1000 kVA, 11 kV, 3-phase star-connected synchronous motor has an armature resistance and reactance per phase of 3.5 ohm and 40 ohm respectively. Determine the induced emf and angular retardation of the rotor when fully loaded at 0.8 power factor leading.",
+        "options": {
+            "a": "13.3 cis -13.5 °(elec)",
+            "b": "17.8 cis -13.5 °(elec)",
+            "c": "13.3 cis -16.4 °(elec)",
+            "d": "17.8 cis -16.4 °(elec)"
+        },
+        "answer": "a",
+        "correct_answer_text": "13.3 cis -13.5 °(elec)"
+    },
+    {
+        "id": 146,
+        "question": "Closing a switch connects in series a 200-V source, a 2-Megaohm resistor, and an uncharged 0.1-uF capacitor. Find the capacitor current at 0.1 s after the switch closes.",
+        "options": {
+            "a": "71.3 uA",
+            "b": "60.5 uA",
+            "c": "83.7 uA",
+            "d": "17.3 uA"
+        },
+        "answer": "b",
+        "correct_answer_text": "60.5 uA"
+    },
+    {
+        "id": 147,
+        "question": "A 6.6 kV three-phase transposed transmission line is composed of 4 bundle-ACSR 336, 400 cmil, 30/7 Jaguar conductor per phase with horizontal configuration: D12 = 5 ft, D23 = 5 ft, D13 =10 ft. The line spacing is measured from the center of the bundled conductors. The distance between the conductors of the bundle is 6 inches. The conductors have a diameter of 0.741 inch and a GMR of 0.02255 ft. Find the capacitance per phase for 30 km of the line in microfarads.",
+        "options": {
+            "a": "0.28",
+            "b": "0.11",
+            "c": "0.75",
+            "d": "0.53"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.53"
+    },
+    {
+        "id": 148,
+        "question": "What is the length of 100 CM constantan wire (resistivity = 49 x10^-8 ohm-m) at 20°C required for a 200-ohm resistor?",
+        "options": {
+            "a": "20.7 m",
+            "b": "43.2 m",
+            "c": "12.8 m",
+            "d": "98.5 m"
+        },
+        "answer": "a",
+        "correct_answer_text": "20.7 m"
+    },
+    {
+        "id": 149,
+        "question": "What is the reading of an ac voltmeter connected across a 680-ohm resistor that has a current of I = 6.2 sin(377t - 20deg) flowing through it?",
+        "options": {
+            "a": "3.45 v",
+            "b": "2.31 v",
+            "c": "2.98 v",
+            "d": "0 v"
+        },
+        "answer": "c",
+        "correct_answer_text": "2.98 v"
+    },
+    {
+        "id": 150,
+        "question": "A 3-phase transmission line operating at 10 kV and having a resistance of 1Ω and reactance of 4 Ω is connected to the generating station bus-bars through 5 MVA step-up transformer having a reactance of 5%. The bus-bars are supplied by a 10 MVA alternator having 10% reactance. Calculate the short-circuit current fed to symmetrical fault between phases if it occurs at the load end of transmission line:",
+        "options": {
+            "a": "670 A",
+            "b": "950 A",
+            "c": "760 A",
+            "d": "590 A"
+        },
+        "answer": "b",
+        "correct_answer_text": "950 A"
+    },
+    {
+        "id": 151,
+        "question": "Find the average power absorbed by a resistor having a voltage v = 87.7 sin (400pit - 15°) V across it and a current I = 2.72 sin (400pit - 15deg) mA flowing through it.",
+        "options": {
+            "a": "119mW",
+            "b": "215 mW",
+            "c": "535 mW",
+            "d": "78mW"
+        },
+        "answer": "a",
+        "correct_answer_text": "119mW"
+    },
+    {
+        "id": 152,
+        "question": "The annual load curve is a straight line from 40 MW to 8 MW. What is the annual load factor?",
+        "options": {
+            "a": "0.8",
+            "b": "0.7",
+            "c": "0.6",
+            "d": "0.9"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.6"
+    },
+    {
+        "id": 153,
+        "question": "A 3-phase induction motor has a 4-pole, star-connected stator winding and runs on a 220-V, 50-Hz supply. The rotor resistance per phase is 0.1 Ω and reactance 0.9 Ω . The ratio of stator to rotor turns is 1.75. The full-load slip is 5%. Calculate for this load, calculate the mechanical power developed:",
+        "options": {
+            "a": "7.8 kW",
+            "b": "6.2 kW",
+            "c": "1.7 kW",
+            "d": "8.9 kW"
+        },
+        "answer": "b",
+        "correct_answer_text": "6.2 kW"
+    },
+    {
+        "id": 154,
+        "question": "Which is the most reliable power plant?",
+        "options": {
+            "a": "Steam",
+            "b": "Hydro",
+            "c": "Wind",
+            "d": "Tidal"
+        },
+        "answer": "a",
+        "correct_answer_text": "Steam"
+    },
+    {
+        "id": 155,
+        "question": "What is the voltage across a 2-uF capacitor for a current of i = 7 sin (754t - 15°) mA",
+        "options": {
+            "a": "3.86 sin (754t - 75°) V",
+            "b": "4.64 sin (754t - 75°) V",
+            "c": "3.12 sin (754t - 65°) V",
+            "d": "5.17 sin (754t - 65°) V"
+        },
+        "answer": "b",
+        "correct_answer_text": "4.64 sin (754t - 75°) V"
+    },
+    {
+        "id": 156,
+        "question": "What is the frequency where the reactances of 57 μH inductor and a 57 μF capacitor are equal?",
+        "options": {
+            "a": "7.92 kHz",
+            "b": "9.72 kHz",
+            "c": "2.79 kHz",
+            "d": "2.97 kHz"
+        },
+        "answer": "c",
+        "correct_answer_text": "2.79 kHz"
+    },
+    {
+        "id": 157,
+        "question": "A shunt generator delivers 450 A at 230 V and the resistance of the shunt field and armature are 50 Ω and 0.03 Ω respectively. Calculate the generated e.m.f.",
+        "options": {
+            "a": "257.8 V",
+            "b": "243.6 V",
+            "c": "225.8 V",
+            "d": "205.6 V"
+        },
+        "answer": "b",
+        "correct_answer_text": "243.6 V"
+    },
+    {
+        "id": 158,
+        "question": "A resistance of 30 Ω and a capacitance of 132.6 μF are connected in series across a 220 v, variable frequency ac supply. At what frequency in Hz will the current be 4.4 A?",
+        "options": {
+            "a": "30 Hz",
+            "b": "40 Hz",
+            "c": "50 Hz",
+            "d": "60 Hz"
+        },
+        "answer": "a",
+        "correct_answer_text": "30 Hz"
+    },
+    {
+        "id": 159,
+        "question": "A tidal power plant will install fifteen units of pilot turbogenerators with water flowrate of 80 m3/s per unit based on a tidal head of 12 meters. Determine the maximum power from this pilot plant. Assume sea-water has s.g. = 1.03",
+        "options": {
+            "a": "210 MW",
+            "b": "40 MW",
+            "c": "145 MW",
+            "d": "82 mW"
+        },
+        "answer": "c",
+        "correct_answer_text": "145 MW"
+    },
+    {
+        "id": 160,
+        "question": "The primary of transformer has 200 turns and is excited by a 240 v, 60 Hz source. What is the maximum value of the core flux?",
+        "options": {
+            "a": "4.04 mWb",
+            "b": "4.4 mWb",
+            "c": "4.13 mWb",
+            "d": "4.32 mWb"
+        },
+        "answer": "b",
+        "correct_answer_text": "4.4 mWb"
+    },
+    {
+        "id": 161,
+        "question": "A 100-ohm resistor is in series with a 120-mH inductor. At what frequency do the circuit voltage and current have a phase angle difference at 35°?",
+        "options": {
+            "a": "82.1 Hz",
+            "b": "32.4 Hz",
+            "c": "112.4 Hz",
+            "d": "92.9 Hz"
+        },
+        "answer": "d",
+        "correct_answer_text": "92.9 Hz"
+    },
+    {
+        "id": 162,
+        "question": "An automobile generator operating in parallel with a battery energizes a 0.8-ohm load. The open-circuit voltages and internal resistances are 14.8 V and 0.4 ohm for the generator, and 12.8 V and 0.5 ohm for the battery. Find the load current.",
+        "options": {
+            "a": "11.0 A",
+            "b": "13.6 A",
+            "c": "14.5 A",
+            "d": "20.0 A"
+        },
+        "answer": "b",
+        "correct_answer_text": "13.6 A"
+    },
+    {
+        "id": 163,
+        "question": "A Walkman has 4 – AA batteries. The combination has a capacity of 200 watt- sec. How long will it take to discharge if Walkman consumes 10 mA at 6 v?",
+        "options": {
+            "a": "55.6 min",
+            "b": "65.6 min",
+            "c": "45.6 min",
+            "d": "75.6 min"
+        },
+        "answer": "a",
+        "correct_answer_text": "55.6 min"
+    },
+    {
+        "id": 164,
+        "question": "When 3 A flows through a circuit with an input admittance of 0.4 + j0.5 S, what reactive power does the circuit consume?",
+        "options": {
+            "a": "8.7 var",
+            "b": "11 var",
+            "c": "-8.7 var",
+            "d": "-11 var"
+        },
+        "answer": "b",
+        "correct_answer_text": "11 var"
+    },
+    {
+        "id": 165,
+        "question": "A 15 ohms resistor is connected in parallel with a series combination of resistors of 8 and 12 ohms. If the voltage drops across the 8-ohm resistor is 48V, what is the total voltage applied?",
+        "options": {
+            "a": "110V",
+            "b": "120V",
+            "c": "130V",
+            "d": "140V"
+        },
+        "answer": "b",
+        "correct_answer_text": "120V"
+    },
+    {
+        "id": 166,
+        "question": "Find the mutual inductance of a 6.0 H and 4.0 H inductor having a k = 0.9.",
+        "options": {
+            "a": "3.3",
+            "b": "2.2",
+            "c": "4.4",
+            "d": "5.6"
+        },
+        "answer": "c",
+        "correct_answer_text": "4.4"
+    },
+    {
+        "id": 167,
+        "question": "Two magnetically coupled coils have mutual flux Φ11 and Φ12 are 0.50 mWb and 0.75 mWb respectively. If the number of turns N1 and N2 is equal to 100 and 300 respectively, what is the coefficient of coupling?",
+        "options": {
+            "a": "0.50",
+            "b": "0.40",
+            "c": "0.60",
+            "d": "0.70"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.60"
+    },
+    {
+        "id": 168,
+        "question": "A voltage divider of two resistors is designed with a total resistance of the two resistors equal to 50 ohms. If the output voltage is 10% of the input voltage, what are the values of the two resistors in the circuit?",
+        "options": {
+            "a": "49.5 and 0.5 ohms",
+            "b": "40 and 10 ohms",
+            "c": "42.55 and 7.5 ohms",
+            "d": "45 and 5 ohms"
+        },
+        "answer": "d",
+        "correct_answer_text": "45 and 5 ohms"
+    },
+    {
+        "id": 169,
+        "question": "As compared to Δ - Δ bank, the capacity of the V - V bank of transformers is ______ percent.",
+        "options": {
+            "a": "57.7",
+            "b": "66.7",
+            "c": "50",
+            "d": "86.6"
+        },
+        "answer": "a",
+        "correct_answer_text": "57.7"
+    },
+    {
+        "id": 170,
+        "question": "If the loads of a wye-connected transformer are: Ia = 10 cis (-30°), Ib = 12 cis (215°) and Ic = 15 cis (82°). Find the positive sequence component of phase a current.",
+        "options": {
+            "a": "13.4 cis (-32.2°)",
+            "b": "10.2 cis (240°)",
+            "c": "12.27 cis (208.4°)",
+            "d": "12.27 cis (-31.6°)"
+        },
+        "answer": "d",
+        "correct_answer_text": "12.27 cis (-31.6°)"
+    },
+    {
+        "id": 171,
+        "question": "There are four nodes A, B, C, and D and there are 6 branches connecting each pair of nodes. If Iab = 16 A, Icd = 23 A, and Ida = 39 A, Find Ibc.",
+        "options": {
+            "a": "39 A",
+            "b": "26 A",
+            "c": "23 A",
+            "d": "16 A"
+        },
+        "answer": "c",
+        "correct_answer_text": "23 A"
+    },
+    {
+        "id": 172,
+        "question": "A conductor of length 100 cm moves at right angle to a uniform field flux density of 1.5 Wb/m² with a velocity of 50 m/s. The e.m.f. induced in the conductor will be",
+        "options": {
+            "a": "150 V",
+            "b": "75 V",
+            "c": "50 V",
+            "d": "37.5 V"
+        },
+        "answer": "b",
+        "correct_answer_text": "75 V"
+    },
+    {
+        "id": 173,
+        "question": "A symmetrical positive-sequence four-bus z matrix with z11 = j0.27, z12 = j0.24, z13 = j0.17, z14 = j0.20, z22 = j0.29, z23 = j0.20, z24 = j0.24, z33 = j3.0, z34 = j0.26, and z44 = j0.38, all in p.u., what is the three-phase fault at Bus 2?",
+        "options": {
+            "a": "-j3.70 p.u.",
+            "b": "-j3.44 p.u.",
+            "c": "-j3.33 p.u.",
+            "d": "-j2.85 p.u."
+        },
+        "answer": "b",
+        "correct_answer_text": "-j3.44 p.u."
+    },
+    {
+        "id": 174,
+        "question": "Determine the circuit element and its value for V = 120 sin (377t - 30°) volts and i = 4 sin(377t + 60°) amps.",
+        "options": {
+            "a": "Xc = 30 ohms and C = 66.31 μF",
+            "b": "Xc = 40 ohms and C = 66.31 μF",
+            "c": "Xc = 30 ohms and C = 88.42 μF",
+            "d": "Xc = 40 ohms and C = 88.42 μF"
+        },
+        "answer": "c",
+        "correct_answer_text": "Xc = 30 ohms and C = 88.42 μF"
+    },
+    {
+        "id": 175,
+        "question": "Two compound generators are operated in parallel. If generator A has a series-field resistance of 0.0015 ohm and is adjusted to take 30% of the line load while generator B with a series field resistance of 0.001 ohm takes the remainder of the load, what is the current flow in the equalizer, when the load is 230 kW at 230 V?",
+        "options": {
+            "a": "300 A",
+            "b": "100 A",
+            "c": "400 A",
+            "d": "50 A"
+        },
+        "answer": "b",
+        "correct_answer_text": "100 A"
+    },
+    {
+        "id": 176,
+        "question": "The speed of a 4-pole 60 Hz synchronize machine will be.",
+        "options": {
+            "a": "1800 rpm",
+            "b": "3000 rpm",
+            "c": "2400 rpm",
+            "d": "3600 rpm"
+        },
+        "answer": "a",
+        "correct_answer_text": "1800 rpm"
+    },
+    {
+        "id": 177,
+        "question": "A 6000 volts line supplying three loads A, B and C. If the loads are located 4, 6 and 10 km respectively away from the supply having a resistance of 0.05 ohm per km and currents Ia = 75 A, Ib = 25 A and Ic = 50 A. What is the voltage delivered in load A?",
+        "options": {
+            "a": "5979 volts",
+            "b": "5975 volts",
+            "c": "5970 volts",
+            "d": "5972 volts"
+        },
+        "answer": "c",
+        "correct_answer_text": "5970 volts"
+    },
+    {
+        "id": 178,
+        "question": "A 6000 volts line supplying three loads A, B and C. If the loads are located 4, 6 and 10 km respectively away from the supply having a resistance of 0.05 ohm per km and currents Ia = 75 A, Ib = 25 A and Ic = 50 A. What is the voltage delivered in load B?",
+        "options": {
+            "a": "5979 volts",
+            "b": "5975 volts",
+            "c": "5970 volts",
+            "d": "5962 volts"
+        },
+        "answer": "d",
+        "correct_answer_text": "5962 volts"
+    },
+    {
+        "id": 179,
+        "question": "Single-Side Band signal produces a peak to peak voltage of 720 V on voice peaks across a 75-ohm antenna. What is the peak envelope power?",
+        "options": {
+            "a": "864 W",
+            "b": "856 W",
+            "c": "835 W",
+            "d": "853 W"
+        },
+        "answer": "a",
+        "correct_answer_text": "864 W"
+    },
+    {
+        "id": 180,
+        "question": "A certain amount of fuel can be converted into 3 x 10^-3 quads of energy. Assume a 30% overall efficiency for the power plant. If the average load on the power plant over a 24 hour period is 60 MW, how long in days the fuel will last?",
+        "options": {
+            "a": "180",
+            "b": "175",
+            "c": "183",
+            "d": "185"
+        },
+        "answer": "c",
+        "correct_answer_text": "183"
+    },
+    {
+        "id": 181,
+        "question": "When one coil of a magnetically coupled pair has a current of 5 A, the resulting fluxes Φ11 and Φ12 are 0.4 mWb and 0.8 mWb, respectively. If the turns are N₁ = 500 and N₂ = 1,500, find L₁.",
+        "options": {
+            "a": "20 mH",
+            "b": "40 mH",
+            "c": "60 mH",
+            "d": "120 mH"
+        },
+        "answer": "b",
+        "correct_answer_text": "40 mH"
+    },
+    {
+        "id": 182,
+        "question": "A Stamford UCI274 industrial alternator is a 3-phase, star-connected machine rated at 100 kVA, 400 V (line-to-line), and operates at a 0.8 lagging power factor. The synchronous reactance is 1.2 Ω per phase, and the effective armature resistance is 0.1 Ω per phase. Calculate the per-phase generated back EMF required to maintain the rated terminal voltage at full load.",
+        "options": {
+            "a": "320.5 V",
+            "b": "345.2 V",
+            "c": "370.0 V",
+            "d": "395.4 V"
+        },
+        "answer": "b",
+        "correct_answer_text": "345.2 V"
+    },
+    {
+        "id": 183,
+        "question": "A Leroy-Somer LSA 44.3 3-phase synchronous generator is synchronized to a 480 V infinite bus. The machine has a synchronous reactance of 1.5 Ω per phase, and the armature resistance is negligible. If the DC field excitation is adjusted so that the internal line-to-line generated EMF is 550 V, and the machine delivers a total of 150 kW to the grid, what is the operating torque angle (δ)?",
+        "options": {
+            "a": "42.1°",
+            "b": "51.3°",
+            "c": "58.5°",
+            "d": "64.8°"
+        },
+        "answer": "c",
+        "correct_answer_text": "58.5°"
+    },
+    {
+        "id": 184,
+        "question": "A Caterpillar SR5 standby generator is rated at 500 kVA and supplies a commercial facility at full load with a 0.85 lagging power factor. The following losses are given: stator copper loss = 6 kW, rotor (field) copper loss = 2.5 kW, core losses = 4 kW, and friction & windage = 3 kW. Determine the full-load commercial efficiency of the alternator.",
+        "options": {
+            "a": "94.2%",
+            "b": "95.5%",
+            "c": "96.5%",
+            "d": "97.1%"
+        },
+        "answer": "c",
+        "correct_answer_text": "96.5%"
+    },
+    {
+        "id": 185,
+        "question": "A Cummins C1000D5 generator set features a 4-pole, 50 Hz, 3-phase alternator. During a peak shaving operation, the alternator delivers 800 kW of electrical power to the load. If the total electromagnetic power developed in the air gap (gross mechanical power input minus mechanical/rotational losses) is 830 kW, calculate the electromagnetic torque developed by the prime mover.",
+        "options": {
+            "a": "5020 N-m",
+            "b": "5284 N-m",
+            "c": "5450 N-m",
+            "d": "5612 N-m"
+        },
+        "answer": "b",
+        "correct_answer_text": "5284 N-m"
+    },
+    {
+        "id": 186,
+        "question": "A Kohler KD Series 4-pole standby generator is equipped with a mechanical governor that has a 3% speed droop. The unit is calibrated to operate at exactly 60.0 Hz when supplying its rated full load of 2000 kW. If a section of the plant shuts down and the load suddenly drops to 500 kW, what will be the new operating frequency of the system before any secondary governor adjustments are made?",
+        "options": {
+            "a": "60.45 Hz",
+            "b": "60.90 Hz",
+            "c": "61.35 Hz",
+            "d": "61.80 Hz"
+        },
+        "answer": "c",
+        "correct_answer_text": "61.35 Hz"
+    },
+    {
+        "id": 187,
+        "question": "A Mecc Alte ECO40 3-phase, star-connected alternator is rated at 415 V (line-to-line). It currently supplies a capacitive industrial load drawing 250 kW at a 0.8 leading power factor. The machine parameters are Xs = 0.8 Ω per phase and Ra = 0.05 Ω per phase. Determine the load angle (torque angle) δ between the phase terminal voltage and the generated phase EMF.",
+        "options": {
+            "a": "15.2°",
+            "b": "45.8°",
+            "c": "72.4°",
+            "d": "80.6°"
+        },
+        "answer": "b",
+        "correct_answer_text": "45.8°"
+    },
+    {
+        "id": 188,
+        "question": "Which statement about a charge placed on a dielectric material is true?",
+        "options": {
+            "a": "The charge is instantly carried to the material’s surface",
+            "b": "The charge immediately lost the atmosphere",
+            "c": "The charge is confined to the region in which the charge was placed",
+            "d": "The charge increases the conductivity of the material"
+        },
+        "answer": "c",
+        "correct_answer_text": "The charge is confined to the region in which the charge was placed"
+    },
+    {
+        "id": 189,
+        "question": "Which of the following is NOT a property of magnetic field lines?",
+        "options": {
+            "a": "The field is stronger where the lines are closer together",
+            "b": "The lines intersect surface of equal intensity at right angles",
+            "c": "Magnetic field lines have no beginning and no ends",
+            "d": "The lines cross themselves only at right angles"
+        },
+        "answer": "d",
+        "correct_answer_text": "The lines cross themselves only at right angles"
+    },
+    {
+        "id": 190,
+        "question": "Which statement is true?",
+        "options": {
+            "a": "Magnetic flux lines have sources only",
+            "b": "Magnetic flux lines have sinks only",
+            "c": "Magnetic flux lines have both sources and sinks",
+            "d": "Magnetic flux lines does not have sources and sinks"
+        },
+        "answer": "d",
+        "correct_answer_text": "Magnetic flux lines does not have sources and sinks"
+    },
+    {
+        "id": 191,
+        "question": "The equivalent capacitance of two capacitors C1 and C2 connected in series is 7.3µF. If the value of C1 = 9.6µF, what is the value of C2?",
+        "options": {
+            "a": "30.5µF",
+            "b": "20.5µF",
+            "c": "50.2µF",
+            "d": "37.2µF"
+        },
+        "answer": "a",
+        "correct_answer_text": "30.5µF"
+    },
+    {
+        "id": 192,
+        "question": "In DC motors, what is the definition of “field resistance”?",
+        "options": {
+            "a": "It is the load resistance seen by a generator without considering inductance",
+            "b": "It is the resistance of the excitation circuit",
+            "c": "It is the resistance of the armature windings plus the load resistance",
+            "d": "It is the static resistance of the motor"
+        },
+        "answer": "b",
+        "correct_answer_text": "It is the resistance of the excitation circuit"
+    },
+    {
+        "id": 193,
+        "question": "Which of the following are generally less for an alternating current than for a direct current?",
+        "options": {
+            "a": "Heating effects",
+            "b": "Chemical effects",
+            "c": "Magnetic effects",
+            "d": "Impedance"
+        },
+        "answer": "b",
+        "correct_answer_text": "Chemical effects"
+    },
+    {
+        "id": 194,
+        "question": "Which of the following cannot have a single unit of 100 MW?",
+        "options": {
+            "a": "Hydro power plant",
+            "b": "Steam power plant",
+            "c": "Diesel power plant",
+            "d": "Nuclear power plant"
+        },
+        "answer": "c",
+        "correct_answer_text": "Diesel power plant"
+    },
+    {
+        "id": 195,
+        "question": "In the left-hand rule, thumb always represents direction of the .",
+        "options": {
+            "a": "Voltage",
+            "b": "Force on conductor",
+            "c": "Current",
+            "d": "Magnetic field"
+        },
+        "answer": "b",
+        "correct_answer_text": "Force on conductor"
+    },
+    {
+        "id": 196,
+        "question": "Three 3-ohm resistors are connected in parallel. This combination is then placed in series with another 3-ohm resistor. What is the equivalent resistance in ohm?",
+        "options": {
+            "a": "12",
+            "b": "9",
+            "c": "4",
+            "d": "6"
+        },
+        "answer": "c",
+        "correct_answer_text": "4"
+    },
+    {
+        "id": 197,
+        "question": "A transformer with a maximum rating of 25 kVA supplies a load of 12 kW at power factor 60% lagging. How much additional kVA load can be added at 0.9 leading without exceeding the rating?",
+        "options": {
+            "a": "16.6",
+            "b": "12.8",
+            "c": "13.2",
+            "d": "11.8"
+        },
+        "answer": "d",
+        "correct_answer_text": "11.8"
+    },
+    {
+        "id": 198,
+        "question": "Copper loss of a transformer are determined by means of a/an test.",
+        "options": {
+            "a": "Open-circuit",
+            "b": "Polarity",
+            "c": "Short-circuit",
+            "d": "Inductive-circuit"
+        },
+        "answer": "c",
+        "correct_answer_text": "Short-circuit"
+    },
+    {
+        "id": 199,
+        "question": "Two magnetically coupled coils have mutual flux Φ11 and Φ12 are 0.50 mWb and 0.75 mWb respectively. If the number of turns N1 and N2 is equal to 100 and 300 respectively, what is the coefficient of coupling?",
+        "options": {
+            "a": "0.60",
+            "b": "0.50",
+            "c": "0.40",
+            "d": "0.70"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.60"
+    },
+    {
+        "id": 200,
+        "question": "An induction motor draws 50 kW at a 0.60 lagging power factor from a 480 V, 60 Hz source. What parallel capacitor will increase the overall power factor to 0.90 lagging?",
+        "options": {
+            "a": "532 µF",
+            "b": "489 µF",
+            "c": "704 µF",
+            "d": "582 µF"
+        },
+        "answer": "b",
+        "correct_answer_text": "489 µF"
+    },
+    {
+        "id": 201,
+        "question": "The current flowing in L and C at parallel resonance are",
+        "options": {
+            "a": "Zero",
+            "b": "Equal",
+            "c": "Infinite",
+            "d": "Different"
+        },
+        "answer": "b",
+        "correct_answer_text": "Equal"
+    },
+    {
+        "id": 202,
+        "question": "A light source located 2.75 m from a surface produces an illumination of 528 lux on that surface. Find the illumination if the distance is changed to 1.55 m.",
+        "options": {
+            "a": "298 lux",
+            "b": "1,662 lux",
+            "c": "937 lux",
+            "d": "168 lux"
+        },
+        "answer": "b",
+        "correct_answer_text": "1,662 lux"
+    },
+    {
+        "id": 203,
+        "question": "A delta, 3-phase, 4-wire secondary of 230/115 V would have a high-leg neutral voltage of .",
+        "options": {
+            "a": "208 V",
+            "b": "230 V",
+            "c": "277 V",
+            "d": "199 V"
+        },
+        "answer": "d",
+        "correct_answer_text": "199 V"
+    },
+    {
+        "id": 204,
+        "question": "For an unbalanced load, which connection is suitable?",
+        "options": {
+            "a": "3-wire open delta",
+            "b": "4-wire wye connection",
+            "c": "3-wire delta connection",
+            "d": "3-wire wye connection"
+        },
+        "answer": "b",
+        "correct_answer_text": "4-wire wye connection"
+    },
+    {
+        "id": 205,
+        "question": "Overhead transmission lines are protected from lightning with the use of I.Overhead grounding conductor II.Surge arresters",
+        "options": {
+            "a": "I only",
+            "b": "II only",
+            "c": "Either I or II",
+            "d": "Neither I nor II"
+        },
+        "answer": "c",
+        "correct_answer_text": "Either I or II"
+    },
+    {
+        "id": 206,
+        "question": "A 200:5 current transformer is used with a 10-amps ammeter. If the meter reads 3.75 amps, determine the line current.",
+        "options": {
+            "a": "300 A",
+            "b": "150 A",
+            "c": "180 A",
+            "d": "45 A"
+        },
+        "answer": "b",
+        "correct_answer_text": "150 A"
+    },
+    {
+        "id": 207,
+        "question": "The dc armature winding in which the coil sides are placed a pole pitch apart is called winding.",
+        "options": {
+            "a": "Multiplex",
+            "b": "Full-pitch",
+            "c": "Fractional Pitch",
+            "d": "Pole-pitch"
+        },
+        "answer": "b",
+        "correct_answer_text": "Full-pitch"
+    },
+    {
+        "id": 208,
+        "question": "What is the equivalent of 1 + a + a^2?",
+        "options": {
+            "a": "0",
+            "b": "1",
+            "c": "1 + j",
+            "d": "-1"
+        },
+        "answer": "a",
+        "correct_answer_text": "0"
+    },
+    {
+        "id": 209,
+        "question": "The specific resistance of a conductor depends on",
+        "options": {
+            "a": "The dimensions of the conductor",
+            "b": "The nature of the material of the conductor only",
+            "c": "The resistance of the conductor",
+            "d": "The area of the conductor"
+        },
+        "answer": "b",
+        "correct_answer_text": "The nature of the material of the conductor only"
+    },
+    {
+        "id": 210,
+        "question": "The load factor is",
+        "options": {
+            "a": "Average Load/Installed Capacity",
+            "b": "Maximum Load/Average Load",
+            "c": "Average Load/Maximum Load",
+            "d": "Connected Load/Maximum Load"
+        },
+        "answer": "c",
+        "correct_answer_text": "Average Load/Maximum Load"
+    },
+    {
+        "id": 211,
+        "question": "In the transformers,",
+        "options": {
+            "a": "High tension winding is used near the core",
+            "b": "High tension winding is used away from the core",
+            "c": "Low tension winding is used near the core",
+            "d": "Low tension winding is used away from the core"
+        },
+        "answer": "a",
+        "correct_answer_text": "High tension winding is used near the core"
+    },
+    {
+        "id": 212,
+        "question": "The effect of series capacitor on a transmission line is to improve",
+        "options": {
+            "a": "Steady state stability",
+            "b": "Transient stability",
+            "c": "A and B both",
+            "d": "None of these"
+        },
+        "answer": "a",
+        "correct_answer_text": "Steady state stability"
+    },
+    {
+        "id": 213,
+        "question": "In two-wattmeter method, the reading of one of the wattmeters will be zero when",
+        "options": {
+            "a": "Load in one of the phase is zero",
+            "b": "Power factor is unity",
+            "c": "Power factor is 0.5",
+            "d": "Neutral is earthed"
+        },
+        "answer": "c",
+        "correct_answer_text": "Power factor is 0.5"
+    },
+    {
+        "id": 214,
+        "question": "Two inductors when connected in series aiding has a total inductance of 40 mH. When connected in series opposing, the total inductance is 17.5 mH. What is the mutual inductance?",
+        "options": {
+            "a": "5.625 mH",
+            "b": "5.256 mH",
+            "c": "5.75 mH",
+            "d": "5.375 mH"
+        },
+        "answer": "a",
+        "correct_answer_text": "5.625 mH"
+    },
+    {
+        "id": 215,
+        "question": "A running 4-pole induction motor with 5% slip is supplied by a 60 Hz synchronous generator. Determine the speed of the motor.",
+        "options": {
+            "a": "1,674 rpm",
+            "b": "1,728 rpm",
+            "c": "1,710 rpm",
+            "d": "1,692 rpm"
+        },
+        "answer": "c",
+        "correct_answer_text": "1,710 rpm"
+    },
+    {
+        "id": 216,
+        "question": "Five resistors are connected in parallel; 5 Ω, 10 Ω, 15 Ω, 20 Ω, and 25 Ω. The total resistance is",
+        "options": {
+            "a": "2.18978 Ω",
+            "b": "2.14286 Ω",
+            "c": "2.18182 Ω",
+            "d": "2.22222 Ω"
+        },
+        "answer": "a",
+        "correct_answer_text": "2.18978 Ω"
+    },
+    {
+        "id": 217,
+        "question": "What is used to prevent motorizing a generator?",
+        "options": {
+            "a": "Overcurrent relay",
+            "b": "Undercurrent relay",
+            "c": "Differential relay",
+            "d": "Reverse power relay"
+        },
+        "answer": "d",
+        "correct_answer_text": "Reverse power relay"
+    },
+    {
+        "id": 218,
+        "question": "The electric motor generally used in household food mixer.",
+        "options": {
+            "a": "Shaded Pole",
+            "b": "Universal",
+            "c": "Split Phase",
+            "d": "Capacitor Start"
+        },
+        "answer": "b",
+        "correct_answer_text": "Universal"
+    },
+    {
+        "id": 219,
+        "question": "A 120V. 200A single phase is supplied by a source 1000 ft. away through a copper conductor with a diameter of 0.45 in. and resistivity of 10.4 Ω-CM/ft. What voltage must the supply be?",
+        "options": {
+            "a": "140.50 V",
+            "b": "136.64 V",
+            "c": "133.75 V",
+            "d": "146 V"
+        },
+        "answer": "a",
+        "correct_answer_text": "140.50 V"
+    },
+    {
+        "id": 220,
+        "question": "What type of transformer bank is used to convert 2-phase to 3-phase power?",
+        "options": {
+            "a": "Wye-delta",
+            "b": "Scott-T",
+            "c": "Delta-wye",
+            "d": "Delta-delta"
+        },
+        "answer": "b",
+        "correct_answer_text": "Scott-T"
+    },
+    {
+        "id": 221,
+        "question": "By increasing the transmission voltage double of its original value, the same power can be dispatch keeping the line loss",
+        "options": {
+            "a": "Equal to its original value",
+            "b": "Half of the original value",
+            "c": "Double of its original value",
+            "d": "One-fourth the original value"
+        },
+        "answer": "d",
+        "correct_answer_text": "One-fourth the original value"
+    },
+    {
+        "id": 222,
+        "question": "In transmission systems, the weight of the copper conductor is proportional to",
+        "options": {
+            "a": "E",
+            "b": "1/E^2",
+            "c": "E^2",
+            "d": "1/E"
+        },
+        "answer": "b",
+        "correct_answer_text": "1/E^2"
+    },
+    {
+        "id": 223,
+        "question": "Zero-sequence current can flow from line to transformer banks in connection.",
+        "options": {
+            "a": "Delta/Star",
+            "b": "Delta/Delta",
+            "c": "Star/Grounded star",
+            "d": "Grounded Star/Delta"
+        },
+        "answer": "d",
+        "correct_answer_text": "Grounded Star/Delta"
+    },
+    {
+        "id": 224,
+        "question": "A 30-cd standard light source is compared with a lamp of unknown intensity using a grease-spot photometer. The two light sources are placed 1 m apart, and the grease spot is moved toward the standard light. When the grease spot is 25 cm from the standard light source, the illumination is equal on both sides. Where should the grease spot be placed for the illumination by the unknown light source to be exactly twice the illumination of the standard source?",
+        "options": {
+            "a": "32 cm from standard",
+            "b": "68 cm from standard",
+            "c": "18 cm from standard",
+            "d": "82 cm from standard"
+        },
+        "answer": "a",
+        "correct_answer_text": "32 cm from standard"
+    },
+    {
+        "id": 225,
+        "question": "Gauss-Seidel method is used for",
+        "options": {
+            "a": "Linear algebraic equations only",
+            "b": "Linear differential equations only",
+            "c": "Both linear and nonlinear algebraic equations",
+            "d": "Both linear and nonlinear algebraic equations"
+        },
+        "answer": "a",
+        "correct_answer_text": "Linear algebraic equations only"
+    },
+    {
+        "id": 226,
+        "question": "Combined cycle power plant is used for",
+        "options": {
+            "a": "Both base and peak load",
+            "b": "Base load",
+            "c": "Peak load",
+            "d": "Intermediate load"
+        },
+        "answer": "a",
+        "correct_answer_text": "Both base and peak load"
+    },
+    {
+        "id": 227,
+        "question": "A 15-bus system with 3 voltage-controlled bus will have a Jacobian matrix size",
+        "options": {
+            "a": "12 x 12",
+            "b": "25 x 25",
+            "c": "24 x 24",
+            "d": "11 x 11"
+        },
+        "answer": "b",
+        "correct_answer_text": "25 x 25"
+    },
+    {
+        "id": 228,
+        "question": "Compared to Gauss-Seidel method, Newton-Raphson method takes",
+        "options": {
+            "a": "Less number of iterations and more time per iteration",
+            "b": "Less number of iterations and less time per iteration",
+            "c": "More number of iterations and more time per iteration",
+            "d": "More number of iterations and less time per iteration"
+        },
+        "answer": "a",
+        "correct_answer_text": "Less number of iterations and more time per iteration"
+    },
+    {
+        "id": 229,
+        "question": "Circuit breakers are rated based on their fault.",
+        "options": {
+            "a": "Symmetrical",
+            "b": "Line to line",
+            "c": "Line to ground",
+            "d": "Double line to ground"
+        },
+        "answer": "a",
+        "correct_answer_text": "Symmetrical"
+    },
+    {
+        "id": 230,
+        "question": "A 3Ω resistor is connected in series with a 2Ω resistor. If an 8Ω resistor is connected in parallel with the two, what is the total resistance?",
+        "options": {
+            "a": "3.0769 Ω",
+            "b": "2.6667 Ω",
+            "c": "3.4286 Ω",
+            "d": "3.7333 Ω"
+        },
+        "answer": "a",
+        "correct_answer_text": "3.0769 Ω"
+    },
+    {
+        "id": 231,
+        "question": "A 440 V, 8-pole, 50 Hz induction motor has a rotor speed of 720 rpm. What is the rotor frequency?",
+        "options": {
+            "a": "2 Hz",
+            "b": "5 Hz",
+            "c": "4 Hz",
+            "d": "6 Hz"
+        },
+        "answer": "a",
+        "correct_answer_text": "2 Hz"
+    },
+    {
+        "id": 232,
+        "question": "According to ERC, the agreement between the User and the Distribution Utility which specifies the terms and conditions pertaining to the connection of the User System or Equipment to a new Connection Point in the Distribution System is",
+        "options": {
+            "a": "Connection agreement",
+            "b": "Supply agreement",
+            "c": "Distribution agreement",
+            "d": "Generation agreement"
+        },
+        "answer": "a",
+        "correct_answer_text": "Connection agreement"
+    },
+    {
+        "id": 233,
+        "question": "Wooden transmission poles are protected from termites using",
+        "options": {
+            "a": "Creosote oil",
+            "b": "Herbicide",
+            "c": "Insecticide",
+            "d": "Pesticide"
+        },
+        "answer": "a",
+        "correct_answer_text": "Creosote oil"
+    },
+    {
+        "id": 234,
+        "question": "Transient current in circuits are caused by",
+        "options": {
+            "a": "Charge in energy stored in the inductor and capacitor",
+            "b": "Charge in energy stored in the resistor",
+            "c": "Charge in energy stored in current source",
+            "d": "Charge in energy stored in voltage source"
+        },
+        "answer": "a",
+        "correct_answer_text": "Charge in energy stored in the inductor and capacitor"
+    },
+    {
+        "id": 235,
+        "question": "An 8 MVA, 69/13.2 kV transformer has a percent impedance of 6.75%. What is the actual impedance?",
+        "options": {
+            "a": "1.47015 Ω",
+            "b": "14.7015 Ω",
+            "c": "147.015 Ω",
+            "d": "0.147015 Ω"
+        },
+        "answer": "a",
+        "correct_answer_text": "1.47015 Ω"
+    },
+    {
+        "id": 236,
+        "question": "A 230 V, 3-phase, 4-wire system supplies the loads 10∠0º, 20∠20º, and 12∠- 35º. The neutral line current is",
+        "options": {
+            "a": "22.76 – j7.77 A",
+            "b": "3.63 + j19.42 A",
+            "c": "15.86 – j26.49 A",
+            "d": "22.67 + j30.42 A"
+        },
+        "answer": "a",
+        "correct_answer_text": "22.76 – j7.77 A"
+    },
+    {
+        "id": 237,
+        "question": "A transformer has 3% resistance 5.5% reactance drop. Find the voltage regulation at full-load 0.8 power factor lagging.",
+        "options": {
+            "a": "5.73197%",
+            "b": "6.35436%",
+            "c": "5.11541%",
+            "d": "4.50478%"
+        },
+        "answer": "a",
+        "correct_answer_text": "5.73197%"
+    },
+    {
+        "id": 238,
+        "question": "A +25µC and +16µC charge is placed 90mm apart. A +60µC charge is place between them and is 30mm away from the +25µC charge. What is the net force acting on the +60µC charge?",
+        "options": {
+            "a": "12.6 kN to the right",
+            "b": "12.6 kN to the left",
+            "c": "12.6 kN at the center",
+            "d": "12.6 kN away from the center"
+        },
+        "answer": "a",
+        "correct_answer_text": "12.6 kN to the right"
+    },
+    {
+        "id": 239,
+        "question": "Which of the following is NOT a basic element of a transformer?",
+        "options": {
+            "a": "Core",
+            "b": "Primary winding",
+            "c": "Secondary winding",
+            "d": "Mutual flux"
+        },
+        "answer": "d",
+        "correct_answer_text": "Mutual flux"
+    },
+    {
+        "id": 240,
+        "question": "A 3-phase motor is rated for 50A. What is the minimum inverse time delay circuit breaker rating?",
+        "options": {
+            "a": "125",
+            "b": "100",
+            "c": "150",
+            "d": "137.5"
+        },
+        "answer": "a",
+        "correct_answer_text": "125"
+    },
+    {
+        "id": 241,
+        "question": "A single-phase motor runs a duty cycle: 20 kW for 10s, 40 kW for 10s, 60 kW for 5s, 80 kW for 10s, and idle for 10s. What is the rating of the motor?",
+        "options": {
+            "a": "64 HP",
+            "b": "63.8 HP",
+            "c": "53.4 HP",
+            "d": "64.8 HP"
+        },
+        "answer": "b",
+        "correct_answer_text": "63.8 HP"
+    },
+    {
+        "id": 242,
+        "question": "Given the following phase currents: Ia = 3.5 + j3.5; Ib = -j3; and Ic = -2.6 + j1.5. Determine the negative sequence current for phase A.",
+        "options": {
+            "a": "0.313 + j0.678",
+            "b": "-0.313 – j0.678",
+            "c": "-0.313 + j0.678",
+            "d": "0.313 – j0.678"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.313 + j0.678"
+    },
+    {
+        "id": 243,
+        "question": "The pumped storage hydroelectric power plant in Caliraya is used for",
+        "options": {
+            "a": "Peak",
+            "b": "Base",
+            "c": "Intermediate",
+            "d": "Base and Peak"
+        },
+        "answer": "a",
+        "correct_answer_text": "Peak"
+    },
+    {
+        "id": 244,
+        "question": "Which of the following is a limited storage power plant?",
+        "options": {
+            "a": "Solar Power Plant",
+            "b": "Pumped Storage Hydroelectric Power Plant",
+            "c": "Wind Power Plant",
+            "d": "Coal Fired Power Plant"
+        },
+        "answer": "b",
+        "correct_answer_text": "Pumped Storage Hydroelectric Power Plant"
+    },
+    {
+        "id": 245,
+        "question": "A 50 kVA, 2400/240 V, single-phase transformer has a primary resistance of 0.72 ohm and a primary reactance of 0.92 ohm. The secondary resistance is 0.0070 ohm and secondary reactance is 0.0090 ohm. What is the equivalent impedance referred to the secondary side (Z02)?",
+        "options": {
+            "a": "0.023 ohm",
+            "b": "0.014 ohm",
+            "c": "2.31 ohm",
+            "d": "0.18 ohm"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.023 ohm"
+    },
+    {
+        "id": 246,
+        "question": "A 100 kVA, single-phase transformer undergoes open-circuit (OC) and short-circuit (SC) tests. The OC test on the LV side yields a core loss of 1200 W. The SC test on the HV side, conducted at exactly half of the rated current, yields a copper loss of 600 W. What is the maximum efficiency of this transformer at a unity power factor?",
+        "options": {
+            "a": "96.71%",
+            "b": "97.23%",
+            "c": "95.80%",
+            "d": "98.12%"
+        },
+        "answer": "a",
+        "correct_answer_text": "96.71%"
+    },
+    {
+        "id": 247,
+        "question": "A 250 kVA, 11000/400 V, 50 Hz single-phase transformer has a percentage resistance of 1.5% and a percentage reactance of 4.0%. What is the exact voltage regulation at full load with a 0.8 lagging power factor?",
+        "options": {
+            "a": "3.6%",
+            "b": "-1.2%",
+            "c": "4.2%",
+            "d": "2.8%"
+        },
+        "answer": "a",
+        "correct_answer_text": "3.6%"
+    },
+    {
+        "id": 248,
+        "question": "A 20 kVA, 2000/200 V single-phase transformer provides the following SC test data on the HV side: 60 V, 10 A, 300 W. Calculate the voltage regulation at full load with a 0.8 leading power factor.",
+        "options": {
+            "a": "-0.36%",
+            "b": "+2.76%",
+            "c": "+0.36%",
+            "d": "-2.76%"
+        },
+        "answer": "a",
+        "correct_answer_text": "-0.36%"
+    },
+    {
+        "id": 249,
+        "question": "A wire has a diameter of 2mm and a conductance of 5 x 10^7 ℧ /m with 10^29 free electrons per m^3. It is subjected to an electric field of 10 mV/m. Calculate for the free electron charge density.",
+        "options": {
+            "a": "-1.6 x 10^10 C/m^3",
+            "b": "1.6 x 10^10 C/m^3",
+            "c": "1.6 x 10^19 C/m^3",
+            "d": "-1.6 x 10^19 C/m^3"
+        },
+        "answer": "a",
+        "correct_answer_text": "-1.6 x 10^10 C/m^3"
+    },
+    {
+        "id": 250,
+        "question": "The electric field density of an induction motor is given by B = Bmcos2ϴsin377t. What is the synchronous speed of the motor?",
+        "options": {
+            "a": "1800",
+            "b": "1713",
+            "c": "1500",
+            "d": "1200"
+        },
+        "answer": "a",
+        "correct_answer_text": "1800"
+    },
+    {
+        "id": 251,
+        "question": "Base load plants are designed to supply power at .",
+        "options": {
+            "a": "Low capital cost and low operating cost",
+            "b": "High capital cost and low operating cost",
+            "c": "Low capital cost and high operating cost",
+            "d": "High capital cost and high operating cost"
+        },
+        "answer": "b",
+        "correct_answer_text": "High capital cost and low operating cost"
+    },
+    {
+        "id": 252,
+        "question": "A coil of wire having a value of 10 + j16 Ω is connected in series with a capacitance reactance Xc, and this series combination is then connected in parallel with a resistor R. if the equivalent impedance of the circuit is 8 + j0 Ω, what is the value of Xc in Ω?",
+        "options": {
+            "a": "14",
+            "b": "18",
+            "c": "10",
+            "d": "16"
+        },
+        "answer": "d",
+        "correct_answer_text": "16"
+    },
+    {
+        "id": 253,
+        "question": "A transponder with a bandwidth of 400 MHz uses polarization diversity. If the wavelength allocated to transmit a single telephone channel is 4 kHz, how many telephone channels can be carried by the transponder?",
+        "options": {
+            "a": "300,000",
+            "b": "400,000",
+            "c": "100,000",
+            "d": "200,000"
+        },
+        "answer": "d",
+        "correct_answer_text": "200,000"
+    },
+    {
+        "id": 254,
+        "question": "A 50 kVA distribution transformer has a constant core loss of 300 W and a full-load copper loss of 600 W. Over a 24-hour period, its load cycle consists of: 4 hours at 30 kVA (0.8 pf), 10 hours at 20 kVA (0.707 pf), and 10 hours at no-load. What is the all-day efficiency of the transformer?",
+        "options": {
+            "a": "96.33%",
+            "b": "94.21%",
+            "c": "97.10%",
+            "d": "95.55%"
+        },
+        "answer": "a",
+        "correct_answer_text": "96.33%"
+    },
+    {
+        "id": 255,
+        "question": "A 3-phase, 500 kVA, Delta-Star connected transformer has a primary line voltage of 33 kV and a secondary line voltage of 400 V. What is the turns ratio per phase?",
+        "options": {
+            "a": "142.9",
+            "b": "82.5",
+            "c": "100.0",
+            "d": "247.5"
+        },
+        "answer": "a",
+        "correct_answer_text": "142.9"
+    },
+    {
+        "id": 256,
+        "question": "Two single-phase transformers operate in an open-delta (V-V) configuration to supply a balanced 3-phase load of 80 kVA at 400 V, 0.8 pf lagging. What is the minimum kVA rating required for each individual transformer to prevent overloading?",
+        "options": {
+            "a": "46.2 kVA",
+            "b": "40.0 kVA",
+            "c": "53.3 kVA",
+            "d": "26.7 kVA"
+        },
+        "answer": "a",
+        "correct_answer_text": "46.2 kVA"
+    },
+    {
+        "id": 257,
+        "question": "A balanced 3-phase load of 150 kW at 0.8 pf lagging is supplied by a closed-delta bank of three identical 75 kVA transformers. If one transformer develops a fault and is removed, what is the percentage overload on the remaining two transformers operating in open-delta?",
+        "options": {
+            "a": "44.3%",
+            "b": "25.0%",
+            "c": "57.7%",
+            "d": "73.2%"
+        },
+        "answer": "a",
+        "correct_answer_text": "44.3%"
+    },
+    {
+        "id": 258,
+        "question": "Resistor 1 has twice the resistance of resistor 2. They are connected in parallel to a battery. Find the ratio of thermal energy generation rate in resistor 1 to that in resistor 2?",
+        "options": {
+            "a": "2:1",
+            "b": "1:4",
+            "c": "4:1",
+            "d": "1:2"
+        },
+        "answer": "d",
+        "correct_answer_text": "1:2"
+    },
+    {
+        "id": 259,
+        "question": "A room air conditioner is to be attached to an individual branch circuit. If the load is 12 A, what is the minimum size of branch circuit required?",
+        "options": {
+            "a": "15 A",
+            "b": "13.8 A",
+            "c": "8.7 A",
+            "d": "9.6 A"
+        },
+        "answer": "a",
+        "correct_answer_text": "15 A"
+    },
+    {
+        "id": 260,
+        "question": "The energy that is stored in a 25 microF is W(t) = 12 sin2 (377t) joule. Determine the current in A in the capacitor.",
+        "options": {
+            "a": "6 cos 377t",
+            "b": "6 sin 377t",
+            "c": "9.23 sin wt",
+            "d": "9.23 cos wt"
+        },
+        "answer": "d",
+        "correct_answer_text": "9.23 cos wt"
+    },
+    {
+        "id": 261,
+        "question": "A washing machine is, in effect, an R-L circuit. If the machine takes 311 W and 4.5 A from a 115-V source when operating normally. Find its power factor?",
+        "options": {
+            "a": "0.75 lagging",
+            "b": "0.65 lagging",
+            "c": "0.70 lagging",
+            "d": "0.60 lagging"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.60 lagging"
+    },
+    {
+        "id": 262,
+        "question": "A flux of 13.6 mWb penetrates a coil of wire 240 mm in diameter. Find the magnitude of the magnetic field density in Tesla if the plane of the coil is perpendicular to the field.",
+        "options": {
+            "a": "0.3",
+            "b": "0.8",
+            "c": "0.4",
+            "d": "0.5"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.3"
+    },
+    {
+        "id": 263,
+        "question": "A single-phase inductive load draws 60 MW at 60% lagging power factor. Determine the reactive power of a capacitor in MVAR to be connected in parallel with the load to raise the power factor to 85%.",
+        "options": {
+            "a": "48",
+            "b": "51",
+            "c": "56",
+            "d": "43"
+        },
+        "answer": "d",
+        "correct_answer_text": "43"
+    },
+    {
+        "id": 264,
+        "question": "A resistor with resistance R1 and a resistor with resistance R2 are connected in parallel to an ideal battery with emf V. What is the rate of thermal energy generation in the resistor with resistance R1?",
+        "options": {
+            "a": "V2/R2",
+            "b": "V2/R1",
+            "c": "V2R1/(R1+R2)2",
+            "d": "V2/(R1 + R2)"
+        },
+        "answer": "b",
+        "correct_answer_text": "V2/R1"
+    },
+    {
+        "id": 265,
+        "question": "A common utility’s tariff practice to penalize industrial consumers whose power factor falls below and give incentive for power factor above .",
+        "options": {
+            "a": "80%, 90%",
+            "b": "75%, 90%",
+            "c": "85%, 85%",
+            "d": "75%, 85%"
+        },
+        "answer": "c",
+        "correct_answer_text": "85%, 85%"
+    },
+    {
+        "id": 266,
+        "question": "The coulomb force F, acts on two charges a distance, r, apart. What is F proportional to?",
+        "options": {
+            "a": "r",
+            "b": "1/r^2",
+            "c": "r^2",
+            "d": "1/r^3"
+        },
+        "answer": "b",
+        "correct_answer_text": "1/r^2"
+    },
+    {
+        "id": 267,
+        "question": "Approximately how far away must an isolated positive point charge of 1 x 10^(- 8) C be in order for it to produce an electric potential of 100 V? The charge is in free space with ε0 = 8.85 x 10^(-12) C^2/Nm^2.",
+        "options": {
+            "a": "8.6 m",
+            "b": "0.90 m",
+            "c": "1.2 m",
+            "d": "5.3 m"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.90 m"
+    },
+    {
+        "id": 268,
+        "question": "A stationary conducing loop with an internal resistance of 0.50 ohm is placed in a time-varying magnetic field. When the loop is closed, a current of 5 A flows through it. What will the current be if the loop is opened to create a small gap and a 2-ohm resistor is connected across its open ends?",
+        "options": {
+            "a": "2 A",
+            "b": "1 A",
+            "c": "4 A",
+            "d": "3 A"
+        },
+        "answer": "b",
+        "correct_answer_text": "1 A"
+    },
+    {
+        "id": 269,
+        "question": "A loop of wire carrying a current of 2 A is in the shape of a right triangle with two equal sides, each 15 cm long. A 0.70 T uniform filed is parallel to the hypotenuse. What is the resultant magnetic force on the two equal sides?",
+        "options": {
+            "a": "Zero",
+            "b": "0.41 N",
+            "c": "0.21 N",
+            "d": "0.31 N"
+        },
+        "answer": "a",
+        "correct_answer_text": "Zero"
+    },
+    {
+        "id": 270,
+        "question": "Which of the following is NOT a reason why single-phase induction motor run?",
+        "options": {
+            "a": "Two windings displaced from each other",
+            "b": "Hysteresis",
+            "c": "One of the current is made out of phase between the lines",
+            "d": "Shaded poles"
+        },
+        "answer": "b",
+        "correct_answer_text": "Hysteresis"
+    },
+    {
+        "id": 271,
+        "question": "Two million cu. m. of water is stored in a reservoir feeding water turbine. If the center of the mass is 50 m above the turbine and losses are negligible. The density of the water is 993 kg/cu.m. How much energy in kWh will that volume of water produce?",
+        "options": {
+            "a": "271",
+            "b": "265",
+            "c": "275",
+            "d": "280"
+        },
+        "answer": "a",
+        "correct_answer_text": "271"
+    },
+    {
+        "id": 272,
+        "question": "A series circuit consists of a 20 Ω resistor, a 0.20 H inductor, and 50 microfarad capacitor. If a variable frequency 120 V source is connected across its terminal, what is the resonant frequency in Hz?",
+        "options": {
+            "a": "45",
+            "b": "55",
+            "c": "40",
+            "d": "50"
+        },
+        "answer": "d",
+        "correct_answer_text": "50"
+    },
+    {
+        "id": 273,
+        "question": "In a single-phase transformer, the core losses is 60 W at 40 Hz and 95 W at 60 Hz both measured at the same maximum value of flux density. Find the core losses in W at a frequency of 50 Hz.",
+        "options": {
+            "a": "69",
+            "b": "77",
+            "c": "89",
+            "d": "56"
+        },
+        "answer": "b",
+        "correct_answer_text": "77"
+    },
+    {
+        "id": 274,
+        "question": "A uniform magnetic field makes an angle of 30º with the z axis. If the magnetic flux through a 1-m2 portion of the xy plane is 5 Wb then the magnetic flux through a 2-m2 of the same plane is Wb.",
+        "options": {
+            "a": "10",
+            "b": "8",
+            "c": "4",
+            "d": "5"
+        },
+        "answer": "a",
+        "correct_answer_text": "10"
+    },
+    {
+        "id": 275,
+        "question": "A symmetrical three-phase 240 V supplies a balanced delta-connected load of 6 – j8 ohms per phase. What is the line current?",
+        "options": {
+            "a": "32 + j25 A",
+            "b": "32 – j25 A",
+            "c": "25 – j32 A",
+            "d": "25 + j32 A"
+        },
+        "answer": "d",
+        "correct_answer_text": "25 + j32 A"
+    },
+    {
+        "id": 276,
+        "question": "The hazards exists only during the period of time the is there.",
+        "options": {
+            "a": "Short-circuit",
+            "b": "Switching",
+            "c": "Lightning",
+            "d": "Fault"
+        },
+        "answer": "d",
+        "correct_answer_text": "Fault"
+    },
+    {
+        "id": 277,
+        "question": "At a certain location in Australia, it is necessary to supply 300 kW of 60 Hz power. The only power sources available operate at 50 Hz. It is decided to generate the power by means of a motor-generator set consisting of a synchronous generator. How many poles should each of the two machines in order to convert 50 Hz to 60 Hz power?",
+        "options": {
+            "a": "A 10-pole synchronous motor coupled to a 10-pole synchronous generator.",
+            "b": "A 12-pole synchronous motor coupled to a 12-pole synchronous generator.",
+            "c": "A 12-pole synchronous motor coupled to a 10-pole synchronous generator.",
+            "d": "A 10-pole synchronous motor coupled to a 12-pole synchronous generator."
+        },
+        "answer": "d",
+        "correct_answer_text": "A 10-pole synchronous motor coupled to a 12-pole synchronous generator."
+    },
+    {
+        "id": 278,
+        "question": "A 10 kVA, 400/100 V two-winding transformer is reconnected as a step-up auto-transformer to supply a 500 V load circuit from a 400 V source. What is the new kVA rating of the auto-transformer, and how much power is transferred conductively at full load (unity pf)?",
+        "options": {
+            "a": "50 kVA, 40 kW",
+            "b": "40 kVA, 10 kW",
+            "c": "50 kVA, 10 kW",
+            "d": "40 kVA, 50 kW"
+        },
+        "answer": "a",
+        "correct_answer_text": "50 kVA, 40 kW"
+    },
+    {
+        "id": 279,
+        "question": "A 10 kVA, 2400/240 V two-winding transformer has a full-load efficiency of 96.0% at unity power factor. It is then reconnected as an auto-transformer to step down 2640 V to 2400 V. Assuming core and copper losses remain unchanged, what is the new full-load efficiency at unity power factor?",
+        "options": {
+            "a": "99.62%",
+            "b": "98.15%",
+            "c": "96.00%",
+            "d": "99.12%"
+        },
+        "answer": "a",
+        "correct_answer_text": "99.62%"
+    },
+    {
+        "id": 280,
+        "question": "The resistance of resistor 1 is twice of resistor 2. The two are connected in SERIES and a potential difference is maintained across the combination. What is the rate of thermal energy generation in resistor 1?",
+        "options": {
+            "a": "Twice that in resistor 2",
+            "b": "Half that in resistor 2",
+            "c": "Four times that in resistor 2",
+            "d": "The same as that in resistor 2"
+        },
+        "answer": "a",
+        "correct_answer_text": "Twice that in resistor 2"
+    },
+    {
+        "id": 281,
+        "question": "A certain capacitor, in series with a resistor, is being charged. At the end of 10 ms its charge is half the final value. What is the time constant of this process in ms?",
+        "options": {
+            "a": "2.3",
+            "b": "10",
+            "c": "6.9",
+            "d": "14.4"
+        },
+        "answer": "d",
+        "correct_answer_text": "14.4"
+    },
+    {
+        "id": 282,
+        "question": "Two identical coupled coils have an equivalent inductance of 80 mH when connected series aiding, and 35 mH in series opposing. What is the value of the coefficient of coupling k?",
+        "options": {
+            "a": "0.319",
+            "b": "0.913",
+            "c": "0.391",
+            "d": "0.139"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.391"
+    },
+    {
+        "id": 283,
+        "question": "What is the value of the resistor with color coded Green-Blue-Red-Gold?",
+        "options": {
+            "a": "56,000 ohm + 10%",
+            "b": "56,000 ohm + 5%",
+            "c": "5,600 ohm + 10%",
+            "d": "5,600 ohm + 5%"
+        },
+        "answer": "d",
+        "correct_answer_text": "5,600 ohm + 5%"
+    },
+    {
+        "id": 284,
+        "question": "In an oscillating LC circuit, the total stored energy is U. The maximum energy stored in the capacitor during one cycle is .",
+        "options": {
+            "a": "U/2",
+            "b": "U",
+            "c": "U/2π",
+            "d": "U/π"
+        },
+        "answer": "b",
+        "correct_answer_text": "U"
+    },
+    {
+        "id": 285,
+        "question": "Given the following phase currents: Ia = 3.5 + j3.5; Ib = - j3; and Ic = -2.6 + j1.5. Determine the negative sequence current for phase A.",
+        "options": {
+            "a": "0.313 + j0.678",
+            "b": "-0.313 – j0.678",
+            "c": "-0.313 + j0.678",
+            "d": "0.313 – j0.678"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.313 + j0.678"
+    },
+    {
+        "id": 286,
+        "question": "Three single-phase transformers rated 25 kVA each are connected in delta- delta to supply a balanced load of 75 kVA. One transformer is removed for repair, what is the kVA of each remaining transformer?",
+        "options": {
+            "a": "43.3",
+            "b": "50",
+            "c": "57.7",
+            "d": "34.4"
+        },
+        "answer": "a",
+        "correct_answer_text": "43.3"
+    },
+    {
+        "id": 287,
+        "question": "A capacitor C is connected in parallel with a series combination of capacitors 8 and 4 microF. The voltage drop across capacitor C is 12 V. The 3 capacitors have been connected for some time and have reached their present value. Find the voltage across the capacitor with 8 microF.",
+        "options": {
+            "a": "4 V",
+            "b": "9 V",
+            "c": "3 V",
+            "d": "8 V"
+        },
+        "answer": "a",
+        "correct_answer_text": "4 V"
+    },
+    {
+        "id": 288,
+        "question": "A rice mill will be served by two units of 50 kVA transformers, 7.620 kV/240 V/ The transformers will be installed as open-delta to serve the three-phase load of the rice mill. What is the maximum kVA load that this bank can carry without overloading?",
+        "options": {
+            "a": "75.5",
+            "b": "86.6",
+            "c": "50",
+            "d": "100"
+        },
+        "answer": "b",
+        "correct_answer_text": "86.6"
+    },
+    {
+        "id": 289,
+        "question": "Calculate the power required to raise 639 kg mass, 20.74 m in 2.120 minutes.",
+        "options": {
+            "a": "1.430 kW",
+            "b": "1.022 kW",
+            "c": "1.340 kW",
+            "d": "1.220 kW"
+        },
+        "answer": "b",
+        "correct_answer_text": "1.022 kW"
+    },
+    {
+        "id": 290,
+        "question": "What is the electrical analog of a spring constant “k”?",
+        "options": {
+            "a": "1/C",
+            "b": "L",
+            "c": "C",
+            "d": "1/L"
+        },
+        "answer": "a",
+        "correct_answer_text": "1/C"
+    },
+    {
+        "id": 291,
+        "question": "The starting/ in rush current of the transformer is generally times of its full load current.",
+        "options": {
+            "a": "12",
+            "b": "20",
+            "c": "10",
+            "d": "6"
+        },
+        "answer": "c",
+        "correct_answer_text": "10"
+    },
+    {
+        "id": 292,
+        "question": "A symmetrical positive-sequence four-bus z matrix with z11 = j0.27, z12 = j0.24, z13 = j0.17, z14 = j0.20, z22 = j0.29, z23 = j0.20, z24 = j0.24, z33 = j0.30, z34 = j0.26, and z44 = j0.38, all in p.u., what is the three-phase fault at Bus 3?",
+        "options": {
+            "a": "– j2.78 p.u.",
+            "b": "– j3.70 p.u.",
+            "c": "– j3.33 p.u.",
+            "d": "– j2.63 p.u."
+        },
+        "answer": "c",
+        "correct_answer_text": "– j3.33 p.u."
+    },
+    {
+        "id": 293,
+        "question": "The current I a coil decreases from 30 A to 10 A in 0.2 sec. If the self- inductance of coil is 4 H, what is the induced emf in V?",
+        "options": {
+            "a": "400",
+            "b": "450",
+            "c": "350",
+            "d": "300"
+        },
+        "answer": "a",
+        "correct_answer_text": "400"
+    },
+    {
+        "id": 294,
+        "question": "A transformer takes 5.17 kW at a power factor of 0.85 when connected to a 2.3 kV distribution circuit. What is the current input in Amp.?",
+        "options": {
+            "a": "2.51",
+            "b": "2.45",
+            "c": "2.65",
+            "d": "2.81"
+        },
+        "answer": "c",
+        "correct_answer_text": "2.65"
+    },
+    {
+        "id": 295,
+        "question": "If |Vs| = |Vr| = 33 kV (three phase) and X = 13 ohm per phase, what will be maximum power transmission per phase?",
+        "options": {
+            "a": "30 MW",
+            "b": "29 MW",
+            "c": "28 MW",
+            "d": "60 MW"
+        },
+        "answer": "c",
+        "correct_answer_text": "28 MW"
+    },
+    {
+        "id": 296,
+        "question": "An ideal transformer has voltage rating of 2400/240 V, a motor is connected to the secondary draws 40 A at 200 V, what resistance must be connected to maintain this voltage?",
+        "options": {
+            "a": "1.5 ohm",
+            "b": "1 ohm",
+            "c": "0.75 ohm",
+            "d": "0.50 ohm"
+        },
+        "answer": "b",
+        "correct_answer_text": "1 ohm"
+    },
+    {
+        "id": 297,
+        "question": "A balanced-delta load consisting of pure resistances of 15 ohm per phase is in parallel with a balanced-wye load having phase impedance of 8 + j6 ohm. Identical impedances of 2 + j5 ohm are in each of the three lines connecting the combined loads to a 110-V, three-phase supply. Determine the current drawn from the supply and the line voltage at the combined loads.",
+        "options": {
+            "a": "10 A, 58.47 V",
+            "b": "14 A, 84.38 V",
+            "c": "8 A, 48.72 V",
+            "d": "15 A, 75.95 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "8 A, 48.72 V"
+    },
+    {
+        "id": 298,
+        "question": "The per phase line loss in a 40 km long transmission line is NOT to exceed 60 kW while it is delivering 100 A per phase. If the resistivity of the conductor material is 1.72 x 10-8 ohm-meter, determine the required conductor diameter.",
+        "options": {
+            "a": "1.2071 cm",
+            "b": "1.1723 cm",
+            "c": "1.2083 cm",
+            "d": "1.2204 cm"
+        },
+        "answer": "c",
+        "correct_answer_text": "1.2083 cm"
+    },
+    {
+        "id": 299,
+        "question": "What is the allowable rating for branch overload protection if fuse is used for a hermetic motor compressor with a rated load current of 37 A?",
+        "options": {
+            "a": "30 A",
+            "b": "25 A",
+            "c": "35 A",
+            "d": "20 A"
+        },
+        "answer": "c",
+        "correct_answer_text": "35 A"
+    },
+    {
+        "id": 300,
+        "question": "A parallel plate capacitor with plates of area A that are separated a distance d by air is initially charged with charge q. The energy stored in the capacitor initially is E. The plates are then separated by 2d. What is the new energy stored in the capacitor?",
+        "options": {
+            "a": "1/2 E",
+            "b": "0",
+            "c": "2E",
+            "d": "E"
+        },
+        "answer": "c",
+        "correct_answer_text": "2E"
+    },
+    {
+        "id": 301,
+        "question": "The growth rate of the energy consumption in our country is 6.9%. In how many years will the energy be quadrupled?",
+        "options": {
+            "a": "20",
+            "b": "15",
+            "c": "30",
+            "d": "25"
+        },
+        "answer": "a",
+        "correct_answer_text": "20"
+    },
+    {
+        "id": 302,
+        "question": "The growth rate of the energy consumption in our country is 6.9%. In how many years will the energy consumption be quadrupled?",
+        "options": {
+            "a": "16 yrs",
+            "b": "20 yrs",
+            "c": "22 yrs",
+            "d": "18 yrs"
+        },
+        "answer": "b",
+        "correct_answer_text": "20 yrs"
+    },
+    {
+        "id": 303,
+        "question": "A wind generator with an efficiency of 80% has blade diameter of 20 m. If the wind velocity is 30 km/h, how much power in kW is obtainable from the generator?",
+        "options": {
+            "a": "55.75",
+            "b": "54.78",
+            "c": "53.54",
+            "d": "77.23"
+        },
+        "answer": "b",
+        "correct_answer_text": "54.78"
+    },
+    {
+        "id": 304,
+        "question": "A certain galvanometer has resistance of 100 Ω and requires 1 mA for full scale deflection. To make this into a voltmeter reading of 1-volt full scale, connect a resistance of:",
+        "options": {
+            "a": "1000 Ω in parallel",
+            "b": "1000 Ω in series",
+            "c": "900 Ω in series",
+            "d": "900 Ω in parallel"
+        },
+        "answer": "c",
+        "correct_answer_text": "900 Ω in series"
+    },
+    {
+        "id": 305,
+        "question": "As a loop of wire with a resistance of 10 ohm moves in a constant non-uniform magnetic field, it loses kinetic energy at a uniform rate of 4 mJ/s. Determine the induced current in the loop.",
+        "options": {
+            "a": "10 mA",
+            "b": "30 mA",
+            "c": "20 mA",
+            "d": "15 mA"
+        },
+        "answer": "c",
+        "correct_answer_text": "20 mA"
+    },
+    {
+        "id": 306,
+        "question": "A piece of conductor 10 cm long moves across the magnetic field of 10 k gauss at a velocity of 120 cm/s. What is the voltage across the conductor?",
+        "options": {
+            "a": "12 mV",
+            "b": "1.20 mV",
+            "c": "120 mV",
+            "d": "0.12 mV"
+        },
+        "answer": "c",
+        "correct_answer_text": "120 mV"
+    },
+    {
+        "id": 307,
+        "question": "The line currents in a three-phase, four-wire system are Ia = 30 + j40, Ib = 20 + j20 and Ic = -40 – j20 A, respectively. What is the negative sequence current for phase A in Ampere?",
+        "options": {
+            "a": "-25 + j4",
+            "b": "25 + j4",
+            "c": "25 – j4",
+            "d": "-25 – j4"
+        },
+        "answer": "c",
+        "correct_answer_text": "25 – j4"
+    },
+    {
+        "id": 308,
+        "question": "A certain x-ray tube requires a current of 7 mA at a voltage of 80 kV. What is the rate of dissipation in watts?",
+        "options": {
+            "a": "5600",
+            "b": "26",
+            "c": "560",
+            "d": "11.4"
+        },
+        "answer": "c",
+        "correct_answer_text": "560"
+    },
+    {
+        "id": 309,
+        "question": "If a coil draws 0.50 A from a 120 V, 60 Hz source at a 70% lagging power factor, what are the coil resistance in ohm and inductance in H?",
+        "options": {
+            "a": "R = 171 and L = 0.455",
+            "b": "R = 168 and L = 0.554",
+            "c": "R = 171 and L = 0.554",
+            "d": "R = 168 and L = 0.455"
+        },
+        "answer": "d",
+        "correct_answer_text": "R = 168 and L = 0.455"
+    },
+    {
+        "id": 310,
+        "question": "What is the allowable rating for branch circuit overload protection if fuse is used for a hermetic motor compressor with a rated load current of 25 A?",
+        "options": {
+            "a": "35 A",
+            "b": "15 A",
+            "c": "20 A",
+            "d": "30 A"
+        },
+        "answer": "d",
+        "correct_answer_text": "30 A"
+    },
+    {
+        "id": 311,
+        "question": "The illumination of a surface 3.40 m directly below a light source is 25 lux. Find the intensity of the light source.",
+        "options": {
+            "a": "347 cd",
+            "b": "289 cd",
+            "c": "231 cd",
+            "d": "393 cd"
+        },
+        "answer": "b",
+        "correct_answer_text": "289 cd"
+    },
+    {
+        "id": 312,
+        "question": "Two equal charges of opposite signs are separated by a horizontal distance of 70 mm. If the resultant electric field at the midpoint of the line is 4 x 10^4 N/C. Find the magnitude of each charge.",
+        "options": {
+            "a": "3.6 nC",
+            "b": "2.7 nC",
+            "c": "4.5 nC",
+            "d": "2.4 nC"
+        },
+        "answer": "b",
+        "correct_answer_text": "2.7 nC"
+    },
+    {
+        "id": 313,
+        "question": "A 2-T uniform magnetic field makes an angle of 30 with the z axis. The magnetic flux through a 3-m2 portion of the xy plane is Wb.",
+        "options": {
+            "a": "12",
+            "b": "4.3",
+            "c": "6",
+            "d": "5.2"
+        },
+        "answer": "d",
+        "correct_answer_text": "5.2"
+    },
+    {
+        "id": 314,
+        "question": "A certain amount of fuel contains 17 x 10^10 Btu of energy. What is the corresponding energy in Gigacalories?",
+        "options": {
+            "a": "47.3",
+            "b": "49.4",
+            "c": "45.5",
+            "d": "42.8"
+        },
+        "answer": "d",
+        "correct_answer_text": "42.8"
+    },
+    {
+        "id": 315,
+        "question": "If a tropical storm is going to the Philippine Area of Responsibility (PAR) within 24 hours what type of alert is to be raised in accordance to the Philippine Grid Code?",
+        "options": {
+            "a": "Red Alert",
+            "b": "Yellow Alert",
+            "c": "Blue Alert",
+            "d": "Orange Alert"
+        },
+        "answer": "c",
+        "correct_answer_text": "Blue Alert"
+    },
+    {
+        "id": 316,
+        "question": "What is the quality factor Q of an RLC series circuit having R = 5 Ω, L = 10 mH and C = 100 ÌF?",
+        "options": {
+            "a": "4",
+            "b": "1",
+            "c": "3",
+            "d": "2"
+        },
+        "answer": "d",
+        "correct_answer_text": "2"
+    },
+    {
+        "id": 317,
+        "question": "A three-phase transformer is rated 8 MVA, 69/13.4 kV has a series impedance of 7%. What is the new per unit impedance if the system study requires a 100 MVA base at 67 kV base?",
+        "options": {
+            "a": "1.021",
+            "b": "0.891",
+            "c": "0.928",
+            "d": "0.954"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.928"
+    },
+    {
+        "id": 318,
+        "question": "A 4-pole, 60 Hz, 200 V induction motor having a full-load current of 350 A, torque developed is 700 N-m. What is the approximate speed of the motor?",
+        "options": {
+            "a": "870 rpm",
+            "b": "955 rpm",
+            "c": "1100 rpm",
+            "d": "1250 rpm"
+        },
+        "answer": "b",
+        "correct_answer_text": "955 rpm"
+    },
+    {
+        "id": 319,
+        "question": "Two wattmeters connected to measure power read W1 = 30 kW and W2 = 55 kW. What is the power factor?",
+        "options": {
+            "a": "0.918",
+            "b": "0.891",
+            "c": "0.981",
+            "d": "0.819"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.891"
+    },
+    {
+        "id": 320,
+        "question": "A 3-H inductor has 2000 turns. How many turns must be added to increase the inductance to 5 H?",
+        "options": {
+            "a": "825 turns",
+            "b": "582 turns",
+            "c": "2582 turns",
+            "d": "2825 turns"
+        },
+        "answer": "b",
+        "correct_answer_text": "582 turns"
+    },
+    {
+        "id": 321,
+        "question": "A 100 kVA, 20/5 kV transformer has an equivalent impedance of 10%. Calculate the impedance (in ohm/s) of the transformer referred to the 5 kV side.",
+        "options": {
+            "a": "400",
+            "b": "50",
+            "c": "200",
+            "d": "25"
+        },
+        "answer": "d",
+        "correct_answer_text": "25"
+    },
+    {
+        "id": 322,
+        "question": "An inductive load consisting R and X in series feeding from a 2.4 kV supply absorbs 288 kW at a lagging power factor of 80%. Determine R and X.",
+        "options": {
+            "a": "R = 21.8 Ω and 6.9 Ω",
+            "b": "R = 9.6 Ω and 12.8 Ω",
+            "c": "R = 12.8 Ω and 9.6 Ω",
+            "d": "R = 16.2 Ω and 16.9 Ω"
+        },
+        "answer": "c",
+        "correct_answer_text": "R = 12.8 Ω and 9.6 Ω"
+    },
+    {
+        "id": 323,
+        "question": "An autotransformer is used to connect a 13.2 kV distribution line to a 13.8 kV distribution line. It must be capable of handling 2000 kVA. There are three phases connected Y-Y with their neutral solidly grounded. What must be the Nc/Nse turn ratio to accomplish this connection?",
+        "options": {
+            "a": "24",
+            "b": "20",
+            "c": "26",
+            "d": "22"
+        },
+        "answer": "d",
+        "correct_answer_text": "22"
+    },
+    {
+        "id": 324,
+        "question": "A capacitor in an LC oscillator has a maximum potential difference of 15 V and a maximum energy of 360 µJ. At a certain instant the energy in the capacitor is 40 µJ. At that instant what is the potential difference across the capacitor?",
+        "options": {
+            "a": "Zero",
+            "b": "10 V",
+            "c": "5 V",
+            "d": "15V"
+        },
+        "answer": "c",
+        "correct_answer_text": "5 V"
+    },
+    {
+        "id": 325,
+        "question": "A 10-turn conducting loop with a radius of 3.0 cm spins at 60 revolutions per second in a magnetic field of 0.50 T. The maximum emf generated is:",
+        "options": {
+            "a": "0.014 V",
+            "b": "5.3 V",
+            "c": "0.53 V",
+            "d": "18 V"
+        },
+        "answer": "b",
+        "correct_answer_text": "5.3 V"
+    },
+    {
+        "id": 326,
+        "question": "An inductive load consisting of R and X in parallel, feeding from a 2.4 kV rms supply, absorbs 288 kW at lagging power factor of 0.80. What is the value of X in ohms?",
+        "options": {
+            "a": "9.6",
+            "b": "28.67",
+            "c": "26.67",
+            "d": "8.6"
+        },
+        "answer": "c",
+        "correct_answer_text": "26.67"
+    },
+    {
+        "id": 327,
+        "question": "What is the equivalent IEEE device number for a differential protective relay?",
+        "options": {
+            "a": "27",
+            "b": "50",
+            "c": "30",
+            "d": "87"
+        },
+        "answer": "d",
+        "correct_answer_text": "87"
+    },
+    {
+        "id": 328,
+        "question": "A circular top is located 4m below and 3m to the left of a lamp that emits 1800 lumens. What illumination is provided on the surface of the table?",
+        "options": {
+            "a": "4.58 lux",
+            "b": "5.35 lux",
+            "c": "5.09 lux",
+            "d": "84 lux"
+        },
+        "answer": "a",
+        "correct_answer_text": "4.58 lux"
+    },
+    {
+        "id": 329,
+        "question": "A generator delivers a load through a pair of wires, each of which has a resistance of 0.06 ohm. If the load voltage and power are 120 V and 4.8 kW respectively, what is the power loss in the line wires?",
+        "options": {
+            "a": "96 W",
+            "b": "192 W",
+            "c": "198 W",
+            "d": "200 W"
+        },
+        "answer": "b",
+        "correct_answer_text": "192 W"
+    },
+    {
+        "id": 330,
+        "question": "Determine the circuit element and its value for V = 120sin(377t – 30 deg) volts and I = 4sin(377t + 60 deg) amps.",
+        "options": {
+            "a": "Xc = 30 ohms and C = 66.31",
+            "b": "Xc = 30 ohms and C = 88.42",
+            "c": "Xc = 40 ohms and C = 66.31",
+            "d": "Xc = 40 ohms and C = 88.42"
+        },
+        "answer": "b",
+        "correct_answer_text": "Xc = 30 ohms and C = 88.42"
+    },
+    {
+        "id": 331,
+        "question": "A cable has the following characteristics: L = 0.201 microH/m C = 196.2 pF/m. Find the velocity of wave propagation through the cable.",
+        "options": {
+            "a": "0.0312 cm/s",
+            "b": "159.24 Mm/s",
+            "c": "32 km/s",
+            "d": "159.24 m/µs"
+        },
+        "answer": "d",
+        "correct_answer_text": "159.24 m/µs"
+    },
+    {
+        "id": 332,
+        "question": "An impedance, 2.2 + j3.81 ohms is connected across a 220 V source. If a pure resistor is connected in parallel with the original impedance, what should be the ohmic value if the power delivered to the circuit is 16.6W overall unity power factor?",
+        "options": {
+            "a": "5.8",
+            "b": "5.3",
+            "c": "4.4",
+            "d": "4.9"
+        },
+        "answer": "c",
+        "correct_answer_text": "4.4"
+    },
+    {
+        "id": 333,
+        "question": "A plant has a total generating capacity of 800 kW. The coal consumption is 1,900 lbs/hr. Heating value of the coal is 9,500 BTU/lb. What approximate percent in heat in the coal is converted into useful energy?",
+        "options": {
+            "a": "8.7%",
+            "b": "17.5%",
+            "c": "12.3%",
+            "d": "15%"
+        },
+        "answer": "d",
+        "correct_answer_text": "15%"
+    },
+    {
+        "id": 334,
+        "question": "A 240 V DC series motor develops a shaft torque of 200 N-m at 92% efficiency while running at 600 rpm. Calculate the motor current.",
+        "options": {
+            "a": "62.09 A",
+            "b": "52.36 A",
+            "c": "48.17 A",
+            "d": "56.91 A"
+        },
+        "answer": "d",
+        "correct_answer_text": "56.91 A"
+    },
+    {
+        "id": 335,
+        "question": "At time t = 0 the charge on the 50 microF capacitor in an LC circuit is 15 microC and there is no current. If the inductance is 20 mH the maximum current is:",
+        "options": {
+            "a": "15 nA",
+            "b": "15 microA",
+            "c": "6.7 mA",
+            "d": "15 mA"
+        },
+        "answer": "d",
+        "correct_answer_text": "15 mA"
+    },
+    {
+        "id": 336,
+        "question": "A four pole generator has 500 conductors on the armature. If the generator is running at 1200 rpm, the average voltage generated between brushes for wave winding. The total flux per pole is 10^6 lines.",
+        "options": {
+            "a": "200 V",
+            "b": "120 V",
+            "c": "100 V",
+            "d": "250 V"
+        },
+        "answer": "a",
+        "correct_answer_text": "200 V"
+    },
+    {
+        "id": 337,
+        "question": "A balanced three phase 4157 Vrms source supplies a balanced three phase delta connected load of 38.4 + j28.8 ohms. Find the current in line A with Van as reference.",
+        "options": {
+            "a": "120 – j90 A",
+            "b": "120 + j90 A",
+            "c": "-120 + j90 A",
+            "d": "-120 – j90 A"
+        },
+        "answer": "a",
+        "correct_answer_text": "120 – j90 A"
+    },
+    {
+        "id": 338,
+        "question": "A current is clockwise around the outside edge of this page and a uniform magnetic field is directed parallel to the page, from left to right. If the magnetic force is the only force acting on the page, the page will turn so the right edge:",
+        "options": {
+            "a": "Moves toward you",
+            "b": "Moves away from you",
+            "c": "Moves to your right",
+            "d": "Moves to your left"
+        },
+        "answer": "a",
+        "correct_answer_text": "Moves toward you"
+    },
+    {
+        "id": 339,
+        "question": "A capacitor in an LC oscillator has a maximum potential difference of 15 V and a maximum energy of 360 µJ. At a certain instant the energy in the capacitor is 40 µJ. At that instant what is the emf produced in the inductor?",
+        "options": {
+            "a": "Zero",
+            "b": "5 V",
+            "c": "10 V",
+            "d": "15 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "10 V"
+    },
+    {
+        "id": 340,
+        "question": "An LC circuit has a capacitance of 30 µF and an inductance of 15 mH. At time t = 0 the charge on the capacitor is 10 µC and the current is 20 mA. The maximum charge on the capacitor is:",
+        "options": {
+            "a": "8.9 µC",
+            "b": "10 µC",
+            "c": "12 µC",
+            "d": "17 µC"
+        },
+        "answer": "d",
+        "correct_answer_text": "17 µC"
+    },
+    {
+        "id": 341,
+        "question": "A circular table top is located 4 m below and 3 m to the left of a lamp that emits 1800 lm. What is the area of the table top if 3 lm of lux falls on its surface?",
+        "options": {
+            "a": "0.586 m^2",
+            "b": "0.655 m^2",
+            "c": "0.837 m^2",
+            "d": "0.735 m^2"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.655 m^2"
+    },
+    {
+        "id": 342,
+        "question": "A 3 cm wavelength radar is located at the origin of a xy-coordinate system. A car located at x = 100 m and y = 200 m is heading east (x-direction) at a speed of 120 km/hr. What is the Doppler frequency measured by the radar?",
+        "options": {
+            "a": "993.81 Hz",
+            "b": "553.18 Hz",
+            "c": "-993.81 Hz",
+            "d": "-553.18 Hz"
+        },
+        "answer": "c",
+        "correct_answer_text": "-993.81 Hz"
+    },
+    {
+        "id": 343,
+        "question": "What is the maximum power that can be transmitted over a three-phase short transmission line having a per-phase impedance of (0.3 + j0.4) ohm if the receiving voltage is 6351 volts per phase and the voltage regulation is not to exceed 5 percent?",
+        "options": {
+            "a": "108.9 MW",
+            "b": "112.7 MW",
+            "c": "120.3 MW",
+            "d": "106.2 MW"
+        },
+        "answer": "a",
+        "correct_answer_text": "108.9 MW"
+    },
+    {
+        "id": 344,
+        "question": "In a single phase transformer, the core losses is 60 W at 40 Hz and 95 W at 60 Hz both measured at the same maximum value of flux density. Find the core losses in W at a frequency of 50 Hz.",
+        "options": {
+            "a": "69",
+            "b": "77",
+            "c": "89",
+            "d": "56"
+        },
+        "answer": "b",
+        "correct_answer_text": "77"
+    },
+    {
+        "id": 345,
+        "question": "A 220 kV three phase transmission line is 40 km long. The resistance per phase is 6 ohms per phase and the inductance per phase is 20 ohms per phase. The shunt capacitance is negligible. Determine the sending end line voltage when supplying 381 MVA at 0.8 power factor lagging at 220 kV.",
+        "options": {
+            "a": "230 + j15.4 kV",
+            "b": "245 + j10.4 kV",
+            "c": "143.82 + j12.4 kV",
+            "d": "240 + j15.4 kV"
+        },
+        "answer": "c",
+        "correct_answer_text": "143.82 + j12.4 kV"
+    },
+    {
+        "id": 346,
+        "question": "A 220 kV three phase transmission line is 40 km long. The resistance per phase is 6 ohms per phase and the inductance per phase is 20 ohms per phase. The shunt capacitance is negligible. Determine the sending end line voltage when supplying 381 MVA at 0.8 power factor leading at 220 kV.",
+        "options": {
+            "a": "119.82 + j19.6 kV",
+            "b": "143.82 + j12.4 kV",
+            "c": "120 + j10.4 kV",
+            "d": "240 + j15.4 kV"
+        },
+        "answer": "a",
+        "correct_answer_text": "119.82 + j19.6 kV"
+    },
+    {
+        "id": 347,
+        "question": "A generator delivers a load through a pair of wires, each of which has a resistance of 0.06 ohm. If the load voltage and power are 120 V and 4.8 kW, respectively. What is the generated voltage?",
+        "options": {
+            "a": "125.5 V",
+            "b": "126.8 V",
+            "c": "124.8 V",
+            "d": "123.5 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "124.8 V"
+    },
+    {
+        "id": 348,
+        "question": "A 115 kV three-phase transposed transmission line is composed of 2-ACSR 336,400 CMIL, 30/7 Oriole conductors per phase with horizontal configuration: D12 = 7 ft, D23 = 7 ft, and D13 = 14 ft. The line spacing is measured from the center of the bundled conductors. The distance between the conductors of the bundle is 6 inches. The conductors have a diameter of 0.741 inch and a GMR of 0.02255 ft. Find the capacitance per phase for 20 km of the line in microfarads?",
+        "options": {
+            "a": "0.1300",
+            "b": "0.2719",
+            "c": "0.2889",
+            "d": "0.2609"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.2609"
+    },
+    {
+        "id": 349,
+        "question": "You are facing a loop of wire which carries a clockwise current of 3.0 A and which surrounds an area of 5.8 x 10^-2 m^2. The magnetic dipole moment of the loop is:",
+        "options": {
+            "a": "3.0 A · m^2, away from you",
+            "b": "3.0 A · m^2, toward you",
+            "c": "0.17 A · m^2, away from you",
+            "d": "0.17 A · m^2, toward you"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.17 A · m^2, away from you"
+    },
+    {
+        "id": 350,
+        "question": "Three capacitances C1 = 6uF, C2 = 7uF, and C3 = 18uF are connected in series across 120 V supply. Find the voltages across C3.",
+        "options": {
+            "a": "20.62 V",
+            "b": "54.78 V",
+            "c": "18.26 V",
+            "d": "46.95 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "18.26 V"
+    },
+    {
+        "id": 351,
+        "question": "The force between two electrons in a vacuum is 1 x 10^-15 N. Approximately how far apart are the electrons?",
+        "options": {
+            "a": "1.4 x 10^-12 m",
+            "b": "4.8 x 10^-7 m",
+            "c": "5.1 x 10^-12 m",
+            "d": "1.7 x 10^-6 m"
+        },
+        "answer": "b",
+        "correct_answer_text": "4.8 x 10^-7 m"
+    },
+    {
+        "id": 352,
+        "question": "The per-phase impedance of a short transmission line is (0.3 + j0.4) ohm. The sending-end line-to-line voltage is 3300 V and the load at the receiving end is 300 kW per phase at 0.8 power factor lagging. Calculated the receiving-end voltage.",
+        "options": {
+            "a": "1235 V",
+            "b": "1675 V",
+            "c": "1805 V",
+            "d": "1967 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "1805 V"
+    },
+    {
+        "id": 353,
+        "question": "Find the mutual inductance of a 6.0 H and 4.0 H inductor having a k = 0.9.",
+        "options": {
+            "a": "3.3",
+            "b": "2.2",
+            "c": "4.4",
+            "d": "5.6"
+        },
+        "answer": "c",
+        "correct_answer_text": "4.4"
+    },
+    {
+        "id": 354,
+        "question": "A 138-kV, three phase short transmission line has a per-phase impedance of (2 + j4) ohm. If the line supplies a 25-MW load at 0.8 power factor lagging, calculate the efficiency of transmission.",
+        "options": {
+            "a": "98.78%",
+            "b": "97.87%",
+            "c": "96.75%",
+            "d": "95.56%"
+        },
+        "answer": "a",
+        "correct_answer_text": "98.78%"
+    },
+    {
+        "id": 355,
+        "question": "A 220-kV, three-phase transmission line is 40 km long. The resistance per phase is 0.15 ohm per km and the inductance per phase is 1.3263 mH per km. The shunt capacitance is negligible. Use the short line model to find the efficiency when the line is supplying a three-phase load of 381 MVA at 0.8 power factor leading at 220 kV.",
+        "options": {
+            "a": "98.2%",
+            "b": "92.6%",
+            "c": "94.4%",
+            "d": "96.7%"
+        },
+        "answer": "c",
+        "correct_answer_text": "94.4%"
+    },
+    {
+        "id": 356,
+        "question": "Three impedances Z1 = 2.2 + j2.2 Ω, Z2 = 10 + j10 Ω, and Z3 = -j5 Ω are connected in series. The voltage across Z1 is 26.59 – j4.69 V. What is the total voltage?",
+        "options": {
+            "a": "93 + j63.4 V",
+            "b": "93 – j32.4 V",
+            "c": "112 + j51 V",
+            "d": "112 – j51 V"
+        },
+        "answer": "d",
+        "correct_answer_text": "112 – j51 V"
+    },
+    {
+        "id": 357,
+        "question": "A three-phase, 13-kV transmission line delivers 8 MVA of load. The per-phase impedance of the line is (0.01 + j0.05) pu, referred to a 13-kV, 8-MVA base. What is the voltage drop across the line?",
+        "options": {
+            "a": "663 V",
+            "b": "650 V",
+            "c": "790 V",
+            "d": "874 V"
+        },
+        "answer": "a",
+        "correct_answer_text": "663 V"
+    },
+    {
+        "id": 358,
+        "question": "Three impedances Z1 = 3 + j5, Z2 = 6∠20º, and Z3 = 4∠-30º Ω are connected in delta. Find the transform impedance into Y impedance ZA, ZB, and ZC (ACB sequence).",
+        "options": {
+            "a": "ZA = 2.67∠56.4º, ZB = 1.78∠-6.38º, and ZC = 1.83∠-3.27º ohms",
+            "b": "ZA = 1.78∠-6.38º, ZB = 1.83∠-3.27º, and ZC = 2.67∠56.4º ohms",
+            "c": "ZA = 2.67∠56.4°, ZB = 1.83∠-32.7º, and ZC = 1.78∠6.38º ohms",
+            "d": "ZA = 1.83∠-3.27º, ZB = 2.67∠56.4º, and ZC = 1.78∠-6.38º ohms"
+        },
+        "answer": "c",
+        "correct_answer_text": "ZA = 2.67∠56.4°, ZB = 1.83∠-32.7º, and ZC = 1.78∠6.38º ohms"
+    },
+    {
+        "id": 359,
+        "question": "A 60-Hz short transmission line, having R = 0.62 ohms per phase and L = 93.24 mH per phase, supplies a three-phase, wye connected 100 MW load of 0.90 lagging power factor at 230 kV line-to-line voltage. Determine the voltage regulation of the transmission line.",
+        "options": {
+            "a": "3.75%",
+            "b": "3.20%",
+            "c": "3.55%",
+            "d": "3.42%"
+        },
+        "answer": "c",
+        "correct_answer_text": "3.55%"
+    }
+]
